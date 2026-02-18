@@ -1,7 +1,8 @@
+
 <!DOCTYPE html>
 <html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
     <head>
-        <script type="text/javascript" src="https://rssmch.org/"></script>
+        <script type="text/javascript" src="https://destinosinclusivos.cl/comunidad/"></script>
         <script>
             if (window.performance && performance.mark) performance.mark("TTP");
         </script>
@@ -152,8 +153,8 @@
 
         <script data-cfasync="true" data-ui="off" src="https://transcend-cdn.com/cm/ac71e058-41b7-4026-b482-3d9b8e31a6d0/airgap.js" onerror="(function() { handleErrorLoadingAirgap(); })()" async></script>
 
-        <title>Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot </title>
-        <meta name="description" content="Hyperslot88 merupakan situs judi nomor 1 di Indonesia, kini telah menghadirkan link situs slot mahjong gacor yang lagi viral hari ini, karena sangat gampang untuk bisa menang banjir jackpot. Sudah dikenal dan dipercaya oleh jutaan pecinta game online, slot online, judi online karena main di sini anti rungkat, anti sedot wc, tidak percaya? buktikan sendiri sekarang juga, langsung aja daftar jadi member kita dan dapatkan banyak bonus-bonus sensasional yang hanya akan kalian dapatkan di Hyperslot88.">
+        <title>CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru</title>
+        <meta name="description" content="CANTIK555 adalah salah satu pelopor untuk situs slot777 yang paling gacor di indonesia saat ini di tahun 2026, karena sudah resmi berlisensi aman dan yang pasti dipercaya oleh jutaan member slot online. Kelebihan main di sini adalah sangat gampang menang tanpa harus depo berkali-kali, hanya perlu minimal deposit 10k saja sudah bisa memainkan berbagai macam permainan disini. Langsung aja daftar sekarang juga dan lipat gandakan saldomu..">
 
         <meta name="robots" content="max-image-preview:large">
 
@@ -161,16 +162,16 @@
             {
                 "@context": "https://schema.org",
                 "@type": "Product",
-                "url": "https://rssmch.org/",
-                "name": "Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot ",
+                "url": "https://destinosinclusivos.cl/comunidad/",
+                "name": "CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru ",
                 "sku": "4302118744",
-                "description": "Hyperslot88 merupakan situs judi nomor 1 di Indonesia, kini telah menghadirkan link situs slot mahjong gacor yang lagi viral hari ini, karena sangat gampang untuk bisa menang banjir jackpot. Sudah dikenal dan dipercaya oleh jutaan pecinta game online, slot online, judi online karena main di sini anti rungkat, anti sedot wc, tidak percaya? buktikan sendiri sekarang juga, langsung aja daftar jadi member kita dan dapatkan banyak bonus-bonus sensasional yang hanya akan kalian dapatkan di Hyperslot88.",
+                "description": "CANTIK555 adalah salah satu pelopor untuk situs slot777 yang paling gacor di indonesia saat ini di tahun 2026, karena sudah resmi berlisensi aman dan yang pasti dipercaya oleh jutaan member slot online. Kelebihan main di sini adalah sangat gampang menang tanpa harus depo berkali-kali, hanya perlu minimal deposit 10k saja sudah bisa memainkan berbagai macam permainan disini. Langsung aja daftar sekarang juga dan lipat gandakan saldomu..",
                 "image": [
                     {
                         "@type": "ImageObject",
                         "author": "Bandar Slot",
-                        "contentUrl": "https://hypermahjong.pages.dev/situsmahjong.jpg",
-                        "thumbnailUrl": "https://hypermahjong.pages.dev/situsmahjong.jpg"
+                        "contentUrl": "https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg",
+                        "thumbnailUrl": "https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg"
                     }
                 ],
                 "category": "Android Game < Bandar Slot < Slot online",
@@ -204,7 +205,7 @@
                         "@type": "Review",
                         "reviewRating": { "@type": "Rating", "ratingValue": 5, "bestRating": 5 },
                         "datePublished": "2025-06-29",
-                        "reviewBody": "Pantes Hyperslot88 menjadi teratas di Google pada pencarian bandar slot gacor.",
+                        "reviewBody": "Pantes CANTIK555 menjadi teratas di Google pada pencarian bandar slot gacor.",
                         "author": { "@type": "Person", "name": "Brenda" }
                     },
                     {
@@ -225,7 +226,7 @@
                         "@type": "Review",
                         "reviewRating": { "@type": "Rating", "ratingValue": 5, "bestRating": 5 },
                         "datePublished": "2025-08-18",
-                        "reviewBody": "Cocok dah udah, gamau coba-coba di link Bandar Slot Hyperslot88 udah enak banget withdraw mulu hehehe..",
+                        "reviewBody": "Cocok dah udah, gamau coba-coba di link Bandar Slot CANTIK555 udah enak banget withdraw mulu hehehe..",
                         "author": { "@type": "Person", "name": "Herman" }
                     }
                 ]
@@ -240,19 +241,19 @@
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Bandar Slot",
-                        "item": "https://rssmch.org/"
+                        "item": "https://destinosinclusivos.cl/comunidad/"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Bandar Slot Online",
-                        "item": "https://rssmch.org/"
+                        "item": "https://destinosinclusivos.cl/comunidad/"
                     },
                     {
                         "@type": "ListItem",
                         "position": 3,
                         "name": "Bandar Slot Gacor",
-                        "item": "https://rssmch.org/"
+                        "item": "https://destinosinclusivos.cl/comunidad/"
                     }
                 ]
             }
@@ -262,9 +263,9 @@
             {
                 "@context": "https://schema.org",
                 "@type": "VideoObject",
-                "name": "Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot ",
-                "description": "Hyperslot88 merupakan situs judi nomor 1 di Indonesia, kini telah menghadirkan link situs slot mahjong gacor yang lagi viral hari ini, karena sangat gampang untuk bisa menang banjir jackpot. Sudah dikenal dan dipercaya oleh jutaan pecinta game online, slot online, judi online karena main di sini anti rungkat, anti sedot wc, tidak percaya? buktikan sendiri sekarang juga, langsung aja daftar jadi member kita dan dapatkan banyak bonus-bonus sensasional yang hanya akan kalian dapatkan di Hyperslot88.",
-                "thumbnailUrl": ["https://hypermahjong.pages.dev/situsmahjong.jpg", "https://hypermahjong.pages.dev/situsmahjong.jpg"],
+                "name": "CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru ",
+                "description": "CANTIK555 adalah salah satu pelopor untuk situs slot777 yang paling gacor di indonesia saat ini di tahun 2026, karena sudah resmi berlisensi aman dan yang pasti dipercaya oleh jutaan member slot online. Kelebihan main di sini adalah sangat gampang menang tanpa harus depo berkali-kali, hanya perlu minimal deposit 10k saja sudah bisa memainkan berbagai macam permainan disini. Langsung aja daftar sekarang juga dan lipat gandakan saldomu..",
+                "thumbnailUrl": ["https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg", "https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg"],
                 "uploadDate": "2024-09-22T04:19:10-04:00",
                 "duration": "PT18S",
                 "contentUrl": "https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/2024-09-27_23-11-55_xozutd.mp4"
@@ -280,7 +281,7 @@
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://rssmch.org/"
+                        "item": "https://destinosinclusivos.cl/comunidad/"
                     }
                 ]
             }
@@ -292,28 +293,28 @@
                 "@graph": [
                     {
                         "@type": "Organization",
-                        "@id": "https://rssmch.org/#org",
-                        "name": "Hyperslot88",
-                        "url": "https://rssmch.org/",
-                        "logo": "https://hypermahjong.pages.dev/situsmahjong.jpg"
+                        "@id": "https://destinosinclusivos.cl/comunidad/#org",
+                        "name": "CANTIK555",
+                        "url": "https://destinosinclusivos.cl/comunidad/",
+                        "logo": "https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg"
                     },
                     {
                         "@type": "WebSite",
-                        "@id": "https://rssmch.org/#website",
-                        "url": "https://rssmch.org/",
-                        "name": "Hyperslot88",
-                        "publisher": { "@id": "https://rssmch.org/#org" },
+                        "@id": "https://destinosinclusivos.cl/comunidad/#website",
+                        "url": "https://destinosinclusivos.cl/comunidad/",
+                        "name": "CANTIK555",
+                        "publisher": { "@id": "https://destinosinclusivos.cl/comunidad/#org" },
                         "inLanguage": "id-ID",
                         "potentialAction": {
                             "@type": "SearchAction",
-                            "target": "https://rssmch.org/?s={search_term_string}",
+                            "target": "https://destinosinclusivos.cl/comunidad/?s={search_term_string}",
                             "query-input": "required name=search_term_string"
                         }
                     },
                     {
                         "@type": "SoftwareApplication",
-                        "@id": "https://rssmch.org/#app",
-                        "name": "Hyperslot88",
+                        "@id": "https://destinosinclusivos.cl/comunidad/#app",
+                        "name": "CANTIK555",
                         "applicationCategory": "GameApplication",
                         "operatingSystem": "Android, iOS, Windows",
                         "offers": { "@type": "Offer", "price": "1", "priceCurrency": "IDR" },
@@ -323,39 +324,39 @@
             }
         </script>
 
-        <meta name="twitter:site" content="@Hyperslot88" value="">
+        <meta name="twitter:site" content="@CANTIK555" value="">
         <meta name="twitter:card" content="summary_large_image" value="">
-        <meta name="twitter:app:name:iphone" content="Hyperslot88" value="">
+        <meta name="twitter:app:name:iphone" content="CANTIK555" value="">
         <meta name="twitter:app:url:iphone" content="etsy://listing/4302118744?ref=TwitterProductCard" value="">
         <meta name="twitter:app:id:iphone" content="477128284" value="">
-        <meta name="twitter:app:name:ipad" content="Hyperslot88" value="">
+        <meta name="twitter:app:name:ipad" content="CANTIK555" value="">
         <meta name="twitter:app:url:ipad" content="etsy://listing/4302118744?ref=TwitterProductCard" value="">
         <meta name="twitter:app:id:ipad" content="477128284" value="">
-        <meta name="twitter:app:name:googleplay" content="Hyperslot88" value="">
+        <meta name="twitter:app:name:googleplay" content="CANTIK555" value="">
         <meta name="twitter:app:url:googleplay" content="etsy://listing/4302118744?ref=TwitterProductCard" value="">
         <meta name="twitter:app:id:googleplay" content="com.etsy.android" value="">
-        <meta property="og:title" content="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot ">
-        <meta property="og:description" content="Hyperslot88 merupakan situs judi nomor 1 di Indonesia, kini telah menghadirkan link situs slot mahjong gacor yang lagi viral hari ini, karena sangat gampang untuk bisa menang banjir jackpot. Sudah dikenal dan dipercaya oleh jutaan pecinta game online, slot online, judi online karena main di sini anti rungkat, anti sedot wc, tidak percaya? buktikan sendiri sekarang juga, langsung aja daftar jadi member kita dan dapatkan banyak bonus-bonus sensasional yang hanya akan kalian dapatkan di Hyperslot88.">
+        <meta property="og:title" content="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru ">
+        <meta property="og:description" content="CANTIK555 adalah salah satu pelopor untuk situs slot777 yang paling gacor di indonesia saat ini di tahun 2026, karena sudah resmi berlisensi aman dan yang pasti dipercaya oleh jutaan member slot online. Kelebihan main di sini adalah sangat gampang menang tanpa harus depo berkali-kali, hanya perlu minimal deposit 10k saja sudah bisa memainkan berbagai macam permainan disini. Langsung aja daftar sekarang juga dan lipat gandakan saldomu..">
         <meta property="og:type" content="product">
-        <meta property="og:url" content="https://rssmch.org/?utm_source=OpenGraph&amp;utm_medium=PageTools&amp;utm_campaign=Share">
-        <meta property="og:image" content="https://hypermahjong.pages.dev/situsmahjong.jpg">
+        <meta property="og:url" content="https://destinosinclusivos.cl/comunidad/?utm_source=OpenGraph&amp;utm_medium=PageTools&amp;utm_campaign=Share">
+        <meta property="og:image" content="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg">
         <meta property="product:price:amount" content="22.50">
         <meta property="product:price:currency" content="GBP">
 
         <meta property="al:ios:url" content="etsy://listing/4302118744?ref=applinks_ios">
         <meta property="al:ios:app_store_id" content="477128284">
-        <meta property="al:ios:app_name" content="Hyperslot88">
+        <meta property="al:ios:app_name" content="CANTIK555">
         <meta property="al:android:url" content="etsy://listing/4302118744?ref=applinks_android">
         <meta property="al:android:package" content="com.etsy.android">
-        <meta property="al:android:app_name" content="Hyperslot88">
-        <link rel="shortcut icon" href="https://galeriku.site/images/2025/09/07/faviconhyper.jpg">
+        <meta property="al:android:app_name" content="CANTIK555">
+        <link rel="shortcut icon" href="https://aduhhenakmasssini.space/hubton/favicon.png">
         <link rel="preconnect" href="//i.etsystatic.com" crossorigin="anonymous">
         <link rel="preconnect" href="//i.etsystatic.com">
         <link rel="preconnect" href="//v.etsystatic.com">
         <link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous">
-        <link rel="preload" as="image" imagesrcset="https://hypermahjong.pages.dev/situsmahjong.jpg" fetchpriority="high">
-        <link rel="canonical" href="https://rssmch.org/">
-        <link rel="amphtml" href="https://hypermahjong.pages.dev/">
+        <link rel="preload" as="image" imagesrcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" fetchpriority="high">
+        <link rel="canonical" href="https://destinosinclusivos.cl/comunidad/">
+        <link rel="amphtml" href="https://slot777cantik.pages.dev/">
         <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
             __webpack_public_path__ = "https://www.etsy.com/ac/evergreenVendor/js/en-US/";
         </script>
@@ -366,12 +367,12 @@
         <link rel="apple-touch-icon" href="https://aduhhenakmasssini.space/hubton/favicon.png" sizes="180x180">
         <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="rgb(241, 100, 30)">
         <link rel="manifest" href="/site.webmanifest">
-        <meta name="apple-mobile-web-app-title" content="Hyperslot88">
-        <meta name="application-name" content="Hyperslot88">
+        <meta name="apple-mobile-web-app-title" content="CANTIK555">
+        <meta name="application-name" content="CANTIK555">
         <meta name="msapplication-TileColor" content="#F1641E">
         <meta name="theme-color" content="rgb(255, 255, 255)">
 
-        <link type="application/opensearchdescription+xml" rel="search" href="/osdd.php" title="Hyperslot88">
+        <link type="application/opensearchdescription+xml" rel="search" href="/osdd.php" title="CANTIK555">
     </head>
     <body class="ui-toolkit transitional-wide etsy-has-it-design is-responsive no-touch en-US IDR ID" data-language="en-US" data-currency="IDR" data-region="ID">
         <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
@@ -434,7 +435,7 @@
                         })(window);
                     </script>
                     <div class="wt-pb-lg-0 wt-pt-sm-1 wt-pt-lg-0 wt-pr-xs-0 wt-pr-sm-1" data-header-logo-container>
-                        <a href="https://rssmch.org/" elementtiming="ux-global-nav">
+                        <a href="https://destinosinclusivos.cl/comunidad/" elementtiming="ux-global-nav">
                             <span class="wt-screen-reader-only">slot online</span>
                             <span class="etsy-icon wt-display-block wt-fill-orange wt-nudge-r-3 wt-nudge-t-1 logo-dimensions" id="logo">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 24" aria-hidden="true" focusable="false">
@@ -458,7 +459,7 @@
 
                             <div data-neu-spec-placeholder="1" id="bd2c69bf978c5288825b3623782eb9a1">
                                 <script type="text/json" data-neu-spec-placeholder-data="1">
-                                    { "spec_name": "Hyperslot88\\Modules\\CategoryNav\\Specs\\DropdownCatNav\\DropdownSubmenu", "args": [] }
+                                    { "spec_name": "CANTIK555\\Modules\\CategoryNav\\Specs\\DropdownCatNav\\DropdownSubmenu", "args": [] }
                                 </script>
                                 <div></div>
                             </div>
@@ -507,7 +508,7 @@
                         </div>
                     </div>
 
-                    <a data-selector="skip-to-content-marketplace" class="global-enhancements-skip-to-content wt-screen-reader-only wt-focusable" href="https://hypermahjong.pages.dev/">
+                    <a data-selector="skip-to-content-marketplace" class="global-enhancements-skip-to-content wt-screen-reader-only wt-focusable" href="https://slot777cantik.pages.dev/">
                         <div id="skip-to-content-wrapper" class="wt-display-flex-xs wt-align-items-center wt-justify-content-center wt-body-max-width wt-width-full wt-height-full wt-position-absolute wt-position-top wt-position-left wt-position-right wt-bg-denim wt-z-index-10">
                             <label class="wt-btn wt-btn--transparent wt-btn--light">
                                 Skip to Content
@@ -528,7 +529,7 @@
 
                                 <li data-favorites-nav-container data-ge-nav-menu="favorites" data-ge-hover-event-name="gnav_hover_favorites_menu">
                                     <span class="wt-tooltip wt-tooltip--disabled-touch" data-wt-tooltip>
-                                        <a href="https://rssmch.org/" data-favorites-nav-link aria-labelledby="ge-tooltip-label-favorites">
+                                        <a href="https://destinosinclusivos.cl/comunidad/" data-favorites-nav-link aria-labelledby="ge-tooltip-label-favorites">
                                             <span class="etsy-icon">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" aria-hidden="true" focusable="false">
                                                     <path fill-rule="evenodd" clip-rule="evenodd" d="M20.877 12.52q.081-.115.147-.239A6 6 0 0 0 12 4.528a6 6 0 0 0-9.024 7.753q.066.123.147.24l.673.961a6 6 0 0 0 .789.915L12 21.422l7.415-7.025q.44-.418.789-.915zm-14.916.425L12 18.667l6.04-5.722q.293-.279.525-.61l.673-.961a.3.3 0 0 0 .044-.087 4 4 0 1 0-7.268-2.619v.003L12 8.667l-.013.004v-.002l-.006-.064a3.98 3.98 0 0 0-1.232-2.51 4 4 0 0 0-6.031 5.193q.014.045.044.086l.673.961a4 4 0 0 0 .526.61"></path>
@@ -541,7 +542,7 @@
                                 </li>
                                 <li data-gift-mode-nav-container>
                                     <span class="wt-tooltip wt-tooltip--disabled-touch" data-wt-tooltip>
-                                        <a href="https://rssmch.org/" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon reduced-margin-xs header-button" data-gift-mode-nav-link aria-labelledby="ge-tooltip-label-gift-mode">
+                                        <a href="https://destinosinclusivos.cl/comunidad/" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon reduced-margin-xs header-button" data-gift-mode-nav-link aria-labelledby="ge-tooltip-label-gift-mode">
                                             <span class="etsy-icon">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" aria-hidden="true" focusable="false">
                                                     <path fill-rule="evenodd" clip-rule="evenodd" d="M5.535 7A4 4 0 0 1 12 2.354 4 4 0 0 1 18.465 7H22v9h-1v6H3v-6H2V7zm9.466 0H13V5a2 2 0 1 1 2.001 2M11 5a2 2 0 1 0-2.001 2H11zm-.764 4c-.55.614-1.348 1-2.236 1v2a4.98 4.98 0 0 0 3-1v3H4V9zM13 11c.836.628 1.874 1 3 1v-2a3 3 0 0 1-2.236-1H20v5h-7zm-8 5v4h6v-4zm8 4v-4h6v4z"></path>
@@ -556,7 +557,7 @@
                                 </li>
                                 <li data-ge-nav-menu="cart" data-ge-hover-event-name="gnav_hover_cart_menu">
                                     <span class="wt-tooltip wt-tooltip--bottom-left wt-tooltip--disabled-touch" data-wt-tooltip data-header-cart-button>
-                                        <a aria-label="Cart" href="https://rssmch.org/cart?ref=hdr-cart" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon header-button">
+                                        <a aria-label="Cart" href="https://destinosinclusivos.cl/comunidad/cart?ref=hdr-cart" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon header-button">
                                             <span class="wt-z-index-1 wt-no-wrap wt-display-none ge-cart-badge wt-badge wt-badge--notificationPrimary wt-badge--small wt-badge--outset-top-right" data-selector="header-cart-count" aria-hidden="true">
                                                 0
                                             </span>
@@ -582,34 +583,34 @@
                         <div class="wt-body-max-width">
                             <ul class="wt-list-unstyled wt-body-max-width wt-display-flex-xs wt-justify-content-center" data-menu-ui="menubar" data-ui="top-nav-category-list">
                                 <li class="wt-mr-xs-3">
-                                    <a href="https://rssmch.org/" class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem" data-ui="top-nav-category-link" data-node-id="-10">
+                                    <a href="https://destinosinclusivos.cl/comunidad/" class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem" data-ui="top-nav-category-link" data-node-id="-10">
                                         <span class="wt-icon wt-icon--smaller-xs wt-nudge-b-1 wt-nudge-r-3">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" aria-hidden="true" focusable="false">
                                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M5.535 7A4 4 0 0 1 12 2.354 4 4 0 0 1 18.465 7H22v9h-1v6H3v-6H2V7zm9.466 0H13V5a2 2 0 1 1 2.001 2M11 5a2 2 0 1 0-2.001 2H11zm-.764 4c-.55.614-1.348 1-2.236 1v2a4.98 4.98 0 0 0 3-1v3H4V9zM13 11c.836.628 1.874 1 3 1v-2a3 3 0 0 1-2.236-1H20v5h-7zm-8 5v4h6v-4zm8 4v-4h6v4z"></path>
                                             </svg>
                                         </span>
                                         <span>
-                                            Hyperslot88
+                                            CANTIK555
                                         </span>
                                     </a>
                                 </li>
                                 <li class="wt-mr-xs-3">
-                                    <a href="https://rssmch.org/" class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem" data-ui="top-nav-category-link">
+                                    <a href="https://destinosinclusivos.cl/comunidad/" class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem" data-ui="top-nav-category-link">
                                         Bandar Slot
                                     </a>
                                 </li>
                                 <li class="wt-mr-xs-3">
-                                    <a href="https://rssmch.org/" class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem" data-ui="top-nav-category-link" data-node-id="2">
+                                    <a href="https://destinosinclusivos.cl/comunidad/" class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem" data-ui="top-nav-category-link" data-node-id="2">
                                         Slot Online
                                     </a>
                                 </li>
                                 <li class="wt-mr-xs-3">
-                                    <a href="https://rssmch.org/" class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem" data-ui="top-nav-category-link" data-node-id="3">
+                                    <a href="https://destinosinclusivos.cl/comunidad/" class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem" data-ui="top-nav-category-link" data-node-id="3">
                                         Slot Gacor
                                     </a>
                                 </li>
                                 <li class="wt-mr-xs-3">
-                                    <a href="https://rssmch.org/" class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem" data-ui="top-nav-category-link">
+                                    <a href="https://destinosinclusivos.cl/comunidad/" class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem" data-ui="top-nav-category-link">
                                         Slot Gacor Hari Ini
                                     </a>
                                 </li>
@@ -952,8 +953,8 @@
         </script>
 
         <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
-            window.Hyperslot88 = window.Hyperslot88 || {};
-            Hyperslot88.Context = Hyperslot88.Context || {};
+            window.CANTIK555 = window.CANTIK555 || {};
+            CANTIK555.Context = CANTIK555.Context || {};
             (function () {
                 function assign(firstSource, secondSource) {
                     if (!secondSource) return;
@@ -965,7 +966,7 @@
                     }
                     return out;
                 }
-                Hyperslot88.Context.feature = assign(Hyperslot88.Context.feature ? Hyperslot88.Context.feature : {}, {
+                CANTIK555.Context.feature = assign(CANTIK555.Context.feature ? CANTIK555.Context.feature : {}, {
                     profile_dropdown_to_help_center: false,
                     sitewide_si_mweb_gated_favoriting: false,
                     isAppShellEnabled: true,
@@ -978,7 +979,7 @@
                     "content_moderation.convo_safety.structured_convos": false,
                     "risk_experience.buyer_email_verification": false,
                 });
-                Hyperslot88.Context.data = assign(Hyperslot88.Context.data ? Hyperslot88.Context.data : {}, {
+                CANTIK555.Context.data = assign(CANTIK555.Context.data ? CANTIK555.Context.data : {}, {
                     is_mobile: false,
                     should_auto_redirect: false,
                     locale_settings: {
@@ -1081,7 +1082,7 @@
                     listing_price: 22.5,
                     shopId: 25947065,
                     shop_id: 25947065,
-                    shop_name: "Hyperslot88",
+                    shop_name: "CANTIK555",
                     custom_orders_listings2: true,
                     is_listing_preview: false,
                     checkout_decorator: "",
@@ -1690,7 +1691,7 @@
                         <div class="wt-grid wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-6 wt-pr-lg-6">
                             <ul class="wt-list-unstyled wt-grid__item-xs-12 wt-body-max-width wt-display-flex-xs wt-justify-content-center" data-menu-ui="menubar" data-ui="top-nav-category-list">
                                 <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                                    <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://rssmch.org/">Hyperslot88</a>
+                                    <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://destinosinclusivos.cl/comunidad/">CANTIK555</a>
                                     <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" aria-hidden="true" focusable="false">
                                             <path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"></path>
@@ -1698,12 +1699,12 @@
                                     </span>
                                 </li>
                                 <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                                    <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://rssmch.org/">Slot Online</a>
+                                    <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://destinosinclusivos.cl/comunidad/">Slot Online</a>
                                 </li>
                                 </ul>
 <pre> | </pre>
                                 <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                                    Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot 
+                                    CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru 
                                 </li>
                             
                             <span class="active-nav-item-indicator wt-position-absolute wt-display-inline-block" data-ui="active-nav-item-indicator"></span>
@@ -1731,12 +1732,12 @@
                                                 <path d="m15.4 14.1-3.7-1.9-1.8-3.6c-.3-.7-1.4-.7-1.8 0l-1.9 3.7-3.7 1.9c-.3.1-.5.4-.5.8q0 .6.6.9l3.7 1.9 1.9 3.7c.1.3.4.5.8.5q.6 0 .9-.6l1.9-3.7 3.7-1.9c.3-.2.6-.5.6-.9s-.3-.6-.7-.8m6-8L19 4.9l-1.2-2.4c-.3-.7-1.4-.7-1.8 0l-1.2 2.4-2.4 1.2c-.2.2-.4.5-.4.9q0 .6.6.9L15 9.1l1.2 2.4c.2.3.5.6.9.6q.6 0 .9-.6l1.2-2.4 2.4-1.2c.2-.2.4-.5.4-.9q0-.6-.6-.9"></path>
                                             </svg>
                                         </span>
-                                        Hyperslot88
+                                        CANTIK555
                                     </span>
                                 </button>
                                 <div id="etsys_pick" role="tooltip">
-                                    Hyperslot88 merupakan situs judi nomor 1 di Indonesia, kini telah menghadirkan link situs slot mahjong gacor yang lagi viral hari ini, karena sangat gampang untuk bisa menang banjir jackpot. Sudah dikenal dan dipercaya oleh jutaan pecinta game online, slot online, judi online karena main di sini anti rungkat, anti sedot wc, tidak percaya? buktikan sendiri sekarang juga, langsung aja daftar jadi member kita dan dapatkan banyak bonus-bonus sensasional yang hanya akan kalian dapatkan di Hyperslot88.
-                                    <p class="wt-mt-xs-3"><a href="https://rssmch.org/" target="_blank"> Hyperslot88 </a></p>
+                                    CANTIK555 adalah salah satu pelopor untuk situs slot777 yang paling gacor di indonesia saat ini di tahun 2026, karena sudah resmi berlisensi aman dan yang pasti dipercaya oleh jutaan member slot online. Kelebihan main di sini adalah sangat gampang menang tanpa harus depo berkali-kali, hanya perlu minimal deposit 10k saja sudah bisa memainkan berbagai macam permainan disini. Langsung aja daftar sekarang juga dan lipat gandakan saldomu..
+                                    <p class="wt-mt-xs-3"><a href="https://destinosinclusivos.cl/comunidad/" target="_blank"> CANTIK555 </a></p>
                                 </div>
                             </div>
                         </div>
@@ -1778,7 +1779,7 @@
                             <div class="image-carousel-container wt-position-relative wt-flex-xs-6 wt-order-xs-2 show-scrollable-thumbnails">
                                 <ul class="wt-list-unstyled wt-overflow-hidden wt-position-relative carousel-pane-list" style="padding-top: 80%;" data-carousel-pane-list tabindex="0">
                                     <li class="wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane" data-carousel-pane data-index="0" data-image-id="6845617078" data-palette-listing-image>
-                                        <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 1" data-carousel-first-image data-perf-group="main-product-image" src="https://hypermahjong.pages.dev/situsmahjong.jpg" srcset="https://hypermahjong.pages.dev/situsmahjong.jpg" fetchpriority="high" data-original-image-width="3000" data-src-zoom-image="https://hypermahjong.pages.dev/situsmahjong.jpg" data-index="0">
+                                        <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 1" data-carousel-first-image data-perf-group="main-product-image" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" fetchpriority="high" data-original-image-width="3000" data-src-zoom-image="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-index="0">
                                     </li>
                                     <li class="wt-display-none wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane no-zoom" data-carousel-pane data-video-pane data-no-zoom data-index="1">
                                         <div class="wt-width-full wt-height-full">
@@ -1812,31 +1813,31 @@
                                         </div>
                                     </li>
                                     <li class="wt-display-none wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane" data-carousel-pane data-index="2" data-image-id="6354031418" data-palette-listing-image>
-                                        <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 2" loading="lazy" src="https://hypermahjong.pages.dev/situsmahjong.jpg" srcset="https://hypermahjong.pages.dev/situsmahjong.jpg" data-perf-group="secondary-product-image" data-original-image-width="2000" data-src-zoom-image="https://hypermahjong.pages.dev/situsmahjong.jpg" data-index="2">
+                                        <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 2" loading="lazy" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-perf-group="secondary-product-image" data-original-image-width="2000" data-src-zoom-image="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-index="2">
                                     </li>
                                     <li class="wt-display-none wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane" data-carousel-pane data-index="3" data-image-id="6402117407" data-palette-listing-image>
-                                        <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 3" loading="lazy" src="https://hypermahjong.pages.dev/situsmahjong.jpg" srcset="https://hypermahjong.pages.dev/situsmahjong.jpg" data-perf-group="secondary-product-image" data-original-image-width="2000" data-src-zoom-image="https://hypermahjong.pages.dev/situsmahjong.jpg" data-index="3">
+                                        <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 3" loading="lazy" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-perf-group="secondary-product-image" data-original-image-width="2000" data-src-zoom-image="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-index="3">
                                     </li>
                                     <li class="wt-display-none wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane" data-carousel-pane data-index="4" data-image-id="6354386589" data-palette-listing-image>
-                                        <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 4" loading="lazy" src="https://hypermahjong.pages.dev/situsmahjong.jpg" srcset="https://hypermahjong.pages.dev/situsmahjong.jpg" data-perf-group="secondary-product-image" data-original-image-width="2000" data-src-zoom-image="https://hypermahjong.pages.dev/situsmahjong.jpg" data-index="4">
+                                        <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 4" loading="lazy" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-perf-group="secondary-product-image" data-original-image-width="2000" data-src-zoom-image="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-index="4">
                                     </li>
                                     <li class="wt-display-none wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane" data-carousel-pane data-index="5" data-image-id="6285298756" data-palette-listing-image>
-                                        <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="name yarn jumper for kids" loading="lazy" src="https://hypermahjong.pages.dev/situsmahjong.jpg" srcset="https://hypermahjong.pages.dev/situsmahjong.jpg" data-perf-group="secondary-product-image" data-original-image-width="2000" data-src-zoom-image="https://hypermahjong.pages.dev/situsmahjong.jpg" data-index="5">
+                                        <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="name yarn jumper for kids" loading="lazy" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-perf-group="secondary-product-image" data-original-image-width="2000" data-src-zoom-image="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-index="5">
                                     </li>
                                     <li class="wt-display-none wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane" data-carousel-pane data-index="6" data-image-id="6430051759" data-palette-listing-image>
-                                        <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 6" loading="lazy" src="https://hypermahjong.pages.dev/situsmahjong.jpg" srcset="https://hypermahjong.pages.dev/situsmahjong.jpg" data-perf-group="secondary-product-image" data-original-image-width="2000" data-src-zoom-image="https://hypermahjong.pages.dev/situsmahjong.jpg" data-index="6">
+                                        <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 6" loading="lazy" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-perf-group="secondary-product-image" data-original-image-width="2000" data-src-zoom-image="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-index="6">
                                     </li>
                                     <li class="wt-display-none wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane" data-carousel-pane data-index="7" data-image-id="7056312285" data-palette-listing-image>
-                                        <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 7" loading="lazy" src="https://hypermahjong.pages.dev/situsmahjong.jpg" srcset="https://hypermahjong.pages.dev/situsmahjong.jpg" data-perf-group="secondary-product-image" data-original-image-width="2000" data-src-zoom-image="https://hypermahjong.pages.dev/situsmahjong.jpg" data-index="7">
+                                        <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 7" loading="lazy" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-perf-group="secondary-product-image" data-original-image-width="2000" data-src-zoom-image="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-index="7">
                                     </li>
                                     <li class="wt-display-none wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane" data-carousel-pane data-index="8" data-image-id="6332997945" data-palette-listing-image>
-                                        <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 8" loading="lazy" src="https://hypermahjong.pages.dev/situsmahjong.jpg" srcset="https://hypermahjong.pages.dev/situsmahjong.jpg" data-perf-group="secondary-product-image" data-original-image-width="2000" data-src-zoom-image="https://hypermahjong.pages.dev/situsmahjong.jpg" data-index="8">
+                                        <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 8" loading="lazy" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-perf-group="secondary-product-image" data-original-image-width="2000" data-src-zoom-image="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-index="8">
                                     </li>
                                     <li class="wt-display-none wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane" data-carousel-pane data-index="9" data-image-id="6722497805" data-palette-listing-image>
-                                        <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 9" loading="lazy" src="https://hypermahjong.pages.dev/situsmahjong.jpg" srcset="https://hypermahjong.pages.dev/situsmahjong.jpg" data-perf-group="secondary-product-image" data-original-image-width="2000" data-src-zoom-image="https://hypermahjong.pages.dev/situsmahjong.jpg" data-index="9">
+                                        <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 9" loading="lazy" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-perf-group="secondary-product-image" data-original-image-width="2000" data-src-zoom-image="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-index="9">
                                     </li>
                                     <li class="wt-display-none wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane" data-carousel-pane data-index="10" data-image-id="6356157787" data-palette-listing-image>
-                                        <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 10" loading="lazy" src="https://hypermahjong.pages.dev/situsmahjong.jpg" srcset="https://hypermahjong.pages.dev/situsmahjong.jpg" data-perf-group="secondary-product-image" data-original-image-width="2000" data-src-zoom-image="https://hypermahjong.pages.dev/situsmahjong.jpg" data-index="10">
+                                        <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 10" loading="lazy" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-perf-group="secondary-product-image" data-original-image-width="2000" data-src-zoom-image="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-index="10">
                                     </li>
                                 </ul>
                                 <button data-carousel-nav-button data-direction="prev" class="wt-circle wt-overflow-hidden wt-position-absolute wt-vertical-center wt-position-left wt-btn wt-btn--filled wt-btn--light wt-btn--icon wt-shadow-elevation-3 wt-ml-xs-2" aria-label="Previous image">
@@ -1862,12 +1863,12 @@
                                 <div class="wt-position-absolute wt-overflow-scroll wt-position-top wt-position-bottom wt-position-left scroll-container-no-scrollbar" data-thumbnail-scroll-container>
                                     <ul data-carousel-pagination-list class="wt-list-unstyled wt-display-flex-xs wt-order-xs-1 wt-flex-direction-column-xs wt-align-items-flex-end">
                                         <li data-carousel-pagination-item data-index="0" data-image-id="6845617078" class="wt-mr-xs-1 wt-mb-xs-1 wt-bg-gray wt-flex-shrink-xs-0 wt-rounded wt-overflow-hidden carousel-pagination-item-v2" tabindex="0">
-                                            <img class="wt-animated wt-display-none wt-max-width-full" src="https://hypermahjong.pages.dev/situsmahjong.jpg" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 1" data-carousel-thumbnail-image data-src-delay="https://hypermahjong.pages.dev/situsmahjong.jpg" aria-label="product image 1 of 10" data-should-fade-in-on-load="true">
+                                            <img class="wt-animated wt-display-none wt-max-width-full" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 1" data-carousel-thumbnail-image data-src-delay="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" aria-label="product image 1 of 10" data-should-fade-in-on-load="true">
                                         </li>
 
                                         <li data-carousel-pagination-item data-carousel-thumbnail-video data-index="1" data-image-id="listing-video-1" class="wt-mr-xs-1 wt-mb-xs-1 wt-bg-gray wt-flex-shrink-xs-0 wt-rounded wt-overflow-hidden carousel-pagination-item-v2" tabindex="0">
                                             <div class="wt-position-relative wt-height-full">
-                                                <img class="wt-animated wt-display-none wt-max-width-full" data-carousel-thumbnail-image src="https://hypermahjong.pages.dev/situsmahjong.jpg" data-src-delay="https://hypermahjong.pages.dev/situsmahjong.jpg" data-should-fade-in-on-load="true" alt="Product video">
+                                                <img class="wt-animated wt-display-none wt-max-width-full" data-carousel-thumbnail-image src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-src-delay="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-should-fade-in-on-load="true" alt="Product video">
                                                 <div data-carousel-video-icon class="wt-display-none wt-circle wt-overflow-hidden video-thumbnail-icon wt-position-top wt-position-bottom wt-position-right wt-position-left wt-bg-white wt-shadow-elevation-3">
                                                     <span class="etsy-icon video-thumbnail-icon__with-image wt-position-top wt-position-bottom wt-position-right">
                                                         <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" aria-hidden="true" focusable="false"><polygon points="4 4 4 20 20 12 4 4"></polygon></svg>
@@ -1877,39 +1878,39 @@
                                         </li>
 
                                         <li data-carousel-pagination-item data-index="2" data-image-id="6354031418" class="wt-mr-xs-1 wt-mb-xs-1 wt-bg-gray wt-flex-shrink-xs-0 wt-rounded wt-overflow-hidden carousel-pagination-item-v2" tabindex="0">
-                                            <img class="wt-animated wt-display-none wt-max-width-full" src="https://hypermahjong.pages.dev/situsmahjong.jpg" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 2" data-carousel-thumbnail-image data-src-delay="https://hypermahjong.pages.dev/situsmahjong.jpg" aria-label="product image 2 of 10" data-should-fade-in-on-load="true">
+                                            <img class="wt-animated wt-display-none wt-max-width-full" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 2" data-carousel-thumbnail-image data-src-delay="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" aria-label="product image 2 of 10" data-should-fade-in-on-load="true">
                                         </li>
 
                                         <li data-carousel-pagination-item data-index="3" data-image-id="6402117407" class="wt-mr-xs-1 wt-mb-xs-1 wt-bg-gray wt-flex-shrink-xs-0 wt-rounded wt-overflow-hidden carousel-pagination-item-v2" tabindex="0">
-                                            <img class="wt-animated wt-display-none wt-max-width-full" src="https://hypermahjong.pages.dev/situsmahjong.jpg" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 3" data-carousel-thumbnail-image data-src-delay="https://hypermahjong.pages.dev/situsmahjong.jpg" aria-label="product image 3 of 10" data-should-fade-in-on-load="true">
+                                            <img class="wt-animated wt-display-none wt-max-width-full" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 3" data-carousel-thumbnail-image data-src-delay="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" aria-label="product image 3 of 10" data-should-fade-in-on-load="true">
                                         </li>
 
                                         <li data-carousel-pagination-item data-index="4" data-image-id="6354386589" class="wt-mr-xs-1 wt-mb-xs-1 wt-bg-gray wt-flex-shrink-xs-0 wt-rounded wt-overflow-hidden carousel-pagination-item-v2" tabindex="0">
-                                            <img class="wt-animated wt-display-none wt-max-width-full" src="https://hypermahjong.pages.dev/situsmahjong.jpg" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 4" data-carousel-thumbnail-image data-src-delay="https://hypermahjong.pages.dev/situsmahjong.jpg" aria-label="product image 4 of 10" data-should-fade-in-on-load="true">
+                                            <img class="wt-animated wt-display-none wt-max-width-full" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 4" data-carousel-thumbnail-image data-src-delay="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" aria-label="product image 4 of 10" data-should-fade-in-on-load="true">
                                         </li>
 
                                         <li data-carousel-pagination-item data-index="5" data-image-id="6285298756" class="wt-mr-xs-1 wt-mb-xs-1 wt-bg-gray wt-flex-shrink-xs-0 wt-rounded wt-overflow-hidden carousel-pagination-item-v2" tabindex="0">
-                                            <img class="wt-animated wt-display-none wt-max-width-full" src="https://hypermahjong.pages.dev/situsmahjong.jpg" alt="name yarn jumper for kids" data-carousel-thumbnail-image data-src-delay="https://hypermahjong.pages.dev/situsmahjong.jpg" aria-label="product image 5 of 10" data-should-fade-in-on-load="true">
+                                            <img class="wt-animated wt-display-none wt-max-width-full" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" alt="name yarn jumper for kids" data-carousel-thumbnail-image data-src-delay="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" aria-label="product image 5 of 10" data-should-fade-in-on-load="true">
                                         </li>
 
                                         <li data-carousel-pagination-item data-index="6" data-image-id="6430051759" class="wt-mr-xs-1 wt-mb-xs-1 wt-bg-gray wt-flex-shrink-xs-0 wt-rounded wt-overflow-hidden carousel-pagination-item-v2" tabindex="0">
-                                            <img class="wt-animated wt-display-none wt-max-width-full" src="https://hypermahjong.pages.dev/situsmahjong.jpg" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 6" data-carousel-thumbnail-image data-src-delay="https://hypermahjong.pages.dev/situsmahjong.jpg" aria-label="product image 6 of 10" data-should-fade-in-on-load="true">
+                                            <img class="wt-animated wt-display-none wt-max-width-full" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 6" data-carousel-thumbnail-image data-src-delay="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" aria-label="product image 6 of 10" data-should-fade-in-on-load="true">
                                         </li>
 
                                         <li data-carousel-pagination-item data-index="7" data-image-id="7056312285" class="wt-mr-xs-1 wt-mb-xs-1 wt-bg-gray wt-flex-shrink-xs-0 wt-rounded wt-overflow-hidden carousel-pagination-item-v2" tabindex="0">
-                                            <img class="wt-animated wt-display-none wt-max-width-full" src="https://hypermahjong.pages.dev/situsmahjong.jpg" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 7" data-carousel-thumbnail-image data-src-delay="https://hypermahjong.pages.dev/situsmahjong.jpg" aria-label="product image 7 of 10" data-should-fade-in-on-load="true">
+                                            <img class="wt-animated wt-display-none wt-max-width-full" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 7" data-carousel-thumbnail-image data-src-delay="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" aria-label="product image 7 of 10" data-should-fade-in-on-load="true">
                                         </li>
 
                                         <li data-carousel-pagination-item data-index="8" data-image-id="6332997945" class="wt-mr-xs-1 wt-mb-xs-1 wt-bg-gray wt-flex-shrink-xs-0 wt-rounded wt-overflow-hidden carousel-pagination-item-v2" tabindex="0">
-                                            <img class="wt-animated wt-display-none wt-max-width-full" src="https://hypermahjong.pages.dev/situsmahjong.jpg" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 8" data-carousel-thumbnail-image data-src-delay="https://hypermahjong.pages.dev/situsmahjong.jpg" aria-label="product image 8 of 10" data-should-fade-in-on-load="true">
+                                            <img class="wt-animated wt-display-none wt-max-width-full" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 8" data-carousel-thumbnail-image data-src-delay="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" aria-label="product image 8 of 10" data-should-fade-in-on-load="true">
                                         </li>
 
                                         <li data-carousel-pagination-item data-index="9" data-image-id="6722497805" class="wt-mr-xs-1 wt-mb-xs-1 wt-bg-gray wt-flex-shrink-xs-0 wt-rounded wt-overflow-hidden carousel-pagination-item-v2" tabindex="0">
-                                            <img class="wt-animated wt-display-none wt-max-width-full" src="https://hypermahjong.pages.dev/situsmahjong.jpg" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 9" data-carousel-thumbnail-image data-src-delay="https://hypermahjong.pages.dev/situsmahjong.jpg" aria-label="product image 9 of 10" data-should-fade-in-on-load="true">
+                                            <img class="wt-animated wt-display-none wt-max-width-full" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 9" data-carousel-thumbnail-image data-src-delay="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" aria-label="product image 9 of 10" data-should-fade-in-on-load="true">
                                         </li>
 
                                         <li data-carousel-pagination-item data-index="10" data-image-id="6356157787" class="wt-mr-xs-1 wt-mb-xs-1 wt-bg-gray wt-flex-shrink-xs-0 wt-rounded wt-overflow-hidden carousel-pagination-item-v2" tabindex="0">
-                                            <img class="wt-animated wt-display-none wt-max-width-full" src="https://hypermahjong.pages.dev/situsmahjong.jpg" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 10" data-carousel-thumbnail-image data-src-delay="https://hypermahjong.pages.dev/situsmahjong.jpg" aria-label="product image 10 of 10" data-should-fade-in-on-load="true">
+                                            <img class="wt-animated wt-display-none wt-max-width-full" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 10" data-carousel-thumbnail-image data-src-delay="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" aria-label="product image 10 of 10" data-should-fade-in-on-load="true">
                                         </li>
                                     </ul>
                                 </div>
@@ -1941,7 +1942,7 @@
                                         </button>
                                         <ul class="wt-list-unstyled wt-overflow-hidden image-overlay-list wt-position-relative wt-vertical-center wt-display-flex-xs wt-justify-content-center" style="padding-top: 80%;" data-image-overlay-list tabindex="0">
                                             <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background" data-listing-image data-index="0" data-image-id="6845617078">
-                                                <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 1" data-delay-src="https://hypermahjong.pages.dev/situsmahjong.jpg" data-delay-srcset="https://hypermahjong.pages.dev/situsmahjong.jpg" data-original-image-width="3000" data-original-image-height="3000" data-index="0" data-src-zoom-image="https://hypermahjong.pages.dev/situsmahjong.jpg">
+                                                <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 1" data-delay-src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-delay-srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-original-image-width="3000" data-original-image-height="3000" data-index="0" data-src-zoom-image="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg">
                                             </li>
                                             <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full wt-rounded" data-listing-image data-listing-video="true" data-index="1" data-image-id="listing-video-1">
                                                 <div data-clg-id="WtSpinner" class="wt-spinner wt-spinner--02 wt-mt-xs-0 wt-vertical-center wt-display-none" aria-live="assertive" data-overlay-video-loading-spinner="" aria-hidden="true">
@@ -1952,30 +1953,30 @@
                                                 </div>
                                             </li>
                                             <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background" data-listing-image data-index="2" data-image-id="6354031418">
-                                                <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 2" data-delay-src="https://hypermahjong.pages.dev/situsmahjong.jpg" data-delay-srcset="https://hypermahjong.pages.dev/situsmahjong.jpg" data-original-image-width="2000" data-original-image-height="2000" data-index="2" data-src-zoom-image="https://hypermahjong.pages.dev/situsmahjong.jpg">
+                                                <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 2" data-delay-src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-delay-srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-original-image-width="2000" data-original-image-height="2000" data-index="2" data-src-zoom-image="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg">
                                             </li>
                                             <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background" data-listing-image data-index="3" data-image-id="6402117407">
-                                                <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 3" data-delay-src="https://hypermahjong.pages.dev/situsmahjong.jpg" data-delay-srcset="https://hypermahjong.pages.dev/situsmahjong.jpg" data-original-image-width="2000" data-original-image-height="2000" data-index="3" data-src-zoom-image="https://hypermahjong.pages.dev/situsmahjong.jpg">
+                                                <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 3" data-delay-src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-delay-srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-original-image-width="2000" data-original-image-height="2000" data-index="3" data-src-zoom-image="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg">
                                             </li><li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background" data-listing-image data-index="4" data-image-id="6354386589">
-                                                <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 4" data-delay-src="https://hypermahjong.pages.dev/situsmahjong.jpg" data-delay-srcset="https://hypermahjong.pages.dev/situsmahjong.jpg" data-original-image-width="2000" data-original-image-height="2000" data-index="4" data-src-zoom-image="https://hypermahjong.pages.dev/situsmahjong.jpg">
+                                                <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 4" data-delay-src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-delay-srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-original-image-width="2000" data-original-image-height="2000" data-index="4" data-src-zoom-image="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg">
                                             </li>
                                             <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background" data-listing-image data-index="5" data-image-id="6285298756">
-                                                <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center" alt="name yarn jumper for kids" data-delay-src="https://hypermahjong.pages.dev/situsmahjong.jpg" data-delay-srcset="https://hypermahjong.pages.dev/situsmahjong.jpg" data-original-image-width="2000" data-original-image-height="2000" data-index="5" data-src-zoom-image="https://hypermahjong.pages.dev/situsmahjong.jpg">
+                                                <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center" alt="name yarn jumper for kids" data-delay-src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-delay-srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-original-image-width="2000" data-original-image-height="2000" data-index="5" data-src-zoom-image="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg">
                                             </li>
                                             <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background" data-listing-image data-index="6" data-image-id="6430051759">
-                                                <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 6" data-delay-src="https://hypermahjong.pages.dev/situsmahjong.jpg" data-delay-srcset="https://hypermahjong.pages.dev/situsmahjong.jpg" data-original-image-width="2000" data-original-image-height="2000" data-index="6" data-src-zoom-image="https://hypermahjong.pages.dev/situsmahjong.jpg">
+                                                <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 6" data-delay-src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-delay-srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-original-image-width="2000" data-original-image-height="2000" data-index="6" data-src-zoom-image="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg">
                                             </li>
                                             <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background" data-listing-image data-index="7" data-image-id="7056312285">
-                                                <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 7" data-delay-src="https://hypermahjong.pages.dev/situsmahjong.jpg" data-delay-srcset="https://hypermahjong.pages.dev/situsmahjong.jpg" data-original-image-width="2000" data-original-image-height="2000" data-index="7" data-src-zoom-image="https://hypermahjong.pages.dev/situsmahjong.jpg">
+                                                <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 7" data-delay-src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-delay-srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-original-image-width="2000" data-original-image-height="2000" data-index="7" data-src-zoom-image="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg">
                                             </li>
                                             <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background" data-listing-image data-index="8" data-image-id="6332997945">
-                                                <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 8" data-delay-src="https://hypermahjong.pages.dev/situsmahjong.jpg" data-delay-srcset="https://hypermahjong.pages.dev/situsmahjong.jpg" data-original-image-width="2000" data-original-image-height="2000" data-index="8" data-src-zoom-image="https://hypermahjong.pages.dev/situsmahjong.jpg">
+                                                <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 8" data-delay-src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-delay-srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-original-image-width="2000" data-original-image-height="2000" data-index="8" data-src-zoom-image="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg">
                                             </li>
                                             <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background" data-listing-image data-index="9" data-image-id="6722497805">
-                                                <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 9" data-delay-src="https://hypermahjong.pages.dev/situsmahjong.jpg" data-delay-srcset="https://hypermahjong.pages.dev/situsmahjong.jpg" data-original-image-width="2000" data-original-image-height="2000" data-index="9" data-src-zoom-image="https://hypermahjong.pages.dev/situsmahjong.jpg">
+                                                <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 9" data-delay-src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-delay-srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-original-image-width="2000" data-original-image-height="2000" data-index="9" data-src-zoom-image="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg">
                                             </li>
                                             <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background" data-listing-image data-index="10" data-image-id="6356157787">
-                                                <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 10" data-delay-src="https://hypermahjong.pages.dev/situsmahjong.jpg" data-delay-srcset="https://hypermahjong.pages.dev/situsmahjong.jpg" data-original-image-width="2000" data-original-image-height="2000" data-index="10" data-src-zoom-image="https://hypermahjong.pages.dev/situsmahjong.jpg">
+                                                <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 10" data-delay-src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-delay-srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-original-image-width="2000" data-original-image-height="2000" data-index="10" data-src-zoom-image="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg">
                                             </li>
                                             <div class="wt-z-index-1 click-to-zoom-text wt-position-absolute wt-display-none" data-click-to-zoom-toast>
                                                 <span data-clg-id="WtBadge" class="wt-badge wt-badge--default wt-text-body-01">
@@ -1994,11 +1995,11 @@
                                     <div class="wt-overflow-y-auto wt-position-relative image-overlay-thumbnail-container wt-z-index-1 wt-pt-xs-10" data-thumbnail-container>
                                         <ul data-image-overlay-thumbnail-list class="wt-z-index-1 wt-list-unstyled wt-flex-direction-row-lg wt-flex-direction-column-xs wt-display-flex-xs wt-flex-wrap wt-align-content-flex-start">
                                             <li data-index="0" class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2" tabindex="0" data-image-id="6845617078">
-                                                <img class="wt-skeleton-ui" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 1" data-carousel-thumbnail-image loading="lazy" src="https://hypermahjong.pages.dev/situsmahjong.jpg">
+                                                <img class="wt-skeleton-ui" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 1" data-carousel-thumbnail-image loading="lazy" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg">
                                             </li>
                                             <li data-index="1" class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2" tabindex="0" data-image-id="listing-video-1" data-listing-video="true">
                                                 <div class="wt-position-relative wt-height-full">
-                                                    <img class="wt-skeleton-ui" data-carousel-thumbnail-image src="https://hypermahjong.pages.dev/situsmahjong.jpg" data-src-delay="https://hypermahjong.pages.dev/situsmahjong.jpg">
+                                                    <img class="wt-skeleton-ui" data-carousel-thumbnail-image src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg" data-src-delay="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg">
 
                                                     <div class="wt-circle wt-overflow-hidden video-thumbnail-icon wt-position-top wt-position-bottom wt-position-right wt-position-left wt-bg-white wt-shadow-elevation-3">
                                                         <span class="etsy-icon video-thumbnail-icon__with-image wt-position-top wt-position-bottom wt-position-right">
@@ -2008,31 +2009,31 @@
                                                 </div>
                                             </li>
                                             <li data-index="2" class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2" tabindex="0" data-image-id="6354031418">
-                                                <img class="wt-skeleton-ui" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 2" data-carousel-thumbnail-image loading="lazy" src="https://hypermahjong.pages.dev/situsmahjong.jpg">
+                                                <img class="wt-skeleton-ui" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 2" data-carousel-thumbnail-image loading="lazy" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg">
                                             </li>
                                             <li data-index="3" class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2" tabindex="0" data-image-id="6402117407">
-                                                <img class="wt-skeleton-ui" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 3" data-carousel-thumbnail-image loading="lazy" src="https://hypermahjong.pages.dev/situsmahjong.jpg">
+                                                <img class="wt-skeleton-ui" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 3" data-carousel-thumbnail-image loading="lazy" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg">
                                             </li>
                                             <li data-index="4" class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2" tabindex="0" data-image-id="6354386589">
-                                                <img class="wt-skeleton-ui" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 4" data-carousel-thumbnail-image loading="lazy" src="https://hypermahjong.pages.dev/situsmahjong.jpg">
+                                                <img class="wt-skeleton-ui" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 4" data-carousel-thumbnail-image loading="lazy" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg">
                                             </li>
                                             <li data-index="5" class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2" tabindex="0" data-image-id="6285298756">
-                                                <img class="wt-skeleton-ui" alt="name yarn jumper for kids" data-carousel-thumbnail-image loading="lazy" src="https://hypermahjong.pages.dev/situsmahjong.jpg">
+                                                <img class="wt-skeleton-ui" alt="name yarn jumper for kids" data-carousel-thumbnail-image loading="lazy" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg">
                                             </li>
                                             <li data-index="6" class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2" tabindex="0" data-image-id="6430051759">
-                                                <img class="wt-skeleton-ui" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 6" data-carousel-thumbnail-image loading="lazy" src="https://hypermahjong.pages.dev/situsmahjong.jpg">
+                                                <img class="wt-skeleton-ui" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 6" data-carousel-thumbnail-image loading="lazy" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg">
                                             </li>
                                             <li data-index="7" class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2" tabindex="0" data-image-id="7056312285">
-                                                <img class="wt-skeleton-ui" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 7" data-carousel-thumbnail-image loading="lazy" src="https://hypermahjong.pages.dev/situsmahjong.jpg">
+                                                <img class="wt-skeleton-ui" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 7" data-carousel-thumbnail-image loading="lazy" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg">
                                             </li>
                                             <li data-index="8" class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2" tabindex="0" data-image-id="6332997945">
-                                                <img class="wt-skeleton-ui" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 8" data-carousel-thumbnail-image loading="lazy" src="https://hypermahjong.pages.dev/situsmahjong.jpg">
+                                                <img class="wt-skeleton-ui" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 8" data-carousel-thumbnail-image loading="lazy" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg">
                                             </li>
                                             <li data-index="9" class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2" tabindex="0" data-image-id="6722497805">
-                                                <img class="wt-skeleton-ui" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 9" data-carousel-thumbnail-image loading="lazy" src="https://hypermahjong.pages.dev/situsmahjong.jpg">
+                                                <img class="wt-skeleton-ui" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 9" data-carousel-thumbnail-image loading="lazy" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg">
                                             </li>
                                             <li data-index="10" class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2" tabindex="0" data-image-id="6356157787">
-                                                <img class="wt-skeleton-ui" alt="Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot  image 10" data-carousel-thumbnail-image loading="lazy" src="https://hypermahjong.pages.dev/situsmahjong.jpg">
+                                                <img class="wt-skeleton-ui" alt="CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru  image 10" data-carousel-thumbnail-image loading="lazy" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg">
                                             </li>
                                         </ul>
                                     </div>
@@ -2042,13 +2043,13 @@
                     </div>
 
                     <div class="wt-display-flex-xs wt-justify-content-flex-end wt-mt-xs-3">
-                        <a class="wt-text-link wt-text-link-underline" href="https://rssmch.org/">
+                        <a class="wt-text-link wt-text-link-underline" href="https://destinosinclusivos.cl/comunidad/">
                             <span class="wt-icon wt-icon--smaller-xs wt-nudge-r-4">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" aria-hidden="true" focusable="false">
                                     <path fill-rule="evenodd" clip-rule="evenodd" d="M7 3a1 1 0 0 0-2 0v18a1 1 0 1 0 2 0v-6h14.766l-3.6-6 3.6-6zm0 2v8h11.234l-2.4-4 2.4-4z"></path>
                                 </svg>
                             </span>
-                            Report this item to Hyperslot88
+                            Report this item to CANTIK555
                         </a>
                     </div>
                     <div data-wt-overlay data-report-item-overlay id="report-item-overlay" class="wt-overlay wt-display-none" role="dialog" aria-hidden="true" aria-modal="false" aria-label="report-item-overlay-title">
@@ -2076,14 +2077,14 @@
                                                     <option value="default">Pilih alasan…</option>
                                                     <option value="order-problem">Ada masalah dengan pesanan saya</option>
                                                     <option value="ip-policy">Ini menggunakan kekayaan intelektual saya tanpa izin</option>
-                                                    <option value="flag-item">Saya rasa itu tidak sesuai dengan kebijakan Hyperslot88</option>
+                                                    <option value="flag-item">Saya rasa itu tidak sesuai dengan kebijakan CANTIK555</option>
                                                 </optgroup>
                                             </select>
                                             <label for="report-item-choices" class="wt-screen-reader-only">Pilih alasan…</label>
                                         </div>
                                         <div data-report-choice="order-problem" id="order-problem" class="wt-display-none">
                                             <p class="wt-mb-xs-2 prose">Hal pertama yang harus Anda lakukan adalah menghubungi penjual secara langsung.</p>
-                                            <p class="wt-mb-xs-2 ip-policy prose">Jika Anda sudah melakukannya, barang Anda belum sampai, atau tidak sesuai deskripsi, Anda dapat melaporkannya ke Hyperslot88 dengan membuka kasus.</p>
+                                            <p class="wt-mb-xs-2 ip-policy prose">Jika Anda sudah melakukannya, barang Anda belum sampai, atau tidak sesuai deskripsi, Anda dapat melaporkannya ke CANTIK555 dengan membuka kasus.</p>
                                             <p class="wt-mb-xs-2 prose">
                                                 <a href="/help/article/5307" target="_blank">
                                                     Laporkan masalah dengan pesanan
@@ -2207,7 +2208,7 @@
             <div class="cart-col wt-order-xs-2 wt-mb-lg-5">
                 <div id="listing-page-cart" class="wt-display-flex-lg wt-flex-direction-column-md wt-flex-lg-3 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-0 wt-pr-lg-5 wt-pl-xs-2 wt-pr-xs-2">
                     <div class="wt-mb-xs-1 wt-mt-xs-1">
-                        <div data-appears-component-name="Hyperslot88-Modules-ListingPage-UrgencySignal-RecsRankingApiSpec" data-appears-event-data='{"module_placement":"lp_urgency_signals","datasets":["Common_Signal_CustomCandidatesSignalRankerV3"],"targets":[],"logging_class":"Hyperslot88\\Modules\\ListingPage\\UrgencySignal\\RecsRankingApiSpec","page_listing_id":4302118744,"mmx_request_uuid_map":{"5143dd58-1944-4e40-8b7e-02b5b89c59ea":[0,1,2]},"candidate_source_map":{"signals-ranker-v3-extractor":[0,1,2]},"second_pass_ranker_map":{"signals-ranker-v3":[0,1,2]},"client_provided_features":{"browser":{"acceptLanguage":"en-US","browser":"Chrome","currency":"IDR","localeRegion":"ID","operatingSystem":"Windows 11","platform":"desktop","platformHyperslot88App":"web","platformMobileDevice":"unidentified","source":"directLanding"},"date_time":{"dayOfWeek":"2","hourOfDay":"18"},"user":{"locationLatitude":null,"locationLongitude":null,"locationZip":"unidentified","userPreferredLanguage":"en-US"}},"scores":[0.58056300000000005123723667566082440316677093505859375,0.48064099999999998491517771981307305395603179931640625,0.37174099999999998811262003073352389037609100341796875],"datasets_map":{"Common_Signal_CustomCandidatesSignalRankerV3":[0,1,2]},"target_listing_id":4302118744,"candidates":["recently_purchased","in_cart_only","lp_views_only"],"refTag":"lp_urgency_signals","signals":["recently_purchased","in_cart_only","lp_views_only"],"rec_event_name":"recommendations_module"}' class="recs-appears-logger">
+                        <div data-appears-component-name="CANTIK555-Modules-ListingPage-UrgencySignal-RecsRankingApiSpec" data-appears-event-data='{"module_placement":"lp_urgency_signals","datasets":["Common_Signal_CustomCandidatesSignalRankerV3"],"targets":[],"logging_class":"CANTIK555\\Modules\\ListingPage\\UrgencySignal\\RecsRankingApiSpec","page_listing_id":4302118744,"mmx_request_uuid_map":{"5143dd58-1944-4e40-8b7e-02b5b89c59ea":[0,1,2]},"candidate_source_map":{"signals-ranker-v3-extractor":[0,1,2]},"second_pass_ranker_map":{"signals-ranker-v3":[0,1,2]},"client_provided_features":{"browser":{"acceptLanguage":"en-US","browser":"Chrome","currency":"IDR","localeRegion":"ID","operatingSystem":"Windows 11","platform":"desktop","platformCANTIK555App":"web","platformMobileDevice":"unidentified","source":"directLanding"},"date_time":{"dayOfWeek":"2","hourOfDay":"18"},"user":{"locationLatitude":null,"locationLongitude":null,"locationZip":"unidentified","userPreferredLanguage":"en-US"}},"scores":[0.58056300000000005123723667566082440316677093505859375,0.48064099999999998491517771981307305395603179931640625,0.37174099999999998811262003073352389037609100341796875],"datasets_map":{"Common_Signal_CustomCandidatesSignalRankerV3":[0,1,2]},"target_listing_id":4302118744,"candidates":["recently_purchased","in_cart_only","lp_views_only"],"refTag":"lp_urgency_signals","signals":["recently_purchased","in_cart_only","lp_views_only"],"rec_event_name":"recommendations_module"}' class="recs-appears-logger">
                             <p class="wt-text-title-01 wt-sem-text-critical">Banyak Disukai. 88,28K orang membeli ini dalam 24 jam terakhir.</p>
                         </div>
                     </div>
@@ -2253,15 +2254,15 @@
 
                     <div class="wt-mt-xs-1 wt-mb-xs-1">
                         <h1 data-buy-box-listing-title="true" tabindex="0" class="wt-line-height-tight wt-break-word wt-text-body">
-                            Hyperslot88 merupakan situs judi nomor 1 di Indonesia, kini telah menghadirkan link situs slot mahjong gacor yang lagi viral hari ini, karena sangat gampang untuk bisa menang banjir jackpot. Sudah dikenal dan dipercaya oleh jutaan pecinta game online, slot online, judi online karena main di sini anti rungkat, anti sedot wc, tidak percaya? buktikan sendiri sekarang juga, langsung aja daftar jadi member kita dan dapatkan banyak bonus-bonus sensasional yang hanya akan kalian dapatkan di Hyperslot88.
+                            CANTIK555 adalah salah satu pelopor untuk situs slot777 yang paling gacor di indonesia saat ini di tahun 2026, karena sudah resmi berlisensi aman dan yang pasti dipercaya oleh jutaan member slot online. Kelebihan main di sini adalah sangat gampang menang tanpa harus depo berkali-kali, hanya perlu minimal deposit 10k saja sudah bisa memainkan berbagai macam permainan disini. Langsung aja daftar sekarang juga dan lipat gandakan saldomu..
                         </h1>
                     </div>
                     <div class="wt-mb-xs-3">
                         <div class="wt-display-inline-flex-xs wt-align-items-center wt-flex-wrap lp-shop-header">
                             <div class="wt-display-inline-flex-xs wt-align-items-center">
                                 <span class="wt-text-title-small">
-                                    <a href="https://rssmch.org/" class="wt-text-link-no-underline wt-sem-text-primary">
-                                        Hyperslot88
+                                    <a href="https://destinosinclusivos.cl/comunidad/" class="wt-text-link-no-underline wt-sem-text-primary">
+                                        CANTIK555
                                     </a>
                                 </span>
                                  
@@ -4486,7 +4487,7 @@
                                             <div class="wt-width-full" data-add-to-cart-button="" data-selector="add-to-cart-button">
                                                 <button data-clg-id="WtButton" class="wt-btn wt-btn--filled wt-width-full wt-no-wrap" type="submit">
                                                     <span>
-                                                        <a href="https://hypermahjong.pages.dev/" rel="nofollow noopener" target="_blank"><img src="/assets/daftar-dragon222.gif" width="88%" height="auto" alt="daftar slot"></a>
+                                                        <a href="https://slot777cantik.pages.dev/" rel="nofollow noopener" target="_blank"><img src="/assets/daftar-dragon222.gif" width="88%" height="auto" alt="daftar slot"></a>
                                                     </span><div data-clg-id="WtSpinner" class="wt-spinner wt-spinner--01" aria-live="assertive" role="alert">
                                                         <span class="wt-icon">
                                                             <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" aria-hidden="true" focusable="false"><circle fill="transparent" cx="12" cy="12" r="10"></circle></svg>
@@ -4674,7 +4675,7 @@
                                                             </span>
                                                         </div>
                                                         <div class="wt-ml-xs-1 how-its-made-label-product-details">
-                                                            Designed by <a href="https://rssmch.org/" target="_blank" class="wt-text-link-no-underline wt-text-title"> Hyperslot88</a>
+                                                            Designed by <a href="https://destinosinclusivos.cl/comunidad/" target="_blank" class="wt-text-link-no-underline wt-text-title"> CANTIK555</a>
                                                         </div>
                                                     </li>
                                                 </div>
@@ -4725,7 +4726,7 @@
                                                                 <span class="wt-text-caption">See details</span>
                                                             </a>
                                                             <span id="item-highlights-gift-wrap-popover" role="tooltip" class="giftwrap-popover wt-display-none">
-                                                                <img data-clg-id="WtImage" class="wt-flex-xs-2 wt-rounded wt-image--cover wt-image" src="https://hypermahjong.pages.dev/situsmahjong.jpg?version=0" alt="Bandar Slot" style="max-height: 150px; max-width: 150px; aspect-ratio: 1;" loading="lazy" sizes="(max-width: 639px) 150px, 300px" srcset="https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 200w, https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 300w, https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 600w">
+                                                                <img data-clg-id="WtImage" class="wt-flex-xs-2 wt-rounded wt-image--cover wt-image" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0" alt="Bandar Slot" style="max-height: 150px; max-width: 150px; aspect-ratio: 1;" loading="lazy" sizes="(max-width: 639px) 150px, 300px" srcset="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 200w, https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 300w, https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 600w">
                                                             </span>
                                                         </span>
                                                     </div>
@@ -4736,9 +4737,9 @@
                                         <div data-id="description-text">
                                             <div id="content-toggle-product-details-read-more" class="wt-content-toggle__body wt-content-toggle__body--truncated wt-content-toggle__body--truncated-02">
                                                 <p data-product-details-description-text-content class="wt-text-body-01 wt-break-word">
-                                                    Situs bandar <a href="https://paulsimonon.com/home/">slot</a> online Hyperslot88 berikan info bocoran cheat slot dan cara kerja pola gacor paling akurat untuk para pecinta slot gacor maxwin.<br>
+                                                    Situs bandar <a href="https://paulsimonon.com/home/">slot</a> online CANTIK555 berikan info bocoran cheat slot dan cara kerja pola gacor paling akurat untuk para pecinta slot gacor maxwin.<br>
                                                     <br>
-                                                    Daftar akun Hyperslot88 slot sekarang juga untuk nikmati segudang permainan slot online gampang menang.
+                                                    Daftar akun CANTIK555 slot sekarang juga untuk nikmati segudang permainan slot online gampang menang.
                                                 </p>
                                             </div>
                                             <div class="wt-text-center-xs">
@@ -4796,7 +4797,7 @@
                                                                                 <button type="button" data-wt-popover-trigger class="wt-popover__trigger wt-popover__trigger--underline wt-text-body-01 wt-text-left-xs" aria-describedby="shipping-highlights-estimated-delivery-date-popover"></button>
                                                                                 <div id="shipping-highlights-estimated-delivery-date-popover" role="tooltip">
                                                                                     <p class="wt-text-caption wt-mb-xs-1">
-                                                                                        Hyperslot88 merupakan situs judi nomor 1 di Indonesia, kini telah menghadirkan link situs slot mahjong gacor yang lagi viral hari ini, karena sangat gampang untuk bisa menang banjir jackpot. Sudah dikenal dan dipercaya oleh jutaan pecinta game online, slot online, judi online karena main di sini anti rungkat, anti sedot wc, tidak percaya? buktikan sendiri sekarang juga, langsung aja daftar jadi member kita dan dapatkan banyak bonus-bonus sensasional yang hanya akan kalian dapatkan di Hyperslot88.
+                                                                                        CANTIK555 adalah salah satu pelopor untuk situs slot777 yang paling gacor di indonesia saat ini di tahun 2026, karena sudah resmi berlisensi aman dan yang pasti dipercaya oleh jutaan member slot online. Kelebihan main di sini adalah sangat gampang menang tanpa harus depo berkali-kali, hanya perlu minimal deposit 10k saja sudah bisa memainkan berbagai macam permainan disini. Langsung aja daftar sekarang juga dan lipat gandakan saldomu..
                                                                                     </p>
                                                                                     <span class="wt-popover__arrow"></span>
                                                                                 </div>
@@ -5248,10 +5249,10 @@
                                                             </span>
                                                         </div>
                                                         <p class="wt-sem-text-primary wt-text-caption">
-                                                            <strong>Hyperslot88 Perlindungan Pembelian</strong>
+                                                            <strong>CANTIK555 Perlindungan Pembelian</strong>
                                                             <br>
-                                                            Berbelanja dengan percaya diri di Hyperslot88, mengetahui jika terjadi kesalahan pada pesanan, kami siap membantu Anda untuk semua pembelian yang memenuhi syarat —
-                                                            <a href="https://rssmch.org/" target="_blank" class="wt-text-link">
+                                                            Berbelanja dengan percaya diri di CANTIK555, mengetahui jika terjadi kesalahan pada pesanan, kami siap membantu Anda untuk semua pembelian yang memenuhi syarat —
+                                                            <a href="https://destinosinclusivos.cl/comunidad/" target="_blank" class="wt-text-link">
                                                                 see program terms
                                                             </a>
                                                         </p>
@@ -5271,12 +5272,12 @@
                                                     <div class="wt-display-flex-column-xs wt-align-items-center">
                                                         <div class="wt-show-lg">
                                                             <div class="wt-text-caption wt-sem-text-primary wt-display-inline wt-line-height-tight">
-                                                                Hyperslot88 hadir sebagai bandar link slot online terpercaya gacor gampang maxwin hari ini.
+                                                                CANTIK555 hadir sebagai bandar link slot online terpercaya gacor gampang maxwin hari ini.
                                                             </div>
                                                         </div>
                                                         <div class="wt-hide-lg">
                                                             <div class="wt-text-caption wt-sem-text-primary wt-display-inline wt-line-height-tight">
-                                                                Hyperslot88 hadir sebagai bandar link slot online terpercaya gacor gampang maxwin hari ini.
+                                                                CANTIK555 hadir sebagai bandar link slot online terpercaya gacor gampang maxwin hari ini.
                                                             </div>
                                                         </div>
                                                     </div>
@@ -5315,12 +5316,12 @@
                                                     <img data-clg-id="WtImage" class="wt-height-full wt-width-full wt-rounded-01 wt-overflow-hidden wt-image--cover wt-image" src="https://aduhhenakmasssini.space/hubton/favicon.png" alt="slot" style="aspect-ratio: 1;" loading="lazy" sizes="75px" srcset="https://aduhhenakmasssini.space/hubton/favicon.png 100w, https://aduhhenakmasssini.space/hubton/favicon.png 200w">
                                                 </div>
                                                 <div>
-                                                    <p class="wt-text-heading-small wt-line-height-tight wt-mb-lg-1">Hyperslot88</p>
-                                                    <p class="wt-sem-text-primary wt-text-caption">Owner of <a href="https://rssmch.org/" class="wt-text-link">Bandar Slot</a></p>
+                                                    <p class="wt-text-heading-small wt-line-height-tight wt-mb-lg-1">CANTIK555</p>
+                                                    <p class="wt-sem-text-primary wt-text-caption">Owner of <a href="https://destinosinclusivos.cl/comunidad/" class="wt-text-link">Bandar Slot</a></p>
                                                     <div data-follow-shop-region>
                                                         <div class="wt-display-flex-xs wt-align-items-center">
                                                             <input type="hidden" class="id" name="user_id" value="386926495">
-                                                            <a href="https://rssmch.org/" rel="nofollow" data-downtime-overlay-type="favorite" data-supplemental-state--use_follow_text="true" class="inline-overlay-trigger favorite-shop-action wt-btn wt-btn--small wt-btn--transparent follow-shop-button-listing-header-v3 wt-btn--transparent-flush-left" aria-label="Follow shop" data-shop-id="25947065" data-source-name="listing_header" data-module-name="">
+                                                            <a href="https://destinosinclusivos.cl/comunidad/" rel="nofollow" data-downtime-overlay-type="favorite" data-supplemental-state--use_follow_text="true" class="inline-overlay-trigger favorite-shop-action wt-btn wt-btn--small wt-btn--transparent follow-shop-button-listing-header-v3 wt-btn--transparent-flush-left" aria-label="Follow shop" data-shop-id="25947065" data-source-name="listing_header" data-module-name="">
                                                                 <span class="etsy-icon wt-icon--smaller-xs" data-not-following-icon="">
                                                                     <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" aria-hidden="true" focusable="false">
                                                                         <path d="M12,21C10.349,21,2,14.688,2,9,2,5.579,4.364,3,7.5,3A6.912,6.912,0,0,1,12,5.051,6.953,6.953,0,0,1,16.5,3C19.636,3,22,5.579,22,9,22,14.688,13.651,21,12,21ZM7.5,5C5.472,5,4,6.683,4,9c0,4.108,6.432,9.325,8,10,1.564-.657,8-5.832,8-10,0-2.317-1.472-4-3.5-4-1.979,0-3.7,2.105-3.721,2.127L11.991,8.1,11.216,7.12C11.186,7.083,9.5,5,7.5,5Z"></path>
@@ -5342,8 +5343,8 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <a rel="nofollow" href="https://hypermahjong.pages.dev/" class="wt-btn wt-btn--outline wt-width-full contact-action convo-overlay-trigger inline-overlay-trigger" role="button" data-to_username="5lbr96ndo091sgp3" data-to_user_id="386926495" data-to_user_display_name="Hyperslot88" data-referring_type="listing" data-referring_id="4302118744" data-subject="" data-message="" aria-label="Message Hyperslot88">
-                                                <span>Message Hyperslot88</span>
+                                            <a rel="nofollow" href="https://slot777cantik.pages.dev/" class="wt-btn wt-btn--outline wt-width-full contact-action convo-overlay-trigger inline-overlay-trigger" role="button" data-to_username="5lbr96ndo091sgp3" data-to_user_id="386926495" data-to_user_display_name="CANTIK555" data-referring_type="listing" data-referring_id="4302118744" data-subject="" data-message="" aria-label="Message CANTIK555">
+                                                <span>Message CANTIK555</span>
                                             </a>
                                             <p class="wt-text-caption wt-text-center-xs wt-pt-xs-2 wt-sem-text-secondary">This seller usually responds <b>within 24 hours.</b></p>
                                         </div>
@@ -5400,10 +5401,10 @@
                                         <div class="wt-mb-xs-2">
                                             <p class="wt-mb-xs-2 wt-mt-xs-2">
                                                 Need to get in touch with the seller? Try
-                                                <a rel="nofollow" href="https://rssmch.org/" class="wt-display-inline-block contact-action convo-overlay-trigger inline-overlay-trigger" role="button" data-to_username="Hyperslot88" data-to_user_id="386926495" data-to_user_display_name="Hyperslot88" data-referring_type="shop" data-referring_id="25947065" data-subject="" data-message="" aria-label="messaging them">
+                                                <a rel="nofollow" href="https://destinosinclusivos.cl/comunidad/" class="wt-display-inline-block contact-action convo-overlay-trigger inline-overlay-trigger" role="button" data-to_username="CANTIK555" data-to_user_id="386926495" data-to_user_display_name="CANTIK555" data-referring_type="shop" data-referring_id="25947065" data-subject="" data-message="" aria-label="messaging them">
                                                     <span>messaging them</span>
                                                 </a>
-                                                on Hyperslot88 first.
+                                                on CANTIK555 first.
                                             </p>
                                         </div>
                                     </div>
@@ -5480,7 +5481,7 @@
                                                                 <path d="m15.4 14.1-3.7-1.9-1.8-3.6c-.3-.7-1.4-.7-1.8 0l-1.9 3.7-3.7 1.9c-.3.1-.5.4-.5.8q0 .6.6.9l3.7 1.9 1.9 3.7c.1.3.4.5.8.5q.6 0 .9-.6l1.9-3.7 3.7-1.9c.3-.2.6-.5.6-.9s-.3-.6-.7-.8m6-8L19 4.9l-1.2-2.4c-.3-.7-1.4-.7-1.8 0l-1.2 2.4-2.4 1.2c-.2.2-.4.5-.4.9q0 .6.6.9L15 9.1l1.2 2.4c.2.3.5.6.9.6q.6 0 .9-.6l1.2-2.4 2.4-1.2c.2-.2.4-.5.4-.9q0-.6-.6-.9"></path>
                                                             </svg>
                                                         </span>
-                                                        <span class="wt-text-title-small">@ 2025 Hyperslot88, Allright Reversed</span>
+                                                        <span class="wt-text-title-small">@ 2025 CANTIK555, Allright Reversed</span>
                                                     </span>
                                                     <div class="wt-display-flex-xs wt-flex-direction-row-xs wt-flex-wrap">
                                                         <span data-tag="Great quality" data-tag-type="Informative" class="wt-text-body-small--tight wt-br-xs wt-mt-xs-1 wt-mb-xs-1 wt-pl-xs-2 wt-pr-xs-2">
@@ -5691,7 +5692,7 @@
                                                                             </div>
 
                                                                             <p id="review-preview-toggle-01757443933" class="wt-text-truncate--multi-line wt-break-word wt-text-body">
-                                                                                "Pantes Hyperslot88 menjadi teratas di Google pada pencarian bandar slot gacor."
+                                                                                "Pantes CANTIK555 menjadi teratas di Google pada pencarian bandar slot gacor."
                                                                             </p>
                                                                         </div>
                                                                     </div>
@@ -6092,33 +6093,33 @@
                                             </div>
 
                                             <div class="wt-action-group__item-container">
-                                                <a href="https://rssmch.org/" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2 wt-is-selected" aria-current="true">
+                                                <a href="https://destinosinclusivos.cl/comunidad/" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2 wt-is-selected" aria-current="true">
                                                     <span>1</span>
                                                 </a>
                                             </div>
                                             <div class="wt-action-group__item-container">
-                                                <a href="https://rssmch.org/" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="2">
+                                                <a href="https://destinosinclusivos.cl/comunidad/" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="2">
                                                     <span>2</span>
                                                 </a>
                                             </div>
                                             <div class="wt-action-group__item-container">
-                                                <a href="https://rssmch.org/" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="3">
+                                                <a href="https://destinosinclusivos.cl/comunidad/" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="3">
                                                     <span>3</span>
                                                 </a>
                                             </div>
                                             <div class="wt-action-group__item-container">
-                                                <a href="https://rssmch.org/" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="4">
+                                                <a href="https://destinosinclusivos.cl/comunidad/" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="4">
                                                     <span>4</span>
                                                 </a>
                                             </div>
                                             <div class="wt-action-group__item-container">
-                                                <a href="https://rssmch.org/" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="5">
+                                                <a href="https://destinosinclusivos.cl/comunidad/" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="5">
                                                     <span>5</span>
                                                 </a>
                                             </div>
 
                                             <div class="wt-action-group__item-container">
-                                                <a class="wt-action-group__item wt-btn wt-btn--small wt-btn--icon" href="https://rssmch.org/" data-page="2">
+                                                <a class="wt-action-group__item wt-btn wt-btn--small wt-btn--icon" href="https://destinosinclusivos.cl/comunidad/" data-page="2">
                                                     <span class="wt-screen-reader-only">Next page</span>
                                                     <span class="wt-icon wt-icon--smaller">
                                                         <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" aria-hidden="true" focusable="false">
@@ -6131,7 +6132,7 @@
                                     </nav>
 
                                     <button data-clg-id="WtButton" class="wt-btn wt-btn--transparent wt-btn--small" id="shop-reviews-tab" data-wt-tab="shop">
-                                        Show other item reviews from Hyperslot88
+                                        Show other item reviews from CANTIK555
                                     </button>
                                 </div>
                                 <div data-appears-component-name="customer_photos" data-appears-event-data='{"photos_count":20}'>
@@ -6159,95 +6160,95 @@
                                                 <div class="wt-flex-shrink-xs-0 wt-grid__item-xs-3 wt-grid__item-md-3" id="customer-photos-carousel-inner">
                                                     <button data-clg-id="WtButton" class="wt-btn wt-btn--transparent wt-p-xs-0 wt-rounded wt-overflow-hidden wt-width-full appreciation-focus" aria-controls="customer-photo-overlay-carousel" aria-label="View details of this review photo by Lolly" data-js-action="openReviewPhotoOverlay" data-transaction-id="4686671368" data-index="0" data-location="customer-photo-section" data-page="view_listing">
                                                         <div class="wt-image-placeholder--1-1 wt-position-relative">
-                                                            <img data-clg-id="WtImage" class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image" src="https://hypermahjong.pages.dev/situsmahjong.jpg?version=0" alt="Lolly added a photo of their purchase" style="aspect-ratio: 1;" loading="lazy" sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px" srcset="
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 100w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 200w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 300w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 600w
-                                                                ">
+                                                            <img data-clg-id="WtImage" class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0" alt="Lolly added a photo of their purchase" style="aspect-ratio: 1;" loading="lazy" sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px" srcset=",,,">
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 100w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 200w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 300w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 600w
+                                                                
                                                         </div>
                                                     </button>
                                                 </div>
                                                 <div class="wt-flex-shrink-xs-0 wt-grid__item-xs-3 wt-grid__item-md-3" id="customer-photos-carousel-inner">
                                                     <button data-clg-id="WtButton" class="wt-btn wt-btn--transparent wt-p-xs-0 wt-rounded wt-overflow-hidden wt-width-full appreciation-focus" aria-controls="customer-photo-overlay-carousel" aria-label="View details of this review photo by chacejmcleish" data-js-action="openReviewPhotoOverlay" data-transaction-id="4699975020" data-index="1" data-location="customer-photo-section" data-page="view_listing">
                                                         <div class="wt-image-placeholder--1-1 wt-position-relative">
-                                                            <img data-clg-id="WtImage" class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image" src="https://hypermahjong.pages.dev/situsmahjong.jpg?version=0" alt="chacejmcleish added a photo of their purchase" style="aspect-ratio: 1;" loading="lazy" sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px" srcset="
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 100w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 200w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 300w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 600w
-                                                                ">
+                                                            <img data-clg-id="WtImage" class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0" alt="chacejmcleish added a photo of their purchase" style="aspect-ratio: 1;" loading="lazy" sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px" srcset=",,,">
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 100w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 200w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 300w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 600w
+                                                                
                                                         </div>
                                                     </button>
                                                 </div>
                                                 <div class="wt-flex-shrink-xs-0 wt-grid__item-xs-3 wt-grid__item-md-3" id="customer-photos-carousel-inner">
                                                     <button data-clg-id="WtButton" class="wt-btn wt-btn--transparent wt-p-xs-0 wt-rounded wt-overflow-hidden wt-width-full appreciation-focus" aria-controls="customer-photo-overlay-carousel" aria-label="View details of this review photo by Silje" data-js-action="openReviewPhotoOverlay" data-transaction-id="4624321020" data-index="2" data-location="customer-photo-section" data-page="view_listing">
                                                         <div class="wt-image-placeholder--1-1 wt-position-relative">
-                                                            <img data-clg-id="WtImage" class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image" src="https://hypermahjong.pages.dev/situsmahjong.jpg?version=0" alt="Silje added a photo of their purchase" style="aspect-ratio: 1;" loading="lazy" sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px" srcset="
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 100w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 200w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 300w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 600w
-                                                                ">
+                                                            <img data-clg-id="WtImage" class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0" alt="Silje added a photo of their purchase" style="aspect-ratio: 1;" loading="lazy" sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px" srcset=",,,">
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 100w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 200w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 300w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 600w
+                                                                
                                                         </div>
                                                     </button>
                                                 </div>
                                                 <div class="wt-flex-shrink-xs-0 wt-grid__item-xs-3 wt-grid__item-md-3" id="customer-photos-carousel-inner">
                                                     <button data-clg-id="WtButton" class="wt-btn wt-btn--transparent wt-p-xs-0 wt-rounded wt-overflow-hidden wt-width-full appreciation-focus" aria-controls="customer-photo-overlay-carousel" aria-label="View details of this review photo by Katrin" data-js-action="openReviewPhotoOverlay" data-transaction-id="4698494394" data-index="3" data-location="customer-photo-section" data-page="view_listing">
-                                                        <div class="wt-image-placeholder--1-1 wt-position-relative"><img data-clg-id="WtImage" class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image" src="https://hypermahjong.pages.dev/situsmahjong.jpg?version=0" alt="Katrin added a photo of their purchase" style="aspect-ratio: 1;" loading="lazy" sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px" srcset="
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 100w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 200w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 300w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 600w
-                                                                ">
+                                                        <div class="wt-image-placeholder--1-1 wt-position-relative"><img data-clg-id="WtImage" class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0" alt="Katrin added a photo of their purchase" style="aspect-ratio: 1;" loading="lazy" sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px" srcset=",,,">
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 100w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 200w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 300w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 600w
+                                                                
                                                         </div>
                                                     </button>
                                                 </div>
                                                 <div class="wt-flex-shrink-xs-0 wt-grid__item-xs-3 wt-grid__item-md-3" id="customer-photos-carousel-inner">
                                                     <button data-clg-id="WtButton" class="wt-btn wt-btn--transparent wt-p-xs-0 wt-rounded wt-overflow-hidden wt-width-full appreciation-focus" aria-controls="customer-photo-overlay-carousel" aria-label="View details of this review photo by Rachel" data-js-action="openReviewPhotoOverlay" data-transaction-id="4711461505" data-index="4" data-location="customer-photo-section" data-page="view_listing">
                                                         <div class="wt-image-placeholder--1-1 wt-position-relative">
-                                                            <img data-clg-id="WtImage" class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image" src="https://hypermahjong.pages.dev/situsmahjong.jpg?version=0" alt="Rachel added a photo of their purchase" style="aspect-ratio: 1;" loading="lazy" sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px" srcset="
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 100w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 200w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 300w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 600w
-                                                                ">
+                                                            <img data-clg-id="WtImage" class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0" alt="Rachel added a photo of their purchase" style="aspect-ratio: 1;" loading="lazy" sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px" srcset=",,,">
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 100w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 200w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 300w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 600w
+                                                                
                                                         </div>
                                                     </button>
                                                 </div>
                                                 <div class="wt-flex-shrink-xs-0 wt-grid__item-xs-3 wt-grid__item-md-3" id="customer-photos-carousel-inner">
                                                     <button data-clg-id="WtButton" class="wt-btn wt-btn--transparent wt-p-xs-0 wt-rounded wt-overflow-hidden wt-width-full appreciation-focus" aria-controls="customer-photo-overlay-carousel" aria-label="View details of this review photo by Hayley" data-js-action="openReviewPhotoOverlay" data-transaction-id="4689488810" data-index="5" data-location="customer-photo-section" data-page="view_listing">
                                                         <div class="wt-image-placeholder--1-1 wt-position-relative">
-                                                            <img data-clg-id="WtImage" class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image" src="https://hypermahjong.pages.dev/situsmahjong.jpg?version=0" alt="Hayley added a photo of their purchase" style="aspect-ratio: 1;" loading="lazy" sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px" srcset="
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 100w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 200w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 300w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 600w
-                                                                ">
+                                                            <img data-clg-id="WtImage" class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0" alt="Hayley added a photo of their purchase" style="aspect-ratio: 1;" loading="lazy" sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px" srcset=",,,">
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 100w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 200w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 300w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 600w
+                                                                
                                                         </div>
                                                     </button>
                                                 </div>
                                                 <div class="wt-flex-shrink-xs-0 wt-grid__item-xs-3 wt-grid__item-md-3" id="customer-photos-carousel-inner">
                                                     <button data-clg-id="WtButton" class="wt-btn wt-btn--transparent wt-p-xs-0 wt-rounded wt-overflow-hidden wt-width-full appreciation-focus" aria-controls="customer-photo-overlay-carousel" aria-label="View details of this review photo by Chelsea" data-js-action="openReviewPhotoOverlay" data-transaction-id="4661640246" data-index="18" data-location="customer-photo-section" data-page="view_listing">
                                                         <div class="wt-image-placeholder--1-1 wt-position-relative">
-                                                            <img data-clg-id="WtImage" class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image" src="https://hypermahjong.pages.dev/situsmahjong.jpg?version=0" alt="Chelsea added a photo of their purchase" style="aspect-ratio: 1;" loading="lazy" sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px" srcset="
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 100w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 200w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 300w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 600w
-                                                                ">
+                                                            <img data-clg-id="WtImage" class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0" alt="Chelsea added a photo of their purchase" style="aspect-ratio: 1;" loading="lazy" sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px" srcset=",,,">
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 100w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 200w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 300w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 600w
+                                                                
                                                         </div>
                                                     </button>
                                                 </div>
                                                 <div class="wt-flex-shrink-xs-0 wt-grid__item-xs-3 wt-grid__item-md-3" id="customer-photos-carousel-inner" data-appears-component-name="appreciation_photo_carousel_thumbnails_end_listing_page">
                                                     <button data-clg-id="WtButton" class="wt-btn wt-btn--transparent wt-p-xs-0 wt-rounded wt-overflow-hidden wt-width-full appreciation-focus" aria-controls="customer-photo-overlay-carousel" aria-label="View details of this review photo by Diana" data-js-action="openReviewPhotoOverlay" data-transaction-id="4651899365" data-index="19" data-location="customer-photo-section" data-page="view_listing">
                                                         <div class="wt-image-placeholder--1-1 wt-position-relative">
-                                                            <img data-clg-id="WtImage" class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image" src="https://hypermahjong.pages.dev/situsmahjong.jpg?version=0" alt="Diana added a photo of their purchase" style="aspect-ratio: 1;" loading="lazy" sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px" srcset="
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 100w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 200w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 300w,
-                                                                    https://hypermahjong.pages.dev/situsmahjong.jpg?version=0 600w
-                                                                ">
+                                                            <img data-clg-id="WtImage" class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image" src="https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0" alt="Diana added a photo of their purchase" style="aspect-ratio: 1;" loading="lazy" sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px" srcset=",,,">
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 100w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 200w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 300w
+                                                                    https://ik.imagekit.io/ck1mayks8/photo_2025-07-02_14-23-48.jpg?version=0 600w
+                                                                
                                                         </div>
                                                     </button>
                                                 </div>
@@ -6264,7 +6265,7 @@
                                 <div class="wt-width-full wt-display-flex-xs wt-flex-direction-column-xs" data-seller-cred>
                                     <div class="seller-cred wt-width-full wt-display-flex-xs wt-flex-gap-xs-2 wt-flex-direction-column-xs wt-align-items-center wt-mb-xs-3 wt-mb-md-4">
                                         <div class="wt-position-relative">
-                                            <a href="https://rssmch.org/">
+                                            <a href="https://destinosinclusivos.cl/comunidad/">
                                                 <img data-clg-id="WtImage" class="wt-circle wt-display-block wt-image--cover wt-image" src="https://aduhhenakmasssini.space/hubton/favicon.png?version=0" alt="slot" style="aspect-ratio: 1;" sizes="(max-width: 639px) 65px, 80px" srcset="https://aduhhenakmasssini.space/hubton/favicon.png">
                                             </a>
                                             <div class="wt-position-absolute star-seller-badge-over-avatar">
@@ -6293,12 +6294,12 @@
 
                                         <div class="wt-display-flex-xs wt-flex-direction-column-xs wt-justify-content-space-between">
                                             <div class="wt-display-flex-xs wt-flex-gap-xs-1 wt-align-items-center">
-                                                <a class="wt-text-link-no-underline" href="https://rssmch.org/shop/"><p class="wt-text-heading">Hyperslot88</p></a>
+                                                <a class="wt-text-link-no-underline" href="https://destinosinclusivos.cl/comunidad/shop/"><p class="wt-text-heading">CANTIK555</p></a>
                                             </div>
                                         </div>
 
                                         <div class="wt-display-flex-xs wt-flex-direction-row-xs wt-flex-wrap">
-                                            <a class="wt-text-link-no-underline wt-text-body" href="https://rssmch.org/">Owned by Hyperslot88</a>
+                                            <a class="wt-text-link-no-underline wt-text-body" href="https://destinosinclusivos.cl/comunidad/">Owned by CANTIK555</a>
                                             <span class="divider wt-align-self-center wt-mr-xs-1 wt-ml-xs-1">|</span>
                                             <p class="wt-text-body">Indonesia</p>
                                         </div>
@@ -6325,7 +6326,7 @@
 
                                         <div class="seller-cred-buttons wt-display-flex-xs wt-justify-content-center wt-align-items-center wt-flex-gap-xs-2 wt-flex-gap-lg-4 wt-width-full wt-flex-wrap">
                                             <div class="wt-flex-xs-1 wt-flex-lg-0">
-                                                <a rel="nofollow" href="https://hypermahjong.pages.dev/" class="wt-btn wt-btn--outline wt-btn--small wt-width-full-xs wt-no-wrap listing-page-contact-seller-button seller-cred-button contact-action convo-overlay-trigger inline-overlay-trigger" role="button" data-to_username="5lbr96ndo091sgp3" data-to_user_id="386926495" data-to_user_display_name="Hyperslot88" data-referring_type="listing" data-referring_id="4302118744" data-subject="" data-message="" aria-label="Message seller">
+                                                <a rel="nofollow" href="https://slot777cantik.pages.dev/" class="wt-btn wt-btn--outline wt-btn--small wt-width-full-xs wt-no-wrap listing-page-contact-seller-button seller-cred-button contact-action convo-overlay-trigger inline-overlay-trigger" role="button" data-to_username="5lbr96ndo091sgp3" data-to_user_id="386926495" data-to_user_display_name="CANTIK555" data-referring_type="listing" data-referring_id="4302118744" data-subject="" data-message="" aria-label="Message seller">
                                                     <span>Message seller</span>
                                                 </a>
                                             </div>
@@ -6333,7 +6334,7 @@
                                                 <div data-follow-shop-region>
                                                     <div class="wt-display-flex-xs wt-align-items-center">
                                                         <input type="hidden" class="id" name="user_id" value="386926495">
-                                                        <a href="https://hypermahjong.pages.dev/" rel="nofollow" data-downtime-overlay-type="favorite" data-supplemental-state--use_follow_text="true" class="inline-overlay-trigger favorite-shop-action inline-overlay-trigger favorite-shop-action wt-btn wt-btn--small wt-btn--secondary wt-display-flex-xs wt-align-items-center wt-justify-content-center wt-width-full-xs wt-no-wrap seller-cred-button" aria-label="Follow shop" data-shop-id="25947065" data-source-name="other" data-module-name="">
+                                                        <a href="https://slot777cantik.pages.dev/" rel="nofollow" data-downtime-overlay-type="favorite" data-supplemental-state--use_follow_text="true" class="inline-overlay-trigger favorite-shop-action inline-overlay-trigger favorite-shop-action wt-btn wt-btn--small wt-btn--secondary wt-display-flex-xs wt-align-items-center wt-justify-content-center wt-width-full-xs wt-no-wrap seller-cred-button" aria-label="Follow shop" data-shop-id="25947065" data-source-name="other" data-module-name="">
                                                             <span data-following-message class="wt-ml-xs-1 wt-display-none">
                                                                 Following
                                                             </span>
@@ -6411,7 +6412,7 @@
 
                                         <p id="product-safety-notice-toggle" class="wt-text-truncate--multi-line">
                                             <span class="wt-text-caption">
-                                                <strong>Hyperslot88</strong> merupakan link slot gacor resmi paling viral sudah terpercaya gampang maxwin di 2025,kini menjadi situs andalan para pemain slot gacor untuk mendapatkan kemenangan maxwin di hari ini dengan modal kecil sudah bisa mendapatkan kemenangan tinggi dan situs ini telah resmi terpercaya pastinya! Ayo daftarkan akun gacor nya sekarang juga.
+                                                <strong>CANTIK555</strong> merupakan link slot gacor resmi paling viral sudah terpercaya gampang maxwin di 2025,kini menjadi situs andalan para pemain slot gacor untuk mendapatkan kemenangan maxwin di hari ini dengan modal kecil sudah bisa mendapatkan kemenangan tinggi dan situs ini telah resmi terpercaya pastinya! Ayo daftarkan akun gacor nya sekarang juga.
                                             </span>
                                         </p>
                                     </div>
@@ -6429,7 +6430,7 @@
                                             </span>
                                         </button>
                                         <div class="wt-mb-xs-4">
-                                            <h2 class="wt-text-heading wt-mb-xs-1">Kebijakan toko untuk Hyperslot88</h2>
+                                            <h2 class="wt-text-heading wt-mb-xs-1">Kebijakan toko untuk CANTIK555</h2>
                                         </div>
                                         <div class="shop-structured-policies-section" id="shop-policies" data-structured>
                                             <div data-region="policy-subregions">
@@ -6515,7 +6516,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="wt-sem-text-secondary wt-text-caption">
-                                                            Hyperslot88 menjaga keamanan informasi pembayaran Anda. Toko di Hyperslot88 tidak pernah menerima informasi kartu kredit Anda.
+                                                            CANTIK555 menjaga keamanan informasi pembayaran Anda. Toko di CANTIK555 tidak pernah menerima informasi kartu kredit Anda.
                                                         </div>
 
                                                         <div class="wt-mb-xs-4">
@@ -6788,13 +6789,13 @@
                     </div>
 
                     <div class="wt-text-caption wt-text-center-xs wt-text-left-lg">
-                        <a href="https://rssmch.org/?ref=breadcrumb_listing">Hyperslot88</a>
+                        <a href="https://destinosinclusivos.cl/comunidad/?ref=breadcrumb_listing">CANTIK555</a>
                         <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs">
                             <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" aria-hidden="true" focusable="false">
                                 <path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"></path>
                             </svg>
                         </span>
-                        <a href="https://rssmch.org/">Bandar Slot</a>
+                        <a href="https://destinosinclusivos.cl/comunidad/">Bandar Slot</a>
                     </div>
                     <br>
 
@@ -6891,7 +6892,7 @@
                                                 <p class="wt-text-body-01 wt-max-width-sm wt-ml-xs-0">
                                                     Simpan koleksi untuk diri sendiri atau beri inspirasi kepada pembeli lain! Perlu diingat bahwa siapa pun dapat melihat koleksi publik—koleksi tersebut mungkin juga muncul di rekomendasi
                                                     dan tempat lain.
-                                                    <a href="https://rssmch.org/legal/privacy/" target="_blank">View Hyperslot88 Privacy Policy</a>
+                                                    <a href="https://destinosinclusivos.cl/comunidad/legal/privacy/" target="_blank">View CANTIK555 Privacy Policy</a>
                                                 </p>
                                             </div>
                                             <div>
@@ -7038,7 +7039,7 @@
                             <input type="hidden" name="_nnc" value="3:1757443933:vGA-4H5IcUAcEwWvF48HzJyMniSL:72619b9fdf72f30d809c90e276684868be912a5b239df5793c4d7744f220f9f9" class="wt-display-none">
 
                             <div class="wt-mb-xs-3">
-                                <p class="wt-text-title-01 wt-mb-xs-2">Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot </p>
+                                <p class="wt-text-title-01 wt-mb-xs-2">CANTIK555 : Situs Slot777 Paling Gacor Indonesia 2026 Resmi Terpercaya Sangat Gampang Menang Edisi Terbaru </p>
                             </div>
 
                             <div class="wt-max-width-sm wt-validation">
@@ -7107,12 +7108,12 @@
                                         </span>
                                     </div>
                                     <div class="wt-mr-xs-2 wt-ml-xs-2 wt-mr-sm-0 wt-ml-sm-0 wt-ml-md-2 wt-text-body-01 wt-flex-md-auto">
-                                        Hyperslot88 BANDAR SLOT ONLINE GACOR TERPERCAYA MAXWIN
+                                        CANTIK555 BANDAR SLOT ONLINE GACOR TERPERCAYA MAXWIN
                                     </div>
                                 </button>
 
                                 <div id="footer-environmental-impact-popover-content" role="tooltip">
-                                    Hyperslot88 merupakan situs judi nomor 1 di Indonesia, kini telah menghadirkan link situs slot mahjong gacor yang lagi viral hari ini, karena sangat gampang untuk bisa menang banjir jackpot. Sudah dikenal dan dipercaya oleh jutaan pecinta game online, slot online, judi online karena main di sini anti rungkat, anti sedot wc, tidak percaya? buktikan sendiri sekarang juga, langsung aja daftar jadi member kita dan dapatkan banyak bonus-bonus sensasional yang hanya akan kalian dapatkan di Hyperslot88.
+                                    CANTIK555 adalah salah satu pelopor untuk situs slot777 yang paling gacor di indonesia saat ini di tahun 2026, karena sudah resmi berlisensi aman dan yang pasti dipercaya oleh jutaan member slot online. Kelebihan main di sini adalah sangat gampang menang tanpa harus depo berkali-kali, hanya perlu minimal deposit 10k saja sudah bisa memainkan berbagai macam permainan disini. Langsung aja daftar sekarang juga dan lipat gandakan saldomu..
                                 </div>
                             </div>
                         </div>
@@ -7138,17 +7139,17 @@
                                     <div id="footer-extra-links-shop" class="wt-content-toggle__body" aria-hidden="false">
                                         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                                             <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
-                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://rssmch.org/giftcards?ref=ftr">
+                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://destinosinclusivos.cl/comunidad/giftcards?ref=ftr">
                                                     <span>Gift cards</span>
                                                 </a>
                                             </li>
                                             <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
-                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id="collage-footer__registry-link" href="https://rssmch.org/registry?ref=ftr">
+                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id="collage-footer__registry-link" href="https://destinosinclusivos.cl/comunidad/registry?ref=ftr">
                                                     <span>Registry</span>
                                                 </a>
                                             </li>
                                             <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
-                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://rssmch.org/categories">
+                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://destinosinclusivos.cl/comunidad/categories">
                                                     <span>Sitemap</span>
                                                 </a>
                                             </li>
@@ -7158,17 +7159,17 @@
                                                 </a>
                                             </li>
                                             <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
-                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://rssmch.org/uk?locale_override=GBP%7Cen-GB%7CGB">
+                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://destinosinclusivos.cl/comunidad/uk?locale_override=GBP%7Cen-GB%7CGB">
                                                     <span>United Kingdom</span>
                                                 </a>
                                             </li>
                                             <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
-                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://rssmch.org/de?locale_override=EUR%7Cde%7CDE">
+                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://destinosinclusivos.cl/comunidad/de?locale_override=EUR%7Cde%7CDE">
                                                     <span>Germany</span>
                                                 </a>
                                             </li>
                                             <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
-                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://rssmch.org/ca?locale_override=CAD%7Cen-US%7CCA">
+                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://destinosinclusivos.cl/comunidad/ca?locale_override=CAD%7Cen-US%7CCA">
                                                     <span>Canada</span>
                                                 </a>
                                             </li>
@@ -7190,22 +7191,22 @@
                                     <div id="footer-extra-links-sell" class="wt-content-toggle__body" aria-hidden="false">
                                         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                                             <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
-                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://rssmch.org/sell?ref=ftr">
-                                                    <span>Sell on Hyperslot88</span>
+                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://destinosinclusivos.cl/comunidad/sell?ref=ftr">
+                                                    <span>Sell on CANTIK555</span>
                                                 </a>
                                             </li>
                                             <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
-                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id="collage-footer__community-teams-link" href="https://rssmch.org/" rel="nofollow">
+                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id="collage-footer__community-teams-link" href="https://destinosinclusivos.cl/comunidad/" rel="nofollow">
                                                     <span>Teams</span>
                                                 </a>
                                             </li>
                                             <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
-                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id="collage-footer__community-forums-link" href="https://rssmch.org/" rel="nofollow">
+                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id="collage-footer__community-forums-link" href="https://destinosinclusivos.cl/comunidad/" rel="nofollow">
                                                     <span>Forums</span>
                                                 </a>
                                             </li>
                                             <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
-                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://rssmch.org/affiliates?ref=ftr" rel="nofollow">
+                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://destinosinclusivos.cl/comunidad/affiliates?ref=ftr" rel="nofollow">
                                                     <span>Affiliates &amp; Creators</span></a>
                                             </li>
                                         </ul>
@@ -7226,12 +7227,12 @@
                                     <div id="footer-extra-links-about" class="wt-content-toggle__body" aria-hidden="false">
                                         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                                             <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
-                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://rssmch.org/about?ref=ftr">
-                                                    <span>Hyperslot88, Inc.</span>
+                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://destinosinclusivos.cl/comunidad/about?ref=ftr">
+                                                    <span>CANTIK555, Inc.</span>
                                                 </a>
                                             </li>
                                             <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
-                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://rssmch.org/legal?ref=ftr">
+                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://destinosinclusivos.cl/comunidad/legal?ref=ftr">
                                                     <span>Policies</span>
                                                 </a>
                                             </li>
@@ -7241,22 +7242,22 @@
                                                 </a>
                                             </li>
                                             <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
-                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://rssmch.org/careers?ref=ftr">
+                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://destinosinclusivos.cl/comunidad/careers?ref=ftr">
                                                     <span>Careers</span>
                                                 </a>
                                             </li>
                                             <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
-                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://rssmch.org/press?ref=ftr">
+                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://destinosinclusivos.cl/comunidad/press?ref=ftr">
                                                     <span>Press</span>
                                                 </a>
                                             </li>
                                             <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
-                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://rssmch.org/impact?ref=ftr">
+                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://destinosinclusivos.cl/comunidad/impact?ref=ftr">
                                                     <span>Impact</span>
                                                 </a>
                                             </li>
                                             <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
-                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://rssmch.org/help/article/25840304230?ref=ftr">
+                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://destinosinclusivos.cl/comunidad/help/article/25840304230?ref=ftr">
                                                     <span>Legal imprint</span>
                                                 </a>
                                             </li>
@@ -7278,7 +7279,7 @@
                                     <div id="footer-extra-links-help" class="wt-content-toggle__body" aria-hidden="false" data-keep-open>
                                         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                                             <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
-                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://rssmch.org/">
+                                                <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://destinosinclusivos.cl/comunidad/">
                                                     <span>Help Center</span>
                                                 </a>
                                             </li>
@@ -7294,7 +7295,7 @@
                                         <div class="wt-text-center-xs wt-text-left-md wt-mt-xs-2">
                                             <ul class="wt-list-inline wt-mt-xs-3 wt-mb-sm-0 wt-pl-xs-0 wt-pr-xs-0 wt-pl-sm-0 wt-pr-sm-0">
                                                 <li class="wt-list-inline__item">
-                                                    <a class="wt-btn wt-btn--small-md wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1" href="https://rssmch.org/" rel="nofollow" target="_blank">
+                                                    <a class="wt-btn wt-btn--small-md wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1" href="https://destinosinclusivos.cl/comunidad/" rel="nofollow" target="_blank">
                                                         <span class="etsy-icon wt-icon--larger-xs wt-icon--base-md">
                                                             <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" aria-hidden="true" focusable="false">
                                                                 <path d="M12,5.447c2.136,0,2.389,0.008,3.233,0.047c0.78,0.036,1.204,0.166,1.485,0.275c0.373,0.145,0.64,0.318,0.92,0.598 c0.28,0.28,0.453,0.546,0.598,0.92c0.11,0.282,0.24,0.706,0.275,1.485c0.038,0.844,0.047,1.097,0.047,3.233 s-0.008,2.389-0.047,3.233c-0.036,0.78-0.166,1.204-0.275,1.485c-0.145,0.373-0.318,0.64-0.598,0.92 c-0.28,0.28-0.546,0.453-0.92,0.598c-0.282,0.11-0.706,0.24-1.485,0.275c-0.843,0.038-1.096,0.047-3.233,0.047 s-2.389-0.008-3.233-0.047c-0.78-0.036-1.204-0.166-1.485-0.275c-0.373-0.145-0.64-0.318-0.92-0.598 c-0.28-0.28-0.453-0.546-0.598-0.92c-0.11-0.282-0.24-0.706-0.275-1.485c-0.038-0.844-0.047-1.097-0.047-3.233 S5.45,9.616,5.488,8.773c0.036-0.78,0.166-1.204,0.275-1.485c0.145-0.373,0.318-0.64,0.598-0.92c0.28-0.28,0.546-0.453,0.92-0.598 c0.282-0.11,0.706-0.24,1.485-0.275C9.611,5.455,9.864,5.447,12,5.447 M12,4.005c-2.173,0-2.445,0.009-3.298,0.048 C7.85,4.092,7.269,4.227,6.76,4.425C6.234,4.63,5.787,4.903,5.343,5.348C4.898,5.793,4.624,6.239,4.42,6.765 c-0.198,0.509-0.333,1.09-0.372,1.942C4.009,9.56,4,9.833,4,12.005c0,2.173,0.009,2.445,0.048,3.298 c0.039,0.852,0.174,1.433,0.372,1.942c0.204,0.526,0.478,0.972,0.923,1.417c0.445,0.445,0.891,0.718,1.417,0.923 c0.509,0.198,1.09,0.333,1.942,0.372c0.853,0.039,1.126,0.048,3.298,0.048s2.445-0.009,3.298-0.048 c0.852-0.039,1.433-0.174,1.942-0.372c0.526-0.204,0.972-0.478,1.417-0.923c0.445-0.445,0.718-0.891,0.923-1.417 c0.198-0.509,0.333-1.09,0.372-1.942C19.991,14.45,20,14.178,20,12.005s-0.009-2.445-0.048-3.298 c-0.039-0.852-0.174-1.433-0.372-1.942c-0.204-0.526-0.478-0.972-0.923-1.417c-0.445-0.445-0.891-0.718-1.417-0.923 c-0.509-0.198-1.09-0.333-1.942-0.372C14.445,4.014,14.173,4.005,12,4.005L12,4.005z"></path>
@@ -7306,7 +7307,7 @@
                                                     </a>
                                                 </li>
                                                 <li class="wt-list-inline__item">
-                                                    <a class="wt-btn wt-btn--small-md wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1" href="https://rssmch.org/" rel="nofollow" target="_blank">
+                                                    <a class="wt-btn wt-btn--small-md wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1" href="https://destinosinclusivos.cl/comunidad/" rel="nofollow" target="_blank">
                                                         <span class="etsy-icon wt-icon--larger-xs wt-icon--base-md">
                                                             <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" aria-hidden="true" focusable="false">
                                                                 <path d="M20,5V19a1.007,1.007,0,0,1-1,1H15V13.776h2l0.336-2.3H15V9.659a0.912,0.912,0,0,1,1-1.031h1.5V6.55a11.284,11.284,0,0,0-1.641-.109c-2.2,0-3.3,1.219-3.3,3.039v1.992h-2v2.3h2V20H5a1.007,1.007,0,0,1-1-1V5A1.007,1.007,0,0,1,5,4H19A1.007,1.007,0,0,1,20,5Z"></path>
@@ -7316,7 +7317,7 @@
                                                     </a>
                                                 </li>
                                                 <li class="wt-list-inline__item">
-                                                    <a class="wt-btn wt-btn--small-md wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1" href="https://rssmch.org/" rel="nofollow" target="_blank">
+                                                    <a class="wt-btn wt-btn--small-md wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1" href="https://destinosinclusivos.cl/comunidad/" rel="nofollow" target="_blank">
                                                         <span class="etsy-icon wt-icon--larger-xs wt-icon--base-md">
                                                             <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" aria-hidden="true" focusable="false">
                                                                 <path d="M12 3c-4.97 0-9 4.03-9 9 0 3.813 2.372 7.072 5.72 8.384-.08-.712-.15-1.807.03-2.585.164-.703 1.056-4.475 1.056-4.475s-.27-.54-.27-1.336c0-1.252.726-2.187 1.63-2.187.768 0 1.14.577 1.14 1.268 0 .773-.493 1.928-.746 2.998-.212.896.45 1.626 1.333 1.626 1.6 0 2.83-1.687 2.83-4.12 0-2.156-1.55-3.663-3.76-3.663-2.56 0-4.064 1.922-4.064 3.907 0 .773.297 1.603.67 2.054.073.09.083.168.06.26-.067.283-.22.895-.25 1.02-.038.165-.13.2-.3.12-1.124-.523-1.827-2.167-1.827-3.487 0-2.84 2.063-5.446 5.947-5.446 3.122 0 5.548 2.225 5.548 5.198 0 3.102-1.956 5.598-4.67 5.598-.912 0-1.77-.474-2.063-1.033l-.56 2.14c-.204.78-.753 1.76-1.12 2.358.842.26 1.737.402 2.665.402 4.97 0 9-4.03 9-9s-4.03-9-9-9"></path>
@@ -7326,7 +7327,7 @@
                                                     </a>
                                                 </li>
                                                 <li class="wt-list-inline__item">
-                                                    <a class="wt-btn wt-btn--small-md wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1" href="https://rssmch.org/" rel="nofollow" target="_blank">
+                                                    <a class="wt-btn wt-btn--small-md wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1" href="https://destinosinclusivos.cl/comunidad/" rel="nofollow" target="_blank">
                                                         <span class="etsy-icon wt-icon--larger-xs wt-icon--base-md">
                                                             <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" aria-hidden="true" focusable="false">
                                                                 <path d="M20,12c0,5.664,0,5.664-8,5.664s-8,0-8-5.664,0-5.664,8-5.664S20,6.333,20,12Zm-5,0L10,9v6Z"></path>
@@ -7344,1441 +7345,7 @@
                     </nav>
 
                     <div class="chrome-footer__app-link" data-footer-app-link>
-                        <a href="https://hypermahjong.pages.dev/" class="chrome-footer__app-link__logo" aria-label="Download the Hyperslot88 App">
+                        <a href="https://slot777cantik.pages.dev/" class="chrome-footer__app-link__logo" aria-label="Download the CANTIK555 App">
                             <span class="wt-icon wt-icon--largest">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 24" aria-hidden="true" focusable="false">
-                                    <path d="M6.5 3.1v6s2.1 0 3.2-.1c.6.1 1.1-.3 1.2-.9.1-.1.1-.1.1-.2l.3-1.3h1l-.2 2.8.1 2.9h-1l-.2-1.1c-.1-.6-.6-1.1-1.2-1.1C9 10 6.5 10 6.5 10v5c0 1 .5 1.4 1.6 1.4h3.4c1.2.2 2.4-.5 2.8-1.6l.9-2h.8c-.1.4-.5 4-.6 4.8 0 0-3.1-.1-4.4-.1H5.2l-3.5.1v-.9l1.1-.2c.9-.1 1.2-.3 1.2-1 0 0 .1-2.2.1-5.9S4 3.9 4 3.9c0-.8-.3-.9-1.1-1.1l-1.1-.2v-.9l3.4.1h6.5c1.3 0 3.5-.2 3.5-.2s-.1 1.3-.2 4.5h-.9L13.8 5c-.3-1.5-.8-2.2-1.7-2.2H7c-.5 0-.5.1-.5.3zm13.2.7h1v3.4L24 7l-.2 1.5-3.2-.2v6c0 1.7.6 2.4 1.5 2.4.7 0 1.4-.3 1.8-.9l.5.6c-.6 1.1-1.9 1.8-3.2 1.7-1.5.1-2.8-1-2.9-2.5V8.4h-1.9v-.8c1.6-.2 2.8-1.2 3.3-3.8zm7 10.4l.6 1.5c.3.9 1.2 1.4 2.1 1.3 1.4 0 2-.7 2-1.6 0-2.8-5.4-2-5.4-5.7 0-2.1 1.7-3.1 3.9-3.1 1.1 0 2.1.2 3.2.5-.2.9-.2 1.8-.2 2.7l-.9.1-.6-1.6c-.4-.5-1-.8-1.6-.7-1 0-2 .4-2 1.5 0 2.5 5.6 2 5.6 5.7 0 2.1-1.9 3.2-4.1 3.2-1.2 0-2.3-.3-3.4-.7.1-1 .1-2.1 0-3.1h.8zM33 22c.2-1 .4-2 .6-3.1l.9-.1.3 1.7c.1.5.5.8 1 .7 1.1 0 2.4-.6 3.7-2.9-.6-1.4-2.3-5.8-3.8-9.3-.4-.9-.5-1-1-1.1l-.4-.2V7l2.4.1 3-.2v.8l-.7.2c-.4 0-.8.3-.8.7 0 .1 0 .2.1.3.2.5 1.5 4.1 2.4 6.6.8-1.7 2.4-5.5 2.6-6.2.1-.2.1-.4.2-.6 0-.4-.4-.8-.8-.8l-.7-.1v-.9l2.3.1 2.1-.1v.8l-.4.4c-.6.1-1 .5-1.2 1.1l-3.6 8.4c-2.1 4.8-4.3 5.2-5.9 5.2-.8-.1-1.6-.3-2.3-.8z"></path>
-                                </svg>
-                            </span>
-                        </a>
-
-                        <div>
-                            <a href="https://hypermahjong.pages.dev/" tabindex="-1" class="wt-btn wt-btn--base-lg wt-btn--small-xs chrome-footer__app-link__button">Download the Hyperslot88 App</a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="chrome-footer__final-container">
-                    <div class="chrome-footer__final">
-                        <div class="chrome-footer__final-col">
-                            <a id="locale-picker-trigger" class="wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--transparent-flush-right wt-btn--light wt-btn--small" aria-label="Update your settings Indonesia English (US) Rp (IDR)" href="https://rssmch.org/your/account/locale_preferences?from_page=https%3A%2F%2Flalocandadinonnaflo.com/es%2Fpost" data-aria-controls="wt-locale-picker-overlay">
-                                <span class="wt-display-inline-block wt-nudge-t-2 wt-vertical-align-middle">
-                                    <span class="etsy-icon locale-icon-svg-default wt-display-block wt-text-white
- wt-icon--smaller-xs wt-nudge-b-2">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" aria-hidden="true" focusable="false">
-                                            <path d="M12,2A10,10,0,1,0,22,12,10.012,10.012,0,0,0,12,2ZM9,18.883v0.528A7.938,7.938,0,0,1,4.06,11.06l3.385,3.385a2.967,2.967,0,0,0,1.649,4.4ZM17.5,15a2.509,2.509,0,0,0,.5-0.05V15a0.992,0.992,0,0,0,.927.985A8,8,0,0,1,12,20c-0.216,0-.427-0.016-0.639-0.032l1.254-2.5-0.015.006A2.968,2.968,0,0,0,13,16a2.988,2.988,0,0,0-5-2.221V11H9a1,1,0,0,0,1-1V9a1,1,0,0,0,1-1,1,1,0,0,0,0-2H6.726A7.9,7.9,0,0,1,14,4.263V6a1,1,0,0,0,2,0V5.082a8.047,8.047,0,0,1,2,1.649V7H17a1,1,0,0,0,0,2h2.411a7.941,7.941,0,0,1,.326,1H17a2.556,2.556,0,0,0-2,2.5A2.5,2.5,0,0,0,17.5,15Z"></path>
-                                        </svg>
-                                    </span>
-                                </span>
-                                <span class="wt-display-inline-block wt-vertical-align-middle">&amp;nbsp Indonesia &amp;nbsp | &amp;nbsp English (US) &amp;nbsp | &amp;nbsp Rp (IDR)</span>
-                            </a>
-                        </div>
-
-                        <div class="chrome-footer__final-col">
-                            <span class="chrome-footer__copyright">
-                                © 2025 ALLRIGHT REVERSED | Hyperslot88
-                            </span>
-
-                            <ul class="chrome-footer__final-links wt-list-inline">
-                                <li class="wt-list-inline__item">
-                                    <a href="/legal/terms-of-use?ref=ftr" class="chrome-footer__final-link">
-                                        Terms of Use
-                                    </a>
-                                </li>
-                                <li class="wt-list-inline__item">
-                                    <a href="/legal/privacy/?ref=ftr" class="chrome-footer__final-link">
-                                        Privacy
-                                    </a>
-                                </li>
-                                <li class="wt-list-inline__item">
-                                    <a href="/legal/policy/cookies-tracking-technologies/44797645975?ref=ftr#marketing-services" class="chrome-footer__final-link">
-                                        Interest-based ads
-                                    </a>
-                                </li>
-
-                                <li class="wt-list-inline__item">
-                                    <a href="/search/shops" class="chrome-footer__final-link">
-                                        Local Shops
-                                    </a>
-                                </li>
-
-                                <li class="wt-list-inline__item">
-                                    <button aria-controls="country-picker" style-type="primary" class="wt-text-link chrome-footer__final-link">
-                                        Regions
-                                    </button>
-                                    <div data-clg-id="WtOverlay" class="wt-overlay wt-overlay--large wt-overlay--has-close-icon" id="country-picker" aria-hidden="true" aria-modal="false" role="dialog" aria-label="Wilayah tempat Hyperslot88 menjalankan bisnisnya" data-wt-overlay>
-                                        <div class="wt-overlay__modal" data-overlay-modal>
-                                            <button type="button" class="wt-btn wt-btn--transparent wt-btn--icon wt-overlay__close-icon wt-btn--light" aria-label="Close" data-wt-overlay-close>
-                                                <span class="wt-icon">
-                                                    <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" aria-hidden="true" focusable="false">
-                                                        <path d="M13.414,12l6.293-6.293a1,1,0,0,0-1.414-1.414L12,10.586,5.707,4.293A1,1,0,0,0,4.293,5.707L10.586,12,4.293,18.293a1,1,0,1,0,1.414,1.414L12,13.414l6.293,6.293a1,1,0,0,0,1.414-1.414Z"></path>
-                                                    </svg>
-                                                </span>
-                                            </button>
-                                            <div data-clg-id="WtOverlayHeader" class="wt-overlay__header">
-                                                <p class="wt-text-heading">Wilayah tempat Hyperslot88 menjalankan bisnisnya:</p>
-                                            </div>
-                                            <div class="wt-display-flex-md wt-pt-xs-1 wt-pt-md-1 wt-text-body-01">
-                                                <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                                                        <a href="https://rssmch.org/au?locale_override=AUD%7Cen-GB%7CAU">Australia</a>
-                                                    </div>
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                                                        <a href="https://rssmch.org/at?locale_override=EUR%7Cde%7CAT">Austria</a>
-                                                    </div>
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                                                        <a href="https://rssmch.org/be?locale_override=EUR%7Cnl%7CBE">Belgium</a>
-                                                    </div>
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                                                        <a href="https://rssmch.org/ca?locale_override=CAD%7Cen-GB%7CCA">Canada</a>
-                                                    </div><div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                                                        <a href="https://rssmch.org/ca-fr?locale_override=CAD%7Cfr%7CCA">Canada (French)</a>
-                                                    </div>
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                                                        <a href="https://rssmch.org/dk-en?locale_override=DKK%7Cen-GB%7CDK">Denmark</a>
-                                                    </div>
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                                                        <a href="https://rssmch.org/fi-en?locale_override=EUR%7Cen-US%7CFI">Finland</a>
-                                                    </div>
-                                                </div>
-                                                <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                                                        <a href="https://rssmch.org/fr?locale_override=EUR%7Cfr%7CFR">France</a>
-                                                    </div>
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                                                        <a href="https://rssmch.org/de?locale_override=EUR%7Cde%7CDE">Germany</a>
-                                                    </div>
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                                                        <a href="https://rssmch.org/hk-en?locale_override=HKD%7Cen-GB%7CHK">Hong Kong</a>
-                                                    </div>
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                                                        <a href="https://rssmch.org/in-en?locale_override=INR%7Cen-IN%7CIN">India</a>
-                                                    </div>
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                                                        <a href="https://rssmch.org/ie?locale_override=EUR%7Cen-GB%7CIE">Ireland</a>
-                                                    </div>
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                                                        <a href="https://rssmch.org/il-en?locale_override=ILS%7Cen-GB%7CIL">Israel</a>
-                                                    </div>
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                                                        <a href="https://rssmch.org/it?locale_override=EUR%7Cit%7CIT">Italy</a>
-                                                    </div>
-                                                </div>
-                                                <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                                                        <a href="https://rssmch.org/jp?locale_override=JPY%7Cja%7CJP">Japan</a>
-                                                    </div>
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                                                        <a href="https://rssmch.org/mx?locale_override=MXN%7Ces%7CMX">Mexico</a>
-                                                    </div>
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                                                        <a href="https://rssmch.org/nz?locale_override=NZD%7Cen-GB%7CNZ">New Zealand</a>
-                                                    </div>
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                                                        <a href="https://rssmch.org/no-en?locale_override=NOK%7Cen-GB%7CNO">Norway</a>
-                                                    </div>
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                                                        <a href="https://rssmch.org/pl?locale_override=PLN%7Cpl%7CPL">Poland</a>
-                                                    </div>
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                                                        <a href="https://rssmch.org/pt?locale_override=EUR%7Cpt%7CPT">Portugal</a>
-                                                    </div>
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                                                        <a href="https://rssmch.org/sg-en?locale_override=SGD%7Cen-GB%7CSG">Singapore</a>
-                                                    </div>
-                                                </div>
-                                                <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                                                        <a href="https://rssmch.org/es?locale_override=EUR%7Ces%7CES">Spain</a>
-                                                    </div>
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                                                        <a href="https://rssmch.org/se-en?locale_override=SEK%7Cen-GB%7CSE">Sweden</a>
-                                                    </div>
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                                                        <a href="https://rssmch.org/ch?locale_override=CHF%7Cde%7CCH">Switzerland</a>
-                                                    </div>
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                                                        <a href="https://rssmch.org/nl?locale_override=EUR%7Cnl%7CNL">The Netherlands</a>
-                                                    </div>
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                                                        <a href="https://rssmch.org/uk?locale_override=GBP%7Cen-GB%7CGB">United Kingdom</a>
-                                                    </div>
-                                                    <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                                                        <a href="https://rssmch.org/?locale_override=USD%7Cen-US%7CUS">United States</a>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div data-clg-id="WtOverlayFooter" class="wt-overlay__footer wt-justify-content-flex-end wt-pt-xs-2 wt-pt-sm-2 wt-pb-sm-0 wt-pt-md-2 wt-height-full">
-                                                <div data-clg-id="WtOverlayFooterButton" class="wt-overlay__footer__action">
-                                                    <button data-clg-id="WtButton" class="wt-btn wt-btn--filled wt-pt-xs-0 wt-pb-xs-0 wt-mb-xs-0" data-wt-overlay-close="true">
-                                                        Got it
-                                                    </button>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                <div data-toolkit-overlay data-wt-overlay aria-hidden="true" role="dialog" aria-labelledby="wt-locale-picker-overlay-title" data-overlay-transition="1" id="wt-locale-picker-overlay" class="v2-locale-picker-overlay wt-overlay">
-                    <div class="wt-overlay__modal wt-text-left-xs" data-overlay-modal>
-                        <div class="wt-overlay__header">
-                            <h2 class="wt-text-title-large" id="wt-locale-picker-overlay-title">Update your settings</h2>
-                        </div>
-
-                        <form method="post" action="" onsubmit="return false">
-                            <input type="hidden" name="region_code" value="">
-
-                            <p class="wt-mb-xs-3 wt-text-body-01">
-                                Set where you live, what language you speak, and the currency you use. <a class="wt-text-link" href="https://rssmch.org/help/article/493" target="_blank">Learn more.</a>
-                            </p>
-
-                            <div id="locale-picker-sections-wrap">
-                                <!--
-                <div id="locale_picker_region_code" class="locale_picker_section wt-pb-xs-3 wt-text-left-xs wt-b-xs-none">
-
-                    <label class="wt-label wt-pb-xs-1" for="locale-overlay-select-region_code">Region</label>
-                    <div class="wt-select wt-text-body-01">
-                        <select id="locale-overlay-select-region_code" name="region_code" class="wt-select__element">
-                                <option value="AU" >Australia</option>
-                                <option value="CA" >Canada</option>
-                                <option value="FR" >France</option>
-                                <option value="DE" >Germany</option>
-                                <option value="GR" >Greece</option>
-                                <option value="IN" >India</option>
-                                <option value="IE" >Ireland</option>
-                                <option value="IT" >Italy</option>
-                                <option value="JP" >Japan</option>
-                                <option value="NZ" >New Zealand</option>
-                                <option value="PL" >Poland</option>
-                                <option value="PT" >Portugal</option>
-                                <option value="ES" >Spain</option>
-                                <option value="NL" >The Netherlands</option>
-                                <option value="GB" >United Kingdom</option>
-                                <option value="US" >United States</option>
-                            <optgroup label="————————">
-                                <option value="AF" >Afghanistan</option>
-                                <option value="AX" >Åland Islands</option>
-                                <option value="AL" >Albania</option>
-                                <option value="DZ" >Algeria</option>
-                                <option value="AS" >American Samoa</option>
-                                <option value="AD" >Andorra</option>
-                                <option value="AO" >Angola</option>
-                                <option value="AI" >Anguilla</option>
-                                <option value="AG" >Antigua and Barbuda</option>
-                                <option value="AR" >Argentina</option>
-                                <option value="AM" >Armenia</option>
-                                <option value="AW" >Aruba</option>
-                                <option value="AU" >Australia</option>
-                                <option value="AT" >Austria</option>
-                                <option value="AZ" >Azerbaijan</option>
-                                <option value="BS" >Bahamas</option>
-                                <option value="BH" >Bahrain</option>
-                                <option value="BD" >Bangladesh</option>
-                                <option value="BB" >Barbados</option>
-                                <option value="BE" >Belgium</option>
-                                <option value="BZ" >Belize</option>
-                                <option value="BJ" >Benin</option>
-                                <option value="BM" >Bermuda</option>
-                                <option value="BT" >Bhutan</option>
-                                <option value="BO" >Bolivia</option>
-                                <option value="BA" >Bosnia and Herzegovina</option>
-                                <option value="BW" >Botswana</option>
-                                <option value="BV" >Bouvet Island</option>
-                                <option value="BR" >Brazil</option>
-                                <option value="IO" >British Indian Ocean Territory</option>
-                                <option value="VG" >British Virgin Islands</option>
-                                <option value="BN" >Brunei</option>
-                                <option value="BG" >Bulgaria</option>
-                                <option value="BF" >Burkina Faso</option>
-                                <option value="BI" >Burundi</option>
-                                <option value="KH" >Cambodia</option>
-                                <option value="CM" >Cameroon</option>
-                                <option value="CA" >Canada</option>
-                                <option value="CV" >Cape Verde</option>
-                                <option value="KY" >Cayman Islands</option>
-                                <option value="CF" >Central African Republic</option>
-                                <option value="TD" >Chad</option>
-                                <option value="CL" >Chile</option>
-                                <option value="CN" >China</option>
-                                <option value="CX" >Christmas Island</option>
-                                <option value="CC" >Cocos (Keeling) Islands</option>
-                                <option value="CO" >Colombia</option>
-                                <option value="KM" >Comoros</option>
-                                <option value="CG" >Congo, Republic of</option>
-                                <option value="CK" >Cook Islands</option>
-                                <option value="CR" >Costa Rica</option>
-                                <option value="HR" >Croatia</option>
-                                <option value="CW" >Curaçao</option><option value="CY" >Cyprus</option>
-                                <option value="CZ" >Czech Republic</option>
-                                <option value="DK" >Denmark</option>
-                                <option value="DJ" >Djibouti</option>
-                                <option value="DM" >Dominica</option>
-                                <option value="DO" >Dominican Republic</option>
-                                <option value="EC" >Ecuador</option>
-                                <option value="EG" >Egypt</option>
-                                <option value="SV" >El Salvador</option>
-                                <option value="GQ" >Equatorial Guinea</option>
-                                <option value="ER" >Eritrea</option>
-                                <option value="EE" >Estonia</option>
-                                <option value="ET" >Ethiopia</option>
-                                <option value="FK" >Falkland Islands (Malvinas)</option>
-                                <option value="FO" >Faroe Islands</option>
-                                <option value="FJ" >Fiji</option>
-                                <option value="FI" >Finland</option>
-                                <option value="FR" >France</option>
-                                <option value="GF" >French Guiana</option>
-                                <option value="PF" >French Polynesia</option>
-                                <option value="TF" >French Southern Territories</option>
-                                <option value="GA" >Gabon</option>
-                                <option value="GM" >Gambia</option>
-                                <option value="GE" >Georgia</option>
-                                <option value="DE" >Germany</option>
-                                <option value="GH" >Ghana</option>
-                                <option value="GI" >Gibraltar</option>
-                                <option value="GR" >Greece</option>
-                                <option value="GL" >Greenland</option>
-                                <option value="GD" >Grenada</option>
-                                <option value="GP" >Guadeloupe</option>
-                                <option value="GU" >Guam</option>
-                                <option value="GT" >Guatemala</option>
-                                <option value="GG" >Guernsey</option>
-                                <option value="GN" >Guinea</option>
-                                <option value="GW" >Guinea-Bissau</option>
-                                <option value="GY" >Guyana</option>
-                                <option value="HT" >Haiti</option>
-                                <option value="HM" >Heard Island and McDonald Islands</option>
-                                <option value="VA" >Holy See (Vatican City State)</option>
-                                <option value="HN" >Honduras</option>
-                                <option value="HK" >Hong Kong</option>
-                                <option value="HU" >Hungary</option>
-                                <option value="IS" >Iceland</option>
-                                <option value="IN" >India</option>
-                                <option value="ID" selected="selected">Indonesia</option>
-                                <option value="IQ" >Iraq</option>
-                                <option value="IE" >Ireland</option>
-                                <option value="IM" >Isle of Man</option>
-                                <option value="IL" >Israel</option>
-                                <option value="IT" >Italy</option>
-                                <option value="IC" >Ivory Coast</option>
-                                <option value="JM" >Jamaica</option>
-                                <option value="JP" >Japan</option>
-                                <option value="JE" >Jersey</option>
-                                <option value="JO" >Jordan</option>
-                                <option value="KZ" >Kazakhstan</option>
-                                <option value="KE" >Kenya</option>
-                                <option value="KI" >Kiribati</option>
-                                <option value="KV" >Kosovo</option>
-                                <option value="KW" >Kuwait</option>
-                                <option value="KG" >Kyrgyzstan</option>
-                                <option value="LA" >Laos</option>
-                                <option value="LV" >Latvia</option>
-                                <option value="LB" >Lebanon</option>
-                                <option value="LS" >Lesotho</option>
-                                <option value="LR" >Liberia</option>
-                                <option value="LY" >Libya</option>
-                                <option value="LI" >Liechtenstein</option>
-                                <option value="LT" >Lithuania</option>
-                                <option value="LU" >Luxembourg</option>
-                                <option value="MO" >Macao</option>
-                                <option value="MK" >Macedonia</option>
-                                <option value="MG" >Madagascar</option>
-                                <option value="MW" >Malawi</option>
-                                <option value="MY" >Malaysia</option>
-                                <option value="MV" >Maldives</option>
-                                <option value="ML" >Mali</option>
-                                <option value="MT" >Malta</option>
-                                <option value="MH" >Marshall Islands</option>
-                                <option value="MQ" >Martinique</option>
-                                <option value="MR" >Mauritania</option>
-                                <option value="MU" >Mauritius</option>
-                                <option value="YT" >Mayotte</option>
-                                <option value="MX" >Mexico</option>
-                                <option value="FM" >Micronesia, Federated States of</option>
-                                <option value="MD" >Moldova</option>
-                                <option value="MC" >Monaco</option>
-                                <option value="MN" >Mongolia</option>
-                                <option value="ME" >Montenegro</option>
-                                <option value="MS" >Montserrat</option>
-                                <option value="MA" >Morocco</option>
-                                <option value="MZ" >Mozambique</option>
-                                <option value="MM" >Myanmar (Burma)</option>
-                                <option value="NA" >Namibia</option>
-                                <option value="NR" >Nauru</option>
-                                <option value="NP" >Nepal</option>
-                                <option value="AN" >Netherlands Antilles</option>
-                                <option value="NC" >New Caledonia</option>
-                                <option value="NZ" >New Zealand</option>
-                                <option value="NI" >Nicaragua</option>
-                                <option value="NE" >Niger</option>
-                                <option value="NG" >Nigeria</option>
-                                <option value="NU" >Niue</option>
-                                <option value="NF" >Norfolk Island</option>
-                                <option value="MP" >Northern Mariana Islands</option>
-                                <option value="NO" >Norway</option>
-                                <option value="OM" >Oman</option>
-                                <option value="PK" >Pakistan</option>
-                                <option value="PW" >Palau</option>
-                                <option value="PS" >Palestinian Territory, Occupied</option>
-                                <option value="PA" >Panama</option>
-                                <option value="PG" >Papua New Guinea</option>
-                                <option value="PY" >Paraguay</option>
-                                <option value="PE" >Peru</option>
-                                <option value="PH" >Philippines</option>
-                                <option value="PL" >Poland</option>
-                                <option value="PT" >Portugal</option>
-                                <option value="PR" >Puerto Rico</option>
-                                <option value="QA" >Qatar</option>
-                                <option value="RE" >Reunion</option>
-                                <option value="RO" >Romania</option>
-                                <option value="RW" >Rwanda</option>
-                                <option value="SH" >Saint Helena</option>
-                                <option value="KN" >Saint Kitts and Nevis</option>
-                                <option value="LC" >Saint Lucia</option>
-                                <option value="MF" >Saint Martin (French part)</option>
-                                <option value="PM" >Saint Pierre and Miquelon</option>
-                                <option value="VC" >Saint Vincent and the Grenadines</option>
-                                <option value="WS" >Samoa</option>
-                                <option value="SM" >San Marino</option>
-                                <option value="ST" >Sao Tome and Principe</option>
-                                <option value="SA" >Saudi Arabia</option>
-                                <option value="SN" >Senegal</option>
-                                <option value="RS" >Serbia</option>
-                                <option value="SC" >Seychelles</option>
-                                <option value="SL" >Sierra Leone</option>
-                                <option value="SG" >Singapore</option>
-                                <option value="SX" >Sint Maarten (Dutch part)</option>
-                                <option value="SK" >Slovakia</option>
-                                <option value="SI" >Slovenia</option>
-                                <option value="SB" >Solomon Islands</option>
-                                <option value="SO" >Somalia</option>
-                                <option value="ZA" >South Africa</option>
-                                <option value="GS" >South Georgia and the South Sandwich Islands</option>
-                                <option value="KR" >South Korea</option>
-                                <option value="SS" >South Sudan</option>
-                                <option value="ES" >Spain</option>
-                                <option value="LK" >Sri Lanka</option>
-                                <option value="SD" >Sudan</option>
-                                <option value="SR" >Suriname</option>
-                                <option value="SJ" >Svalbard and Jan Mayen</option>
-                                <option value="SZ" >Swaziland</option>
-                                <option value="SE" >Sweden</option>
-                                <option value="CH" >Switzerland</option>
-                                <option value="TW" >Taiwan</option>
-                                <option value="TJ" >Tajikistan</option>
-                                <option value="TZ" >Tanzania</option>
-                                <option value="TH" >Thailand</option>
-                                <option value="NL" >The Netherlands</option>
-                                <option value="TL" >Timor-Leste</option>
-                                <option value="TG" >Togo</option>
-                                <option value="TK" >Tokelau</option>
-                                <option value="TO" >Tonga</option>
-                                <option value="TT" >Trinidad</option>
-                                <option value="TN" >Tunisia</option>
-                                <option value="TR" >Türkiye</option>
-                                <option value="TM" >Turkmenistan</option>
-                                <option value="TC" >Turks and Caicos Islands</option>
-                                <option value="TV" >Tuvalu</option>
-                                <option value="UG" >Uganda</option>
-                                <option value="UA" >Ukraine</option>
-                                <option value="AE" >United Arab Emirates</option>
-                                <option value="GB" >United Kingdom</option>
-                                <option value="US" >United States</option>
-                                <option value="UM" >United States Minor Outlying Islands</option>
-                                <option value="UY" >Uruguay</option>
-                                <option value="VI" >U.S. Virgin Islands</option>
-                                <option value="UZ" >Uzbekistan</option>
-                                <option value="VU" >Vanuatu</option>
-                                <option value="VE" >Venezuela</option>
-                                <option value="VN" >Vietnam</option>
-                                <option value="WF" >Wallis and Futuna</option>
-                                <option value="EH" >Western Sahara</option>
-                                <option value="YE" >Yemen</option>
-                                <option value="CD" >Zaire (Democratic Republic of Congo)</option>
-                                <option value="ZM" >Zambia</option>
-                                <option value="ZW" >Zimbabwe</option>
-                            </optgroup>
-                        </select>
-                    </div>
-                </div>
-                <div id="locale_picker_language_code" class="locale_picker_section wt-pb-xs-3 wt-text-left-xs wt-b-xs-none">
-
-                    <label class="wt-label wt-pb-xs-1" for="locale-overlay-select-language_code">Language</label>
-                    <div class="wt-select wt-text-body-01">
-                        <select id="locale-overlay-select-language_code" name="language_code" class="wt-select__element">
-                                <option value="de" >Deutsch</option>
-                                <option value="en-GB" >English (UK)</option>
-                                <option value="en-IN" >English (IN)</option>
-                                <option value="en-US" selected="selected">English (US)</option>
-                                <option value="es" >Español</option>
-                                <option value="fr" >Français</option>
-                                <option value="it" >Italiano</option>
-                                <option value="ja" >日本語</option>
-                                <option value="nl" >Nederlands</option>
-                                <option value="pl" >Polski</option>
-                                <option value="pt" >Português</option>
-                                <option value="ru" >Русский</option>
-                        </select>
-                    </div>
-                </div>
-                <div id="locale_picker_currency_code" class="locale_picker_section wt-pb-xs-3 wt-text-left-xs wt-b-xs-none">
-
-                    <label class="wt-label wt-pb-xs-1" for="locale-overlay-select-currency_code">Currency</label>
-                    <div class="wt-select wt-text-body-01">
-                        <select id="locale-overlay-select-currency_code" name="currency_code" class="wt-select__element">
-                                <option value="USD" >$ United States Dollar (USD)</option>
-                                <option value="CAD" >$ Canadian Dollar (CAD)</option>
-                                <option value="EUR" >€ Euro (EUR)</option>
-                                <option value="GBP" >£ British Pound (GBP)</option>
-                                <option value="AUD" >$ Australian Dollar (AUD)</option>
-                                <option value="JPY" >¥ Japanese Yen (JPY)</option>
-                                <option value="CNY" >¥ Chinese Yuan (CNY)</option><option value="CZK" >Kč Czech Koruna (CZK)</option>
-                                <option value="DKK" >kr Danish Krone (DKK)</option>
-                                <option value="HKD" >$ Hong Kong Dollar (HKD)</option>
-                                <option value="HUF" >Ft Hungarian Forint (HUF)</option>
-                                <option value="INR" >₹ Indian Rupee (INR)</option>
-                                <option value="IDR" selected="selected">Rp Indonesian Rupiah (IDR)</option>
-                                <option value="ILS" >₪ Israeli Shekel (ILS)</option>
-                                <option value="MYR" >RM Malaysian Ringgit (MYR)</option>
-                                <option value="MXN" >$ Mexican Peso (MXN)</option>
-                                <option value="MAD" >DH Moroccan Dirham (MAD)</option>
-                                <option value="NZD" >$ New Zealand Dollar (NZD)</option>
-                                <option value="NOK" >kr Norwegian Krone (NOK)</option>
-                                <option value="PHP" >₱ Philippine Peso (PHP)</option>
-                                <option value="SGD" >$ Singapore Dollar (SGD)</option>
-                                <option value="VND" >₫ Vietnamese Dong (VND)</option>
-                                <option value="ZAR" >R South African Rand (ZAR)</option>
-                                <option value="SEK" >kr Swedish Krona (SEK)</option>
-                                <option value="CHF" >Swiss Franc (CHF)</option>
-                                <option value="THB" >฿ Thai Baht (THB)</option>
-                                <option value="TWD" >NT$ Taiwan New Dollar (TWD)</option>
-                                <option value="TRY" >₺ Turkish Lira (TRY)</option>
-                                <option value="PLN" >zł Polish Zloty (PLN)</option>
-                                <option value="BRL" >R$ Brazilian Real (BRL)</option>
-                        </select>
-                    </div>
-                </div>
-                -->
-                            </div>
-                            <div class="wt-overlay__footer wt-justify-content-flex-end">
-                                <div class="wt-overlay__footer__action">
-                                    <a type="button" data-wt-overlay-close class="wt-btn wt-btn--outline wt-mb-xs-1 wt-mb-md-0 wt-mr-md-1" name="cancel">
-                                        Cancel
-                                        <div class="wt-spinner wt-spinner--01" role="alert" aria-live="assertive">
-                                            <span class="etsy-icon">
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" aria-hidden="true" focusable="false"><circle fill="transparent" cx="12" cy="12" r="10"></circle></svg>
-                                            </span>
-                                            Loading
-                                        </div>
-                                    </a>
-                                    <button class="wt-btn wt-btn--filled" action-type="primary" type="submit" name="save" id="locale-overlay-save">
-                                        Save
-                                        <div class="wt-spinner wt-spinner--01" role="alert" aria-live="assertive">
-                                            <span class="etsy-icon">
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" aria-hidden="true" focusable="false"><circle fill="transparent" cx="12" cy="12" r="10"></circle></svg>
-                                            </span>
-                                            Loading
-                                        </div>
-                                    </button>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </footer>
-        </div>
-
-        <div data-gdpr-consent-prompt>
-            <div id="gdpr-privacy-settings" class="wt-overlay third-party-settings wt-text-left-xs" aria-labelledby="gdpr-full-settings-overlay-title" aria-hidden="true" role="dialog" data-gdpr-settings-overlay data-wt-overlay>
-                <div class="wt-overlay__modal gdpr-overlay-view" data-overlay-modal>
-                    <div class="wt-overlay__header gdpr-overlay-header">
-                        <h3 class="wt-text-heading" id="gdpr-full-settings-overlay-title">Privacy Settings</h3>
-                    </div>
-
-                    <div class="gdpr-overlay-body wt-pb-xl-2 wt-pb-lg-2 wt-pb-md-2 wt-pb-sm-2 wt-pb-xs-2">
-                        <div>
-                            <div data-section="intro">
-                                <p class="wt-text-caption wt-mb-xs-1">Hyperslot88 menggunakan cookie dan teknologi serupa untuk memberi Anda pengalaman yang lebih baik, memungkinkan hal-hal seperti:</p>
-                                <ul class="wt-text-caption wt-ml-xs-2 wt-mb-xs-2">
-                                    <li>Slot</li>
-                                    <li>Slot Gacor</li>
-                                    <li>Situs Slot</li>
-                                    <li>Link Slot</li>
-                                    <li>Bandar Slot</li>
-                                    <li>Slot Online</li>
-                                    <li>Slot Online Terpercaya</li>
-                                    <li>Slot Gacor Maxwin</li>
-                                    <li>Slot Terbaru</li>
-                                </ul>
-                                <p class="wt-text-caption wt-line-height-tight wt-text-link">
-                                    Informasi lebih lanjut dapat ditemukan di Hyperslot88 <a class="wt-text-link" href="https://rssmch.org/legal/cookies-and-tracking-technologies">Kebijakan Cookie &amp; Teknologi Serupa</a> atau
-                                    di <a class="wt-text-link" href="https://rssmch.org/legal/privacy">Privacy Policy</a>.
-                                </p>
-                            </div>
-
-                            <div class="wt-pt-xl-6 wt-display-flex-xl wt-pt-lg-6 wt-display-flex-lg wt-pt-md-6 wt-display-flex-md wt-pt-sm-6 wt-display-flex-sm wt-pt-xs-6 wt-display-flex-xs">
-                                <div class="wt-flex-xl-5 wt-flex-lg-5 wt-flex-md-5 wt-flex-sm-5 wt-flex-xs-5">
-                                    <h2 class="wt-text-title-01 wt-mb-xs-4 wt-break-word">Cookie &amp; Teknologi yang Diperlukan</h2>
-                                    <p class="wt-text-caption wt-mb-xs-2">
-                                        Beberapa teknologi yang kami gunakan diperlukan untuk fungsi penting seperti keamanan dan integritas situs, autentikasi akun, preferensi keamanan dan privasi, data penggunaan dan pemeliharaan situs
-                                        internal, dan agar situs berfungsi dengan benar untuk penelusuran dan transaksi.
-                                    </p>
-                                </div>
-                                <div class="wt-flex-xl-1 wt-flex-lg-1 wt-flex-md-1 wt-flex-sm-1 wt-flex-xs-1">
-                                    <div class="wt-display-flex-xl wt-display-flex-lg wt-display-flex-md wt-display-flex-sm wt-display-flex-xs wt-justify-content-flex-end">
-                                        <span class="wt-text-caption">Selalu aktif</span>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="wt-text-caption wt-pt-xl-6 wt-display-flex-xl wt-pt-lg-6 wt-display-flex-lg wt-pt-lg-6 wt-display-flex-lg wt-pt-md-6 wt-display-flex-md wt-pt-sm-6 wt-display-flex-sm wt-pt-xs-6 wt-display-flex-xs" data-section="third_party_consent">
-                                <div class="wt-flex-xl-5 wt-flex-lg-5 wt-flex-md-5 wt-flex-sm-5 wt-flex-xs-5">
-                                    <h2 class="wt-text-title-01 wt-mb-xs-4 wt-break-word">Periklanan yang Dipersonalisasi</h2>
-                                    <p class="wt-text-caption wt-mb-xs-2">
-                                        Untuk mengaktifkan iklan yang dipersonalisasi (seperti iklan berbasis minat), kami dapat membagikan data Anda dengan mitra pemasaran dan periklanan kami menggunakan cookie dan teknologi lainnya. Mitra
-                                        tersebut mungkin memiliki informasi mereka sendiri yang telah mereka kumpulkan tentang Anda. Menonaktifkan pengaturan iklan yang dipersonalisasi tidak akan menghentikan Anda melihat iklan Hyperslot88,
-                                        tetapi dapat membuat iklan yang Anda lihat kurang relevan atau lebih berulang.
-                                    </p>
-                                    <p class="wt-text-caption wt-mb-xs-2">
-                                        Iklan yang dipersonalisasi dapat dianggap sebagai "penjualan" atau "pembagian" informasi berdasarkan undang-undang privasi California dan negara bagian lainnya, dan Anda mungkin memiliki hak untuk
-                                        memilih keluar. Menonaktifkan iklan yang dipersonalisasi memungkinkan Anda untuk menggunakan hak Anda untuk memilih keluar. Pelajari lebih lanjut di
-                                        <a class="wt-text-link" href="https://rssmch.org/legal/privacy/">Privacy Policy.</a>,
-                                        <a class="wt-text-link" href="https://rssmch.org/help/hc/en-us/articles/360042433614-How-to-Opt-out-of-Personalized-Advertising">Help Center</a>, dan
-                                        <a class="wt-text-link" href="https://rssmch.org/legal/cookies">Cookies &amp; Similar Technologies Policy</a>.
-                                    </p>
-                                </div>
-                                <div class="wt-flex-xl-1 wt-flex-lg-1 wt-flex-md-1 wt-flex-sm-1 wt-flex-xs-1">
-                                    <div class="wt-display-flex-xl wt-display-flex-lg wt-display-flex-md wt-display-flex-sm wt-display-flex-xs wt-justify-content-flex-end">
-                                        <label for="third_party_consent" class="wt-text-caption wt-pt-xl-1 wt-pr-xl-2 wt-pt-lg-1 wt-pr-lg-2 wt-pt-md-1 wt-pr-md-2 wt-pt-sm-1 wt-pr-sm-2 wt-pt-xs-1 wt-pr-xs-2 wt-nudge-t-3" aria-hidden="true" data-gdpr-toggle-label>
-                                            On
-                                        </label>
-                                        <input class="wt-switch wt-switch--small" type="checkbox" name="third_party_consent" id="third_party_consent" checked data-gdpr-toggle data-checked-label="On" data-unchecked-label="Off">
-                                        <label class="wt-switch__toggle" for="third_party_consent" aria-hidden="true"></label>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="wt-overlay__footer wt-align-items-center">
-                        <div class="wt-overlay__footer__cancel"></div>
-                        <div class="wt-overlay__footer__action">
-                            <div class="wt-display-flex-xl wt-flex-direction-row-xl wt-display-flex-lg wt-flex-direction-row-lg wt-display-flex-md wt-flex-direction-row-md wt-display-flex-sm wt-flex-direction-column-sm wt-display-flex-xs wt-flex-direction-column-xs">
-                                <div class="wt-pr-xl-7 wt-pt-xl-2 wt-pr-lg-7 wt-pt-lg-2 wt-pr-md-7 wt-pt-md-2 wt-pb-sm-4 wt-pb-xs-2 wt-horizontal-center wt-display-none" data-saving-indicator>
-                                    <div class="wt-spinner wt-spinner--01 wt-display-inline-block wt-vertical-align-middle">
-                                        <span class="etsy-icon">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" aria-hidden="true" focusable="false"><circle fill="transparent" cx="12" cy="12" r="10"></circle></svg>
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="wt-pr-xl-7 wt-pt-xl-2 wt-pr-lg-7 wt-pt-lg-2 wt-pr-md-7 wt-pt-md-2 wt-pb-sm-4 wt-pb-xs-2 wt-horizontal-center wt-display-none" data-saved-indicator>
-                                    <span class="etsy-icon wt-icon--smaller-xs">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" aria-hidden="true" focusable="false">
-                                            <path d="M9.057,20.471L2.293,13.707a1,1,0,0,1,1.414-1.414l5.236,5.236,11.3-13.18a1,1,0,1,1,1.518,1.3Z"></path>
-                                        </svg>
-                                    </span>
-                                    <span class="wt-display-inline-block wt-vertical-align-middle wt-text-body-01 wt-pl-xs-1">Saved</span>
-                                </div>
-                                <div>
-                                    <button data-wt-overlay-close class="wt-btn wt-btn--primary wt-pl-xs-8 wt-pr-xs-8 wt-pl-sm-10 wt-pr-sm-10 wt-pl-md-3 wt-pr-md-3 wt-pl-lg-3 wt-pr-lg-3 wt-pl-xl-3 wt-pr-xl-3 wt-pl-tv-3 wt-pr-tv-3">
-                                        <p class="wt-pl-xs-10 wt-pr-xs-10 wt-pl-sm-10 wt-pr-sm-10 wt-pl-md-0 wt-pr-md-0 wt-pl-lg-0 wt-pr-lg-0 wt-pl-xl-0 wt-pr-xl-0 wt-pl-tv-0 wt-pr-tv-0">Done</p>
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <script type="text/html" data-gdpr-consent-success-alert>
-                <div class="wt-alert wt-alert--success-01 wt-alert--fixed-floating wt-alert--fixed-bottom wt-mb-xs-4">
-                    <div class="wt-display-flex-xs">
-                        <p class="wt-text-body-01 wt-text-left-xs">Privacy settings saved</p>
-                    </div>
-                </div>
-            </script>
-        </div>
-
-        <div id="wt-portals"></div>
-
-        <div id="etsy-modal-container" aria-hidden="true"></div>
-
-        <div id="google-tag-manager-container" aria-hidden="true">
-            <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
-                window.dataLayer = [
-                    {
-                        tp_consent: "yes",
-                        Language: "en-US",
-                        Region: "ID",
-                        Currency: "IDR",
-                        UAID: "uj0nemGYfZm0u5UhoRQWjT5qMRzf",
-                        DetectedRegion: "ID",
-                        uuid: 1757443932,
-                        request_start_time: 1757443932,
-                        fbp: "fb.1.1757443900517.6658388326753490",
-                    },
-                ];
-            </script>
-
-            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KWW5SS" height="0" width="0" style="display: none; visibility: hidden;"></iframe></noscript>
-            <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
-                (function (w, d, s, l, i) {
-                    w[l] = w[l] || [];
-                    w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
-                    var f = d.getElementsByTagName(s)[0],
-                        j = d.createElement(s),
-                        dl = l != "dataLayer" ? "&l=" + l : "";
-                    j.async = true;
-                    j.src = "//www.googletagmanager.com/gtm.js?id=" + i + dl;
-                    var n = d.querySelector("[nonce]");
-                    n && j.setAttribute("nonce", n.nonce || n.getAttribute("nonce"));
-                    f.parentNode.insertBefore(j, f);
-                })(window, document, "script", "dataLayer", "GTM-KWW5SS");
-            </script>
-        </div>
-
-        <script type="text/javascript" nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
-            window.__etsy_logging = window.__etsy_logging || {perf: {} };
-            window.__etsy_logging.url = "\/\/lalocandadinonnaflo.com\/es\/bcn\/beacon";
-            window.__etsy_logging.defaults = {
-                ab: {
-                    "xplat.runtime_config_service.ramp": ["on", "x", "b4354c"],
-                    orm_latency: ["off", "x", "091448"],
-                    "fastly.cdn_experiment_framework_aa": ["on", "m", "79b68d"],
-                    neu_runtime_tracing_always_on: ["off", "x", "106c3b"],
-                    neu_runtime_tracing: ["off", "w", "6631e5"],
-                    structured_data_attributes_order_dependent: ["on", "x", "691833"],
-                    disambiguate_usd_outside_usa: ["ineligible", "e", "c8897d"],
-                    "perso_engine.recs.ssq_on_web_u2l_version_internal": ["on", "x", "4a8ed2"],
-                    "persistent_experiment.q3_2025": ["on", "w", "6c0626"],
-                    "iat.listing_page_trust_suite_section.desktop": ["off", "w", "a77f10"],
-                    google_tag_manager: ["on", "x", "43dc13"],
-                    "site_chrome\/buyer_to_seller_navbar_signed_out": ["ineligible", "e", "0efe99"],
-                    "checkout.gift_card_cta_in_search_dropdown": ["on", "x", "931866"],
-                    "local_pe.q3_2024.search.browser.traffic_split": ["on", "x", "33df41"],
-                    "ranking\/search.experience.xml_autosuggest_v4": ["all_xml", "x", "2b2623"],
-                    "lingtools\/trending_searches.gcp": ["on", "x", "5cfa03"],
-                    "site_chrome\/buyer_to_seller_navbar_signed_in": ["ineligible", "e", "67649b"],
-                    "site_chrome\/buyer_zipcode_in_header_desktop": ["off", "x", "eb55bf"],
-                    "site_chrome\/buyer_zipcode_in_header_mweb": ["ineligible", "e", "5d612c"],
-                    builda_scss: ["sasquatch", "x", "96bd82"],
-                    polyfills: ["on", "x", "db574b"],
-                    polyfill_experiment_4: ["no_filtering", "x", "0e8409"],
-                    "web_deals.translate_nav_recs": ["on", "x", "f054b7"],
-                    "ranking\/search.experience.category_suggestions_in_autosuggest": ["ineligible", "e", "6e2d9f"],
-                    "ranking\/search.experience.contentful_title_on_trending_searches": ["on", "x", "d0b108"],
-                    "ranking\/search.experience.always_show_shop_search_in_autosuggest": ["on", "x", "66727b"],
-                    "growth_regx.lp_rating_histogram_shop_header_desktop": ["off", "x", "1c99da"],
-                    "local_pe.q3_2025.buyer_trust_accelerator.browser.traffic_split": ["on", "w", "eaad53"],
-                    "growth_regx.lp_message_seller_replace_collections_buy_box_desktop_so": ["off", "x", "9b3fad"],
-                    gcs_image_reads: ["on", "x", "b7a48f"],
-                    "searchx.4q18.dwell_time_as_backend_event": ["off", "x", "d3826b"],
-                    "gift_mode.lp_bin_sheet_tiag_v2": ["on", "x", "1beeb9"],
-                    "cnc.atc_from_listing_cards_ymal_mfts_desktop": ["on", "x", "58b479"],
-                    "perso_custo.buyer_read_from_new_perso_tables": ["on", "x", "dffb8d"],
-                    "growth_regx.lp_seller_cred_shop_desc_desktop": ["off", "x", "b5ab9a"],
-                    "local_pe.q3_2025.international.browser.traffic_split": ["on", "w", "4ca9c3"],
-                    "iat.listing_page_hide_similar_items_sash.desktop": ["off", "x", "e2a169"],
-                    "cow_layer\/desktop_lp_evolved_favoriting_v2": ["ineligible", "e", "2ca26f"],
-                    "growth_regx.lp_bb_trust_redesign_desktop": ["off", "x", "df41b4"],
-                    "checkout.klarna_unified_pay_later": ["ineligible", "e", "e11748"],
-                    "perso_buyer_squad_layer\/variations_update": ["on", "x", "0e428d"],
-                    "perso_custo.multiple_questions_enabled.buyer_side": ["on", "x", "82e6f7"],
-                    "seo.listing_shop_faqs_machine_translation": ["off", "x", "ad47eb"],
-                    "onsite_promos.superbowl_listing_page_banner": ["ineligible", "e", "2deace"],
-                    "inventory.listing_inventory_quantity_select": ["off", "x", "e2182e"],
-                    "growth_regx.lp_production_partners_in_item_details": ["on", "x", "3cd0fb"],
-                    "coreloc.vat_inclusive_cart_prices": ["off", "x", "1bedcb"],
-                    "coreloc.vat_inclusive_prices_lp_sidebar_cart_operational": ["off", "x", "c814cc"],
-                    "growth_regx.lp_move_appreciation_photos_desktop": ["off", "x", "9273bf"],
-                    "growth_regx.lp_review_photo_filter_and_sort_desktop": ["on", "x", "acff7a"],
-                    "growth_regx.lp_review_engagement_aa_desktop": ["off", "x", "bfb356"],
-                    "cnc.related_searches_placement": ["off", "x", "157607"],
-                    "growth_regx.lp_new_seller_cred_foundational_desktop": ["on", "x", "bccc3b"],
-                    "cnc.anchor_item_lp_recs_desktop": ["off", "x", "315c33"],
-                    "cnc\/experiment.related_search_pathways_v3_desktop": ["ineligible", "e", "7e808d"],
-                    "lp_performance.css_import_cleanup": ["on", "x", "ec2bd2"],
-                    "cnc\/experiment.compare_lp_collections_v2_desktop": ["ineligible", "e", "c0c984"],
-                    "cnc.hiding_gifting_registry_desktop": ["on", "w", "b73ba0"],
-                    "ads\/takerate.lp_ads_row_expansion.desktop": ["ineligible", "e", "cad35c"],
-                    "cnc.only_prompt_similar_listing_desktop": ["off", "x", "1f1344"],
-                    "core_fulfillment.product_level_readiness_states.core_experience": ["ineligible", "e", "d06c95"],
-                    "fulfillment_platform.usps_pm_faster_ga_experiment.web": ["on", "x", "498eec"],
-                    "fulfillment_platform.usps_pm_faster_ga_experiment.mobile": ["ineligible", "e", "20f21b"],
-                    "fulfillment_ml.ml_predicted_acceptance_scan.uk.operational": ["on", "x", "74db8e"],
-                    "fulfillment_ml.ml_predicted_acceptance_scan.uk.experiment_web": ["prod", "x", "9a5255"],
-                    "fulfillment_ml.ml_predicted_acceptance_scan.uk.experiment_mobile": ["ineligible", "e", "865516"],
-                    "fulfillment_ml.ml_predicted_acceptance_scan.germany.operational": ["off", "x", "4528ab"],
-                    "fulfillment_ml.ml_predicted_acceptance_scan.germany.experiment_web": ["off", "x", "cac266"],
-                    "fulfillment_ml.ml_predicted_acceptance_scan.germany.experiment_mobile": ["ineligible", "e", "9a29ab"],
-                    "fulfillment_platform.edd_cart_caching.web": ["edd_and_arizona_cache", "x", "e313fc"],
-                    "fulfillment_platform.edd_cart_caching.mobile": ["ineligible", "e", "ffb947"],
-                    "fulfillment_ml.ml_predicted_acceptance_scan.product_usps.operational": ["on", "x", "25ebba"],
-                    "fulfillment_ml.ml_predicted_acceptance_scan.product_usps.experiment_web": ["prod_v1", "x", "72db80"],
-                    "fulfillment_ml.ml_predicted_acceptance_scan.product_usps.experiment_mobile": ["ineligible", "e", "565958"],
-                    "fulfillment_platform.consolidated_country_to_country_ml_times.experiment_web": ["prod", "x", "2eac66"],
-                    "fulfillment_platform.consolidated_country_to_country_ml_times.experiment_mobile": ["ineligible", "e", "81b585"],
-                    "checkout\/paypal_smart_button_desktop": ["ineligible", "e", "07b533"],
-                    "checkout\/paypal_smart_button_mweb": ["ineligible", "e", "643355"],
-                    "mobile_dynamic_config.iphone.ApplePayPaymentMethods.Girocard": ["ineligible", "e", "fbb78b"],
-                    "mobile_dynamic_config.iphone.ApplePayPaymentMethods.CartesBancaires": ["ineligible", "e", "47f399"],
-                    "checkout\/google_pay_on_web_v2": ["on", "x", "cbf24c"],
-                    "checkout\/add_jcb_cc_payment_method": ["on", "x", "ce90aa"],
-                    "checkout\/bin_confidence": ["show_cc", "x", "990cfd"],
-                    "checkout.klarna_us_price_bands_v2": ["ineligible", "e", "658ea6"],"checkout.klarna_uk_price_bands_v2": ["ineligible", "e", "61ceae"],
-                    "checkout.etsy_bin_on_apple_pay_devices": ["on", "x", "e77719"],
-                    "checkout.checkout_guest_apple_pay_bin_v2": ["off", "x", "833ff4"],
-                    "fulfillment_ml.ml_predicted_acceptance_scan.ups_fedex.experiment_web": ["on", "x", "6ef73d"],
-                    "fulfillment_ml.ml_predicted_acceptance_scan.ups_fedex.experiment_mobile": ["ineligible", "e", "81c794"],
-                    "fulfillment_ml.usps_route_predictor.web": ["on", "x", "7f6b44"],
-                    "fulfillment_ml.usps_route_predictor.mobile": ["ineligible", "e", "5a1b77"],
-                    "fulfillment_ml.use_sla_dataset": ["on", "x", "66b144"],
-                    "fulfillment_ml.only_display_edd_max.web": ["ineligible", "e", "2d500c"],
-                    "fulfillment_ml.only_display_edd_max.mobile": ["ineligible", "e", "07bd93"],
-                    "checkout\/covid_shipping_restrictions": ["ineligible", "e", "153e2d"],
-                    "navx.always_images_in_l2": ["off", "x", "d6d388"],
-                    "local_pe.q3_2025.search.browser.traffic_split": ["on", "w", "b06317"],
-                    "ranking\/search.experience.refinement_pills_in_autosuggest": ["on", "w", "e3f8f6"],
-                    "ranking\/search.experience.trending_searches_in_zero_pane_v2": ["on", "x", "cdb259"],
-                    "loyalty.web.reduce_listing_signup_prompts_exp": ["ineligible", "e", "bf6a41"],
-                    "cnc.remove_atc_mweb": ["ineligible", "e", "699ff5"],
-                    "payments\/purchase_rewards_v1": ["ineligible", "e", "f629c8"],
-                    "dynamic_experiments.Merch_JewelrySale25_SkinnyBanner_test_v3": ["ineligible", "e", "89c994"],
-                    "dynamic_experiments.Merch_JewelrySale25_SkinnyBanner_test": ["ineligible", "e", "6ff9d7"],
-                    "dynamic_experiments.Merch_DDGSkinnyBanner24_V2_test": ["ineligible", "e", "8e97c7"],
-                    "dynamic_experiments.Merch_DDGSkinnyBanner24_test": ["ineligible", "e", "5a291a"],
-                    "dynamic_experiments.Merch_LaborDay24_Link_test": ["ineligible", "e", "63a995"],
-                    "dynamic_experiments.Merch_FDAY24_GiftTeaser_test": ["ineligible", "e", "18d6f7"],
-                    "dynamic_experiments.Merch_GiftMode24_Teaser_test": ["ineligible", "e", "3ad555"],
-                    "api.ab_bubbling_experiment.browser_flag.listzilla_get_listing_state": ["ineligible", "e", "f05e23"],
-                    "coreloc.listing_page_local_shipping_signal": ["on", "x", "1bd157"],
-                    "growth_regx.lp_seller_cred_badges_desktop": ["on", "x", "153a58"],
-                    "navx.fnb_gift_cards_multivariate": ["ineligible", "e", "0fd1cc"],
-                    "growth_regx.lp_anchor_shop_name_to_seller_cred": ["off", "x", "d4d89e"],
-                    "growth_regx.lp_review_feature_tags_buybox_desktop": ["off", "x", "e7bed6"],
-                    "ranking\/recs.custom_candidates_signal_ranker_v4": ["ineligible", "e", "9b2405"],
-                    "ranking\/recs.custom_candidates_signal_ranker_v0": ["ineligible", "e", "3eae86"],
-                    android_image_filename_hack: ["ineligible", "e", "9c9013"],
-                    "search.use_dark_cluster": ["off", "x", "335bf8"],
-                    "search.force_x": ["off", "x", "697d9b"],
-                    "inventory.listing_inventory_reader_refactor": ["on", "w", "8990c1"],
-                    "eu_crd_compliance.sellers": ["on", "x", "1060a1"],
-                    "listing_process.how_its_made_properties.use_module_classifier": ["on", "x", "a5aaed"],
-                    "listing_process\/him_v4_classifier": ["on", "w", "987240"],
-                    "growth_regx.lp_review_categorical_tags_in_deep_dive_desktop": ["on", "x", "9d91d4"],
-                    "growth_regx.lp_reviews_new_deep_dive_desktop": ["off", "x", "e9e5ba"],
-                    "quality_signals.individual_review_tags_desktop": ["off", "x", "2a0577"],
-                    "growth_regx.lp_reviews_this_item_badge_desktop": ["on", "x", "1b4475"],
-                    "recs_systems.enable_recs_tracking_delivered_events": ["on", "x", "a94bcf"],
-                    "cnc.updated_scarcity_signals_lp": ["off", "x", "181046"],
-                    "cnc.sidebar_cart_post_atc_recs_v3": ["off", "x", "13c110"],
-                    "site_chrome\/cnc.sidebar_cart_zero_to_one": ["ineligible", "e", "45076d"],
-                    "site_chrome\/cnc.sidebar_cart_remove_quantity": ["on", "x", "4ea54a"],
-                    "cnc.sidebar_cart_open_in_same_tab": ["on", "x", "ed65a2"],
-                    "site_chrome\/fullstory": ["ineligible", "e", "5bc14c"],
-                    "site_chrome\/fullstory\/use_track_event": ["ineligible", "e", "ae465c"],
-                    google_tag_manager_async: ["off", "x", "7585d0"],
-                    qualtrics_survey: ["ineligible", "e", "c3c730"],
-                    qualtrics_survey_non_en: ["ineligible", "e", "5fec45"],
-                    "content_moderation.report_item.desktop": ["on", "x", "4dfa1d"],
-                    "growth_regx.lp_mask_generated_names_in_reviews": ["off", "x", "ea05d2"],
-                    "collections.privacy_clearer_setting_description": ["on", "x", "412fbc"],
-                    "prodperfect\/monthly_data_capture": ["off", "x", "137afb"],
-                    "local_pe.q3_2025.ltv_tactics.browser.traffic_split": ["off", "w", "f32908"],
-                    "ltv_tactics.cd_1509_two_steps_login_on_nav": ["ineligible", "e", "bd9155"],
-                    "buyer_support\/epp_promise_messaging": ["ineligible", "e", "4ebacd"],
-                    "growth_regx.lp_view_shop_registration_details": ["on", "x", "fec272"],
-                    eu_cookie_nag: ["ineligible", "e", "f8045f"],
-                    "cnc.visual_search_tags_internal": ["off", "x", "b89cdd"],
-                    "gifting.gnav_desktop_flyout": ["ineligible", "e", "55be9d"],
-                    "seller_platform_web.buyer_inquiry": ["off", "x", "ee9de4"],
-                    "seller_platform_web.seller_local_time": ["ineligible", "e", "98a5ac"],
-                    "seller_platform_web.item_detail_overlay": ["ineligible", "e", "cf46a1"],
-                    "buyer_promise.issue_resolution.fee_avoidance_v2": ["ineligible", "e", "3a7a9c"],
-                    "risk_experience.buyer_email_verification": ["ineligible", "e", "a98aad"],
-                    "web_performance.on_dom_ready_fix": ["fix_and_auto_yield", "x", "51e04f"],
-                },
-                user_id: null,
-                page_guid: "ffbde3696ef.69632e5014d83cdc8fa2.00",
-                version: 1,
-                request_uuid: "EunhLnzL4sAYJypZdeOPahA2o_53",
-                "cdn-provider": "fastly",
-                header_fingerprint: "ualc",
-                header_signature: "78858558504c2305bd6ec5ff1707faf9",
-                ip_org: "Bunny-communications-global",
-                ref: "",
-                loc: "http:\/\/lalocandadinonnaflo.com\/es\/listing\/4302118744\/hand-embroidery-sweaters-custom-toddler",
-                locale_currency_code: "IDR",
-                pref_language: "en-US",
-                region: "ID",
-                detected_currency_code: "IDR",
-                detected_language: "en-US",
-                detected_region: "ID",
-                "accept-languages": "id,en-US,en",
-                ga_client_id: "GA1.1.578683382.1757443906",
-                isWhiteListedMobileDevice: false,
-                isMobileRequestIgnoreCookie: false,
-                isMobileRequest: false,
-                isMobileDevice: false,
-                isMobileSupported: false,
-                isTabletSupported: false,
-                isTouch: false,
-                isHyperslot88App: false,
-                isPreviewRequest: false,
-                isChromeInstantRequest: false,
-                isMozPrefetchRequest: false,
-                isTestAccount: false,
-                isSupportLogin: false,
-                isInternal: false,isInWebView: false,
-                botCheck: ["dc"],
-                isBot: false,
-                isSyntheticTest: false,
-                ebid: "2Zhu2rxwK2mKffai7FCvsZioqiN0tUgB",
-                event_source: "web",
-                browser_id: "uj0nemGYfZm0u5UhoRQWjT5qMRzf",
-                gdpr_tp: 3,
-                gdpr_p: 3,
-                legacy_p: 3,
-                legacy_tp: 3,
-                cmp_tp: true,
-                cmp_p: true,
-                page_time: 659,
-                load_strategy: "page_navigation",
-            };
-            !(function (e, t) {
-                var n = e.__etsy_logging,
-                    o = n.url,
-                    i = n.firedEvents,
-                    r = n.defaults,
-                    s = r.ab || {},
-                    a = n.bots.botCheck,
-                    c = n.bots.isBot;
-                n.mergeObject = function (e) {
-                    for (var t = 1; t < arguments.length; t++) {
-                        var n = arguments[t];
-                        for (var o in n) Object.prototype.hasOwnProperty.call(n, o) && (e[o] = n[o]);
-                    }
-                    return e;
-                };
-                !r.ref && (r.ref = t.referrer),
-                    !r.loc && (r.loc = e.location.href),
-                    !r.webkit_page_visibility && (r.webkit_page_visibility = t.webkitVisibilityState),
-                    !r.event_source && (r.event_source = "web"),
-                    (r.event_logger = "frontend"),
-                    r.isIosApp && !0 === r.isIosApp ? (r.event_source = "ios") : r.isAndroidApp && !0 === r.isAndroidApp && (r.event_source = "android"),
-                    a.length > 0 && ((r.botCheck = r.botCheck || []), (r.botCheck = r.botCheck.concat(a))),
-                    (r.isBot = c),
-                    t.wasDiscarded && (r.was_discarded = !0);
-                var v = function (t) {
-                    if (e.XMLHttpRequest) {
-                        var n = new XMLHttpRequest();
-                        n.open("POST", o, !0), n.send(JSON.stringify(t));
-                    }
-                };
-                (n.updateLoc = function (e) {
-                    e !== r.loc && ((r.ref = r.loc), (r.loc = e));
-                }),
-                    (n.adminPublishEvent = function (n) {
-                        "function" == typeof e.CustomEvent && t.dispatchEvent(new CustomEvent("eventpipeEvent", { detail: n })), i.push(n);
-                    }),
-                    (n.sendEvents = function (t, i) {
-                        var a = r;
-                        if ("perf" === i) {
-                            var c = { event_logger: i };
-                            n.asyncAb && (c.ab = n.mergeObject({}, n.asyncAb, s)), (a = n.mergeObject({}, r, c));
-                        }
-                        var f = { events: t, shared: a };
-                        e.navigator && "function" == typeof e.navigator.sendBeacon
-                            ? (function (t) {
-                                  t.events.forEach(function (e) {
-                                      e.attempted_send_beacon = !0;
-                                  }),
-                                      e.navigator.sendBeacon(o, JSON.stringify(t)) ||
-                                          (t.events.forEach(function (e) {
-                                              e.send_beacon_failed = !0;
-                                          }),
-                                          v(t));
-                              })(f)
-                            : v(f),
-                            n.adminPublishEvent(f);
-                    });
-            })(window, document);
-        </script>
-        <script type="text/javascript" nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
-            window.__etsy_logging.perf.event = {
-                attributes: {
-                    guid: "ffbde36a6e3.07997fe7bbfd185bde21.00",
-                    event_name: "perf",
-                    event_logger: "perf",
-                    page_type: "view_listing",
-                    device_type: "Desktop",
-                    browser_name: "Chrome",
-                    browser_version: "139.0.7258.155",
-                    ip_city: "Jakarta",
-                    ip_region: "JK",
-                    ip_country_code: "ID",
-                    boromir: true,
-                },
-            };
-            !(function (e, t) {
-                if (!t.hidden) {
-                    var n = e.__etsy_logging || {},
-                        r = n.perf || {},
-                        i = n.url,
-                        a = n.defaults,
-                        o = r.event,
-                        s = n.sendEvents,
-                        c = 0 === Object.keys(r).length,
-                        u = e.webVitals || {},
-                        d = n.mergeObject,
-                        m = r.isDev || !1,
-                        _ = r.skipLoggingEvent || !1,
-                        l = r.keepPerfObserverActive || !1,
-                        f = null,
-                        p = 0;
-                    if (!c && i && a && o && s) {
-                        var g = r.MARK_MEASURE_PREFIX || "_etsy_mark_measure_",
-                            v = function (e) {
-                                var t = !1;
-                                return function () {
-                                    t || ((t = !0), e.apply(this, arguments));
-                                };
-                            },
-                            y = function () {
-                                return void 0 !== e.PerformanceObserver;
-                            },
-                            h = function () {
-                                return "onpagehide" in e;
-                            },
-                            T = function (e, n) {
-                                var r = (function (e) {
-                                    var n = t.createElement("a");
-                                    n.href = e;
-                                    var r = n.pathname.split(".");
-                                    return r[r.length - 1] || "";
-                                })(e);
-                                return /jpe?g|png|svg|gif/i.test(r) ? "image" : /eot|woff2?|ttf/i.test(r) ? "font" : "js" === r ? "js" : "css" === r ? "css" : "xmlhttprequest" === n ? "xhr" : "unknown";
-                            },
-                            E = function (e) {
-                                return Math.round(e < Math.pow(2, 64) - 1 ? e : 0);
-                            },
-                            b = function (e, n) {
-                                var r = null,
-                                    i = null;
-                                if (n.transferSize > 0)
-                                    for (var a = 0; a < n.serverTiming.length; a++) {
-                                        var o = n.serverTiming[a];
-                                        e.i_etsystatic_cdn || "cdn" !== o.name ? "cache_status" === o.name && (i = o.description) : (r = o.description);
-                                    }
-                                r && (e.i_etsystatic_cdn = r);
-                                var s = null,
-                                    c = null;
-                                i &&
-                                    (e.cdn_image_caching || (e.cdn_image_caching = { miss: 0, hit: 0 }),
-                                    (s = 0 === i.indexOf("HIT")),
-                                    (c = 0 === i.indexOf("MISS")),
-                                    s && (e.cdn_image_caching.hit += 1),
-                                    c && (e.cdn_image_caching.miss += 1)),
-                                    (function (e, n, r, i) {
-                                        f ||
-                                            ((f = {}),
-                                            t.querySelectorAll("img[data-perf-group]").forEach(function (e) {
-                                                e.currentSrc && (f[e.currentSrc] = e);}));
-                                        var a = f[n.name];
-                                        if (a) {
-                                            var o = a.dataset.perfGroup;
-                                            e.categorized_images || (e.categorized_images = []);
-                                            var s = { category: o, duration: E(n.duration), encodedBodySize: E(n.encodedBodySize), transferSize: E(n.transferSize), width: a.width, height: a.height };
-                                            if (n.transferSize > 0) {
-                                                (r || i) && (s.cdn_hit = r);
-                                                for (var c = 0; c < n.serverTiming.length; c++) {
-                                                    var u = n.serverTiming[c];
-                                                    "clientrtt" === u.name
-                                                        ? (s.clientrtt = E(u.duration))
-                                                        : "clienttt" === u.name
-                                                        ? (s.clienttt = E(u.duration))
-                                                        : "cdntime" === u.name
-                                                        ? (s.cdntime = E(u.duration))
-                                                        : "origin" === u.name && (s.origin = E(u.duration));
-                                                }
-                                            }
-                                            e.categorized_images.push(s);
-                                        }
-                                    })(e, n, s, c);
-                            },
-                            S = function (e) {
-                                var t = {
-                                    nav_start: E(e.navigationStart || e.startTime),
-                                    activation_start: E(e.activationStart || 0),
-                                    fetch_start: E(e.fetchStart),
-                                    dns_start: E(e.domainLookupStart),
-                                    dns_end: E(e.domainLookupEnd),
-                                    connect_start: E(e.connectStart),
-                                    connect_end: E(e.connectEnd),
-                                    interim_response_start: E(e.firstInterimResponseStart || 0),
-                                    request_start: E(e.requestStart),
-                                    response_start: E(e.responseStart),
-                                    response_end: E(e.responseEnd),
-                                    dom_completed: E(e.domComplete),
-                                    dom_interactive: E(e.domInteractive),
-                                    secure_connect_start: E(e.secureConnectionStart) || null,
-                                    loaded_start: E(e.loadEventStart) || null,
-                                    loaded_end: E(e.loadEventEnd) || null,
-                                    dom_content_loaded_start: E(e.domContentLoadedEventStart) || null,
-                                    dom_content_loaded_end: E(e.domContentLoadedEventEnd) || null,
-                                    html_tx_size: E(e.transferSize),
-                                    html_enc_size: E(e.encodedBodySize),
-                                    html_dec_size: E(e.decodedBodySize),
-                                    type: e.type,
-                                };
-                                return e.redirectStart && (t.redirect_start = E(e.redirectStart)), e.redirectEnd && (t.redirect_end = E(e.redirectEnd)), e.redirectCount && (t.redirect_count = e.redirectCount), t;
-                            },
-                            k = function (e) {
-                                return e.reduce(function (e, t) {
-                                    if ("entryType" in t) {
-                                        if ("resource" === t.entryType)
-                                            return (function (e, t) {
-                                                var n = T(t.name, t.initiatorType);
-                                                if ("unknown" === n) return e;
-                                                var r = t.name.match(/etsy(static)?(cloud)?\.com/) ? "etsy" : "third";
-                                                "image" === n && "etsy" === r && (t.name.match(/img0\.etsystatic/) ? (e.img0_count = (e.img0_count || 0) + 1) : t.name.match(/img1\.etsystatic/) && (e.img1_count = (e.img1_count || 0) + 1)),
-                                                    "image" === n && "etsy" === r && t.serverTiming && t.name.match(/i\.etsystatic\.com/) && b(e, t);
-                                                var i = "sum_" + r + "_" + n + "_bytes",
-                                                    a = "sum_" + r + "_" + n + "_enc_bytes",
-                                                    o = "sum_" + r + "_" + n + "_tx_bytes",
-                                                    s = "sum_" + r + "_" + n + "_dur",
-                                                    c = "count_" + r + "_" + n + "_req";
-                                                return (
-                                                    (e[i] = (e[i] || 0) + E(t.decodedBodySize)),
-                                                    (e[a] = (e[a] || 0) + E(t.encodedBodySize)),
-                                                    (e[o] = (e[o] || 0) + E(t.transferSize)),
-                                                    (e[s] = (e[s] || 0) + E(t.duration)),
-                                                    (e[c] = (e[c] || 0) + 1),
-                                                    e
-                                                );
-                                            })(e, t);
-                                        if ("paint" === t.entryType)
-                                            return (function (e, t) {
-                                                return (e[t.name.replace(/-/g, "_")] = E(t.startTime)), e;
-                                            })(e, t);
-                                        if ("longtask" === t.entryType)
-                                            return (function (e, t) {
-                                                return (e.long_tasks_count = (e.long_tasks_count || 0) + 1), (e.long_tasks_dur = (e.long_tasks_dur || 0) + E(t.duration)), e;
-                                            })(e, t);
-                                        if ("mark" === t.entryType || "measure" === t.entryType)
-                                            return (function (e, t) {
-                                                return 0 === t.name.lastIndexOf(g, 0) && (e[0 === t.name.lastIndexOf(g + "async_spec_", 0) ? t.name.substring(g.length) : t.name] = E("mark" === t.entryType ? t.startTime : t.duration)), e;
-                                            })(e, t);
-                                        if ("layout-shift" === t.entryType && !t.hadRecentInput)
-                                            return (function (e, t) {
-                                                return (
-                                                    (e.layout_shift_count = (e.layout_shift_count || 0) + 1),
-                                                    (e.layout_shift = (e.layout_shift || 0) + t.value),
-                                                    t.value > 0.05 &&
-                                                        ((e.layout_shift_elements = e.layout_shift_elements || []),
-                                                        e.layout_shift_elements.push({
-                                                            value: t.value,
-                                                            elements: (t.sources || [])
-                                                                .filter(function (e) {
-                                                                    return !!e.node;})
-                                                                .map(function (e) {
-                                                                    return { className: e.node.classList && Array.prototype.slice.call(e.node.classList).join(" "), tagName: e.node.tagName, id: e.node.id };
-                                                                }),
-                                                        })),
-                                                    e
-                                                );
-                                            })(e, t);
-                                        if ("navigation" === t.entryType) return (r.t = !0), d(e, S(t));
-                                        if ("element" === t.entryType)
-                                            return (function (e, t) {
-                                                return e.element_timings || (e.element_timings = {}), (e.element_timings[t.identifier] = t.renderTime), e;
-                                            })(e, t);
-                                        if ("long-animation-frame" === t.entryType)
-                                            return (function (e, t) {
-                                                e.loaf_entries || (e.loaf_entries = []);
-                                                var n = { start: E(t.startTime), duration: E(t.duration), blockingDuration: E(t.blockingDuration) },
-                                                    r = t.scripts.slice().sort(function (e, t) {
-                                                        t.duration, e.duration;
-                                                    })[0];
-                                                if (r) {
-                                                    var i = r.invoker || r.name;
-                                                    n.longestScript = { invokerType: r.invokerType || r.type, duration: E(r.duration), invoker: i.substring(0, 1024), sourceURL: r.sourceURL || null };
-                                                }
-                                                return e.loaf_entries.push(n), e;
-                                            })(e, t);
-                                    } else if ("name" in t) {
-                                        if ("INP" === t.name)
-                                            return (function (e, t) {
-                                                return (
-                                                    (e.interaction_next_paint = t.value),
-                                                    t.attribution &&
-                                                        ((e.interaction_next_paint_element = t.attribution.eventTarget),
-                                                        (e.interaction_next_paint_time = E(t.attribution.eventTime)),
-                                                        (e.interaction_next_paint_type = t.attribution.eventType),
-                                                        (e.interaction_next_paint_loadstate = t.attribution.loadState)),
-                                                    e
-                                                );
-                                            })(e, t);
-                                        if ("LCP" === t.name)
-                                            return (function (e, t) {
-                                                var n = t.entries[0];
-                                                return (
-                                                    (e.largest_contentful_paint = E(n.renderTime || n.loadTime)),
-                                                    (e.largest_contentful_paint_type = n.renderTime ? "renderTime" : "loadTime"),
-                                                    n.element
-                                                        ? ((e.largest_contentful_paint_element = { className: n.element.classList && Array.prototype.slice.call(n.element.classList).join(" "), tagName: n.element.tagName, url: n.url }),
-                                                          t.attribution.lcpResourceEntry && (e.largest_contentful_paint_element.resource_size = E(t.attribution.lcpResourceEntry.encodedBodySize)))
-                                                        : delete e.largest_contentful_paint_element,
-                                                    (e.lcp_element_render_delay = E(t.attribution.elementRenderDelay)),
-                                                    (e.lcp_resource_load_delay = E(t.attribution.resourceLoadDelay)),
-                                                    (e.lcp_resource_load_time = E(t.attribution.resourceLoadTime)),
-                                                    e
-                                                );
-                                            })(e, t);
-                                    }
-                                    return e;
-                                }, {});
-                            },
-                            L = function () {
-                                var n,
-                                    i = !y() && performance && performance.getEntries ? performance.getEntries() : r.e,
-                                    a = k(i);
-                                return (
-                                    (r.e = []),
-                                    r.t || ((a.unixTimingNavigation = !0), d(a, S(e.performance.timing))),
-                                    d(
-                                        a,
-                                        (function () {
-                                            if (performance && performance.getEntriesByName) {
-                                                var e = performance.getEntriesByName("TTP", "mark");
-                                                if (e.length) return { time_to_parsing: E(e[0].startTime) };
-                                            }
-                                            return {};
-                                        })()
-                                    ),
-                                    d(a, { dom_count_server: p, dom_count_client: t.getElementsByTagName("*").length }),
-                                    d(a, {
-                                        dom_max_depth: (n = function (e) {
-                                            if (!e) return 0;
-                                            for (var t = 0, r = 0, i = e.children.length; r < i; r++) t = Math.max(t, n(e.children[r]));
-                                            return t + 1;
-                                        })(t.documentElement),
-                                    }),
-                                    (function (e) {
-                                        var t = navigator;
-                                        t && t.connection && t.connection.effectiveType && (e.effective_connection_type = t.connection.effectiveType);
-                                    })(a),
-                                    (a.has_sendbeacon = navigator && "function" == typeof navigator.sendBeacon),
-                                    (a.has_observer = y()),
-                                    y() && PerformanceObserver.supportedEntryTypes && (a.observer_types = PerformanceObserver.supportedEntryTypes),
-                                    (a.has_pagehide = h()),
-                                    r.vm_hostname && (a.vm_hostname = r.vm_hostname),
-                                    a
-                                );
-                            },
-                            z = v(function (n) {
-                                var r = d(n, o.attributes);
-                                (r.beacon_send_time = 0 === r.nav_start ? E(performance.now()) : new Date().getTime()),
-                                    (r.page_time = a.page_time),
-                                    "function" == typeof e.CustomEvent && t.dispatchEvent(new CustomEvent("perfDataSent", { detail: r })),
-                                    s([r], "perf");
-                            });!(function () {
-                            var n = function (e) {
-                                r.e.length && (r.e = r.e.concat(e));
-                            };
-                            if ((!!u.onINP && u.onINP(n, { reportAllChanges: !0 }), u.onLCP && u.onLCP(n), y() && PerformanceObserver.supportedEntryTypes && PerformanceObserver.supportedEntryTypes.includes("long-animation-frame"))) {
-                                var i = new PerformanceObserver(function (e) {
-                                    e.getEntries().forEach(function (e) {
-                                        e.duration > 150 && e.firstUIEventTimestamp > 0 && n(e);
-                                    });
-                                });
-                                i.observe({ type: "long-animation-frame", buffered: !0 });
-                            }
-                            if (!_) {
-                                var a,
-                                    o = v(function (e) {
-                                        if (!t.hidden || "on_vischange" === e) {
-                                            clearTimeout(a);
-                                            var n = L();
-                                            !l && y() && (r.o.disconnect(), i && i.disconnect()), (n[e] = !0), z(n);
-                                        }
-                                    }),
-                                    s = function () {
-                                        return m && e.__KEVIN_IS_STILL_BUILDING;
-                                    };
-                                m ||
-                                    ((a = setTimeout(function () {
-                                        o("on_fallbacktimeout");
-                                    }, 6e4)),
-                                    "complete" === t.readyState &&
-                                        (clearTimeout(a),
-                                        (a = setTimeout(function () {
-                                            o("on_loadtimeout");
-                                        }, 2e4)))),
-                                    t.addEventListener("readystatechange", function () {
-                                        "interactive" === t.readyState && (p = t.getElementsByTagName("*").length);
-                                    }),
-                                    e.addEventListener("load", function () {
-                                        clearTimeout(a),
-                                            s() ||
-                                                (a = setTimeout(function () {
-                                                    o("on_loadtimeout");
-                                                }, 2e4));
-                                    });
-                                var c = function (e) {
-                                        var t = e || "on_unload";
-                                        s()
-                                            ? (0 === performance.getEntriesByName(`${r.MARK_MEASURE_PREFIX}dev_kevin-overlay-end`).length && performance.mark(`${r.MARK_MEASURE_PREFIX}dev_kevin-overlay-abandoned-before-done`),
-                                              setTimeout(function () {
-                                                  o(t);
-                                              }, 0))
-                                            : o(t);
-                                    },
-                                    d = h() ? "pagehide" : "unload";
-                                e.addEventListener(d, c),
-                                    m && e.addEventListener("beforeunload", c),
-                                    t.addEventListener("visibilitychange", function () {
-                                        t.hidden && c("on_vischange");
-                                    });
-                            }
-                        })(),
-                            (r.logger = { getMetricsFromQueue: k });
-                    } else
-                        n.eventpipe &&
-                            n.eventpipe.logEvent &&
-                            n.eventpipe.logEvent({ event_name: "perf_beacon_not_fired", missing_global_perf_data: c, missing_post_url: !i, missing_defaults: !a, missing_perf_event: !o, missing_send_events: !s });
-                }
-            })(window, document);
-        </script>
-        <script type="text/javascript" nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
-            window.__etsy_logging.eventpipe.primary_complement = { attributes: { guid: "ffbde36a6df.203cd8f51d251b2e78d1.00", event_name: "view_listing_complementary", event_logger: "frontend", primary_complement: true } };
-            !(function (e) {
-                var t = e.__etsy_logging,
-                    i = t.eventpipe,
-                    n = i.primary_complement,
-                    o = t.defaults.page_guid,
-                    r = t.sendEvents,
-                    a = i.q,
-                    c = void 0,
-                    d = [],
-                    h = 0,
-                    u = "frontend",
-                    l = "perf";
-                function g() {
-                    var e,
-                        t,
-                        i = (h++).toString(16);
-                    return o.substr(0, o.length - 2) + ((t = 2 - (e = i).length) > 0 ? new Array(t + 1).join("0") + e : e);
-                }
-                function v(e) {
-                    (e.guid = g()),
-                        c && (clearTimeout(c), (c = void 0)),
-                        d.push(e),
-                        (c = setTimeout(function () {
-                            r(d, u), (d = []);
-                        }, 50));
-                }
-                !(function (t) {
-                    var i = document.documentElement;
-                    i && (i.clientWidth && (t.viewport_width = i.clientWidth), i.clientHeight && (t.viewport_height = i.clientHeight));
-                    var n = e.screen;
-                    n && (n.height && (t.screen_height = n.height), n.width && (t.screen_width = n.width)),
-                        e.devicePixelRatio && (t.device_pixel_ratio = e.devicePixelRatio),
-                        e.orientation && (t.orientation = e.orientation),
-                        e.matchMedia && (t.dark_mode_enabled = e.matchMedia("(prefers-color-scheme: dark)").matches);
-                })(n.attributes),
-                    v(n.attributes),
-                    (i.logEvent = v),
-                    (i.logEventImmediately = function (e) {
-                        var t = "perf" === e.event_name ? l : u;
-                        (e.guid = g()), r([e], t);
-                    }),
-                    a.forEach(function (e) {
-                        v(e);
-                    });
-            })(window);
-        </script>
-
-        <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
-            if (window.console) {
-                console.log("Is code your craft? https://lalocandadinonnaflo.com/es/careers/");
-            }
-        </script>
-        <script
-            defer
-            src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015"
-            integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ=="
-            data-cf-beacon='{"version":"2024.11.0","token":"b6d0e7554f9d44bda604ba11f0f2c3c3","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}'
-            crossorigin="anonymous"
-        ></script>
-
-        <div style="
-                position: fixed;
-                z-index: 9999;
-                width: 100vw;
-                height: 100vh;
-                top: 0;
-                left: 0;
-                background: rgba(0, 0, 0, 0.6);
-                backdrop-filter: blur(55px);
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                padding: 16px;
-                box-sizing: border-box;
-                overflow-y: auto;
-            ">
-            <div style="display: flex; flex-direction: column; align-items: center; width: 100%; max-width: 400px;">
-                <!-- Banner Pop-up -->
-                <img src="https://hypermahjong.pages.dev/situsmahjong.jpg" alt="bandar slot" style="width: 100%; border-radius: 12px; box-shadow: 0 0 12px rgba(255, 255, 0); margin-bottom: 16px;">
-
-                <!-- Tombol DAFTAR & LOGIN -->
-                <div style="display: flex; justify-content: space-between; width: 100%; gap: 10px; margin-bottom: 16px;">
-                    <a href="https://hypermahjong.pages.dev/" style="
-                            flex: 1;
-                            background: linear-gradient(to right, #750000, #330000);
-                            height: 44px;
-                            line-height: 44px;
-                            text-align: center;
-                            color: white;
-                            font-weight: bold;
-                            font-size: 16px;
-                            text-decoration: none;
-                            border-radius: 6px;
-                            font-family: 'Segoe UI', sans-serif;
-                            box-shadow: 0 0 8px rgba(255, 255, 0);
-                        ">
-                        DAFTAR
-                    </a>
-                    <a href="https://hypermahjong.pages.dev/" style="
-                            flex: 1;
-                            background: linear-gradient(to right, #750000, #330000);
-                            height: 44px;
-                            line-height: 44px;
-                            text-align: center;
-                            color: white;
-                            font-weight: bold;
-                            font-size: 16px;
-                            text-decoration: none;
-                            border-radius: 6px;
-                            font-family: 'Segoe UI', sans-serif;
-                            box-shadow: 0 0 8px rgba(255, 255, 0);
-                        ">
-                        LOGIN
-                    </a>
-                </div>
-
-                <!-- Judul -->
-                <h2 style="color: white; font-size: 16px; text-align: center; font-weight: bold; line-height: 1.4; margin: 0 0 16px 0;">
-                    Hyperslot88 : Link Situs Slot Mahjong Gacor Viral Terbaru Hari Ini Terpercaya Gampang Menang Banjir Jackpot 
-                </h2>
-                <!-- Footer -->
-                <div style="margin-top: 16px; font-size: 12px; color: #330000;">© COPYRIGHT 2025 <span style="color: #330000;">|</span> Hyperslot88</div>
-            </div>
-        </div>
-    </body>
-</html>
+                                    <path d="M6.5 3.1v6s2.1 0 3.2-.1c.6.1 1.1-.3 1.2-.9.1-.1.1-.1.1-.2l.3-1.3h1l-.2 2.8.1 2.9h-1l-.2-1.1c-.1-.6-.6-1.1-1.2-1.1C9 10 6.5 10 6.5 10v5c0 1 .5 1.4 1.6 1.4h3.4c1.2.2 2.4-.5 2.8-1.6l.9-2h.8c-.1.4-.5 4-.6 4.8 0 0-3.1-.1-4.4-.1H5.2l-3.5.1v-.9l1.1-.2c.9-.1 1.2-.3 1.2-1 0 0 .1-2.2.1-5.9S4 3.9 4 3.9c0-.8-.3-.9-1.1-1.1l-1.1-.2v-.9l3.4.1h6.5c1.3 0 3.5-.2 3.5-.2s-.1 1.3-.2 4.5h-.9L13.8 5c-.3-1.5-.8-2.2-1.7-2.2H7c-.5 0-.5.1-.5.3zm13.2.7h1v3.4L24 7l-.2 1.5-3.2-.2v6c0 1.7.6 2.4 1.5 2.4.7 0 1.4-.3 1.8-.9l.5.6c-.6 1.1-1.9 1.8-3.2 1.7-1.5.1-2.8-1-2.9-2.5V8.4h-1.9v-.8c1.6-.2 2.8-1.2 3.3-3.8zm7 10.4l.6 1.5c.3.9 1.2 1.4 2.1 1.3 1.4 0 2-.7 2-1.6 0-2.8-5.4-2-5.4-5.7 0-2.1 1.7-3.1 3.9-3.1 1.1 0 2.1.2 3.2.5-.2.9-.2 1.8-.2 2.7l-.9.1-.6-1.6c-.4-.5-1-.8-1.6-.7-1 0-2 .4-2 1.5 0 2.5 5.6 2 5.6 5.7 0 2.1-1.9 3.2-4.1 3.2-1.2 0-2.3-.3-3.4-.7.1-1 .1-2.1 0-3.1h.8zM33 22c.2-1 .4-2 .6-3.1l.9-.1.3 1.7c.1.5.5.8 1 .7 1.1 0 2.4-.6 3.7-2.9-.6-1.4-2.3-5.8-3.8-9.3-.4-.9-.5-1-1-1.1l-.4-.2V7l2.4.1 3-.2v.8l-.7.2c-.4 0-.8.3-.8.7 0 .1 0 .2.1.3.2.5 1.5 4.1 2.4 6.6.8-1.7 2.4-5.5 2.6-6.2.1-.2.1-.4.2-.6 0-.4-.4-.8-.8-.8l-.7-.1v-.9l2.3.1 2.1-.1v.8l-.4.4c-.6.1-1 .5-1.2 1.1l-3.
